@@ -1,0 +1,6145 @@
+ ALTERNATIVE BANKING CHANNELS AND CUSTOMER SATISFACTION IN 
+
+COMMERCIAL BANKS IN NEPAL 
+
+i 
+
+DAMMAR BAHADUR GADAL 
+
+Roll No.653/18 
+
+Registration No.7-2-327-502-2013 
+
+A Research Project Submitted to 
+
+Central Department of Management 
+
+Faculty of Management 
+
+Tribhuvan University 
+
+In partial fulfillment of the requirements for the degree of  
+
+Master of Business Management (MBM) 
+
+Kirtipur, Kathmandu  
+
+February, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii 
+
+Certification of Authorship 
+
+I  hereby  corroborate  that  I  have  researched  and  submitted  the  final  draft  of  the 
+
+dissertation  entitled  “Alternative  Banking  Channels  and  Customer  Satisfaction  in 
+
+Commercial  Banks  in  Nepal”.  The  work  of  this  dissertation  has  not  been  submitted 
+
+previously for conferral of any degrees nor it has been proposed and presented as part of 
+
+requirements for any other academic purposes. The assistance and cooperation that I have 
+
+received during this research work have been acknowledged. In addition, I declare that all 
+
+information  sources  and  literature  used  are  cited  in  the  reference  section  of  the 
+
+dissertation. 
+
+___________________ 
+
+Dammar Bahadur Gadal 
+
+February, 2022  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii 
+
+Recommendation Letter 
+
+This  is  certify  that  the  dissertation  entitled  “Alternative  banking  channels  and 
+
+customer satisfaction in commercial banks in Nepal” submitted by Dammar Bahadur 
+
+Gadal  is  an  original  piece  of  research  work  carried  out  by  the  candidate  under  my 
+
+supervision.  Literary  presentation  is  satisfactory  and  the  thesis  is  in  a  form  suitable  for 
+
+publication. Work evinces the capacity of the candidate for the critical examination and 
+
+independent judgment. Candidate has put in at least 60 days after registering the proposal. 
+
+The thesis is forwarded for examination. 
+
+ …………………………... 
+
+Associate Prof. Dr. Achyut Gyawali 
+
+Dissertation Supervisor 
+
+Central Department of Management 
+
+Tribhuvan University, Kirtipur, Kathmandu 
+
+Date: 2078/08/14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+
+Approval Sheet 
+
+We  have  examined  the  dissertation  entitled  “Alternative  Banking  Channels  and 
+
+Customer Satisfaction in Commercial Banks in Nepal” presented by Dammar Bahadur 
+
+Gadal  for  the  degree  of  Master  of  Business  Management.  We  hereby  certify  that  the 
+
+dissertation is acceptable for the award of degree. 
+
+___________________________  
+
+Asso. Prof. Dr. Achyut Gyawali 
+
+Dissertation Supervisor 
+
+___________________________  
+
+Prof. Dr. Sanjay Kumar Shrestha 
+
+External Examiner 
+
+___________________________  
+
+Asso. Prof. Gyan Mani Adhikari 
+
+Director, Masters of Business Management 
+
+___________________________ 
+
+Prof. Dr. Bhoj Raj Aryal 
+
+Chairperson, Research Committee  
+
+___________________________ 
+
+Prof. Dr. Ramji Gautam 
+
+Head, Central Department of Management 
+
+Date:  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgements 
+
+v 
+
+This  study  entitled  “Alternative  banking  channels  and  customer  satisfaction  in 
+
+commercial  banks  in  Nepal”  has  been  prepared  to  fulfill  the  partial  requirement  for 
+
+Master  of  Business  Management  (MBM)  degree  of  Tribhuvan  University.  I  wish  to 
+
+acknowledge my deep sense of gratitude to the Office of Dean Faculty of Management, 
+
+Tribhuvan  University,  and  Central  Department  of  Management  for  giving  me  such  a 
+
+valuable opportunity to explore my abilities via this project. Every project big or small is 
+
+successful  largely due to  the effort  of several  wonderful  people who have always  given 
+
+their valuable advice or lent a helping hand. I sincerely appreciate the inspiration; support 
+
+and  guidance  of  all  those  people  who  have  been  instrumental  in  making  this  study  a 
+
+success.  
+
+First and foremost, I offer my sincerest gratitude to Asso. Prof. Dr. Achyut Gyawali for 
+
+his  supervision and guidance to  completing  my  study.  I  am  ineffably indebted and very 
+
+thankful for his continuous support and the constructive suggestion that has enabled this 
+
+research  project  to  achieve  its  present  form  and  also  I  would  like  to  great  thankful  to 
+
+Prof.  Dr.  Sanjay  Kumar  Shrestha  and  Asso.  Prof.  Gyan  Mani  Adhikari  for  their 
+
+valuable time and support. 
+
+This  research  would  not  have  been  accomplished  with  ease  without  the  respondents' 
+
+cooperation and support hence I would like to thank all respondents who participated in 
+
+this research study. I would also like to express my deepest appreciation to all my friends 
+
+and family for their unwavering support and faith in me. 
+
+Last  but  not  the  least,  I  would  like  to  express  my  sincere  thanks  to  my  wife  and  well-
+
+wishers for their immense support and best wishes throughout the project. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+vi 
+
+Contents  
+
+               Page No. 
+
+Title Page………………………………………………………………………………………....i 
+
+Certification of Authorship ............................................................................................. ii 
+
+Recommendation Letter ................................................................................................. iii 
+
+Approval Sheet ............................................................................................................... iv 
+
+Acknowledgements .......................................................................................................... v 
+
+Table of Contents ........................................................................................................... vi 
+
+List of Tables and Figures ........................................................................................... viii 
+
+Abbreviations ................................................................................................................. ix 
+
+Abstract ........................................................................................................................... x 
+
+CHAPTER 1: INTRODUCTION ................................................................................ 1 
+
+1.1  Background .............................................................................................................. 1 
+
+1.2  Problem Statement ................................................................................................... 2 
+
+1.3  Objectives of the study ............................................................................................. 4 
+
+1.4  Hypotheses ............................................................................................................... 5 
+
+1.5  Rationaleof the study ............................................................................................... 5 
+
+1.6  Limitations of the study ........................................................................................... 6 
+
+1.7  Chapter Plan ............................................................................................................. 6 
+
+CHAPTER 2: LITERATURE REVIEW AND CONCEPTUAL FRAMEWORK 8 
+
+2.1 Introduction ............................................................................................................... 8 
+
+2.2 Theoretical review .................................................................................................... 8 
+
+2.2.1 Internet banking ................................................................................................. 8 
+
+2.2.2 Mobile banking ................................................................................................ 10 
+
+2.2.3 Automated teller machine ................................................................................ 13 
+
+2.2.4 Point of sale...................................................................................................... 16 
+
+2.3 Summary of literature review ................................................................................. 18 
+
+2.4 Conceptual framework ............................................................................................ 21 
+
+2.5 Operational definitions............................................................................................ 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vii 
+
+CHAPTER 3: RESEARCH METHODOLOGY ..................................................... 27 
+
+3.1. Introduction ............................................................................................................ 27 
+
+3.2 Research design ...................................................................................................... 27 
+
+3.3Population, sample, and sampling design ................................................................ 27 
+
+3.4 Nature and sources of data ...................................................................................... 28 
+
+3.5 Data collection instrument and procedure .............................................................. 29 
+
+3.6 Method of data analysis .......................................................................................... 30 
+
+3.7 Reliability test ......................................................................................................... 31 
+
+CHAPTER 4: RESULTS AND DISCUSSION ........................................................ 33 
+
+4.1 Data presentation and analysis ................................................................................ 33 
+
+4.2 Respondents‟ profile ............................................................................................... 33 
+
+4.3 Descriptive analysis ................................................................................................ 37 
+
+4.3.1 Internet banking channel .............................................................................. 37 
+
+4.3.2 ATM banking channel ................................................................................. 38 
+
+4.3.3 Mobile banking channel ............................................................................... 40 
+
+4.3.4 Point of sale banking channel ...................................................................... 41 
+
+4.3.5 Customer satisfaction ................................................................................... 43 
+
+4.4 Inferential analysis .................................................................................................. 44 
+
+4.4.1Pearson‟s correlation analysis between alternative banking channels and 
+
+customer satisfaction .................................................................................... 44 
+
+4.4.2 Regression analysis of customer satisfaction ............................................... 46 
+
+4.4.3 Hypothesis testing ........................................................................................ 49 
+
+4.4.4Findings......................................................................................................... 51 
+
+4.5 Discussion ............................................................................................................... 53 
+
+CHAPTER 5: CONCLUSION AND IMPLICATIONS .......................................... 55 
+
+5.1 Summary ................................................................................................................. 55 
+
+5.2 Conclusions ............................................................................................................. 57 
+
+5.3 Implications............................................................................................................. 58 
+
+References 
+
+Appendix 
+
+ 
+ 
+ 
+ 
+ 
+ 
+List of Tables and Figures 
+
+viii 
+
+Table/Figure No 
+
+Title 
+
+Page No. 
+
+Table No 2.3 
+
+Literature review summary of internet banking 
+
+Table No 2.3 
+
+Literature review summary of mobile banking 
+
+Table No 2.3 
+
+Literature review summary of ATM banking 
+
+Table No 2.3 
+
+Literature review summary of POS banking 
+
+Table No 3.3 
+
+List of sample with number of response  
+
+Table No 3.6 
+
+Cronbach‟s alpha coefficients 
+
+Table No 4.2 
+
+Demographic variables of respondents 
+
+Table No 4.3.1 
+
+Descriptive statistics of internet banking  
+
+Table No 4.3.2 
+
+Descriptive statistics of ATM banking  
+
+Table No 4.3.3 
+
+Descriptive statistics of mobile banking  
+
+Table No 4.3.4 
+
+Descriptive statistics of POS banking  
+
+Table No 4.3.5 
+
+Descriptive statistics of customer satisfaction 
+
+Table No 4.4.1 
+
+Pearson‟s  correlation  analysis  between  alternative 
+
+banking channels and customers satisfaction 
+
+Table No 4.3.2 
+
+Model summery of customer satisfaction 
+
+Table No 4.3.2 
+
+Summary  of  one  way  ANOVA  results  of  customer 
+
+satisfaction 
+
+Table No 4.4.2 
+
+Multiple regression analysis of customer satisfaction 
+
+Table No 4.4.3 
+
+Testing of alternative hypotheses 
+
+Figure No 2.4 
+
+Conceptual framework 
+
+18 
+
+19 
+
+20 
+
+20 
+
+27 
+
+31 
+
+34 
+
+37 
+
+38 
+
+40 
+
+41 
+
+44 
+
+44 
+
+45 
+
+45 
+
+46 
+
+50 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ix 
+
+Abbreviations 
+
+ABC    
+
+Alternative Banking Channels 
+
+ANOVA  
+
+Analysis of Variance  
+
+ATM    
+
+Automated Teller Machine  
+
+BFIS 
+
+CS 
+
+EFT  
+
+Bank and Financial Institutions  
+
+Customer Satisfaction 
+
+Electronic Funds Transfer  
+
+GBIME  
+
+Global IME Bank Limited 
+
+IB  
+
+ICT  
+
+INT 
+
+IT 
+
+KBL  
+
+MB 
+
+NBL 
+
+Internet Banking  
+
+Information and Communications Technology 
+
+Internet Banking 
+
+Information Technology 
+
+Kumari Bank Limited  
+
+Mobile Banking 
+
+Nepal Bank Limited 
+
+NSBL   
+
+ Nepal SBI Bank Limited 
+
+POS  
+
+SBL 
+
+Point of Sale  
+
+Siddhartha Bank Limited  
+
+SEM    
+
+Structural Equation Mode 
+
+SMS 
+
+SPSS 
+
+Short Message Services 
+
+Statistical Package for Social Scientists  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+
+x 
+
+This  study  is  to  determine  the  effect  of  alternative  banking  channels  on  customer 
+
+satisfaction  in  commercial  banks  in  Nepal.  To  achieve  this,  seven  commercial  banks 
+
+(NSBL, NBL, Nic Asia, GBIME, NABIL, KBL, and SBL bank) in Nepal were studied. 
+
+The  study  design  is  a  survey,  which  focused  on  the  population  of  the  seven  selected 
+
+commercial  banks  in  Nepal.  Three  hundred  eighty-four  (384)  respondents  were 
+
+judgmental  proportionately  amongst  customers  of  the  selected  banks  with  the  aid  of  a 
+
+questionnaire randomly administered. Correlation and regression analysis were employed 
+
+in  testing  whether  there  is  a  significant  relationship  between  the  alternative  banking 
+
+channels  and  customer  satisfaction.  The  study  concludes  that  an  alternative  banking 
+
+channel has a significant positive impact on customer satisfaction in a commercial bank 
+
+in  Nepal.  The  banking  institutions  should  enhance  the  application  of  mobile  banking  to 
+
+increase the satisfaction of their customers. They should work hand in  hand with  major 
+
+retail  outlets  and  other  organizations  that  use  point  of  sale  systems  to  ensure  the  cards 
+
+issued  to  customers  and  point  of  sale  banking  are  useful,  reliable,  and  can  work  with 
+
+speed.  They  should  enhance  their  internet  banking  to  make  it  flexible,  fast  and  easy  to 
+
+use. They should increase no of ATMs outlet for better customer delivery. 
+
+ 
+ 
+ 
+1 
+
+CHAPTER 1 
+
+INTRODUCTION 
+
+1.1 Background 
+
+Advances in  electronic banking technology have created new ways of handling  banking 
+
+transactions, especially via the online banking channel. A feature of the banking industry 
+
+across  the  globe  has  been  that  it  is  increasingly  becoming  turbulent  and  competitive, 
+
+characterized by an increasing trend towards internationalization, mergers, takeovers and 
+
+consolidation of the banking industry (Muhammad, Akin & Abdul, 2015). 
+
+Today  there  are  new  conduits  and  techniques,  which  have  emerged  in  banking  services 
+
+known  as  alternative  banking  delivery  channels,  which  are  directly  serving  customers. 
+
+Recently, financial threats have along with the rising complexity of markets have caused 
+
+a  financial  institution  to  embrace  current  rapidly  growing  changes  (Kohali  and  Sheleg, 
+
+2011).  The  need  for  modern  methods  of  doing  things  and  the  springing  up  of  new 
+
+technology  has  bought  changes  at  the  workplace.  Additionally,  a  critical  shift  in 
+
+demography  and  manageable  framework,  are  putting  the  finance  sector  to  fundamental 
+
+challenges in times of market uncertainty, which is rigorous. It is during a time like this 
+
+that  commercial  banks  should  seize  opportunities  to  adopt  changes  arising  from 
+
+innovations of financial service delivery. 
+
+The banking sector in the world has gone through a transformation over the years due to 
+
+recent technological advancement, besides an enormous transition in the laws that govern 
+
+the  use  of  this  technology  (Buitenhek,  2016).  Hence,  several  banks  have  adopted  new 
+
+delivery  channels  changing  from  teller  person  service  to  marketing  and  selling  directly 
+
+via  phone,  emails,  and  other  electronic  transactions  (Dermish  et  al,  .2011).  Banking 
+
+channels  are  categorized  as  direct  and  indirect.  Direct  channels  refer  to  those  that  are 
+
+owned by the bank thus it has control over them while indirect channels refer to the bank 
+
+that does not wholly control. The two types of direct channels are location-based (those 
+
+that occupy a physical space as branches, roaming vans, kiosks, and business units) and 
+
+remotely-based  channels  that  do  not  occupy  physical  space  such  as  internet,  interactive 
+
+Voice Response and call centers (Buitenhek, 2016).  
+
+In  the  United  States,  commercial  banks  use  alternative  banking  to  reduce  costs  and 
+
+enhance  the  delivery  of  customer  care  service  (Kolodinsky  et  al.,  2014).  In  Turkey, 
+
+ 
+ 
+ 
+ 
+2 
+
+empirical evidence reveals that alternative banking service is widely adopted. In 2015, the 
+
+country  recorded  the  highest  users  accessing  alternative  banking  compared  to  others. 
+
+America  (Coskun,  2014).  In  Australia,  most  of  the  banks  have  adopted  alternative 
+
+banking  services  at  high  rates  to  match  consumer  needs,  with  most  of  the  rural  banks 
+
+lagging due to inadequate supply of infrastructure (Khatri and Kurnia, 2011).  
+
+In  India,  both  private  and  public  service  providers  provide  alternative  banking,  and 
+
+research  has  tied  this  banking  mode  with  increased  levels  of  service  satisfaction.  In 
+
+Pakistan,  the  adoption  of  alternative  banking  has  been  at  a  slower  pace  (Hussain  et  al., 
+
+2017).  Malaysian  banks  have  been  known  as  communication  and  electronic  channels 
+
+(Abubakar  et  al.,  2012).  The  services  have  made  it  easier  for  their  client  to  make 
+
+transactions  remotely  without  having  to  present  themselves  physically  to  the  banks.  In 
+
+developing  nations,  and  more  specifically,  the  African  continent,  the  adoption  of 
+
+alternative  banking  services  has  significantly  improved  the  stiff  competition  from  local 
+
+banks  and  the  entry  of  internal  banking  institutions  has  forced  all  banks  to  provide 
+
+services that enhance consumer delivery and profitability. Nigeria ranks high among all 
+
+other African nations in using alternative banking followed by Ghana. (Ackh and Agboy, 
+
+2014).  Within  the  East  African  Religion,  Kenya,  Tanzania,  and  Uganda  have  embraced 
+
+alternative banking by enormous investment in ICT.  
+
+Banking sectors have innovated the use of branchless banking through internet banking, 
+
+mobile  banking,  automated  teller  machine  (ATM),  point  of  sale  (POP),  and  credit  card 
+
+service  outlets.  This  allows  banks  to  reach  a  wider  scope  of  the  client,  reduce  their 
+
+transaction  costs,  and  increase  access  to  financial  services  by  the  poor  in  remote  areas. 
+
+Hence, the marketer's emphasis on research in the area of consumer behavior intention is 
+
+a  strong  induction  of  his  actual  behavior  (Adewoye,  2013).  According  to  Miah  (2018) 
+
+customers always like to get quick, customized, and secured services from the bank. So, it 
+
+is important to understand the customer's satisfaction level with digital services on banks. 
+
+1.2 Problem Statement 
+
+Customer satisfaction is  a much sought-after phenomenon in  today's highly competitive 
+
+and  globalized marketplace. Today's  customers seek more than price bargains  and want 
+
+useful,  dependable,  and  reliable  technologies.  Many  Kenyan  banks  have  exponentially 
+
+embraced  the  use  of  information  and  communication  technologies  in  their  service 
+
+provision. Huge amounts of money have been invested in implementing self and virtual 
+
+ 
+ 
+3 
+
+banking services to improve the quality of customer service. However, the adoption of e-
+
+commerce  has  been  inhibited  by  the  quality,  availability,  and  cost  of  accessing 
+
+telecommunication  infrastructures,  lack  of  skilled  staff,  low  internet  penetration,  low 
+
+bank  account,  and  lack  of  timely  delivery  of  physical  goods  (Jalal,  Marzooq  &  Nabi, 
+
+2011).  Satisfying  customers  is  the  first  major  mission  and  purpose  of  any  organization. 
+
+When  the  customers  are  satisfied  the  organization  achieves  higher,  profit,  and  market 
+
+share and vice versa. Customer satisfaction also leads the organization to gain loyalty and 
+
+achieve  the  desired  objective.  Therefore,  organizations  need  to  satisfy  their  customer 
+
+promptly so that they can achieve what they plan. Bank as a business organization should 
+
+provide great care for its customer to attract, retain gain their loyalty. Nevertheless, banks 
+
+fund in Nepal have little care about their customers. This leads them to use more obsolete 
+
+and  traditional  technologies  that  cause  dissatisfaction  and  switching  among  customers. 
+
+This  means  the  banks  are  not  satisfying  their  customers  enough  due  to  many  factors  in 
+
+which using traditional technologies is among them.  
+
+Levesque  and  McDougall  (1996)  have  confirmed  and  reinforced  to  the  nation  that 
+
+consistent poor customer experience as a result of poor service quality leads to a decrease 
+
+in the level of customer satisfaction and the chances of further willingness to recommend 
+
+the service. 
+
+In Kenya, most bank customers have raised complaints on improving service delivery, an 
+
+issue banks  have overlooked, especially when using modern technologies (Aker, 2010). 
+
+Customer  dissatisfaction  with  the  online  banking  services  is  increasing  in  commercial 
+
+banks (Aker, 2010; Bichanga & Wario, 2014; Kombo et al., 2016). The key challenges of 
+
+electronic  banking  are  getting  the  balance  between  convenience,  speed,  and  security. 
+
+Frequent  system  failure  especially  on  ATMs  has  also  been  a  concern  and  affects  the 
+
+quality  of  customer  service  delivery.  Similarly,  complaints  have  also  been  raised  on 
+
+failures at the point of sale terminals in stores whenever access to the host bank fails, thus 
+
+causing inconveniences to customers, sometimes leading to litigations.  
+
+E-banking was adopted by banks to improve their service delivery, decongest queues in 
+
+the banking hall, enable customers to withdraw cash 24x7, aid international payment and 
+
+remittance,  track  personal  banking  transactions,  request  for  online  statements,  or  even 
+
+transfer  the  deposit  to  a  third-party  account.  Despite  the  effort  of  banks  to  ensure  that 
+
+customers reap the benefits of e-banking, the bank is met with complaints from customers 
+
+ 
+ 
+4 
+
+as regards, malfunctioning automated teller machines (ATMs), network downtime, online 
+
+theft  and  fraud,  non-availability  of  financial  service,  payment  of  the  hidden  cost  of 
+
+electronic  banking  like  Short  Message  Services  (SMS),  for  sending  an  alert,  mandatory 
+
+acquisition  of  ATM  cards,  non-acceptability  of  Nigerian  cards  for  international 
+
+transaction amongst others (John and Rotimi, 2014).  
+
+However, whereas local banks most commonly practice real-time online intranet banking, 
+
+the  integration  of  customers  into  the  process  is  far  from  being  realized.  Many  of  the 
+
+reasons  are  attributed  to  the  high  prevalence  of  internet  fraud  and  lack  of  an  adequate 
+
+regulatory  framework  to  protect  the  banks  from  the  volatility  of  risks  associated  with 
+
+Internet banking, especially at the levels of communication and transaction.  
+
+The  researcher  has  been  identifying  the  contribution  of  technology  to  satisfying 
+
+customers  of  banks  in  Nepal.  The  purpose  of  this  study  is  to  determine  the  effect  of 
+
+alternative banking channels on customer satisfaction. This study deals with the following 
+
+issues in the form of research questions. 
+
+i.  What  is  the  perception  of  customers  on  the  level  of  satisfaction  in  alternative 
+
+banking channels i.e. e-banking, mobile banking, automated teller machines, and 
+
+point of sale in commercial banks in Nepal?  
+
+ii. 
+
+Is  there  is  any relationship between independent  variables i.e.  e-banking,  mobile 
+
+banking, ATM and POS with customer satisfaction? 
+
+iii. 
+
+Is  there  is  any  effect  of  alternative  banking  channels  i.e.  e-banking,  Mobile 
+
+banking,  ATM  and  POS  on  customer  satisfaction  among  commercial  banks  in 
+
+Nepal? 
+
+1.3 Objectives of the study 
+
+The  general  objective  of  the  study  is  to  determine  the  effect  of  alternative  banking 
+
+channels on customer satisfaction in commercial banks in Nepal. The specific objectives 
+
+of the research are as follows: 
+
+i.  To analyze the customer's satisfaction level in alternative banking channels. 
+
+ii.  To  examine  the  association  between  the  independent  variables  i.e.  e-banking, 
+
+mobile banking, ATM, and point of sale with customer satisfaction. 
+
+iii.  To  assess  the  effect  of  e-banking,  mobile  banking,  ATM,  and  POS  banking  on 
+
+customer satisfaction in commercial banks in Nepal. 
+
+ 
+ 
+5 
+
+1.4 Hypotheses 
+
+The  hypothesis  is  a  formal  statement  that  presents  the  expected  relationship  between 
+
+independent  and  dependent  variables  (Creswell,  2000).  The  following  hypotheses  have 
+
+been  set  based  on  the  review  of  past  articles  and  research  papers.  Eight  alternative 
+
+hypotheses have been drawn to identify relationships and analyze the effect of dependent 
+
+and  independent  variables  and  their  effect  in  this  study.  These  hypotheses  were  drawn 
+
+from the theoretical framework of the study. 
+
+H1:  There  is  a  significant  positive  relationship  between  internet  banking  channel  and 
+
+customer satisfaction. 
+
+H2:  There  is  a  significant  positive  relationship  between  ATM  banking  channel  and 
+
+customer satisfaction. 
+
+H3:  There  is  a  significant  positive  relationship  between  mobile  banking  channel  and 
+
+customer satisfaction. 
+
+H4:  There  is  a  significant  positive  relationship  between  POS  banking  channel  and 
+
+customer satisfaction. 
+
+H5: Internet banking channel has a significant positive effect on customer satisfaction. 
+
+H6: ATM banking channel has a significant positive effect on customer satisfaction. 
+
+H7: Mobile banking channel has a significant positive effect on customer satisfaction. 
+
+H8:  Point  of  sale  banking  channel  has  a  significant  positive  effect  on  customer 
+
+satisfaction. 
+
+1.5 Rationale of the study 
+
+This  study  has  importance  especially  for  the  banking  industry  in  Nepal.  Knowing  the 
+
+awareness  and  satisfaction  of  alternative  banking  channel  enables  the  bankers  to  cope 
+
+with  the  problems  of  customers  and  ultimately  helps  to  customize  their  alternative 
+
+banking  products  and  services  to  cater  to  their  needs.  Further,  this  study  also  provides 
+
+guidelines  to  the  policymakers  to  make  policies,  rules,  and  regulations  on  alternative 
+
+banking  channels.  This  study  should  be  beneficial  for  academic  institutions  and 
+
+individuals who might be interested in carrying out related researches in the future. The 
+
+study  stresses  that  there  are  variables  associated  with  alternative  banking  channel  and 
+
+those  variables  have  a  huge  effect  upon  the  level  of  customer  satisfaction.  Customer 
+
+satisfaction about any services offered greatly exceeds the expectations of the customer, 
+
+ 
+ 
+6 
+
+and then satisfaction has been elevated. So, through this study, various factors that affects 
+
+customer satisfaction while using alternative banking channel has been identified.  
+
+The study helps in analyzing the importance of attending to customers and ensuring they 
+
+have a positive experience with alternative banking channel. It also justifies whether the 
+
+banks  can  retain  the  customers  as  well  as  helping  to  ease  the  problem  of  the  unbanked 
+
+population. Moreover, the findings of this study can be used by the banking institution to 
+
+improve  or  expand  their  services  in  a  way  geared  to  economic  empowerment  and 
+
+customer satisfaction to all involved. Finally, the findings may use as secondary data for 
+
+other studies. 
+
+1.6 Limitations of the study 
+
+Despite  the  continuous  efforts  made  for  arriving  at  meaningful  conclusions  from  the 
+
+study, the following major limitations have been outlined.  
+
+i.  The study has covered limited factors that affect customers‟ satisfaction but there 
+
+may be other factors that might affect customer satisfaction.   
+
+ii.  Due to time constrain the sample size was restricted to 384 respondents that may 
+
+not represent the population. 
+
+iii.  The  study  was  based  on  the  assumption  of  linear  regression  between  the 
+
+dependent  and  independent  variables.  The  study  excluded  the  non-linear 
+
+regression assumption. 
+
+1.7 Chapter Plan 
+
+The  study  has  been  organized  into  five  chapters.  The  study  starts  with  the  first  chapter 
+
+that  includes  general  background  on  alternative  banking  channels  and  the  measures  of 
+
+customer satisfaction of Nepalese commercial banks. This chapter covers the statement of 
+
+the  problem,  the  purpose  of  the  study,  significance,  research  question  and  hypothesis 
+
+formulation, limitation of the study, and finally the operational definitions. 
+
+The  second  chapter  provides  clear  insights  into  the  literature  reviews.  It  includes  the 
+
+reviews of literature of all independent variables of study as a literature review of mobile 
+
+banking,  ATM banking,  POS  banking, and internet  banking.  In  addition,  the theoretical 
+
+framework on how the study has been carried out is discussed under this chapter and it is 
+
+ended with the summary of the literature review. 
+
+ 
+ 
+7 
+
+Chapter third covers the research design, nature, and sources of data, selection of sample 
+
+and population, data analysis procedures, models used for data analysis, instrumentations, 
+
+tools, and reliability test. 
+
+Chapter  fourth  focuses  on  the  systematic  presentation  and  analysis  of  data,  descriptive 
+
+analysis  including  mean  and  standard  deviation,  and  inferential  analysis  including 
+
+correlation, regression, and hypothesis testing, and discussion with the major findings of 
+
+the study. 
+
+Finally,  chapter  fifth  provides  a  summary  of  an  overview  of  all  studies  carried  out  in 
+
+chapters one through four including major findings derived from the study. This chapter 
+
+includes  conclusions,  implications,  and  recommendations  for  future  research.  The 
+
+reference and appendices have also been incorporated at the end of the study. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 2 
+
+LITERATURE REVIEW AND CONCEPTUAL FRAMEWORK 
+
+8 
+
+2.1 Introduction 
+
+This  chapter  deals  with  a  review  of  empirical  and  conceptual  literature  on  the  effect  of 
+
+alternative banking channels on customer satisfaction in commercial banks in Nepal and 
+
+presents  the  conceptual  framework  of  the  study.  In  another  word,  the  literature  review 
+
+section  summarizes  the  information  from  other  researchers  who  have  carried  out  their 
+
+research  in  the  same  field  of  study.  It  is  an  imperative  task  to  review  different  foreign 
+
+pieces  of  literature  on  the  topic  to  study  so  that  it  can  be  easier  to  reach  an  important 
+
+conclusion.  For  more  precision  on  the  reviews  by  various  researchers,  this  chapter  is 
+
+divided  into  two  sections.  The  first  section  deals  with  the  review  of  related  literature, 
+
+which is categorized into four parts as a review on different four independent variables. 
+
+Similarly,  the  second  section  presents  the  theoretical  framework  of  the  study.  The  third 
+
+section presents the summary of the literature review. 
+
+2.2 Theoretical review 
+
+2.2.1 Internet banking 
+
+Byamba and Chang (2012) analyzed the factors affecting online purchases in Mongolian 
+
+airlines. The survey-based on 3 airlines, MIAT Mongolian airline, Aero Mongolia, Eznis 
+
+Airways,  and  data  were  collected  from  138  passengers  of  those  airlines.  In  Mongolian 
+
+customers  ease  of  use  interactivity  and  payment  security  of  e-commerce  services  are 
+
+important  determinants  of  e-commerce  customer  satisfaction  in  the  B2C  market.  This 
+
+study found that website payment security, interactivity, and website ease of use ensure a 
+
+high level of customer satisfaction toward e-ticket in Mongolia. 
+
+Jiradilok et al. (2014) examined the impact of customer satisfaction on online purchasing 
+
+in  Thailand.  The  total  number  of  samples  used  in  this  study  was  400,  which  is  equally 
+
+divided  into  two  groups;  the  respondents  with  experience  in  purchasing  online  and  the 
+
+respondents with no experience in purchasing online. A survey questionnaire is used as an 
+
+instrument.  The  study  revealed  that  people  mostly  value  assurance  and  empathy  as  the 
+
+most influential dimensions. This finding is applicable for both types of internet users that 
+
+are users with experience in purchasing and users with no experience in purchasing. The 
+
+study also indicated that variety, website system quality, and tangibility do not influence 
+
+ 
+ 
+ 
+ 
+ 
+9 
+
+purchasing  intention  even  though  the  respondents  were  quite  satisfied  with  these 
+
+dimensions. 
+
+Gbadeyan  and  Akinyosoye  (2011)  examined  customers'  preference  for  e-banking 
+
+services: a case study of selected banks in Sierra Leone. This paper examined customers' 
+
+choice  of  banks  is  influenced  by  the  quality  of  e-banking  services  provided.  Data  were 
+
+collected  through  a  questionnaire  method  comprising  open-ended  4  point  scale  Likert 
+
+type of questions. The instrument contained 36 items and was administered to about 400 
+
+respondents,  while  360  completed  and  returned  their  questionnaire.  Stratified  sampling 
+
+was used in the study. The statistical techniques used for the analysis were the Chi-Square 
+
+and correlation.  The Chi-Square analysis revealed that  the quality of  e-banking services 
+
+offered  by  banks  has  a  significant  influence  on  their  customers  at  95%,  3  degrees  of 
+
+freedom. The study also indicated that e-banking has become an important phenomenon 
+
+in the banking industry and it will continue as more progress and innovations are made in 
+
+information technology. 
+
+Ready  and  Ready  (2015)  examined  consumer  perception  toward  the  convenience  and 
+
+willingness  to  use  E-banking  services  are  identified  and  measured.  The  data  has  been 
+
+collected  with  the  help  of  a  self-administered  questionnaire  from  a  public  and  private 
+
+bank's  200  customers.  The  judgmental  sampling  technique  has  been  used.  The  data 
+
+collected  has  been  arranged  in  a  tabular  form  and  statistical  technique  ANOVA        was 
+
+used  for  data  analysis.  The  study  found  that  around  70  %  of  people  have  positive 
+
+perceptions & are satisfied with E-Banking Services.  The study also revealed that still, 
+
+people  are  not  using  all  the  E-banking  services  frequently  because  they  have  less 
+
+knowledge about computers and the internet, and they feel hesitation in using E-banking 
+
+services. 
+
+Nochai & Nochai (2013) investigated the impact of internet banking service on customer 
+
+satisfaction in Thailand. The purpose of this study was to find the internet banking service 
+
+dimensions that impact customer satisfaction among the top three banks in the Bangkok 
+
+area:  Bangkok  Bank,  Kasikorn  Bank,  and  Siam  commercial  Bank.  Questionnaires  were 
+
+used to collect data from 450 respondents by using quota sampling. Multinomial logistic 
+
+regression  analysis  was  employed  to  obtain  the  important  internet  banking  service 
+
+dimensions that have an impact on customer satisfaction. Results showed that providing 
+
+24hours-7days  service,  completing  a  task  accurately,  contacting  staff  to  check 
+
+ 
+ 
+10 
+
+immediately, and providing accurate information & up to date, the transaction process is 
+
+fast,  and  providing  online  registration  times  were  the  important  factors  that  have  an 
+
+impact on customer satisfaction. 
+
+Shakya (2016) assessed  the impact  of online banking on  customer satisfaction  and firm 
+
+performance  on  Nepalese  commercial  banks.  The  study  used  a  questionnaire  survey  to 
+
+collect  data.  A  sample  of  145  respondents  was  analyzed  in  this  study.  Correlation  and 
+
+regression  were  employed  for  analysis.  The  study  found  that  customer  satisfaction  in 
+
+online banking positively related to the return on assets and return on equity. 
+
+Muhammad  and  Rana  (2012)  examined  factors  that  are  distressing  the  adoption  of 
+
+internet  banking  services  among  adult  students  in  the  Kingdom  of  Saudi  Arabia.  Data 
+
+were collected from 150 adult students of Saudi Arabia and analyzed with the help of a T-
+
+test and correlation.  Only  adults were chosen for study. The study  found  that perceived 
+
+ease  of  use,  perceived  usefulness,  compatibility  and  innovativeness,  and  perceived 
+
+credibility tend to influence customers to adopt internet banking. The study also revealed 
+
+that trialability did not influence the adoption of internet banking. 
+
+John and Rotimi (2014) examined the impact of electronic banking on the satisfaction of 
+
+corporate bank customers in Nigeria. The structured questionnaires were used 120 copies 
+
+of the questionnaire were distributed to and 100 copies were returned. Data collected was 
+
+analyzed using the simple percentages analysis and hypotheses were tested using the chi-
+
+square. The study found that there is a significant relationship between electronic banking 
+
+and  customers'  satisfaction.  Also,  that  E-banking  has  become  popular  because  of  its 
+
+convenience  and  flexibility,  and  transaction-related  benefits  like  speed,  efficiency,  and 
+
+accessibility. 
+
+2.2.2 Mobile banking 
+
+Hossain and Hossain (2015) examined mobile banking and customer satisfaction: the case 
+
+of  Dhaka  city.  A  sample  of  250  respondents  (users  of  mobile  banking  services) 
+
+participates and a convenience sampling method is used. The study was conducted from 
+
+January  2014  to  July  2014.  The  correlation  and  regression  analysis  technique  was  used 
+
+for  the  study.  The  study  found  that  action  loyalty,  customer  satisfaction  has  a  positive 
+
+relationship.  In addition, service quality was seen to affect customer satisfaction, but its 
+
+impact  on  action,  the  loyalty  of  customer  was  not  significant  to  a  greater  extent.  The 
+
+ 
+ 
+ 
+11 
+
+findings  also  revealed  that  the  executives  of  these  banks  should  put  more  focus  on 
+
+escalating switching costs, developing more creative activities to grow trust among clients 
+
+to increase loyalty. 
+
+Saleem  and  Rashid  (2011)  assessed  the  relationship  between  customer  satisfaction  and 
+
+mobile  banking  adoption  in  Pakistan.  The  study  is  survey-based  research,  using  a  non-
+
+probability  sampling  technique.  The  sample  frame  is  limited  to  three  banks.  The 
+
+questionnaires  are  given  to  a  sample  of  230  bank  employees  and  230  bank  customers. 
+
+Questionnaires  are  used  to  conduct  data  collection  and  then  analyzed  using  statistical 
+
+techniques:  regression  analysis,  correlation,  and  factor  analysis.  The  study  showed  that 
+
+customers' concerns about the security, authenticity, and reliability of the technology are 
+
+of significance. The results showed that innovative services, security, customer trust, and 
+
+risk are the key indicators of technology adoption. 
+
+Asfour  and  Haddad  (2014)  examined  the  impact  of  mobile  banking  on  enhancing 
+
+customers'  e-satisfaction  in  Jordan.  The  study  sample  consisted  of  360  customers  from 
+
+400 who use banking services via mobile in Jordan Ahli Bank, Union Bank, HSBC Bank, 
+
+Capital  Bank  and  has  been  tested  hypotheses  through  simple  regression;  the  results 
+
+indicated  that  there  is  an  effect  of  using  mobile  banking  services  to  reach  customer  e-
+
+satisfaction. The results showed that there is a statically significant impact of the overall 
+
+dimensions of mobile banking service on customer E-satisfaction and after performing a 
+
+simple regression that Privacy and accessibility are more influential compared to the rest 
+
+of  the  mobile  banking  dimensions.  The  study  also  recommended  that  the  bank  should 
+
+give  more  time  and  effort  to  activate  and  develop  mobile  banking  services  to  do  many 
+
+different banking transactions to reach a customer's E-satisfaction. 
+
+Khraimet  al.  (2011)  identified  the  factors  affecting  Jordanian  consumers'  adoption  of 
+
+mobile  banking  services:  the  case  study  of  Jordanian  consumers.  The  study  aimed  to 
+
+identify the underlying factors that affect mobile banking adoption in Jordan while data 
+
+have been  collected for  this study using a questionnaire  containing 22 questions, out  of 
+
+450  questionnaires  that  have  been  distributed,  301  are  returned  (66.0%)  were  the  study 
+
+population  was  in  the  Hashemite  Kingdom  of  Jordan.  According  to  the  chosen 
+
+methodological  research  approach,  the  quantitative  data  was  analyzed  using  statistical 
+
+methods  by  SPSS  statistical  descriptive  was  used  to  find  out  the  respondents 
+
+demographics and general characteristics to provide a descriptive of the respondents. This 
+
+ 
+ 
+12 
+
+study  results  found  that  all  the  six  factors:  self-efficacy,  trainability,  compatibility, 
+
+complexity,  risk,  and  relative  advantage  were  statistically  significant  in  influencing 
+
+mobile banking that the potential factors that may influence the intention of mobile users 
+
+to adopt mobile banking services. 
+
+Al-Kasasbeh et al. (2011) investigated factors affecting e-service satisfaction. The study 
+
+aimed to explore the impact of website design navigation and personalization on e-service 
+
+satisfaction.  To  examine  factors  affecting  user  satisfaction  with  e-services,  a 
+
+questionnaire was distributed to a random sample of (615) students out of (5918) at Petra 
+
+University in Jordan to explore their perceptions. The study showed the impact of website 
+
+design,  navigation,  and  personalization  on  satisfaction.  The  study  also  revealed  that 
+
+higher 
+
+the  perceived  quality  of  university's  website  design,  navigation,  and 
+
+personalization, more than satisfaction in e-service occurs.  
+
+Masreket  al.  (2012)  examined  mobile  banking  utilization,  satisfaction,  and  loyalty:  the 
+
+case  study  of  Malaysian  consumers.  The  study  showed  mobile  banking  utilization 
+
+predicts  user  satisfaction  and  does  satisfaction  in  mobile  banking  predicts  loyalty.  The 
+
+study population was in Malaysia which consists of 312 respondents. The collected data 
+
+were analyzed using statically computer programs known as IBM, SPSS version 20, and 
+
+analysis  of  moment  structure  (AMOS)  that  used  for  structural  equation  modeling.  The 
+
+study found that mobile banking use is positively related to satisfaction, not loyalty also it 
+
+is found that satisfaction significantly predicts loyalty. The study also found that mobile 
+
+banking services  and their influence on customer satisfaction in  Malaysia, not  all banks 
+
+have implemented mobile banking this finding should alert banking practitioners that in 
+
+line with the advancement of the ICT.  
+
+Adewoye  (2013)  investigated  the  impact  of  mobile  banking  on  service  delivery  in 
+
+Nigerian commercial banks. The study was carried out in Lagos state with One hundred 
+
+and forty (140) Questionnaires administered and distributed to both senior and junior staff 
+
+of  the  selected  banks;  Thirty-five  (35)  staff  each  was  picked  from  the  four  (4)  selected 
+
+banks.  One  hundred  and  Twenty-five  (125)  Questionnaires  were  found  useful  for  the 
+
+study  representing  83.3%  of  the  total  questionnaire  distributed.  Data  collected  were 
+
+analyzed  using  a  frequency  table,  percentage,  and  mean  score  analysis  while  the  non-
+
+parametric  statistical  test  Chi-square  was  used  to  test  the  formulated  hypothesis  using 
+
+STATA 10 data analysis package/software to examine the impact of mobile banking on 
+
+ 
+ 
+13 
+
+service  delivery  and  also  look  at  the  relationship  between  mobile  banking  and  service 
+
+delivery  in  the  sampled  banks.  The  results  of  the  findings  showed  that  mobile  banking 
+
+improves banks' service delivery in a form of transactional convenience, savings of time, 
+
+quick  transaction  alert,  and  save  of  service  cost  which  has  recuperated  customer's 
+
+relationship and satisfaction. 
+
+Rahman  and  Hasan  (2017)  examined  mobile  banking  service  quality  and  customer 
+
+satisfaction  in  Bangladesh.  The  study  used  customer  satisfaction  as  the  dependent 
+
+variable, while five dimensions of the service quality model (namely-tangibles, reliability, 
+
+responsiveness,  assurance,  and  empathy)  are  taken  as  independent  variables.  A 
+
+questionnaire  had  been  developed  and  distributed  among  166  customers  of  five  mobile 
+
+banking service providers of Bangladesh. The respondents were selected from Dhaka city 
+
+by  using  Simple  Random  Sampling.  Results  were  subsequently  analyzed  by  using 
+
+descriptive  statistics,  Pearson  correlation,  and  multiple  regressions.  Results  showed  that 
+
+the  four  variables  tangible,  reliability,  responsiveness,  and  empathy  have  a  significant 
+
+positive  relationship  with  customer  satisfaction.  However,  the  assurance  factor  has  no 
+
+significant  relationship  with  customer  satisfaction.  The  results  imply  that  firms  should 
+
+focus upon tangible, reliability, responsiveness, and empathy variable as these are the key 
+
+indicators of customer satisfaction with mobile banking services. 
+
+2.2.3 Automated teller machine 
+
+Mwatsika  (2016)  investigated  the  impact  of  ATM  banking  performance  on  customer 
+
+satisfaction with the bank in Malawi. The study surveyed a total of 353 respondents. Data 
+
+were collected through a self-administered questionnaire containing multi-dimension and 
+
+multi-attribute  Likert  measurement  scales.  The  relationship  between  ATM  banking 
+
+performance  and  customer  satisfaction  was  analyzed  through  a  regression  model.  The 
+
+results  indicated  that  the  performance  of  automated  teller  machine  banking  has  a  40 
+
+percent  predictive  capability  of  customer  satisfaction  with  the  bank.  The  study  further 
+
+found  that  despite  influencing  customer  satisfaction  with  the  bank,  Automated  teller 
+
+machine  banking  cannot  attract  customers  to  switch  banks.  The  study  concluded  that 
+
+alternative marketing strategies should be sought to attract customers from rivals. 
+
+Adeniran  and  Junaidu  (2014)  examined  customer  satisfaction  from  ATM  banking  in 
+
+Nigeria. The study surveyed a total of 100 respondents who are users of ATM services in 
+
+the  United  Bank  for  Africa  within  the  Sokoto  metropolis.  The  research  was  carried 
+
+ 
+ 
+14 
+
+through a cross-sectional survey design which questioned respondents on ATM services. 
+
+The data were analyzed through multiple logistic regression models. The study found that 
+
+ATM  service  has  a  positive  and  significant  impact  on  satisfaction  in  terms  of  their 
+
+perceived  ease  of  use,  transaction  cost,  and  service  security.  However,  the  study  also 
+
+revealed that the impact of ATM services in terms of the availability of money is positive 
+
+but insignificant. 
+
+Medard and Venkatesan (2016) examined the impact of ATM service quality on customer 
+
+satisfaction.  The  study  surveyed  a  total  of  141  customers  through  systematic  random 
+
+sampling at the ATM centers of the various banks in and around Chidambaram town. A 
+
+three-stage design is adopted for the study with the first stage as a district, the second as a 
+
+town, and the third stage as the customer. A Chi-square test of goodness of fit was applied 
+
+to  the data collected.  Factor Analysis technique  was used to  establish  all the significant 
+
+dimensions  of ATM service quality on  customer satisfaction and their relationships  and 
+
+Cronbach's Alpha was used to measure the internal consistency. The study revealed that 
+
+there was a great impact of ATM service by the quality on the demographic characteristic 
+
+of customers. The study also showed that convenience, availability, trust, assurance, etc. 
+
+in ATM service has a positive impact on customer satisfaction. 
+
+Shemsu  (2017)  assessed  the  level  of  usage  of  ATM  banking  services  and  customers 
+
+satisfaction. To achieve  the research objective descriptive survey design  was employed; 
+
+both  primary  and  secondary  data  were  used.  The  primary  data  was  collected  from 
+
+respondents  using  questioners  consisting  of  a  five-point  Likert  scale  and  some  close-
+
+ended.  A  convenience  sampling  technique  was  used  to  collect  the  data;  designed 
+
+questionnaires were distributed to 400 respondents having two and above years of ATM 
+
+usage experience. From a total of 400 distributed questionnaires, 385 were returned from 
+
+the  customer  of  the  selected  switched  member  banks.  The  collected  data  are  analyzed 
+
+using  descriptive  analysis  like  tables,  percentages,  mean  and  standard  deviation.  The 
+
+study indicated that the majority of the customers are dissatisfied with the ATM services 
+
+due  to  various  challenges  associated  with  ATM  such  as;  customers'  accounts  being 
+
+debited  without  dispensing,  Shortage  of  money  in  ATM's,  ATM  malfunction  due  to 
+
+connectivity  problems  and  power,  delayed  response  time  in  case  of  errors  transaction, 
+
+availability  of  limited  services,  high  service  charge  for  ATM  service,  Machine 
+
+complexity,  and  ATMs 
+
+late 
+
+to  updated  balances  are  major  problems  causing 
+
+ 
+ 
+15 
+
+dissatisfaction. Even there are problems; surprisingly the  customers do prefer to  get  the 
+
+service through the shared ATMs because it saves time and convenience. 
+
+Kaur  (2013)  examined  customer's  satisfaction  in  ATM  service:  an  empirical  study  of 
+
+banks  in  Chandigarh.  The  study  investigates  various  dimensions  of  service  quality  and 
+
+their  effect  on  customer  satisfaction.  For  this  purpose  primary  data  was  collected  from 
+
+100  respondents,  who  are  the  customers  of  various  leading  public  and  private  sector 
+
+banks of Chandigarh through a structured questionnaire. Data was analyzed to  meet  the 
+
+objectives  of the study  and the result indicated that  people are satisfied from service of 
+
+ATM provided by banks. Accessibility, convenience, efficiency, responsiveness, security, 
+
+privacy,  and  reliability  are  important  dimensions  of  service  quality.  The  majority  of 
+
+people still use ATMs for cash withdrawal purpose only. 
+
+Sing  (2011)  examined  the  impact  of  ATM  services  on  customer  satisfaction  in  Indian 
+
+banks.  This  paper  aims  to  understand  the  impact  of  ATM  services  on  customer 
+
+satisfaction  in  the  Indian  banking  sector.  The  study  has  used  the  primary  data  and 
+
+collected it through a structured questionnaire survey from 400 respondents. The research 
+
+has  been  carried  out  primarily  in  urban  and  hence  cannot  be  generalized  on  all  Indian 
+
+bases.  The  ANOVA  and  factor  analysis  was  used  to  identify  significant  factor  and 
+
+frequency analysis was used to analyze customer satisfaction. The study found that ATM 
+
+service has a positive impact on customer satisfaction if proper functioning is ensured by 
+
+the banks there was significantly higher customers‟ satisfaction. The study also identified 
+
+the significant factors which the banks may take care of to enhance customer satisfaction. 
+
+ Shrestha  (2016)  assed  the  factor  affecting  customer  satisfaction  from  ATM  services.  A 
+
+case of Nepalese commercial bank. The study used a questionnaire survey to collect the 
+
+data. A sample of 196 respondents was analyzed in this study. Correlation and regression 
+
+analysis technique was used in this study. The study found that there is a positive impact 
+
+of ATM services factor reasonability of fee charged, choice of ATM, Usage of services, 
+
+and post-purchase behavior) on customer satisfaction. The study also indicated that there 
+
+is  a  negative  relationship  between  the  frequency  of  problems  faced  and  customer 
+
+satisfaction. 
+
+Akpan (2016) investigated the influence of ATM service quality on customer satisfaction 
+
+in  the  banking  sector  of  Nigeria.  The  study  investigated  the  influence  of  ATM  service 
+
+ 
+ 
+16 
+
+quality on customer satisfaction in the banking sector of Nigeria. The study adopts survey 
+
+research  in  which  questionnaires  are  accidentally  administered  on  customers  of  four 
+
+banks randomly selected for the study First Bank of Nigeria Plc, United Bank for Africa 
+
+Plc., Guarantee Trust Bank Plc. and Skye Bank Plc. at the ATMs terminals of the Banks 
+
+during  transactions.  Multiple  regression  analysis,  descriptive  statistics  of  the  mean, 
+
+standard deviation, tables, and charts are the main tools of data analysis. Findings reveal 
+
+that the higher the ATM service quality, the higher the level of satisfaction  it provides. 
+
+The study concluded that ATM service quality determines customer satisfaction. 
+
+2.2.4 Point of sale 
+
+Akbarzadeh  (2013)  investigated  the  performance  of  point  of  sales  and  its  impact  on 
+
+customer satisfaction. The study surveyed a total of 384 respondents through the available 
+
+sampling  technique.  Data  were  collected  through  questionnaires  and  the  reliability  was 
+
+measured  by  Cronbach's  alpha.  The  relationship  among  the  study  variables  was  tested 
+
+through  the  Spearman  correlation  coefficient.  The  study  found  that  poor  dispersion  of 
+
+Melli  bank  POS  in  the  store's  levels  has  a  negative  impact  on  customers'  purchase 
+
+intention.  The  findings  also  indicated  that  there  is  a  negative  relationship  between  card 
+
+recognition failure and purchase frequency in the case of Melli bank POS. 
+
+Fenuga (2010) assessed the effect of electronic payment on customer service delivery in 
+
+Nigerian  banks.  The  study  was  conducted  taking  100  respondents  from  four  of  the 
+
+Nigerian  banks  through  stratified  sampling.  Data  were  collected  through  a  randomly 
+
+administered questionnaire. The relationship between study variables was tested through 
+
+chi-square  and  regression  analysis.  The  result  showed  that  electronic  payment  like  the 
+
+point  of  sale  has  a  significant  and  positive  impact  on  customer  satisfaction  in  Nigeria. 
+
+Furthermore,  the  study  concluded  that  electronic  payment  improves  customer  service 
+
+delivery, management efficiency, and increased profit in Nigeria. 
+
+Khanna  and  Gupta  (2015)  investigated  customers'  perceptions  about  banks'  technology 
+
+for in-person interview channels of public sector banks (PSBS) of India. The study was 
+
+based on primary data collected by a structured questionnaire. The survey as well as in-
+
+person  interviews  of  the  Bank's  customers  and  Bank  managers  have  been  conducted  to 
+
+understand  the  factors  influencing  customers'  perception  about  the  technology  used  for 
+
+innovative  delivery  channels  by  PSBs  on  five  factors  viz.,  acceptability,  safety, 
+
+availability, user-friendliness, and accessibility. Random sampling was used and the size 
+
+ 
+ 
+17 
+
+of  the  sample  was  304.  Hence,  the  type  of  study  was  exploratory  and  descriptive.  The 
+
+study  found  that  public  sector  banks  need  to  understand  the  factors  that  influence  the 
+
+perception  of  an  individual  to  add  greater  value  to  customers  in  terms  of  delivering 
+
+financial products and services through innovative delivery channels.  
+
+Singh  (2013)  examined  the  impact  of  perceived  service  quality  on  overall  customer 
+
+satisfaction in retail outlets in India. The study used a questionnaire survey to collect the 
+
+required data on customer satisfaction. A sample of 600 respondents was analyzed in this 
+
+study. The data analysis technique employed in this study is a descriptive, correlation, and 
+
+ordinary  least  square  technique.  The  study  found  a  positive  and  significant  relationship 
+
+between five dimensions of service quality such as retail outlets in India. Moreover, this 
+
+study revealed a positive and significant relationship between physical aspect, reliability, 
+
+personal interaction, problem-solving, and policy with the customer. 
+
+Adeoti and Oshotimehin (2011) investigate the factors influencing the decision to adopt 
+
+Point  of  sale  terminals  by  consumers.  Using  the  probit  model  applied  to  primary  data 
+
+collected from 650 consumers, the study finds that factors such as nativity, security, ease 
+
+of  use,  availability,  convenience,  intention  to  use,  the  complexity  of  the  technology  are 
+
+among the factors influencing the use of POS terminals. Efforts at improving the security 
+
+of transactions, availability of the technology, and convenience of use are recommended 
+
+to drastically reduce excess cash flow especially in developing economies. 
+
+Dion  (2003)  investigated  the  effects  of  POS  implementation  and  retail  technology  on 
+
+sales  and  profitability  for  small  to  mid-sized  retailers  this  study  was  conducted  in  1998 
+
+using  a  field  research  team  that  interviewed  580  Independent  Retailers  via  phone  calls 
+
+that  lasted  on  an  average  of  30  minutes.  These  retailers  were  using  integrated  Point  of 
+
+Sale,  merchandising  (inventory  control),  and  customer  profiling  software.  They  were 
+
+probed  for  satisfaction  with  their  systems  as  well  as  increases  in  sales  and  decreases  in 
+
+operating expenses. This study did rely on the opinion of the retailer and has a margin of 
+
+error  based  on  the  fact  that  sales  increases  (although  documentable)  could  not  be 
+
+attributed  to  the  deployment  of  technology.  The  study  also  found  that  the  newer  the 
+
+system,  the  lower  the  sales  increases  attributed  to  the  technology,  and  also  a  high 
+
+correlation with low sales increases and dissatisfaction with the technology. 
+
+ 
+ 
+18 
+
+Lin  and  Sun  (2009)  examined  factors  influencing  satisfaction  and  loyalty  in  online 
+
+shopping  based  on  technology  acceptance  factors.  Data  were  collected  from  221  online 
+
+users through the snowball sampling technique and analyzed through AMOS and SEM. 
+
+The findings  indicated that  customer e-satisfaction will positively influence customer e-
+
+loyalty  directly,  technology  acceptance  factors  will  positively  influence  customer  e-
+
+satisfaction  and  e-loyalty  directly,  and  website  service  quality  can  positively  influence 
+
+customer e-loyalty directly, but cannot positively influence customer satisfaction directly. 
+
+2.3 Summary of literature review 
+
+The table shows that the summary of the literature review of independent variables with 
+
+the author's name and findings. 
+
+Table 2.3.1 
+
+Review on Internet Banking 
+
+Authors 
+
+Findings 
+
+Byamba and 
+
+The results showed that there are three significant factors, interactivity, 
+
+chang 
+
+(2012) 
+
+payment  security,  and  ease  of  use,  that  affect  satisfaction  with  the  e-
+
+ticketing experience on customer satisfaction in Mongolia. 
+
+Jiradiloket 
+
+The study discovered the core variables that  influence the intention to 
+
+al.(2014) 
+
+perform  the  actual  purchase  in  the  perception  of  e-customers  for  all 
+
+online  users,  experienced  online  purchasers,  and  inexperienced  online 
+
+purchasers. 
+
+Gbadeyan and 
+
+The study found that the quality of e-banking services offered by banks 
+
+Akinyosoye 
+
+has  a  significant  influence  on  their  customers  at  95%,  3  degrees  of 
+
+(2011)        
+
+freedom. 
+
+Ready and 
+
+The study found that there is a significant relationship between family, 
+
+Ready (2015) 
+
+income  group,  and  perception  regarding  e-banking.  The  study  found 
+
+that around 70 % of people have positive perception & are satisfactory 
+
+with E-banking services 
+
+Nochai and 
+
+The  results  showed  that  internet  banking  service  quality  dimensions 
+
+Nochai (2013) 
+
+have a positive impact on customer satisfaction of the top three banks 
+
+in the Bangkok area. 
+
+ 
+ 
+19 
+
+Shakya (2016)  The  study  showed  that  online  banking  has  a  positive  impact  on 
+
+customer satisfaction and the performance of Nepalese commercials. 
+
+Muhammad 
+
+The  study  found  that  perceived  ease  of  use,  perceived  usefulness, 
+
+and 
+
+compatibility  and  innovativeness,  and  perceived  credibility  have  a 
+
+Rana (2012) 
+
+positive impact on customers adopting internet banking. 
+
+John and 
+
+There  is  a  significant  relationship  between  electronic  banking  and 
+
+Rotimi (2014) 
+
+customers „satisfaction. 
+
+Table 2.3.2 
+
+Review on Mobile Banking 
+
+Authors 
+
+Findings 
+
+Hossain and 
+
+There  is  a  significant  relationship  between  service  quality  and 
+
+Hossain (2015) 
+
+customer satisfaction in the mobile banking sector of Bangladesh. 
+
+Saleem and 
+
+The study indicated that mobile banking has the most significant and 
+
+Rashid (2011) 
+
+strong impact on customer satisfaction. 
+
+Asfour and 
+
+The  results  of  the  simple  regression  analysis  showed  that  there  is  a 
+
+Haddad (2014) 
+
+positive impact of the mobile banking service on customer satisfaction 
+
+(β=0.883) at the level of Significance (0.000). 
+
+Al-Kasasbehet 
+
+The study found that e-services factors website design navigation and 
+
+al. (2011) 
+
+personalization have a positive influence on customer satisfaction. 
+
+Masreket al. 
+
+The result of the study showed that mobile banking has a positive and 
+
+(2012) 
+
+significant impact on customer satisfaction and loyalty. 
+
+Adewoye 
+
+The study found that there is a significant relationship between mobile 
+
+(2013) 
+
+banking and service delivery of sampled commercial banks in Nigeria. 
+
+Khraimet al. 
+
+The  results  showed  that  self-efficacy,  trialability,  compatibility, 
+
+(2011) 
+
+complexity,  risk,  and  relative  advantage  of  mobile  banking  were 
+
+statistically  significant  influences  on  the  intention  of  mobile  users  to 
+
+adopt mobile banking services. 
+
+Rahman and 
+
+The  study  found  that  mobile  banking  variables  tangible,  reliability, 
+
+Hasan (2017) 
+
+responsiveness,  and  empathy  have  a  significant  positive  relationship 
+
+with customer satisfaction. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+
+Table 2.3.3 
+
+Automated Teller Machine 
+
+Authors 
+
+Findings 
+
+Mwatsika 
+
+The  study  found  that  improvement  in  ATM  banking  has  a  positive 
+
+(2016) 
+
+impact on customer satisfaction. 
+
+Adeniran & 
+
+The result revealed that there is  a positive and significant  impact  of 
+
+Junaidu (2014) 
+
+ATM services provided by banks on customer satisfaction. 
+
+Kaur (2013) 
+
+The  result  indicated  that  accessibility,  convenience,  efficiency, 
+
+responsiveness,  security  &  privacy,  and  reliability  are  important 
+
+dimensions of service quality of ATM banking. 
+
+Olusanya & 
+
+The  result  revealed  that  customer  satisfaction  increases  with  the 
+
+Fadiya (2015) 
+
+improvement in service quality dimensions of ATMs in banks. 
+
+Shrestha 
+
+(2016) 
+
+The  study  found  that  there  is  the  positive  impact  of  ATM  services 
+
+factor on customer satisfaction of Nepalese commercial bank 
+
+Shemsu (2017)  The study indicated that the majority of the customers are dissatisfied 
+
+with the ATM services. 
+
+Akpan (2016) 
+
+The  studies  showed  that  ATM  service  quality  has  a  positive 
+
+significant  impact  on  customer  satisfaction  in  the  banking  sector  of 
+
+Nigeria. 
+
+Sing (2011) 
+
+The  study  found  that  ATM  services  have  a  positive  impact  on 
+
+customer satisfaction. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+
+Table 2.3.4 
+
+Review on Point of Sale Banking 
+
+Authors 
+
+Findings 
+
+Adeoti & 
+
+The  study  found  that  factors  such  as  nativity,  security,  ease  of  use, 
+
+Oshotimehin 
+
+availability,  convenience,  intention  to  use  the  complexity  of  the 
+
+(2011) 
+
+technology  are  among  the  factors  influencing  the  use  of  POS 
+
+terminals. 
+
+Getachew 
+
+The  study  shows  that  the  customers  of  the  bank  are  moderately 
+
+(2018) 
+
+satisfied  with  the  service  with  a  mean  score  of  57.2%.  Non-users 
+
+perceived the service as superior relative to users. 
+
+Fenuga & 
+
+The study concluded that electronic payment has a significant impact 
+
+Oladejo (2010) 
+
+on customer satisfaction in Nigeria. 
+
+Khanna and 
+
+The  study  showed  that  there  are  significant  factors  of  customers' 
+
+Gupta (2015) 
+
+perception  about  technology  being  used  by  innovative  delivery 
+
+channels of PSBs of India. These significant factors can be helpful to 
+
+PSBs for enhancing the effectiveness of delivery channels. 
+
+Omotayo & 
+
+The study found that a moderate and positive significant relationship 
+
+Dahunis 
+
+(2015) 
+
+between  SNs  and  POS  among  business  organizations  in  Lagos  and 
+
+Ibadan metropolis. 
+
+Dion (2003) 
+
+The  study  shows  that  the  deployment  of  technology  POS)  leads  to 
+
+sales  increases  and  expense  reductions  which  positively  impact 
+
+Profitability and customer satisfaction. 
+
+Lin and Sun 
+
+The  study  found  that  online  shopping  technology  has  a  positive 
+
+(2009) 
+
+impact on customer satisfaction and customer loyalty. 
+
+2.4 Conceptual framework 
+
+The  conceptual  framework  is  developed  to  link  a  relationship  between  independent 
+
+variables and dependent variable. It is used to make conceptual distinctions and organize 
+
+ideas. A strong conceptual framework captures something real and does this in a way that 
+
+is  easy  to  remember  and  apply.  The  conceptual  framework  is  a  type  of  intermediate 
+
+ 
+ 
+ 
+22 
+
+theory that attempts to connect to all aspects of inquiry with problem definition, purpose, 
+
+literature review, methodology, data collections, and analysis.  
+
+This study focused on the effect of alternative banking channels on customer satisfaction 
+
+of Nepalese commercial banks. This study has taken customer satisfaction as dependent 
+
+variable,  whereas  internet  banking,  mobile  banking,  ATM,  and  POS  service  as 
+
+independent variables.   
+
+Independent Variables 
+
+Dependent Variable 
+
+Internet Banking 
+
+Mobile Banking 
+
+ATM 
+
+Point of Sale 
+
+Customer 
+Satisfaction 
+
+Figure 2.4: Conceptual framework  
+
+Source: Simon, V. T. & Thomas, A. S. R. (2016) 
+
+The  study  was  to  determine  the  effect  of  electronic  banking  and  customer  satisfaction 
+
+among first-tier banks in Nairobi Town. The study adopted a descriptive survey research 
+
+design.  A  stratified  sampling  technique  was  used  to  select  a  sample  size  of  225 
+
+respondents. Primary data was collected using structured questionnaires addressed to the 
+
+participants.  The  study  concluded  that  electronic  banking  including  internet,  mobile, 
+
+ATM, and POS has a significant positive effect on customer satisfaction in Nairobi Town. 
+
+Figure  2.4  shows  that  the  conceptual  framework  of  alternative  banking  channels  on 
+
+customer satisfaction. This model is explaining the dependent and independent variables. 
+
+According  to  this  model,  customer  satisfaction  depends  on  different  factors  like  e-
+
+banking,  mobile  banking,  ATM,  and  POS  so  that  customer  satisfaction  is  a  dependent 
+
+ 
+ 
+ 
+23 
+
+variable  whereas  e-banking,  mobile  banking,  ATM  and  POS  are  independent  variables 
+
+that are not affected by the dependent variable. 
+
+2.5 Operational definitions 
+
+Customer  satisfaction:  Customer  satisfaction  may  be  a  basic  standard  of  service 
+
+performance  and  a  possible  standard  of  faultlessness  for  any  business  organization 
+
+(Gerson,  1993).  Satisfaction  is  a  response  to  a  perceived  discrepancy  between  prior 
+
+expectations  and  perceived  performance  after  consumption  (Eid,  2011;  Lau,  2011; 
+
+Merwe,  2010).  Customer  satisfaction  is  defined  by  how  satisfied  with  product/services. 
+
+Thus satisfaction is extremely important to marketers of products and services because a 
+
+satisfied customer has a positive purchase intention such as repurchase, positive word-of-
+
+mouth, and loyalty in the long term. Rosen (2001) found that 35 to 40% of e-commerce 
+
+website  sales  revenue  comes  from  repeat  visitors.  Thus,  customer  satisfaction  leads  to 
+
+customer loyalty and it has a positive growth in market share and predicts further market 
+
+penetration  (Yeoh  &  Chan,  2011).  Fornell  (1992)  defined  customer  satisfaction  as  the 
+
+overall  post-purchase  or  usage  evaluation.  Customer  satisfaction  is  a  summation  of 
+
+satisfaction with various attributes of a product and will come from the satisfaction with 
+
+the performance of its attributes (Churchill and Surprenant, 1992).  
+
+E-Banking:  Daniel  (1999)  defined  Internet  banking  services  as  major  information 
+
+services  of  a  bank  to  serve  its  customers  via  the  Internet.  Internet  banking  permits 
+
+consumers to carry out usual banking transactions on a computer that is equipped with an 
+
+Internet  connection.  Among  the  most  commonly  used  Internet  banking  services  include 
+
+transferring funds between accounts, checking the balance in one's bank account, and bill 
+
+paying  (Fox,  2006).  Basel  Committee  Report  on  Banking  Supervision  (1998)  defined 
+
+internet  banking  services  as  bank  account  management,  electronic  bill  payment,  and 
+
+financial advice over the internet.  (Mukherjee and Nath,  2003) defined internet  banking 
+
+as a type of banking activity through which consumers can perform banking transactions 
+
+such  as  checking  account  balances  and  making  payments  via  telecommunication 
+
+networks.  
+
+Ma (2012) identified privacy; reputation and price are the key factors that affect customer 
+
+satisfaction  in  internet  banking  services  in  China.  Litifi  and  Gharbi  (2012)  found  that 
+
+Internet  Banking  has  a  significant  positive  impact  on  e-satisfaction  and  influences 
+
+positively  and  significantly  the  e-loyalty  of  the  cyber  consumer's  shoppers  in  Tunisia. 
+
+ 
+ 
+24 
+
+Tulaniet  al.  (2009)  examined  the  extent  of  adoption  and  usage  of  internet  banking  by 
+
+commercial  banks  in  Zimbabwe  and  found  people  using  internet  banking  for  checking 
+
+account balances, payment of bills, and fund transfer. Singhal and Padhmanabhan (2008) 
+
+identified utility request, security, utility transaction, ticket booking, and fund transfer as 
+
+the factors influencing users to adopt e-banking channels. Qureshi et al. (2008) evaluated 
+
+factors that manipulate the nature of customers towards online banking and found almost 
+
+50% of the clients shifted from traditional banking to online banking. Likewise, Azouzi 
+
+(2009)  also  examined  the  adoption  of  electronic  banking  in  Tunisia  and  found  the 
+
+majority  of  respondents  (95%)  had  internet  access,  but  only  a  few  of  them  used  it  as  a 
+
+primary banking channel.  
+
+Mobile  banking:  Mobile  banking  is  a  process  of  no  branch  banking  that  provides 
+
+financial  services  to  unbanked  communities  in  both  urban  and  rural  areas  at  affordable 
+
+cost. The aim of the service is not to destroy branch banking, but to consider those people 
+
+under  the  umbrella  of  banking  service  that  is  away  from  banking  facilities.  Through 
+
+Mobile  banking  one  can  avail  various  services  i.e.;  utility  bill  payment,  Fund  Transfer, 
+
+Shopping, Cash Withdrawn from selected ATMs or Cashpoint, and many more exciting 
+
+facilities (Islam, 2010). 
+
+Kahandawa  and Wijayanayake (2014) investigated primarily identifying  the factors that 
+
+affect customer satisfaction in mobile banking services. The study concluded that mobile 
+
+banking  services  have  a  positive  impact  on  customer  satisfaction  in  Sri  Lankan  State 
+
+commercial banks. Rahman and Hasan (2017) examined mobile banking service quality 
+
+and  customer  satisfaction  in  Bangladesh.  The  study  showed  that  the  four  variables 
+
+tangible, reliability, responsiveness, and empathy have a significant positive relationship 
+
+with customer satisfaction. However, the assurance factor has no significant relationship 
+
+with  customer  satisfaction.  Aghdaie  and  Faghani  (2012)  in  a  study  on  mobile  banking 
+
+customers  found  that  four  factors  reliability,  responsiveness,  tangibility,  and  empathy 
+
+have  a  positive  relationship  with  mobile  banking  customer  satisfaction.  Parvin  (2013) 
+
+showed  that  users  of  mobile  banking  customer's  level  of  satisfaction  were  very  high 
+
+among  the  population  of  users,  almost  half  of  them  describing  themselves  as  very 
+
+satisfied while only 8.3% stating that they are very disappointed 
+
+ATM: Automated teller machine is a computerized machine that provides the customers 
+
+of banks the facility of accessing their accounts for dispensing cash and carrying out other 
+
+ 
+ 
+25 
+
+financial  transactions  without  the  need  of  actually  visiting  a  Bank  Branch.  ATM  is  an 
+
+electronic  fund  transfer  terminal  capable  of  handling  cash  deposits,  transfers  between 
+
+accounts,  balance  inquiries,  cash  withdrawals,  and  paying  bills  (Hood,  1976).  ATM 
+
+provides  24  hours  service,  meaning  that  ATMs  provide  service  around  the  clock.  The 
+
+customer  can  withdraw  cash  up  to  a  certain  limit  during  any  time  of  the  day  or  night 
+
+(Akrani, 2011). 
+
+Islam et al. (2007) examined the satisfaction level of ATM cardholders of a leading bank 
+
+(HSBC) in Bangladesh. The study found a significant relationship between ATM service 
+
+qualities  with  customers'  satisfaction.  The  study  identified  that  location,  personnel 
+
+response,  quality  of  currency  notes,  promptness  of  care  delivery,  and  performance  of 
+
+ATM were positively and significantly related to customers' satisfaction. Khan (2010) in 
+
+his  study  of  Pakistani  banks  has  stated  that  there  is  a  positive  and  strong  relationship 
+
+between  ATM  service  quality  and  customers  satisfaction.  Komal  and  Singh  (2009)  had 
+
+identified  that  customer  satisfaction  is  one  of  the  major  factors  measuring  the 
+
+performance  of  the  banks.  They  examined  the  relationship  between  various  ATM 
+
+facilities,  factors  affecting  the  choice  of  ATM,  and  its  interplay  with  customer 
+
+satisfaction.  Mcandrews  (2003)  identified  that  secure  and  convenient  location,  adequate 
+
+number of ATMs, user-friendly system, and functionality of ATM play important role in 
+
+customers' satisfaction. However, Shemsu (2017) indicated the majority of the customers 
+
+are dissatisfied with the ATM services. 
+
+POS:  Point  of  sale  terminal  is  electronic  devices  that  are  used  for  verifying  and 
+
+processing debit and credit card transactions. David (1982) confirms that there has been a 
+
+very  modest  move  away  from  cash.  Patrick  (1985)  also  contends  that  the  advantage  of 
+
+cash is charismatic as the value of transactions increases. Consequently, the use of non-
+
+cash  payments  rises  with  increasing  value.  All  these  have  been  brought  about  by  the 
+
+advancement in Information and Communication Technology (ICT). 
+
+According to Steve (1996), electronic payment is a system that is automated through the 
+
+use  of  information  technology  where  bank  transactions  are  done  within  and  without 
+
+banking  halls  and  not  necessarily  the  customer's  branch.  Information  technology  is  the 
+
+major driver that helps in the enhancement of the e1ectronic system to enhance customer 
+
+service  delivery.  Plastic  cards  are  used  to  identify  customers  and  pass  the  same  to  the 
+
+machine to initiate a paper or electronic payment. Steve (1996) said it is a mechanism by 
+
+ 
+ 
+26 
+
+which personal customers could interface with the electronic banking industry. Financial 
+
+institutions  issue  credit/debit  cards  designed  as  a  system  to  provide  credit  or  debit 
+
+facilities to their customers. 
+
+Lin and Sun (2009) found that customer e-satisfaction has positively influenced customer 
+
+e-loyalty  directly,  technology  acceptance  factors  have  positively  influenced  customer  e-
+
+satisfaction  and  e-loyalty  directly,  and  website  service  quality  can  positively  influence 
+
+customer e-loyalty directly, but cannot positively influence customer satisfaction directly. 
+
+Dion's  (2003)  study  shows  that  the  deployment  of  technology  POS  leads  to  sales 
+
+increases  and  expense  reductions  which  positively  impact  profitability  and  customer 
+
+satisfaction. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+
+CHAPTER 3 
+
+RESEARCH METHODOLOGY 
+
+3.1. Introduction 
+
+This  chapter  is  designed  to  explain  the  research  methodology  used  to  meet  the  stated 
+
+objectives of the study. It explores the research process  regarding the effect of  ABC on 
+
+customer  satisfaction  in  commercial  banks  in  Nepal.  This  chapter  provides  information 
+
+about  research  design,  sources  of  data,  questionnaire,  data  collection  procedures, 
+
+population  and  sampling,  instrumentation,  reliability  test,  administration  of  instrument, 
+
+and data analysis plan. The primary objective of this chapter is to highlight the methods 
+
+and procedures utilized to get the most accurate result following the set objective of the 
+
+research topic. The design and methods have been applied according to the research type, 
+
+which is descriptive. 
+
+3.2 Research design 
+
+The study has employed descriptive research design. The descriptive research design has 
+
+been adopted for fact-finding and adequate information gathering about the fundamental 
+
+issues associated with variables. Systematic research is carried out to make findings. The 
+
+research is descriptive as it describes data and characteristics about the population being 
+
+studied, solely based on statistics, without any form of manipulation. This study has based 
+
+on  a  survey  research  design  for  understanding  customers'  responses  toward  alternative 
+
+banking channels of commercial banks.  
+
+3.3Population, sample, and sampling design 
+
+The study has been designed to understand the relationship between alternative banking 
+
+channels and customer satisfaction in commercial banks in Nepal. The target population 
+
+for  this  study  is  the  customer  of  commercial  banks  they  are  using  alternative  banking 
+
+channels  such  as  internet  banking,  mobile  banking,  ATM,  and  POS  banking.    The 
+
+researcher used Judgmental sampling for collecting responses. 
+
+For  the  study,  the  judgmental  sampling  technique  was  used  in  this  study  to  track  the 
+
+respondents.  Judgmental  is  a  sampling  technique  in  which  the  researcher  relies  on  their 
+
+judgment  when  choosing  members  of  the  population  to  participate  in  the  study. 
+
+Researchers  often  believe  that  they  can  obtain  a  representative  sample  by  using  sound 
+
+judgment, which helps in saving time and money.  
+
+ 
+ 
+ 
+ 
+ 
+28 
+
+The standard sample size has been taken which were 384 from seven commercial banks. 
+
+The population is unknown because the banks don't have permanent customers. They are 
+
+frequently  changed  their  service  partner  which  was  difficult  to  trace  the  population  for 
+
+dates due to have the right to choose their service partner. Samples were collected from 
+
+the  seven  commercial  banks  i.e.  NSBL,  NBL,  and  Nic  Asia,  GBIME,  Nabil,  SBL,  and 
+
+KBL bank. Moreover, samples of customers were from different age groups, educational 
+
+backgrounds,  and  gender.  In the survey, all respondents  had to  respond through  a filled 
+
+questionnaire.  
+
+Table 3.3 
+
+List of Sample With Number of Response 
+
+Name of Bank 
+Nepal Bank Limited 
+
+Nepal SBI Bank Limited 
+
+NIC Asia Bank Limited 
+
+Global IME Bank Limited 
+
+Kumari Bank Limited 
+
+Nabil Bank Limited 
+
+Siddhartha Bank Limited 
+
+Total number of response 
+
+Source: Field Survey, 2021 
+
+No. of Response 
+88 
+
+94 
+
+97 
+
+29 
+
+19 
+
+33 
+
+24 
+
+384 
+
+Table 3.3 shows that the study has based on 384 observations. The 97 responses have 
+
+been collected from NIC Asia bank, 94 responses have been from Nepal SBI. Similarly, 
+
+88 responses have been from Nepal bank, and 105 responses have been from other 
+
+commercial banks which are GBIME, KBL, Nabil, and SBL. 
+
+3.4 Nature and sources of data 
+
+The  data  used  in  this  research  is  primary.  The  primary  data  was  collected  from  the 
+
+respondents via the structured questionnaire. The findings of this research were based on 
+
+the primary survey. The data was collected by formulating a set of questionnaire and then 
+
+the questionnaire was distributed to the customers of the bank. So, the findings have been 
+
+totally based on the data and facts provided by the sampled respondent.  The study used 
+
+instruments  of  data  gathering  such  as  questionnaires  in  order  to  collect  quality  and 
+
+reliable data.  
+
+ 
+ 
+29 
+
+3.5 Data collection instrument and procedure 
+
+This study has been designed to understand the opinions of the respondents regarding the 
+
+effect of alternative banking channels on customer satisfaction in commercial banks. The 
+
+structured  questionnaire  has  been  used  to  collect  the  required  information  from  the 
+
+customer  of  commercial  banks  in  Nepal.  The  questionnaire  has  been  personally 
+
+developed and distributed through different social media like Facebook, Viber, Whatapp, 
+
+and Gmail and collected responses from a customer of commercial banks in Nepal. 
+
+The structural questionnaire has designed to collect information on customer satisfaction. 
+
+The first  part of the questionnaires deals  with  demographic information  such as gender, 
+
+age, education, marital status, and monthly income etc. This part of the questionnaire has 
+
+been  used  for  descriptive  analysis  of  the  respondents.  Similarly,  the  second  part  of  the 
+
+questionnaire  has  been  designed  to  analyze  the  effect  of  various  factors  on  customer 
+
+satisfaction.  The  questionnaire  mainly  included  multiple-choice  questions  and  Likert 
+
+scale  questions,  which  has  a  widely  used  rating  scale  that  requires  the  respondent  to 
+
+indicate a degree of agreement or disagreement with each series of statements. The survey 
+
+contains  30  questions  using  a  five-point  Likert  scale  for  each  question  ranging  from 
+
+„Strongly Disagree‟ to „Strongly Agree‟, coded by 1 representing „Strongly Disagree‟ and 
+
+5 representing „Strongly Agree‟. 
+
+The questionnaire in the second part consists of various statements of ATM, POS, mobile 
+
+banking,  and  internet  banking  service.  These  variables  have  been  used  to  determine 
+
+customer  satisfaction  in  commercial  banks.  This  design  was  adopted  to  ascertain  and 
+
+understand  the  direction,  magnitude,  and  forms  of  the  observed  relationship  between 
+
+different  alternative banking channels  and customer satisfaction in  commercial banks in 
+
+Nepal. 
+
+For  the  data  analysis,  the  SPSS  tool  has  been  used  to  tabulate  and  analyze  the  valid 
+
+responses.  In  the  beginning,  a  comprehensive  data  file  has  created.  Then,  variable  and 
+
+their labels are defined as well as their values have inserted. Data has been entered using 
+
+a  user-friendly  menu  of  SPSS  operated  commands.  Different  statistical  tools  such  as 
+
+frequencies, percentages, and mean, standard deviation, correlation, and regression have 
+
+been used in this study to measure the effect of alternative banking channels on customer 
+
+satisfaction  in  commercial  banks  in  Nepal.  Microsoft  Excel  sheet  is  also  used  for  the 
+
+ 
+ 
+calculation of the average scores and used for the data collection procedure and tables as 
+
+30 
+
+required. 
+
+3.6 Method of data analysis 
+
+This section provides a presentation on how collected data are used for the study purpose. 
+
+The method of data analysis consists of three sections. The first section includes primary 
+
+data analysis which included a summary of descriptive statistics associated with general 
+
+information  of  respondents  like  age,  gender,  academic  qualification,  experience, 
+
+occupation, and monthly income. 
+
+Second section analyses the descriptive statistics such as mean and standard deviation of 
+
+four  influencing  factors  i.e.  internet  banking,  mobile  banking,  ATM  banking,  and  POS 
+
+banking  service  as  well  as  customer  satisfaction  during  the  period.  The  study  has  been 
+
+also  used  percentage  frequency  distribution  and  mean  score  of  the  responses  to  Likert 
+
+scale items.  
+
+The  third  section  dealt  with  Pearson's  correlation  analysis  to  study  the  relationship 
+
+between different variables of alternative banking channels. Similarly, the fourth section 
+
+deals with the regression analysis and hypothesis testing of primary data.  
+
+The  study  aims  to  analyze  the  relationship  between  alternative  banking  channels  and 
+
+customer  satisfaction.  The  determinants  of  alternative  banking  channels  are  used  as 
+
+independent  variables.  Four  different  determinants  are  taken  as  independent  variables 
+
+namely  internet  banking,  mobile  banking,  ATM,  and  POS.  Customer  satisfaction  has 
+
+taken as the dependent variable.  
+
+Multiple regression model has used in this study to analyze the relationship between the 
+
+determinants  of  alternative  banking  channels  and  their  effect  on  customer  satisfaction. 
+
+The multiple regression model used in this study is as follow:  
+
+Ŷ= α + β1X1+ β2X2+ β3X3 + β4X4 …………………….. (i)  
+
+Where,  Ŷ=  Customer  Satisfaction  X1  =  Internet  Banking,  X2  =  ATM  Banking,  X3  = 
+
+Mobile  Banking,  X4  =  POS  Banking,  α  =  constant  and  β1,  β2,  β3,  β4  are  the  beta 
+
+coefficients  of  the  explanatory  variables  to  be  estimated.  All  the  observed  relationships 
+
+and  findings  have  been  interpreted  to  drive  meaningful  conclusions  regarding  the 
+
+relationship between alternative banking channels and customer satisfaction. 
+
+ 
+ 
+31 
+
+Total  responses  collected  from  the  respondents  are  coded  and  tabulated  into  the  SPSS 
+
+worksheet.  The  function  of  SPSS  is  to  analyze  the  result  of  the  questionnaire  and  then 
+
+help to interpret the findings. The various tools such as frequencies, descriptive statistics, 
+
+and  casual  comparative  are  applied  to  derive  the  result.  Further,  the  p-value  is  used  to 
+
+check the level of significance of the different statements of alternative banking channels 
+
+such as internet banking, mobile banking, ATM banking, and POS banking. 
+
+3.7 Reliability test 
+
+Data  for  this  survey  was  collected  through  a  questionnaire  for  measuring  the  effect  of 
+
+alternative banking channels on customer satisfaction in commercial banks in Nepal. 384 
+
+samples  were  selected.  The  questionnaires  were  distributed  among  the  respondents  and 
+
+the  responses  were  collected  thereafter.  For  reliability  tests  through  Cronbach‟s  alpha, 
+
+only Likert scale type questions, the thirty (30) questions are considered. The Cronbach's 
+
+alpha reliability test is used to identify the validity and reliability of statements used in the 
+
+survey.   
+
+Table 3.7 
+
+Cronbach’s Alpha Coefficients 
+
+S.N 
+
+Variables 
+
+No of items 
+
+Cronbach‟s Alpha  
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Internet Banking 
+
+Mobile Banking 
+
+Automated teller Machine 
+
+Point of Sale 
+
+Customer Satisfaction 
+
+Overall 
+
+6 
+
+6 
+
+6 
+
+6 
+
+6 
+
+30 
+
+Source: Field Survey, 2021 
+
+0.928 
+
+0.923 
+
+0.940 
+
+0.944 
+
+0.938 
+
+0.9346 
+
+Table  3.7  shows  that  the  Cronbach‟s  alpha  coefficients  of  independent  variables  i.e.  e-
+
+banking,  mobile  banking,  ATM,  POS,  and  the  dependent  variable  is  customer 
+
+satisfaction.  
+
+According to Sekaran U., 2000).Cronbach‟s Alpha coefficient less than 0.6 is considered 
+
+as „poor‟; greater than 0.6 but less than 0.8 is considered „acceptable‟ and greater than 0.8 
+
+is  considered  „good‟  Here,  Cronbach‟s  Alpha  of  all  the  variables  are  considered  as 
+
+ 
+ 
+ 
+ 
+ 
+32 
+
+acceptable since they are greater than 0.7. Therefore, the instruments used in this research 
+
+have considered being reliable. 
+
+According  to  McDonald  &  Hendrickson  (1993),  the  alpha  of  a  scale  should  be  greater 
+
+than 0.70 for items  to  be used together as a scale. Therefore, minimum  0.70 coefficient 
+
+alpha values are accepted to finalize the item validity. Here in table 3.5, Cronbach‟s alpha 
+
+for the data is 0.9346 which reveals that there consists of internal consistency and the data 
+
+is  reliable  and  valid  for  further  process.  The  Cronbach  alpha  of  0.9346  also  shows  that 
+
+93.46 percent of the data taken for the study is reliable and the remaining 6.54 percent of 
+
+data is an error.  
+
+The value of alpha is partially dependent on the number of items on the scale. Here, for 
+
+the  reliability  of  data,  the  Cronbach  Alpha  should  be  more  than  0.70.  In  table  3.5  the 
+
+value  of  Alpha  is  0.9346  which  is  more  than  0.70,  so  this  study  is  reliable  for  further 
+
+process. Hence, Cronbach‟s alpha for the data is 0.9346 which reveals that there consists 
+
+of internal consistency and the data is reliable and valid for further process. 
+
+ 
+ 
+ 
+ 
+ 
+CHAPTER 4 
+
+RESULTS AND DISCUSSION 
+
+33 
+
+This  chapter  provides  a  systematic  presentation  and  analysis  of  primary  data.  Different 
+
+statistical  and  multiple  regression  models  described  in  the  previous  chapter  have  been 
+
+used for the study purpose. This  chapter is  divided into three sections. The first  section 
+
+deals with the presentation and analysis of the primary data and presents the result of the 
+
+questionnaire survey. The second section covers the analysis of multiple regressions and 
+
+correlation  analysis  and  hypothesis  testing.  The  third  section  of  this  chapter  deals  with 
+
+findings and discussion based on findings from primary data analysis. 
+
+4.1 Data presentation and analysis 
+
+This chapter describes the analysis results generated from the process of data collection. It 
+
+deals with the analysis and interpretation of the primary data collected through a structure 
+
+questionnaire  from  384  respondents.  The  primary  purpose  of  this  chapter  is  to  analyze 
+
+and  interpret  the  collected  data  and  present  the  results  of  the  questionnaire  survey.  The 
+
+data collected from the procedure as stated in chapter three were further taken for analysis 
+
+and  presentation.  This  analysis  part  consists  of  details  of  the  respondents'  profile, 
+
+descriptive  analysis  of  respondents'  and  the  respective  correlation  among  the  dependent 
+
+and independent variables.  
+
+The main purpose of this section is to test the relationship between the alternative banking 
+
+channels and customer. This section is further sub-divided into various sections. The first 
+
+part deals with the respondents' profile and their demographic characteristics. The second 
+
+part is descriptive analysis, which analyzes the collected data through frequency analysis 
+
+and  measures  of  central  tendency.  The  third  part  analyzes  the  collected  data  through 
+
+inferential analysis, which includes hypothesis testing and correlation analysis. The fourth 
+
+part  is  regression  analysis.  The  fifth  and  final  part  of  this  chapter  deals  with  discussion 
+
+and  inferences  by  analyzing  and  interpreting  the  collected  data  on  alternative  banking 
+
+channels and customer satisfaction in commercial banks in Nepal. 
+
+4.2 Respondents’ profile 
+
+This  section  deals  with  the  demographic  analysis  and  interpretation  of  primary  data 
+
+collected through questionnaires. It gives an insight into the demographic characteristics 
+
+of the respondents under study. 
+
+ 
+ 
+ 
+ 
+Table 4.2 
+
+Demographic Variables of Respondents 
+
+Respondents Detail‟s 
+
+Gender of Respondents 
+
+Male  
+
+Female 
+
+Total. 
+
+Age Group of Respondents 
+
+Below 20 years 
+
+20-30 years 
+
+30-40 years 
+
+40-50 years 
+
+Above 50 years 
+
+Total 
+
+Marital status of Respondents 
+
+Single 
+
+Married 
+
+Others 
+
+Total 
+
+Respondents Education level 
+
+High School 
+
+Undergraduate 
+
+Graduate  
+
+Postgraduate 
+
+Total 
+
+Occupation of Respondents 
+
+Self-Employed 
+
+Employed 
+
+Student  
+
+Unemployed 
+
+Total 
+
+Monthly income of Respondents 
+
+Below Rs.20,000 
+
+NRs.20,000-NRs.40,000 
+
+NNRs.40,000-NRs.60,000 
+
+34 
+
+No  
+
+of responses  Percentage (%) 
+
+220 
+
+164 
+
+384 
+
+24 
+
+248 
+
+53 
+
+42 
+
+18 
+
+384 
+
+213 
+
+171 
+
+384 
+
+38 
+
+65 
+
+200 
+
+81 
+
+384 
+
+63 
+
+196 
+
+113 
+
+12 
+
+384 
+
+129 
+
+117 
+
+76 
+
+57 
+
+43 
+
+100 
+
+6.5 
+
+63.3 
+
+14 
+
+11.3 
+
+5 
+
+100 
+
+55.5 
+
+44.5 
+
+100 
+
+10 
+
+16.8 
+
+52.3 
+
+21 
+
+100 
+
+16.3 
+
+51 
+
+29.5 
+
+3.2 
+
+100 
+
+33.8 
+
+30.8 
+
+19.8 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+35 
+
+Above NRs.60,000 
+
+Total 
+
+Experience of Respondents 
+
+Less than 1 years 
+
+1-3 years 
+
+More than 3 years 
+
+Total 
+
+Source of knowledge  
+
+Through Social Media 
+
+Through Friend 
+
+From Bank 
+
+Others 
+
+Total 
+
+Alternative banking channels users 
+
+Internet Banking 
+
+ATM 
+
+Mobile Banking 
+
+Point of Sale 
+
+Respondent used alternative banking channels  
+
+Nepal Bank Limited 
+
+Nepal SBI Bank Limited 
+
+Nic Asia Bank Limited 
+
+Other Commercial Banks 
+
+Total 
+
+Source: Field Survey, 2021 
+
+60 
+
+384 
+
+44 
+
+117 
+
+223 
+
+384 
+
+65 
+
+82 
+
+228 
+
+9 
+
+384 
+
+270 
+
+345 
+
+334 
+
+168 
+
+88 
+
+94 
+
+97 
+
+101 
+
+384 
+
+15.7 
+
+100 
+
+11.5 
+
+30.5 
+
+58 
+
+100 
+
+17 
+
+21.3 
+
+59.3 
+
+2.4 
+
+100 
+
+70.2 
+
+89.8 
+
+87 
+
+44 
+
+22.8 
+
+24.5 
+
+25.3 
+
+27.4 
+
+100 
+
+Gender  is  an  important  variable  in  expressing  and  giving  responses  about  the  problem. 
+
+Hence, the variable gender was investigated for this study. Table 4.2 showed that majority 
+
+of respondents are male (57%). The rest of the respondents are female (43%).The age of 
+
+the  respondents  is  one  of  the  most  important  characteristics  in  understanding  the  views 
+
+about the particular problems. The age of the respondent is categorized into five groups 
+
+i.e. below 20 years, 20-30 years, 30-40 years, 40-50, and above 50 years. The majority of 
+
+the respondents belong to the age group 20-30 years (63.30 %) and the age group below 
+
+20 years (6.50%), age group 30-40 years (14%), 40-50 years (11.30%) and the age group 
+
+of above 50 years (5%).  
+
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+36 
+
+Education  is  one  of  the  most  important  characteristics  that  might  affect  attitudes  and 
+
+understanding  levels  towards  any  social  phenomenon.  The  education  level  of  the 
+
+respondents  is  categorized  into  four  groups‟  i.e.  High  school,  undergraduate,  graduate, 
+
+and  post  graduate.  Table  4.2  shows  that  majority  of  the  respondents  are  graduates 
+
+(52.30%) followed by postgraduate (21%), undergraduate (16.8%), and high school level 
+
+(10%).The  marital  status  of  the  respondents  is  categorized  into  three  groups  i.e.  single, 
+
+married, and others. The table indicate that majority of the respondents are single (55%) 
+
+followed by married (45%) of the respondents. 
+
+The  questionnaire  was  distributed  to  respondents  working  in  different  fields.  Table  4.2 
+
+showed that majority of the respondents are employed (51%) followed by self-employed 
+
+(16.30%),  students  (29.50%),  and  unemployed  (3.20%)  of  the  respondents.  Monthly 
+
+income  has  a  significant  influence  on  buying  behavior  of  an  individual.  The  monthly 
+
+income  of  the  respondents  is  categorized  into  three  groups  Table4.2  showed  that  the 
+
+majority  of  the  respondents  have  monthly  income  less  than  NRs.20,000  (33.80%) 
+
+followed  by  the  respondents  having  monthly  income  between  NRs.20,000-NRs.40,000 
+
+(30.80%),  between  NRs.40,000-NRs.60,000  (19.80%),  and  the  rest  of  the  respondents 
+
+having  monthly  income  of  more  than  60,000  (15.70%).Respondents  classified  based  on 
+
+the  period  the  customers  have  been  using  alternative  banking  services  are  important 
+
+classification for the study.  
+
+Table 4.2 indicates that the 223 respondents (58%) are using alternative banking channels 
+
+from more than 3 years.  Similarly, 117 respondents (30.50%) are using ABC between 1-
+
+3 years, and the rest of the respondents 44 (11.50%) are from less than 1 year. The study 
+
+classified  by  respondents  based  on  sources  from  which  they  learn  about  alternative 
+
+banking channel i.e. through social media, through a friend, from a road show, from the 
+
+bank, and other sources. The table showed that the majority of the respondents know the 
+
+ABC from the bank (59.30%) followed by from social media (17 %). (21.30%) of from 
+
+friends  and  (2.40%)  respondents  know  about  ABC  from  other  sources.  The  table  4.2 
+
+shows that majority of the respondents are used ATM and mobile banking (89.80%) and 
+
+(87%)  respectively.  Similarly,  (70.20%)  are  internet  banking  whereas  (44%)  are  POS 
+
+banking.  The  table  shows  that  384  responses  were  collected  from  different  commercial 
+
+banks.  
+
+ 
+ 
+37 
+
+4.3 Descriptive analysis 
+
+Descriptive statistics summarize the sample and observations that have been made. In this 
+
+study, the descriptive analysis incorporates the calculation of statistical measures such as 
+
+mean and standard deviation. The thirty (30) questions with a particular mean score were 
+
+obtained  as  output.  A  five-point  Likert  scale  was  used  for  each  question  ranging  from 
+
+'Strongly  Disagree'  to  'Strongly  Agree';  coded  by  1  representing  'Strongly  Disagree',  2 
+
+representing 'Disagree', 3 representing 'Neutral', 4 representing 'Agree' and 5 representing 
+
+'Strongly  Agree'.  These  values  are  used  to  analyze  the  data  concerning  frequencies  and 
+
+aggregation relating to research questions and variables. 
+
+4.3.1 Internet banking channel 
+
+Internet banking channel is one of the independent variable of this research. A descriptive 
+
+study of each questions drafted and an overall descriptive study on this variable is shown 
+
+below: 
+
+Table 4.3.1 
+
+Descriptive Statistics of Internet Banking Channel 
+
+                                                                                  Test Scale-3 
+
+Code 
+
+Statements 
+
+N  Mean  Std. Deviation 
+
+Int1 
+
+Internet  banking  is  useful  for  easy  banking 
+
+384 
+
+3.910 
+
+1.049 
+
+transactions. 
+
+Int2 
+
+Internet  banking  service  is  less  costly  than 
+
+384 
+
+3.770 
+
+1.059 
+
+other  banking  services.  (Branch,  ATM, 
+
+Mobile & POS banking). 
+
+Int3 
+
+Internet  banking  transaction  procedure  is 
+
+384 
+
+3.780 
+
+1.056 
+
+faster and more reliable. 
+
+Int4 
+
+Internet  banking  is  convenient  because  it 
+
+384 
+
+3.900 
+
+1.049 
+
+eliminates the risk of carrying cash. 
+
+Int5 
+
+Transaction 
+
+through 
+
+internet  banking 
+
+is 
+
+384 
+
+3.710 
+
+1.011 
+
+confidential and secure. 
+
+Int6 
+
+You  are  satisfied  with  internet  banking 
+
+384 
+
+3.810 
+
+1.004 
+
+service 
+
+Internet banking channel 
+
+384 
+
+3.810 
+
+0.890 
+
+Source: Field Survey, 2021 
+
+ 
+ 
+ 
+ 
+38 
+
+Table  4.3.1shows  that  the  descriptive  statistics  of  an  individual  item  and  as  a  whole. 
+
+There are six statements were used to measure the perception of the customer regarding 
+
+internet  banking  channel.  Each  of  the  384  respondents  submitted  their  responses  on  the 
+
+five-point Likert scale. The table showed that the statements have a mean value ranging 
+
+from 3.710 to 3.910 i.e. the response is positive.  
+
+The  table  also  shows  that  “Int1”  has  the  highest  mean  and  “Int5”  has  the  lowest.  The 
+
+highest  mean  of  3.910  indicates  that  it  is  the  most  agreed  statement,  stating,  “Internet 
+
+banking  is  useful  for  easy  banking  transaction"  Lowest  mean  of  3.710  shows  that 
+
+respondents  are  less  agreed  with  the  statement  "Transaction  through  internet  banking  is 
+
+confidential and secure”. 
+
+Additionally,  the  table  express  that  “Int2”  has  the  highest  standard  deviation  whereas 
+
+“Int6”  has  the  lowest  standard  deviation.  This  means  respondents  have  more  deviation 
+
+with the statement “Internet banking service is less costly than other banking services.  
+
+The average mean score for internet banking channel is 3.810. It indicates that customers 
+
+are  satisfied  with  internet  banking  channel  provided  by  Nepalese  commercial  banks.  In 
+
+other  words,  the  result  indicates  that  Nepalese  commercial  banks  can  satisfy  their 
+
+customers through internet banking channel. 
+
+4.3.2 ATM banking channel 
+
+Automated  teller  machine  banking  channel  is  another  independent  variable  of  this 
+
+research. A descriptive study of each questions drafted and an overall descriptive study on 
+
+this variable is shown below: 
+
+ 
+ 
+ 
+ 
+39 
+
+Table 4.3.2 
+
+Descriptive Statistics of ATM Banking Channel 
+
+                                                                                                    Test Scale-3 
+
+Code  Statements  
+Atm1  ATM banking is convenient for daily 
+
+N  
+384 
+
+Mean   Std. Deviation  
+1.072 
+3.960 
+
+banking transactions. 
+
+Atm2 
+
+I am satisfied with ATM banking because 
+
+384 
+
+3.900 
+
+1.128 
+
+of its 24x7 availability. 
+
+Atm3  The speed of processing transactions by 
+
+384 
+
+3.870 
+
+1.082 
+
+ATMs is much faster. 
+
+Atm4  ATM banking transactions are highly 
+
+384 
+
+3.680 
+
+1.069 
+
+secure and safe. 
+
+Atm5  You are satisfied with the transaction fee 
+
+384 
+
+3.440 
+
+1.159 
+
+charged by the bank for using an ATM 
+
+card. 
+
+Atm6  ATMs save me from transport costs and 
+
+384 
+
+3.780 
+
+1.030 
+
+time by bringing self-service to convenient 
+
+locations. 
+
+ATM banking channel 
+
+384 
+
+3.770 
+
+0.928 
+
+Source: Field Survey, 2021 
+
+Table  4.3.2  indicates  that  the  descriptive  statistics  of  an  individual  statement  and  as  a 
+
+whole.  There  are  six  statements  used  to  measure  the  perception  of  customers  on  ATM 
+
+banking channel. Each of the 384 respondents submitted their responses on the five-point 
+
+Likert scale. The table show that the statements have a mean value ranging from 3.430 to 
+
+3.960  i.e.  the  response  is  positive.  Among  the  six  statements,  the  statement  with  code 
+
+"ATM5" has scored the lowest mean of 3.440 with a standard deviation of 1.159, and the 
+
+statement  with  code  "ATM1"  has  scored  the  highest  mean  of  3.960  with  a  standard 
+
+deviation of 1.072.  
+
+The  highest  mean  score  of  3.960  indicates  that  it  is  the  most  agreed  statement,  stating 
+
+“ATM banking is convenient for daily banking transaction” and the lowest mean score of 
+
+3.440 shows that respondents are less agreed with the statement "You are satisfied with 
+
+the transaction fee charged by the bank for using ATM card”.  
+
+ 
+ 
+ 
+40 
+
+Additionally,  the  table  shows  that  “ATM5”  has  the  highest  standard  deviation  of  1.159 
+
+whereas  “ATM6”  has  the  lowest  standard  deviation  of  1.030.  This  means  respondents 
+
+have more deviation with the statement “ATMs save me from transport costs and time by 
+
+bringing self-service to convenient locations”.  
+
+The average mean  score for ATM banking  channel is  3.770.  It  indicates that customers 
+
+are satisfied with the quality of ATM banking channel provided by Nepalese commercial 
+
+banks. In other words, the result indicates that Nepalese commercial banks are satisfying 
+
+their customers through ATM banking channel. 
+
+4.3.3 Mobile banking channel 
+
+Mobile  banking  channel  is  another  independent  variable  of  this  research.  A  descriptive 
+
+study of each questions drafted and an overall descriptive study on this variable is shown 
+
+below: 
+
+Table 4.3.3 
+
+ Descriptive Statistics of Mobile  Banking Channel 
+
+                                                                                                    Test Scale-3 
+
+Code 
+Mob1  Mobile banking is more convenient than other 
+
+Statements  
+
+N  
+384 
+
+Mean   Std. Deviation  
+1.112 
+3.960 
+
+banking i.e. Internet, ATM, POS banking. 
+
+Mob2  Mobile  banking 
+
+is  convenient  because 
+
+it 
+
+384 
+
+4.070 
+
+1.024 
+
+reduces the risk of carrying cash. 
+
+Mob3 
+
+I am using mobile banking because of its 24 X 
+
+384 
+
+4.090 
+
+1.062 
+
+7 availability. 
+
+Mob4  Mobile  banking  procedures  are  Clear  and 
+
+384 
+
+3.820 
+
+1.055 
+
+understandable. 
+
+Mob5  Mobile  banking  is  cost-effective  as  compared 
+
+384 
+
+3.870 
+
+0.990 
+
+to visiting banks 
+
+Mob6 
+
+You  are  satisfied  with  the  user  interface  of 
+
+384 
+
+3.780 
+
+1.005 
+
+mobile banking. 
+
+Mobile banking channel 
+
+Source: Field Survey, 2021 
+
+384 
+
+3.930 
+
+0.914 
+
+ 
+ 
+ 
+41 
+
+Table  4.3.3  indicates  that  the  descriptive  statistics  of  an  individual  statement  and  as  a 
+
+whole. There are six statements used to measure the perception of customers on mobile 
+
+banking services. Each of the 384 respondents submitted their responses on the five-point 
+
+Likert scale. The table shows that the statements have a mean value ranging from 3.780 to 
+
+4.090. Among the six statements, the statement with code "Mob6" has scored the lowest 
+
+mean of 3.780 with a standard deviation of 1.005, and the statement with code Mob3" has 
+
+scored the highest mean of 4.090 with a standard deviation of 1.062. 
+
+The highest mean of 4.090 indicates that it is the most agreed statement, stating “I used 
+
+mobile banking because of its 24 X 7 availability” and the lowest mean of 3.780 shows 
+
+that  respondents  are  less  agreed  with  the  statement  "You  are  satisfied  with  the  User 
+
+Interface of mobile banking”. 
+
+Additionally,  the  table  shows  that  “Mob1”  has  the  highest  standard  deviation  of  1.112 
+
+whereas  “Mob5”  has  the  lowest  standard  deviation  of  0.990.  This  means  respondents 
+
+have  more  deviation  with  the  statement  “Mobile  banking  is  more  convenient  than  the 
+
+other banking (Internet, ATM, POS banking)”.  
+
+The average mean score for mobile banking channel is 3.930. It indicates that customers 
+
+are  satisfied  with  the  quality  of  mobile  banking  channel  provided  by  Nepalese 
+
+commercial  banks.  In  other  words,  the  result  indicates  that  Nepalese  commercial  banks 
+
+are satisfying the customers through mobile banking channel.  
+
+4.3.4 Point of sale banking channel 
+
+POS banking channel is another independent variable of this research. A descriptive study 
+
+of each question drafted and an overall descriptive study on this variable is shown below: 
+
+ 
+ 
+ 
+ 
+42 
+
+Table 4.3.4  
+
+Descriptive Statistics of Point of Sale Banking Channel 
+
+                                                                                                    Test Scale-3 
+
+Code 
+
+Statements  
+
+N  
+
+Mean   Std. Deviation  
+
+Pos1 
+
+POS  banking  is  reliable  and  trustworthy  for 
+
+384 
+
+3.590 
+
+0.962 
+
+shopping and service payments. 
+
+Pos2 
+
+POS  banking  ensures  an  effective  payment 
+
+384 
+
+3.520 
+
+0.961 
+
+mechanism. 
+
+Pos3 
+
+POS banking is very useful among consumers 
+
+384 
+
+3.560 
+
+0.976 
+
+at a retail store. 
+
+Pos4 
+
+POS  banking  is  flexible  in  addressing  the 
+
+384 
+
+3.480 
+
+1.032 
+
+specific needs of customers. 
+
+Pos5 
+
+POS  is  convenient  because  it  reduces  the  risk 
+
+384 
+
+3.690 
+
+1.030 
+
+of carrying cash. 
+
+Pos6 
+
+Technology  use  in  POS  banking  helps  to 
+
+384 
+
+3.560 
+
+1.036 
+
+execute transactions fast 
+
+Point of sale banking channel 
+
+384 
+
+3.570 
+
+0.884 
+
+Source: Field Survey, 2021 
+
+Table 4.3.4 shows that the descriptive statistics of an individual statement and as a whole. 
+
+There  are  six  statements  used  to  measure  the  perception  of  customers  on  POS  banking 
+
+channel. Each of the 384 respondents  submitted their responses on the five-point  Likert 
+
+scale.  The  table  shows  that  the  statements  have  a  mean  value  ranging  from  3.480  to 
+
+3.690. Among the six statements,  the statement with  code "Pos4" has  scored the lowest 
+
+mean of 3.480 with a standard deviation of 1.032and the statement with code "Pos5" has 
+
+scored the highest mean of 3.690 with a standard deviation of 1.012. 
+
+The  highest  mean  score  of  3.690  indicates  that  it  is  the  most  agreed  statement,  stating 
+
+"POS is convenient because it reduces the risk of carrying cash” and the lowest mean of 
+
+3.480 shows that respondents are less agreed with the statement "POS banking is flexible 
+
+in addressing specific needs of customers”.  
+
+Additionally,  the  table  shows  that  “Pos6”  has  the  highest  standard  deviation  of 
+
+1.032whereas  “Pos2”  has  the  lowest  standard  deviation  of  0.9610.  This  means 
+
+ 
+ 
+ 
+43 
+
+respondents  have  more  deviation  with  the  statement  “Technology  use  in  POS  banking 
+
+helps to execute transaction fast”.  
+
+The  average  mean  score  for  point  of  sale  banking  channel  is  3.570.  It  indicates  that 
+
+customers  are  satisfied  with  the  quality  of  POS  banking  channel  provided  by  Nepalese 
+
+commercial  banks.  In  other  words,  the  result  indicates  that  Nepalese  commercial  banks 
+
+are satisfying customers through POS banking channel.  
+
+4.3.5 Customer satisfaction 
+
+Customer  satisfaction  is  the  dependent  variable  of  this  research.  A  descriptive  study  of 
+
+each questions drafted and an overall descriptive study on this variable is shown below. 
+
+Table 4.3.5 
+
+Descriptive Statistics of Customer satisfaction 
+
+                                                                                                       Test Scale-3 
+
+Code 
+
+Statements 
+
+N 
+
+Mean 
+
+Std. Deviation 
+
+Cs1 
+
+You  are  completely  happy  with  your  bank 
+
+384 
+
+3.900 
+
+1.002 
+
+providing alternative banking services. 
+
+Cs2 
+
+You  are  satisfied  with  the  customer  support 
+
+384 
+
+3.740 
+
+0.957 
+
+provided on your bank‟s website 
+
+Cs3 
+
+You  are  satisfied  with  the  payment  system 
+
+384 
+
+3.790 
+
+1.024 
+
+provided on the bank‟s website. 
+
+Cs4 
+
+Your  alternative  banking  services  are  easy  to 
+
+384 
+
+3.890 
+
+0.931 
+
+use. 
+
+Cs5 
+
+You  are 
+
+satisfied  with 
+
+the 
+
+transaction 
+
+384 
+
+3.840 
+
+0.985 
+
+Procedures. 
+
+Cs6 
+
+Your  bank's  alternative  banking  services  are 
+
+384 
+
+3.880 
+
+0.952 
+
+user-friendly. 
+
+Customer satisfaction 
+
+Source: Field Survey, 2021. 
+
+384 
+
+3.840 
+
+0.859 
+
+Table 4.3.5 shows that the descriptive statistics of an individual statement and as a whole. 
+
+There  are  six  statements  used  to  measure  customer  satisfaction.  Each  of  the  384 
+
+respondents submitted their responses on the five-point Likert scale. The Table show that 
+
+the  items  have  a  mean  value  ranging  from  3.740  to  3.900  i.e.  the  response  is  positive. 
+
+ 
+ 
+ 
+44 
+
+Among the six statements, the statement with code "Cs2" has scored the lowest mean of 
+
+3.740 with a standard deviation of 0.9720 and the statement with code "cs1" has scored 
+
+the highest mean of 3.900 with a standard deviation of 1.002. 
+
+The highest mean of 3.900 indicates that it is the most agreed statement, stating "You are 
+
+completely  happy  with  your  bank  providing  alternative  banking  services."    And  the 
+
+lowest mean of 3.740 shows that respondents are less agreed with the statement "You are 
+
+satisfied with the customer support provided on your bank‟s website”.  
+
+Additionally,  the  table  shows  that  “Cs3”  has  the  highest  standard  deviation  of  1.024 
+
+whereas “Cs4” has the lowest standard deviation of 0.931. This means respondents have 
+
+more deviation with the statement “You are satisfied with the payment system provided 
+
+on the bank‟s website”.  
+
+The  weighted  average  mean  score  for  customer  satisfaction  is  3.840.  It  indicates  that 
+
+customers  are  satisfied  with  the  alternative  banking  channels  provided  by  Nepalese 
+
+commercial banks.  
+
+4.4 Inferential analysis 
+
+The purpose of this section is to present the method for analyzing the empirical results, 
+
+test the hypothesis  set,  built-in  a previous  chapter. This  section consists of two analysis 
+
+tools which are: 
+
+4.4.1Pearson’s correlation analysis between alternative banking channels and 
+
+customer satisfaction 
+
+Having  indicated  the  descriptive  statistics,  Pearson‟s  correlation  coefficients  are 
+
+computed  and  the  results  are  presented  in  table  4.4.1.  More  specifically,  it  shows  the 
+
+correlation  coefficients  of  dependent  and  independent  variables  for  selected  Nepalese 
+
+commercial  banks.  The  table  presents  the  Pearson  correlation  coefficients  between 
+
+dependent and independent variables. Customer satisfaction is a state in which customers' 
+
+needs  or  problems  are  solved  by  the  product  offering.  Customer  satisfaction  is  the 
+
+dependent variable.  
+
+The  independent  variable  is  e-banking.  E-banking  banking  is  the  mode  of  delivering 
+
+banking services through the internet where customers without required to visit a physical 
+
+branch, ATM banking is a form of delivering banking services like withdrawing money, 
+
+balance  inquiry,  etc.  through  convenient  ATMs  nearby  without  reaching  actual  bank 
+
+ 
+ 
+45 
+
+branches, mobile banking is a medium of performing banking and financial services and 
+
+interacting with customers through the use of the mobile application which is faster and 
+
+easier  than  traditional  banking  and  point  of  sale  banking  refers  to  the  identification  of 
+
+customer details through a card with a chip that is read by a machine which allows access 
+
+to  payment  function  through  the  same  card  without  going  to  an  actual  bank,  however, 
+
+loan disbursement function cannot be undertaken. 
+
+Table 4.4.1 
+
+Pearson’s Correlation Analysis between Alternative Banking Channels and Customer 
+
+Satisfaction 
+
+Variables 
+
+E-Banking 
+
+ATM 
+
+Banking 
+
+POS 
+
+Satisfaction 
+
+Mobile 
+
+Customer 
+
+E-Banking 
+
+ATM 
+
+Mobile Banking   
+
+Point of Sale 
+
+Customer 
+
+Satisfaction 
+
+1 
+
+0.724** 
+
+0.724** 
+
+1 
+
+0.738** 
+
+1 
+
+0.635** 
+
+0.613** 
+
+0.654** 
+
+1 
+
+0.639** 
+
+0.669** 
+
+0.706** 
+
+0.624** 
+
+1 
+
+Note: Based on researcher’s calculation from the survey data 
+
+** Correlations are significant at the 0.01 level (2-tailed). 
+
+Source: Field survey data, SPSS, 28. 
+
+Table  4.4.1  indicates  that  the  Pearson  Correlation  coefficient  between  internet  banking 
+
+and  customer  satisfaction  is  0.639,  which  implies  that  the  two  variables  are  positively 
+
+correlated.  This  indicates  that  the  greater  the  internet  banking,  the  higher  the  customer 
+
+satisfaction.  The  positive  coefficient  of  correlation  is  0.639  at  a  1  percent  significant 
+
+level. 
+
+Similarly,  the  Pearson  Correlation  coefficient  between  ATM  banking  and  customer 
+
+satisfaction  is  0.669,  which  implies  that  the  two  variables  are  positively  correlated.  It 
+
+indicates that the more the number of ATM services, the higher the customer satisfaction. 
+
+The positive coefficient of correlation is 0.669 at a 1 percent significant level.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46 
+
+Additionally,  the  Pearson  Correlation  coefficient  between  mobile  banking  service  and 
+
+customer  satisfaction  is  0.706,  which  implies  that  the  two  variables  are  positively 
+
+correlated.  It  means  that  an  increase  in  mobile  banking  services  leads  to  an  increase  in 
+
+customer  satisfaction.  The  positive  coefficient  of  correlation  is  0.706  at  a  1  percent 
+
+significant level. 
+
+Likewise, the Pearson Correlation coefficient between point of sale banking service, and 
+
+customer  satisfaction  is  0.624,  which  implies  that  the  two  variables  are  positively 
+
+correlated. This indicates that an increase in point of sale services in retail stores leads to 
+
+an increase in customer satisfaction. The positive coefficient of correlation is 0.624 at a 1 
+
+percent significant level. 
+
+4.4.2 Regression analysis of customer satisfaction 
+
+The  general  purpose  of  multiple  regressions  is  to  learn  more  about  the  relationship 
+
+between  independent  variables  and  a  dependent  variable.  In  statistical  modeling, 
+
+regression  analysis  is  a  statistical  process  for  estimating  the  relationships  among 
+
+variables.  It  includes  many  techniques  for  modeling  and  analyzing  several  variables, 
+
+when  the  focus  is  on  the  relationship  between  a  dependent  variable  and  independent 
+
+variables.  
+
+Multiple  regressions  were  used  to  explore  the  effect  of  independent  variables  on  a 
+
+dependent variable. The regression model has developed from the theoretical framework. 
+
+This  model  has  determined  the  independent  variables  that  explain  variability  in  the 
+
+outcome,  how  much  variability  in  the  dependent  variable  is  explained  by  independent 
+
+variable, and which variables are significant in explaining the variability of the dependent 
+
+variable.  The  regression  model  has  been  used  in  this  study  to  analyze  the  relationship 
+
+between alternative banking channels and customer satisfaction. Therefore, it is designed 
+
+to  test  the  hypothesis,  and  the  questionnaire  analyzed  using  the  following  regression 
+
+model. 
+
+Multiple Regression Model (Ŷ) = α + β1X1+ β2X2+ β3X3 + β4X 
+
+Where,  
+
+Ŷ= Customer Satisfaction (Dependent Variable) 
+
+X1 = Internet Banking, X2 = ATM Banking, X3 = Mobile Banking, X4 = POS Banking,  
+
+α = constant, β1, β2, β3 & β4 are the beta coefficients of the explanatory variables 
+
+ 
+ 
+47 
+
+The  model  summary  indicates  the  R-  square  also  known  as  the  coefficient  of 
+
+determination  which  can  help  in  explaining  variance.  The  value  of  R-square  as  evident 
+
+from  table  4.3.2  is  0.610  which  means  61  percent  variation  in  customer  satisfaction  is 
+
+explained by internet banking  channel, ATM banking  channel, mobile banking channel, 
+
+and  POS  banking  channel.  This  shows  a  moderate  relationship  between  all  variables  of 
+
+alternative banking channels and customer satisfaction.  
+
+Table 4.3.2 
+
+Regression analysis of customer satisfaction 
+
+Model 
+
+R 
+
+R Square 
+
+Square 
+
+Estimate 
+
+1 
+
+0.783a 
+
+0.614 
+
+0.610 
+
+3.223 
+
+Adjusted R 
+
+Std. The error of the 
+
+Note: Based on  calculation from the survey data  
+
+Source: Field survey data,2021, SPSS,28 
+
+a. Predictors: (Constant), Point of Sale, ATM, Internet Banking, Mobile Banking 
+
+b. Dependent Variable: Customer Satisfaction 
+
+The  model  summary  also  indicates  the  standard  error  of  the  estimate  of  3.223  which 
+
+shows the variability of the observed value of customer satisfaction from the regression 
+
+line is 3.223 units. However, the remaining 39 percent (100%-61%) is still unexplained in 
+
+this  research.  In  other  words,  there  are  other  additional  variables  of  alternative  banking 
+
+channels  that  are  important  in  explaining  customer  satisfaction  that  has  not  been 
+
+considered in this research. 
+
+Table 4.3.3 
+
+Summary of one-way ANOVA Results Customer Satisfaction 
+
+Model 
+
+1 
+
+Regression 
+
+Residual 
+
+Total 
+
+Sum of 
+
+Squares 
+
+6254.606 
+
+3935.384 
+
+10189.990 
+
+d.f 
+
+Mean Square 
+
+F 
+
+Sig. 
+
+4 
+
+1563.652 
+
+150.589 
+
+<.001b 
+
+10.384  
+
+379 
+
+383  
+
+Note: Based on researcher’s calculation from the survey data. 
+
+Source: Field survey data, 2021, SPSS,28.  
+
+a. Dependent Variable: Customer Satisfaction 
+
+ 
+ 
+ 
+ 
+ 
+48 
+
+b. Predictors: (Constant), Point of Sale, ATM, Internet Banking, Mobile Banking 
+
+The ANOVA Test shows the table Sig. value 0.05 is greater than the calculated Sig. value 
+
+0.001. It reflects the alternative hypothesis at a 5% level of significance. This shows that 
+
+the  overall  model  was  significant.  It  means  there  was  a  significant  correlation  between 
+
+dependent  variables  and  independent  variables.    Therefore  customer  satisfaction  level 
+
+depends  on  the  service  quality  of  alternative  banking  channels  in  commercial  banks  in 
+
+Nepal.  But  it  does  not  mean  that  all  factors  of  alternative  banking  channel  have  a 
+
+significant  correlation  with  customer  satisfaction  level.  Taking  four  dimensions  of 
+
+alternative  banking  channels  i.e.  internet  banking,  ATM,  mobile  banking,  and  point  of 
+
+sale  as  the  independent  variable  (X1,  X2,  X3,  X4,)  and  customer  satisfaction  as  the 
+
+dependent variable, the model is constructed with the equation as below. 
+
+Ŷ= α + β1X1+ β2X2+ β3X3 + β4X4   
+
+Based on the coefficients, the regression equation for customer satisfaction can be written 
+
+as: Ŷ=3.901+0.100X1+0.231X2+0.303X3+0.208X4.  
+
+Regression  coefficient  of  Internet,  ATM,  Mobile  and  POS  banking  are  0.100,  0.231, 
+
+0.303 and 0.208 respectively. 
+
+Table 4.3.4 
+Multiple Regression Analysis of Customer Satisfaction 
+
+Unstandardized 
+
+Standardized 
+
+Coefficients 
+
+Coefficients 
+
+Model 
+
+B 
+
+Std. Error 
+
+Beta 
+
+T 
+
+P-value 
+
+1 
+
+(Constant) 
+
+E-Banking 
+
+ATM 
+
+Mobile 
+
+Banking 
+
+3.901 
+
+0.100 
+
+0.231 
+
+0.303 
+
+0.804  
+
+0.050 
+
+0.050 
+
+0.052 
+
+4.851 
+
+0.001 
+
+0.104 
+
+1.985 
+
+0.048 
+
+0.249 
+
+4.659 
+
+0.001 
+
+0.322 
+
+5.865 
+
+0.001 
+
+Point of Sale 
+
+0.208 
+
+0.044 
+
+0.214 
+
+4.752 
+
+0.001 
+
+a. Dependent Variable: Customer Satisfaction 
+
+Note: Based on researcher’s calculation from the survey data  
+
+Source: Filed survey data, 2021, SPSS, 28. 
+
+Table 4.3.4 indicates that all the factors i.e. e-banking, mobile banking, ATM, and point 
+
+of  sale  banking  are  constant  at  zero  the  level  of  customer  satisfaction  is  3.901. 
+
+ 
+ 
+49 
+
+Furthermore, the results indicate that taking independent variable at zero, a unit increase 
+
+in internet banking channel leads to a 0.100 increase in customer satisfaction and a unit 
+
+increase in mobile banking channel leads to a 0.303 increase in customer satisfaction. 
+
+ Further, the findings show that a unit increase in ATM banking channel leads to a 0.231 
+
+increase in customer satisfaction while a unit increase in the point of sale banking channel 
+
+leads  to  a  0.208  increase  in  customer  satisfaction.  In  terms  of  magnitude,  the  findings 
+
+indicated that  mobile banking have the highest  effect on  customer satisfaction followed 
+
+by  automated  teller  machines,  then  point  of  sale  while  internet  banking  had  the  least 
+
+effect on customer satisfaction. All the variables were significant as their p-values were 
+
+less than 0.05. 
+
+4.4.3 Hypothesis testing 
+
+Hypothesis  testing  is  the  use  of  statistics  to  determine  the  probability  that  a  given 
+
+hypothesis is true. Hypothesis testing is done using inferential analysis. The best way to 
+
+determine  whether  a  statistical  hypothesis  is  true  would  be  to  examine  the  entire 
+
+population.  Since  that  is  often  impractical,  researchers  typically  examine  a  judgmental 
+
+sample  from  the  population.  There  are  eight  alternative  hypotheses  have  been  drawn  to 
+
+identify  relationships  and  analyze  the  effect  of  independent  variables  on  a  dependent 
+
+variable  in  this  study.  Each  hypothesis  has  been  tested  based  on  Pearson's  correlation 
+
+coefficient. Test on each of these hypotheses has discussed below: 
+
+H1: There is a significant positive relationship between e-banking service and customer 
+
+satisfaction. The correlation analysis shows that there is a positive correlation between e-
+
+banking  service  and  customer  satisfaction.  The  correlation  is  significant  at  1  percent 
+
+where  the  p-value  is  less  than  alpha  i.e.  0.001<  0.01.  Hence,  the  alternative  hypothesis 
+
+(H1) is accepted.  
+
+H2:  There  is  a  significant  positive  relationship  between  ATM  banking  service  and 
+
+customer  satisfaction.  The  correlation  analysis  shows  that  there  is  a  positive  correlation 
+
+between ATM banking service and customer satisfaction. The correlation is significant at 
+
+1  percent  where  the  p-value  is  less  than  alpha  i.e.  0.001<  0.01.  Hence,  the  alternative 
+
+hypothesis (H2) is accepted.  
+
+H3:  There  is  a  significant  positive  relationship  between  mobile  banking  service  and 
+
+customer  satisfaction.  The  correlation  analysis  shows  that  there  is  a  positive  correlation 
+
+ 
+ 
+between mobile banking service and customer satisfaction. The correlation is significant 
+
+at 1 percent where the p-value is less than alpha i.e. 0.001< 0.01. Hence, the alternative 
+
+50 
+
+hypothesis (H3) is accepted.  
+
+Table 4.3.5 
+
+Testing of Alternative Hypothesis 
+
+Hypotheses 
+
+Null 
+
+Alternative 
+
+Hypothesis  
+
+Hypothesis 
+
+H1 
+
+There is a significant positive relationship between 
+
+Rejected 
+
+Accepted 
+
+internet banking and customer satisfaction. 
+
+H2 
+
+There is a significant positive relationship between 
+
+Rejected 
+
+Accepted 
+
+ATM banking and customer satisfaction. 
+
+H3 
+
+There is a significant positive relationship between 
+
+Rejected 
+
+Accepted 
+
+mobile banking and customer satisfaction. 
+
+H4 
+
+There is a significant positive relationship between 
+
+Rejected 
+
+Accepted 
+
+POS banking and customer satisfaction. 
+
+H5 
+
+Internet banking channel has a significant positive 
+
+Rejected 
+
+Accepted 
+
+effect on customer satisfaction. 
+
+H6  ATM  banking  channel  has  a  significant  positive 
+
+Rejected 
+
+Accepted 
+
+effect on customer satisfaction. 
+
+H7  Mobile banking  channel has  a significant  positive 
+
+Rejected 
+
+Accepted 
+
+effect on customer satisfaction. 
+
+H8 
+
+POS  banking  channel  has  a  significant  positive 
+
+Rejected 
+
+Accepted 
+
+effect on customer satisfaction. 
+
+Source: Field Survey, 2021 
+
+H4:  There  is  a  significant  positive  relationship  between  POS  banking  channel  and 
+
+customer  satisfaction.  The  correlation  analysis  shows  that  there  is  a  positive  correlation 
+
+between POS banking channel and customer satisfaction. The correlation is significant at 
+
+1  percent  where  the  p-value  is  less  than  alpha  i.e.  0.001<  0.01.  Hence,  the  alternative 
+
+hypothesis (H4) is accepted.  
+
+ 
+ 
+51 
+
+H5:  Internet  banking  channel  has  a  significant  positive  effect  on  customer  satisfaction. 
+
+The regression analysis shows that there is a positive effect of internet banking  channel 
+
+on customer satisfaction. The  regression is  significant  at  5 percent  where the p-value is 
+
+less than alpha i.e. 0.048< 0.05. Hence, the alternative hypothesis (H5) is accepted.  
+
+H6: ATM banking channel has a significant positive effect on customer satisfaction. The 
+
+regression  analysis  shows  that  there  is  a  positive  effect  of  ATM  banking  channel  on 
+
+customer satisfaction. The regression is significant at 5 percent where the p-value is less 
+
+than alpha i.e. 0.001< 0.05. Hence, the alternative hypothesis (H6) is accepted.  
+
+H7:  Mobile  banking  channel  has  a  significant  positive  effect  on  customer  satisfaction. 
+
+The regression analysis shows that there is a positive effect of mobile banking channel on 
+
+customer satisfaction. The regression is significant at 5 percent where the p-value is less 
+
+than alpha i.e. 0.001< 0.05. Hence, the alternative hypothesis (H7) is accepted.  
+
+H8: POS banking channel has a significant positive effect on customer satisfaction. The 
+
+regression  analysis  shows  that  there  is  a  positive  effect  of  POS  banking  channel  on 
+
+customer satisfaction. The regression is significant at 5 percent where the p-value is less 
+
+than alpha i.e. 0.001< 0.05. Hence, the alternative hypothesis (H8) is accepted.  
+
+From  the  above  analyses,  it  can  be  concluded  that  all  the  independent  variables  have  a 
+
+significant  positive  relationship  with  customer  satisfaction.  However,  among  all 
+
+independent  variables  the  mobile  banking  channel  has  the  highest  coefficient  of 
+
+correlation with customer satisfaction. Therefore, it can be concluded that mobile banking 
+
+has a greater impact on customer satisfaction. 
+
+4.4.4 Findings 
+
+A  research  was  conducted  to  find  out  the  influence  of  different  independent  variables, 
+
+used in research, on customer satisfaction. The research was done with a sample size of 
+
+384 which representing the population.  The descriptive statistics and inferential statistics 
+
+were conducted and the final result was presented. The results obtained from descriptive 
+
+statistics for the dependent variable and independent variables are summarized as below:  
+
+i.  The overall mean score of e-banking is 3.81, which shows that respondents agree 
+
+that  internet  banking  is  an  important  factor  of  alternative  banking  channel  that 
+
+affects the customer satisfaction.  
+
+ 
+ 
+52 
+
+ii.  The  overall  mean  score  of  ATM  is  3.77,  which shows  that  the  respondents  give 
+
+importance to ATM banking and it influences customer satisfaction.  
+
+iii.  The overall mean score of mobile banking is 3.93, which shows that respondents 
+
+agree  that  mobile  banking  is  an  important  factor  of  alternative  banking  channel 
+
+that affects the customer satisfaction.  
+
+iv.  The aggregate mean score of POS banking is 3.57, which shows that respondents 
+
+agree  that  POS  is  also  an  important  factor  of  alternative  banking  channel  that 
+
+affects the level of customer satisfaction. 
+
+v.  The aggregate mean score of customer satisfaction is 3.84, which shows that the 
+
+level of customer satisfaction with alternative banking channels is good.  
+
+vi.  The  descriptive  findings  suggest  that  among  various  independent  variables,  the 
+
+mobile banking has highest mean of 3.93 with a standard deviation of 0.914. This 
+
+shows  that  the  mobile  banking  channel  has  a  greater  effect  on  customer 
+
+satisfaction.  
+
+vii.  The dependent variable, customer satisfaction has a mean of 3.84 and a standard 
+
+deviation of 0.859. This shows that level of customer satisfaction with alternative 
+
+banking channels of Nepalese commercial banks is good. Standard deviations of 
+
+some variables are below the level of 1.00 and some are above 1.00 which shows 
+
+that there is variation in responses of the respondents.  
+
+The  correlation  coefficient  analysis  shows  that  the  relationship  between  a  dependent 
+
+variable  and  independent  variables  is  positive,  which  indicates  that  the  factors  of 
+
+alternative banking channels influence customer satisfaction.  
+
+The  eight  research  hypotheses  were  formulated  and  tested  to  identify  the  effect  of 
+
+alternative banking channels  i.e.  Internet,  Mobile, ATM, and POS  banking on customer 
+
+satisfaction. The significance of the hypothesis between the variable is also analyzed from 
+
+the significant value drawn from the sample. The correlation and regression results were 
+
+used to answer the eight research hypotheses.  
+
+The result showed that all the constructs are statistically significant at the 0.01 level. This 
+
+is  because  the  p-value  of  0.001  is  less  than  the alpha  value  i.e.  0.01.  Hence,  the  results 
+
+proved  that  all  the  independent  variables  i.e.  Internet,  Mobile,  ATM,  and  POS  banking 
+
+have a significant positive relationship with customer satisfaction.  
+
+ 
+ 
+53 
+
+The results of a test of hypothesis indicated that the correlation is significant at 1 percent 
+
+where  the  p-value  is  less  than  alpha  i.e.  0.001<  0.01.  There  is  a  positive  correlation 
+
+between  internet  banking  and  customer  satisfaction.  Hence,  the  alternative  hypothesis 
+
+(H1)  is  accepted.  Similarly,  there  is  a  positive  correlation  between  ATM  and  customer 
+
+satisfaction. Hence, the alternative hypothesis (H2) is also accepted. Likewise, there is a 
+
+positive  correlation  between  mobile  banking  and  customer  satisfaction.  Hence,  the 
+
+alternative  hypothesis  (H3)  is  accepted.  Additionally,  there  is  a  positive  correlation 
+
+between  POS  and  customer  satisfaction.  Hence,  the  alternative  hypothesis  (H4)  is 
+
+accepted.  
+
+The  findings  of  the  regression  analysis  show  that  there  is  a  positive  effect  of  internet 
+
+banking channel on customer satisfaction. The regression is significant at 5 percent where 
+
+the p-value is less than alpha i.e. 0.048< 0.05. Hence, the alternative hypothesis (H5) is 
+
+accepted.    Similarly,  there  is  a  positive  effect  of  ATM  banking  channel  on  customer 
+
+satisfaction. The regression is significant at 5 percent where the p-value is less than alpha 
+
+i.e. 0.001< 0.05. Hence, the alternative hypothesis (H6) is accepted. Likewise, there is a 
+
+positive  effect  of  mobile  banking  channel  on  customer  satisfaction.  The  regression  is 
+
+significant at 5 percent where the p-value is less than alpha i.e. 0.001< 0.05. Hence, the 
+
+alternative  hypothesis  (H7)  is  accepted.  Additionally,  there  is  a  positive  effect  of  POS 
+
+banking channel on customer satisfaction. The regression is significant at 5 percent where 
+
+the p-value is less than alpha i.e. 0.001< 0.05. Hence, the alternative hypothesis (H8) is 
+
+accepted.  
+
+The value of R-square as evident from the research is 0.610 which means 61 % variation 
+
+in customer satisfaction is explained by internet, ATM, mobile, and POS banking service 
+
+and  the  remaining  39%  (100%-61%)  other  factors  of  alternative  banking  channels.  The 
+
+result of regression analysis shows that the beta coefficients for e-banking, ATM, mobile, 
+
+and POS banking are positive with customer satisfaction.  
+
+4.5 Discussion 
+
+The  result  indicates  that  the  beta  coefficients  are  positive  and  significant  for  internet 
+
+banking  with  customer  satisfaction.  This  indicates  that  internet  banking  has  a  positive 
+
+impact on customer satisfaction. This finding is consistent with the findings of Nochi and 
+
+Nochi  (2013),  while  the  study  result  showed  that  the  internet  banking  service  quality 
+
+dimensions have a positive impact on customer satisfaction.  
+
+ 
+ 
+54 
+
+Gbadeyan  and  Akinyosoye's  (2011),  the  study  results  showed  that  the  quality  of  e-
+
+banking service offered  by the banks has a significant  influence on their  customers at  a 
+
+95%  degree  of  freedom.  John  and  Rotimi's  (2014)  study  result  showed  that  there  is  a 
+
+significant relationship between electronic banking and customer satisfaction. 
+
+The  beta  coefficients  are  positive  and  significant  for  mobile  banking  with  customer 
+
+satisfaction.  It  indicates  that  mobile  banking  has  a  positive  impact  on  customer 
+
+satisfaction. This finding is similar to the findings of Masrek et al.  (2012) The result of 
+
+the study showed that mobile banking has a positive and significant impact on customer 
+
+satisfaction and loyalty. Rahman and Hasan (2017). The study found that mobile banking 
+
+variables  tangible,  reliability,  responsiveness,  and  empathy  have  a  significant  positive 
+
+relationship  with  customer  satisfaction.  Saleem  and  Rashid  (2011)  study  result  showed 
+
+that mobile banking has the most significant and strong impact on customer satisfaction. 
+
+Similarly,  the  beta  coefficients  are  positive  and  significant  for  ATM  banking  with 
+
+customer satisfaction. This indicates that ATM banking has a positive effect on customer 
+
+satisfaction. This finding is similar to the findings of Adeniran and Junsidu (2014), while 
+
+the  study  result  showed  that  there  is  a  positive  and  significant  impact  of  ATM  service 
+
+provided by banks on customer satisfaction. Akpan (2016), the study result showed that 
+
+the ATM service quality has a positive significant impact on customer satisfaction in the 
+
+banking sector in Nigeria. The result indicated that accessibility, convenience, efficiency, 
+
+responsiveness,  security  &  privacy,  and  reliability  are  important  dimensions  of  service 
+
+quality of ATM banking (Kaur, 2013). 
+
+Likewise,  the  beta  coefficients  are  positive  and  significant  for  POS  banking  with 
+
+customer satisfaction. This indicates that POS banking has a positive impact on customer 
+
+satisfaction.  This  finding  is  consistent  with  the  findings  of  Fenuga  and  Oladejo  (2010), 
+
+while  the  study  result  showed  that  electronic  payment  has  a  significant  impact  on 
+
+customer satisfaction in Nigeria.  
+
+The study of Dion (2003) found that the development of technology (POS) leads to sales 
+
+increase  and  expense  reduction  which  positively  impact  profitability  and  customer 
+
+satisfaction.  Lin  and Sun's  (2009), study  result showed that online shopping technology 
+
+has a positive impact on customer satisfaction. 
+
+ 
+ 
+ 
+ 
+CHAPTER 5 
+
+CONCLUSION AND IMPLICATIONS 
+
+55 
+
+This chapter summarizes the research process and result of the study. The entire chapter 
+
+is summarized in three sections. The first one summarizes the study and general overview 
+
+about  research,  the  second  section  derives  the  conclusions  of  the  study  and  the  third 
+
+section provides the implications and recommendations for future researchers. 
+
+5.1 Summary 
+
+Customer  dissatisfaction  with  the  online  banking  services  is  increasing  in  commercial 
+
+banks (Aker, 2010; Bichanga &Wario, 2014; Kombo et al., 2016). The key challenges of 
+
+electronic  banking  are  getting  the  balance  between  convenience,  speed,  and  security. 
+
+Frequent  system  failure  especially  on  ATMs  has  also  been  a  concern  and  affects  the 
+
+quality  of  customer  service  delivery.  Similarly,  complaints  have  also  been  raised  on 
+
+failures at the point of sale terminals in stores whenever access to the host bank fails, thus 
+
+causing inconveniences to customers, sometimes leading to litigations.  
+
+The major purpose of the study is to examine the effect of alternative banking channels 
+
+on  customer  satisfaction  in  commercial  banks  in  Nepal.  The  specific  objectives  of  the 
+
+study  were  to  analyze  the  customer's  satisfaction  level  in  alternative  banking  channels, 
+
+and to examine the association between each of the independent variables i.e. e-banking, 
+
+mobile banking, ATM, and point of sale with customer satisfaction. 
+
+This  study  provides  guidelines  to  the  policymakers  to  make  policies,  rules,  and 
+
+regulations on alternative banking channels. This study should be beneficial for academic 
+
+institutions and individuals who might be interested in carrying out related researches in 
+
+the future. 
+
+The study has covered limited factors that affect customers‟ satisfaction but there may be 
+
+other factors might affect customer satisfaction.  The study was based on the assumption 
+
+of  linear  regression  between  the  dependent  and  independent  variables.  The  study 
+
+excluded the non-linear regression assumption. There is gap between the present research 
+
+and  previous  researches  in  terms  of  some  objectives,  tools  used  for  analysis,  period  of 
+
+data  collection  and  so  on.  The  topic  is  also  considered  as  the  difference  between  the 
+
+previous  researches  and  the  current  research.  The  main  objective  here  is  to  draw  a 
+
+genuine  conclusion  about  the  customer  satisfaction  towards  alternative  banking 
+
+ 
+ 
+ 
+ 
+56 
+
+considering the previous studies .Based on the previous literature review the conceptual 
+
+framework  model  was  developed.  The  hypotheses  were  developed  on  the  basis  of 
+
+conceptual framework. 
+
+The study consisted of 384 respondents belonging to different backgrounds. Primary data 
+
+was collected by using structured questionnaires addressed to the respondents. To conduct 
+
+the  study,  a  set  of  thirty  (30)  questions  has  been  prepared  and  distributed  to  the 
+
+customers.  The  researcher  has  taken  samples  from  NSBL,  NIC-Asia,  NBL,  SBL,  KBL, 
+
+Nabil,  and  GBIME  bank.  The  judgmental  sampling  technique  was  used  for  collecting 
+
+samples.  
+
+Correlation  analysis  was  conducted  to  establish  the  relationship  between  e-banking, 
+
+mobile banking, ATM and point of sale with customer satisfaction. The study also used a 
+
+multiple regression analysis to identify the effect of e-banking, ATM, mobile banking and 
+
+point of sale on customer satisfaction. Respondents answered on a five-point Likert scale 
+
+ranging from 'Strongly Disagree' to 'Strongly Agree'.  
+
+The  descriptive  findings  suggest  that  among  various  independent  variables,  the  mobile 
+
+banking  has  the  highest  mean  score  of  3.930  with  a  standard  deviation  of  0.914.  This 
+
+shows  that  mobile  banking  has  a  greater  effect  on  customer  satisfaction.  Similarly,  the 
+
+dependent  variable,  customer  satisfaction  has  a  mean  score  of  3.840  and  a  standard 
+
+deviation  of  0.859.  This  shows  that  level  of  customer  satisfaction  with  the  alternative 
+
+banking channels of Nepalese bank is good. 
+
+The  correlation  results  were  used  to  answer  the  eight  research  hypotheses.  The  result 
+
+showed that all the constructs are statistically significant at the 0.01 level. This is because 
+
+the p-value of 0.001 is less than the alpha value i.e. 0.01. Hence, the results proved that 
+
+all  the  independent  variables  i.e.  e-banking,  ATM,  Mobile  and  POS  banking  have  a 
+
+significant positive relationship with customer satisfaction. 
+
+The  model  summary  indicates  the  R-square  also  known  as  the  coefficient  of 
+
+determination  which  can  help  in  explaining  variance.  The  value  of  R-square  as  evident 
+
+from  finding  is  0.610  which  means  61  percent  variation  in  customer  satisfaction  is 
+
+explained by internet banking service, ATM banking service, mobile banking service, and 
+
+POS  banking  service.  However,  the  remaining  39  percent  (100%-61%)  is  still 
+
+unexplained  in  this  research.  In  other  words,  there  are  other  additional  variables  of 
+
+ 
+ 
+57 
+
+alternative banking service that are important in explaining customer satisfaction that has 
+
+not been considered in this research. 
+
+ANOVA  Test  shows  the  table  Sig.  value  0.05  is  greater  than  the  calculated  Sig.  value 
+
+0.001.  It  reflects  the  null  hypothesis  at  a  5%  level  of  significance.  This  shows  that  the 
+
+overall  model  was  significant.  The  result  of  regression  analysis  shows  that  the  beta 
+
+coefficients  for  e-banking,  ATM,  mobile  and  POS  banking  are  positive  with  customer 
+
+satisfaction.  It  indicates  that  e-banking,  ATM,  mobile  and  POS  banking  services  has  a 
+
+positive effect on customer satisfaction. 
+
+The  internet  banking  has  a  positive  impact  on  customer  satisfaction.  This  finding  is 
+
+consistent with the findings of Nochi and Nochi (2013) and Gbadeyan and Akinyosoye's 
+
+(2011). The mobile banking has a positive impact on customer satisfaction. This finding 
+
+is similar to the findings of Masrek et al. (2012), Rahman and Hasan (2017) and Saleem 
+
+and Rashid (2011). The ATM banking has a positive effect on customer satisfaction. This 
+
+finding is similar to the findings of Adeniran and Junsidu (2014) and Akpan (2016). The 
+
+POS  banking  has  a  positive  impact  on  customer  satisfaction.  This  finding  is  consistent 
+
+with the findings of Fenuga and Oladejo (2010) and Lin and Sun's (2009). 
+
+5.2 Conclusions 
+
+The  results  of  the  correlation  and  regression  analysis  provide  support  for  eight 
+
+hypothesized relationships. The statistical analysis has showed that there is a significant 
+
+positive  relationship  between  alternative  banking  channels  and  customer  satisfaction. 
+
+From  the  findings,  the  study  found  that  the  internet  banking  service  has  a  significant 
+
+positive  effect  on  customer  satisfaction.  It  concluded  that  customers  of  selected 
+
+commercial  banks  are  satisfied  with  internet  banking  services  but  not  more  than  ATM, 
+
+M-banking, and POS banking service. Similarly, the study found that ATM banking has a 
+
+significant positive effect on customer satisfaction. It indicates that the commercial banks 
+
+are satisfied their customers by improving service quality  and increasing the number of 
+
+ATMs service. 
+
+Likewise,  the  study  result  showed  that  the  mobile  banking  service  has  a  significant 
+
+positive effect on customer satisfaction of Nepalese commercial banks. It concluded that 
+
+the  customers  are  satisfied  with  the  mobile  banking  service  provided  by  commercial 
+
+banks  in  Nepal.  The  study  also  concluded  that  mobile  banking  is  the  most  influencing 
+
+ 
+ 
+58 
+
+factor  of  alternative  banking  channels.  The  study  result  also  found  that  point  of  sale 
+
+banking  has  a  significant  positive  effect  on  customer  satisfaction.  It  indicates  that  the 
+
+customers are satisfied with the point of sale banking channel. 
+
+5.3 Implications 
+
+Based  on  the  findings  of  the  study,  the  following  implications  are  made  for  further 
+
+improvement  in  alternative  banking  channels  to  increase  customer  satisfaction  in 
+
+commercial banks in Nepal. 
+
+i.  The  study  found  that  internet  banking  has  a  positive  effect  on  customer 
+
+satisfaction.  Hence,  the  commercial  banks  willing  to  increase  the  level  of 
+
+customer  satisfaction  should  focus  more  on  providing  better  internet  banking 
+
+services to their customers. 
+
+ii.  The study observed a positive relationship between ATM banking with customer 
+
+satisfaction.  Hence,  the  commercial  banks  are  willing  to  increase  customer 
+
+satisfaction and should focus more on improving services through ATM banking 
+
+and increasing no of ATMs services. 
+
+iii.  The study found that mobile banking is positively related to customer satisfaction. 
+
+Hence, the commercial banks willing to increase the level of customer satisfaction 
+
+should  focus  more  on  providing  better  mobile  banking  facilities  to  their 
+
+customers. 
+
+iv.  Based  on  the  study,  the  commercial  banks  willing  to  increase  the  level  of 
+
+customer satisfaction should focus on improving the point of sales service. Since 
+
+the study observed a positive effect of a better point of sales service on customer 
+
+satisfaction. 
+
+Recommendations for future researchers 
+
+This  study  has  tried  to  cover  the  issues  related  to  the  effect  of  alternative  banking 
+
+channels on customer satisfaction. Therefore, further studies can be carried out based on 
+
+the findings of this study. Some of the recommendations for future researchers are listed 
+
+as below: 
+
+i. 
+
+This  study  has  based  on  commercial  banks.  However,  further  studies  should 
+
+include  other  financial  institutions  like  development  banks,  and  finance 
+
+companies  to  grab  a  wider  view  of  alternative  banking  channels  and  their 
+
+effect on customer satisfaction. 
+
+ 
+ 
+ 
+59 
+
+ii. 
+
+The study has explained four factors of alternative banking channels whereas 
+
+further  analysis  might  be  made  on  the  determination  of  other  factors  of 
+
+customer satisfaction.  
+
+iii. 
+
+It has taken three hundred eighty four samples from seven commercial banks, 
+
+where the futures studies should take more sample and banks. 
+
+iv. 
+
+It  has  been  used  limited  analytical  tools  where  the  future  studies  should  use 
+
+more analytical tools which provide more accurate results. 
+
+ 
+ 
+ 
+ 
+ 
+References 
+
+Abubakar, A. A., Tasmin, R., & Takala, J. (2012). The impact of electronic banking on 
+
+customer  service  delivery  in  the  Malaysian  banking  industry:  Using  sand  Cone 
+
+model. International Journal of Science and IT Management, 1(11), 11-22. 
+
+Adewoye,  J.  O.  (2013).  Impact  of  mobile  banking  on  service  delivery  in  the  Nigerian 
+
+commercial  banks. International  Review  of  Management  and  Business 
+
+Research, 2(2), 333. 
+
+Adeniran, L. M. A. R., & Junaidu, A. S. (2014). An empirical study of automated teller 
+
+machine  (ATM)  and  user  satisfaction  in  Nigeria:  A  study  of  united  bank  for 
+
+Africa 
+
+in  Sokoto  metropolis. International 
+
+Journal 
+
+of  Management 
+
+Technology, 2(3), 1-11. 
+
+Aker,  J.  C.,  &Mbiti,  I.  M.  (2010).Mobile  phones  and  economic  development  in 
+
+Africa. Journal of Economic Perspectives, 24(3), 207-32. 
+
+Akpan, S. J. (2016). The influence of ATM service quality on customer satisfaction in the 
+
+banking sector of Nigeria. Global Journal of Human Resource Management, 4(5), 
+
+65-79. 
+
+Asfour,  H.  K.,  &  Haddad,  S.  I.  (2014).  The  impact  of  Mobile  Banking  on  enhancing 
+
+customers'  E-satisfaction:  An  empirical  study  on  commercial  banks 
+
+in 
+
+Jordan. International Business Research, 7(10), 145. 
+
+Azouzi,  D.  (2009).  The  adoption  of  electronic  banking  in  Tunisia:  An  exploratory 
+
+study. The Journal of Internet Banking and Commerce, 14(3), 8-11. 
+
+Buitenhek,  M.  (2016).  Understanding  and  applying  Blockchain  technology  in  banking: 
+
+Evolution or revolution. Journal of Digital Banking, 1(2), 111-119. 
+
+Byambaa,  B.,  &  Chang,  K.  (2012).The  influence  of  factors  of  online  purchase  on 
+
+customer  satisfaction 
+
+in  Mongolian  Airlines. International  Proceedings  of 
+
+Economics Development and Research, 57(15), 80-85. 
+
+Churchill  Jr,  G.  A.,  &Surprenant,  C.  (1982).An  investigation  into  the  determinants  of 
+
+customer satisfaction. Journal of Marketing Research, 19(4), 491-504. 
+
+Coskun,  E.  (2014).  Customer  penetration  trends  in  online  banking:  A  Turkish 
+
+case. Journal of Economics Finance and Accounting, 1(4),14-21. 
+
+Daniel,  E.  (1999).  Provision  of  electronic  banking  in  the  UK  and  Republic  of  Ireland. 
+
+International Journal of Bank Marketing, 17(2), 72-82. 
+
+ 
+ 
+ 
+Dermish,  A.,  Kneiding,  C.,  Leishman,  P.,  &  Mas,  I.  (2011).  Branchless  and  mobile 
+
+banking solutions for the poor: a survey of the literature. Innovations: Technology, 
+
+Governance, Globalization, 6(4), 81-98. 
+
+Fenuga,  O.  J.,  &Oladejo,  R.  K.  (2010).The  effect  of  electronic  payment  on  customer 
+
+service  delivery 
+
+in  Nigerian  banks. International  Journal  of  Economic 
+
+Development Research and Investment, 1(1), 227-239. 
+
+Fornell,  C.  (1992).  A  national  customer  satisfaction  barometer:  The  Swedish 
+
+experience. Journal of Marketing, 56(1), 6-21. 
+
+Gbadeyan,  R.A.,  &  Akinyosoye,  O.  O.  (2011).  Customers‟  preference  for  e-banking 
+
+services:  a  case  study  of  selected  banks  in  Sierra  Leone.  Australian  Journal  of 
+
+Business and Management Research, 1(4), 108-116. 
+
+Hossain, N., & Hossain, Y. (2015). Mobile banking and customer satisfaction: The case 
+
+of Dhaka City. World Review of Business Research, 5(3), 108-120. 
+
+Islam,  M.  S.  (2010).  The  analysis  of  customer  loyalty  in  Bangladeshi  mobile  phone 
+
+operator industry. World Journal of Management, 2(2), 130-145. 
+
+Jiradilok,  T.,  Malisuwan,  S.,  Madan,  N.,  &Sivaraks,  J.  (2014).  The  impact  of  customer 
+
+satisfaction  on  online  purchasing:  A  case  study  analysis  in  Thailand. Journal  of 
+
+Economics, Business and Management, 2(1), 5-11. 
+
+John, O. A., &Rotimi, O. (2014).Analysis of electronic banking and customer satisfaction 
+
+in Nigeria.European Journal of Business and Social Sciences, 3(3), 14-27. 
+
+Kahandawa,  K.,  &Wijayanayake,  J.  (2014).  Impact  of  mobile  banking  services  on 
+
+customer satisfaction: A study on Sri Lankan state commercial bank. International 
+
+Journal of Computer and Information Technology, 3(3), 2279-0764. 
+
+Kaur, M. (2013). Customer's satisfaction in ATM service: an empirical study of banks in 
+
+Chandigarh. International  Journal  Research  in  Commerce  &  Management, 4(6), 
+
+28-45. 
+
+Khraim, H. S., Al Shoubaki,  Y. E., & Khraim, A. S. (2011).Factors affecting Jordanian 
+
+consumers'  adoption  of  mobile  banking  services. International  Journal  of 
+
+Business and Social Science, 2(20), 4-23. 
+
+Khatri A, Kurnia S, (2014). Mobile banking adoption in Australian rural areas. In PACIS 
+
+Proceedings, 9(21), 57-64. 
+
+Khanna,  V.  T.,  &  Gupta,  N.  (2015).  Customer's  perception  about  banks  technology  for 
+
+Innovative delivery channels of public sector banks (PSBs) of India. International 
+
+Journal of Business and Management, 10(2), 214. 
+
+ 
+ 
+Kolodinsky,  J.  M.,  Hogarth,  J.  M.,  &  Hilgert,  M.  A.  (2004).The  adoption  of  electronic 
+
+banking 
+
+technologies  by  US  consumers. International  Journal  of  Bank 
+
+Marketing,22(4), 11-29. 
+
+Levesque, T., & McDougall, G. H. (1996).Determinants of customer satisfaction in retail 
+
+banking. International Journal of Bank Marketing,14(7), 33. 
+
+Lin,  G.  T.,  &  Sun,  C.  C.  (2009).  Factors  influencing  satisfaction  and  loyalty  in  online 
+
+shopping: an integrated model. Online Information Review, 33(3), 458-475. 
+
+Litfi, M., & Gharbi, J. (2012).E-satisfaction and e-loyalty of consumers shopping online. 
+
+Journal of Internet Banking and Commerce, 17(1), 1-21. 
+
+Ma, Z. (2012). Factors affect the customer satisfaction of internet banking: An empirical 
+
+study in China. Journal of Convergence Information Technology, 7(3), 101-109. 
+
+Masrek,  M.,  Omar,  U.,  &  Khairuddin,  I.  (2012).Mobile  banking  utilization,  satisfaction 
+
+and loyalty. Science Series Data Report Journal, 4(12), 345. 
+
+Malhotra, P., &  Singh,  B. (2009). The impact  of internet  banking  on bank performance 
+
+and 
+
+risk:  The 
+
+Indian  experience. Eurasian  Journal  of  Business  and 
+
+Economics, 2(4), 43-62. 
+
+Medard,  G.  P.,  &Venkatesan,  D.  (2016).Impact  of  ATM  service  quality  on  customer 
+
+satisfaction. International 
+
+Journal 
+
+of  Multidisciplinary 
+
+and  Current 
+
+Research, 4(2321), 317-320. 
+
+Muhammad,  L.,  &  Rana,  G.  E.  (2012).  Factors  distressing  internet  banking  adoption 
+
+among  adult  students:  Evidence  from  kingdom  of  Saudi  Arabia. Business  and 
+
+Management Review, 2(1), 76-82. 
+
+Mukherjee,  A.,  &  Nath,  P.  (2003).A  model  of 
+
+trust 
+
+in  online  relationship 
+
+banking. International Journal of Bank Marketing, 21(1), 10-25. 
+
+Mwatsika,  C.  (2014).  Customers  satisfaction  with  ATM  banking  in  Malawi. African 
+
+Journal of Business Management, 8(7), 218-227. 
+
+Nochai,  R.,  &  Nochai,  T.  (2013).  The  impact  of  internet  banking  service  on  customer 
+
+satisfaction  in  Thailand:  A  case  study  in  Bangkok. International  Journal  of 
+
+Humanities and Management Sciences (IJHMS), 1(1), 101-105. 
+
+Parvin,  A.  (2013).  Mobile  banking  operation  in  Bangladesh:  prediction  of  future. The 
+
+Journal of Internet Banking and Commerce, 18(1), 1-15. 
+
+Rahman,  A.,  Hasan,  M.,  &  Mia,  M.  A.  (2017).  Mobile  banking  service  quality  and 
+
+customer 
+
+satisfaction 
+
+in  Bangladesh: 
+
+an 
+
+analysis. The  Cost 
+
+and 
+
+Management, 45(2), 25-32. 
+
+ 
+ 
+Reddy,  D.  K.,&  Reddy,  D.  M.  S.  (2015).  A  study  on  customer‟s  perception  and 
+
+satisfaction  towards  electronic  banking  in  Khammam  district. IOSR  Journal  of 
+
+Business and Management, 17(12), 20-27. 
+
+Saleem, Z., & Rashid, K. (2011).Relationship between customer satisfaction and mobile 
+
+banking  adoption  in  Pakistan. International  Journal  of  Trade,  Economics  and 
+
+Finance, 2(6), 537-544. 
+
+Shakya,  A.  (2016).  Impact  of  online  banking  on  customer  satisfaction  and  firm 
+
+performance  on  Nepalese  commercial  banks.  Nepalese  Journal  of  Management, 
+
+3(1), 32-44. 
+
+Shrestha, S. (2016). Factor affecting customer satisfaction from ATM services: A case of 
+
+Nepalese commercial bank.  Nepalese Journal of Management, 3(4), 43-54. 
+
+Singh,  S.  (2011).  The  impact  of  ATM  services  on  customer  satisfaction  in  Indian 
+
+banks. International Journal of Financial Services Management, 5(2), 177-196. 
+
+Singh,  A.  (2013).  Relationship  between  service  quality  and  customer  satisfaction  in 
+
+organized retail outlets. Developing Country Studies, 3(1), 84-95. 
+
+Singhal,  D.,  &  Padhmanabhan,  V.  (2008).  A  study  on  customer  perception  towards 
+
+internet  banking:  identifying  major  contributing  factors. Journal  of  Nepalese 
+
+Business Studies, 5(1), 101-111. 
+
+Simon,  V.  T.,  Thomas,  A.  S.  R.,  &  Senaji,  R.  (2016).  Effect  of  electronic  banking  on 
+
+customer  satisfaction 
+
+in  selected  commercial  banks,  Kenya. International 
+
+Academic Journal of Human Resource and Business Administration, 2(2), 41-63 
+
+Yeoh, E., & Chan, J. K. L. (2011). Malaysian low cost airlines: Key influencing factors 
+
+on customers' repeat purchase intention. World Applied Sciences Journal, 12(35), 
+
+35-43. 
+
+ 
+ 
+ 
+ 
+ 
+Dear Respondent,  
+
+Appendix 
+
+I am Dammar Bahadur  Gadal, a student of Masters of Business Management (MBM) at 
+
+Central  Department  of  Management,  TU.  I  am  pleased  to  inform  you  that  I  am 
+
+undertaking  a  graduate  research  project  entitled  "Alternative  banking  channels  and 
+
+customers  satisfaction  in  commercial  banks  in  Nepal"  for  the  partial  fulfillment  of  my 
+
+master's  degree.  I  will  be  grateful  if  you  provide  just  a  few  minutes  to  answer  my 
+
+questions appearing in the enclosed questionnaire. Your ideas and information will be of 
+
+great importance to my research. 
+
+I would also like to assure you that all information contained in this questionnaire will be 
+
+kept  confidential  and  used  only  at  the  aggregate  level  for  research  purposes.  Your  kind 
+
+cooperation will be highly appreciated. 
+
+Sincerely  
+
+Dammar Bahadur Gadal 
+MBM 4th Semester 
+
+Central Department of Management  
+
+Tribhuvan University 
+
+ 
+ 
+ 
+ 
+ 
+General information 
+
+Responses 
+
+Gender 
+
+Male  
+
+Female 
+
+Age 
+
+Under 20 years 
+
+20-30 years 
+
+30-40 years 
+
+40-50 years 
+
+Above 50 years 
+
+Marital status 
+
+Single 
+
+Married 
+
+Others 
+
+Education level 
+
+High School 
+
+Undergraduate 
+
+Graduate 
+
+Postgraduate 
+
+Occupation 
+
+Self-employed 
+
+Employed 
+
+Student 
+
+Unemployed 
+
+Monthly income 
+
+Below Rs.20,000 
+
+NRs.200,000-NRs.40,000 
+
+NRs.40,000-NRs.60,000 
+
+Above Rs.60,000 
+
+How long have you been using alternative banking channels? 
+
+Less than 1 years 
+
+1-3 years 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+More than 3 years 
+
+How did you learn about alternative banking channels? 
+
+Through Social Media 
+
+Through friend 
+
+From Banks 
+
+Others 
+
+Which alternative banking channels you are using? 
+
+You can choose more than one option 
+
+a.  Internet Banking b. ATM      c. Mobile Banking d.  Point of Sale (POS) 
+
+Which bank's alternative banking channels do you use? 
+
+S.N 
+
+Bank Name 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Nepal Bank Limited 
+
+Nepal SBI Bank Limited 
+
+Nic Asia Bank Limited 
+
+Other Banks (Please write) 
+
+Response 
+
+How do you rate internet banking service? 
+
+Please rank your preferences from 1 to 5 (1 being the lowest and 5 being the 
+
+highest) 1-Strongly Disagree    2-Disagree    3- Neutral     4- Agree     5- Strongly 
+
+Agree   
+
+Internet Banking (IB) 
+
+1  2  3  4  5 
+
+1.  Internet banking is useful for easy banking transactions. 
+
+2.  Internet banking service is less costly than other banking services. 
+
+(Branch, ATM, Mobile & POS banking). 
+
+3.  Internet banking transaction procedure is faster and more reliable. 
+
+4.  Internet banking is convenient because it eliminates the risk of 
+
+carrying cash. 
+
+5.  Transaction through internet banking is confidential and secure. 
+
+6.  I am  satisfied with internet banking service 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How do you rate ATM banking service? 
+
+Automated teller machines (ATM) 
+
+1  2  3  4  5 
+
+1.  ATM banking is convenient for daily banking transactions. 
+
+2.  I am satisfied with ATM banking because its 24 X 7 availability. 
+
+3.  The speed of processing transactions by ATMs is much faster. 
+
+4.  ATM banking transactions are highly secure and safe. 
+
+5.  I am Satisfied with the transaction fee charged by the bank for 
+
+using an ATM card 
+
+6.  ATMs save me from transport costs and time by bringing self-
+
+service banking into convenient locations. 
+
+How do you rate mobile banking service? 
+
+Mobile banking (MB) 
+
+1  2  3  4  5 
+
+1.  Mobile banking is more convenient than other banking (Internet, 
+
+ATM, POS banking) 
+
+2.  Mobile banking is convenient because it reduces the risk of 
+
+carrying cash. 
+
+3.  I am using mobile banking service 24x7 
+
+4.  Mobile banking procedures are clear and understandable. 
+
+5.  Mobile banking cost-effective as compare to visiting banks 
+
+6.  You are satisfied with the user interface of mobile banking 
+
+How do you rate POS banking service? 
+
+Point of sale (POS) 
+
+1  2  3  4  5 
+
+1.  POS banking is reliable and trustworthy for shopping and service 
+
+payments. 
+
+2.  POS banking ensures an effective payment mechanism. 
+
+3.  POS banking is very useful among consumers at a retail store. 
+
+4.  It is banking is flexible in addressing the specific needs of 
+
+customers. 
+
+5.  POS is convenient because it reduces the risk of carrying cash. 
+
+6.  Technology use in POS helps to execute transactions fast. 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questionnaire relating to customer satisfaction 
+
+Customer satisfaction 
+
+1  2  3  4  5 
+
+1.  You are completely happy with your bank providing alternative 
+
+banking services. 
+
+2.  You are satisfied with the customer support provided on your 
+
+bank‟s website. 
+
+3.  You are satisfied with the payment system provided on the bank‟s 
+
+website. 
+
+4.  Your banking services are easy to use. 
+
+5.  You are satisfied with the transaction Procedures. 
+
+6.  Your bank's alternative banking services are user-friendly. 
+
+Thank you for your valuable time! 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+

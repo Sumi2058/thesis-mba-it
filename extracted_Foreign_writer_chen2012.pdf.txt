@@ -1,0 +1,151 @@
+Electronic Commerce Research and Applications 11 (2012) 535–536
+
+Contents lists available at SciVerse ScienceDirect
+
+Electronic Commerce Research and Applications
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / e c r a
+
+Guest Editors’ Introduction
+
+ECRA Special Issue Introduction for Volume 11, Issue 6, November–December 2012:
+Information Services in E-Commerce
+
+During the past decade, largely driven by the emergence of new
+technologies and applications such as social networking services,
+cloud computing, semantic web, mobile computing, and the Internet
+of Things, the practice of electronic commerce has been trans-
+formed. Today, it is characterized by mobility, virtualization, per-
+sonalization, socialization, and big data. Such changes have raised
+the challenge of providing real-time and precise information for
+buyers and sellers in e-commerce, so as to help them overcome
+the ever-growing online data volume. A related challenge is to sup-
+port decision-making in a more timely and efﬁcient way. By the
+same token, the business environments are becoming increasingly
+service-centric in developed and developing countries, shifting from
+goods-dominant to service-dominant operations and business mod-
+els. In these settings, quality and effective delivery of services have
+become an essential basis for most business transactions. Mean-
+while, new developments in information technologies (ITs) and
+innovations in business models interact with one another. We see
+fusion between them that is shaping the ever-evolving e-commerce
+world. This requires cutting-edge research from the behavioral,
+technical and management science perspectives to address how
+emerging technologies and service innovations can facilitate the fur-
+ther development of e-commerce. The research also needs to
+address how e-commerce users and information service systems
+are likely to co-evolve and adapt to each other.
+
+This special issue focuses on the exploration of technical and
+managerial topics with regard to information services in e-com-
+merce environments. We solicited original papers that design
+and develop new forms of information services for supporting
+innovative e-commerce practices, and investigate the behavioral
+traits of e-commerce users in the service-dominant environment.
+We were happy and encouraged to see that our call for contribu-
+tions to this special
+issue was well received by e-commerce
+researchers. Through a rigorous but developmental review process,
+a number of papers made their way forward, and are now pub-
+lished here in this special section on information services in Elec-
+tronic Commerce Research and Applications. The articles we
+selected have brought together three different but tightly interde-
+pendent perspectives, namely mechanism design, user percep-
+tions, and information search services.
+
+The ﬁrst article is ‘‘Coevolution-Based Mechanism Design for
+Sponsored Search Advertising.’’ The authors, Yong Yuan and Daniel
+Zeng, take a mechanism design perspective and propose a simula-
+tion method to computationally evaluate existing auction mecha-
+nisms for sponsored search advertising. The authors emphasize
+the link between technical solutions and business models, with
+the aim of designing a mechanism for effectively ﬁtting technical
+tools with business needs. Based on the concept of co-evolution,
+
+1567-4223/$ - see front matter (cid:2) 2012 Published by Elsevier B.V.
+http://dx.doi.org/10.1016/j.elerap.2012.09.003
+
+the authors propose several key performance measures for spon-
+sored search advertising. They also evaluate them using advertis-
+ers’ equilibrium bidding behavior generated in a numerical
+simulation of co-evolutionary bidding strategies. Through the pro-
+posed method, they assess a number of sponsored search auction
+mechanisms, including a number of those currently used in major
+search engines.
+
+The second article, ‘‘Perceived Usefulness of Online Consumer
+Reviews: An Exploratory Investigation across Three Service Catego-
+ries,’’ authored by Pradeep Racherla and Wesley Friske, provides a
+user behavioral perspective and investigates individual percep-
+tions about online reviews in various service contexts. The paper
+aims to reveal the factors that affect the perceived usefulness of
+online consumer reviews, so as to provide a more in-depth under-
+standing of the online behavior of e-commerce participants. Based
+on their observations and theoretical analysis, the authors suggest
+that various attributes of the reviewers and the reviews will
+inﬂuence consumer receptiveness, and the impacts that are ob-
+served will be moderated by the characteristics of different types
+of services. Based on data collected from Yelp.com, the authors test
+a number of hypotheses. They conclude that reviewer expertise
+and reputation have signiﬁcant impacts on the perceived 2useful-
+ness of online reviews, while the effects of other factors are mixed.
+The ﬁnal article, entitled ‘‘Measuring the Coverage and Redun-
+dancy of Information Search Services in E-Commerce Platforms,’’
+by Baojun Ma and Qiang Wei, explores a family of metrics that de-
+scribe information coverage and information redundancy, in order
+to represent different aspects of information diversity. The authors
+also examine a related metric for information coverage that they re-
+fer to as structure coverage. The question that the authors evaluate
+is: How well does a subset of extracted data from a large set of data
+represent the latter? This is a valuable question to ask, because
+many information search services users make somewhat different
+queries to represent essentially the same general questions that
+they wish to ask. One may argue that ‘‘not all queries are created
+equal.’’ The theoretical and experimental work that the authors re-
+port on provides a means for them to make this interesting claim.
+The proof is in the data that the slightly different queries return,
+analyzed according to their approach. The work demonstrates high
+relevance, as is desirable for works published in Electronic Commerce
+Research and Applications. It evaluates the performance of the pro-
+posed measures for information diversity and coverage in the con-
+text of e-commerce-related customer reviews. The computational,
+experimental and theoretical nature of this research makes it stand
+out among research papers that have appeared in the journal.
+
+The diversiﬁed but closely related angles of these articles will
+contribute to the existing literature on information services in
+
+536
+
+Editorial / Electronic Commerce Research and Applications 11 (2012) 535–536
+
+e-commerce, highlighting the new characteristics of the e-com-
+merce environment. They reﬂect the current state-of-art in the re-
+search realm they cover, from the perspectives of mechanism
+design, user behavior and information search services.
+
+As the guest editors of this special section, we would like to
+thank all of the authors for their contributions and all of the review-
+ers for their kind cooperation and insightful help. We heartily thank
+Professor Rob Kauffman, Editor-in-Chief of ECRA, for providing us
+with the opportunity to edit and publish this issue, as well as for
+his valuable guidance in the editorial process. We would also like
+to extend our thanks to ECRA’s Editorial Assistants, Dr. Huang-chi
+Lin in Taiwan and Ms. Tong Li in the US, who provided solid support
+and helpful assistance for the reviewers and authors to complete
+the editorial process during the past couple years.
+
+Guoqing Chen
+Xunhua Guo
+School of Economics and Management, Tsinghua University, Beijing
+100084, China
+E-mail addresses: chengq@sem.tsinghua.edu.cn (Subhash C. Chen),
+guoxh@sem.tsinghua.edu.cn (Subhash C. Guo)
+
+J. Leon Zhao
+College of Business, City University of Hong Kong, Kowloon, Hong Kong
+E-mail addresses: guoxh@sem.tsinghua.edu.cn
+
+Available online 13 October 2012
+
+

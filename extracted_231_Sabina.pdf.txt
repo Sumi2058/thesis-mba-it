@@ -1,0 +1,6433 @@
+FACTORS IMPACTING ONLINE SHOPPER’S ACTION IN 
+
+KATHMANDU VALLEY 
+
+A Dissertation Submitted to the Office of the Dean, Faculty of Management in partial 
+
+fulfillment of the requirements for the Master of Business Studies (MBS)  
+
+By 
+
+Sabina Bhandari 
+
+Campus Roll No: 925/74 
+
+Exam Roll No.: 23903/20 
+
+TU Reg No.: 7-2-911-27-2012 
+
+Shanker Dev Campus 
+
+Kathmandu, Nepal 
+
+June, 2024 
+
+CERTIFICATION OF AUTHORSHIP 
+
+I  hereby corroborate  that  I  have  researched  and  submitted  the  final  draft  of  dissertation 
+
+entitled “Factors Impacting Online Shopper’s Action in Kathmandu Valley”. The work 
+
+of this dissertation has not been submitted previously for the purpose of conferral of any 
+
+degrees  nor.  It  has  been  proposed  and  presented  as  part  of  requirements  for  any  other 
+
+academic purposes.  
+
+The  assistance  and cooperation  that  I  have  received  during  this  research  work  has  been 
+
+acknowledged. In addition, I declare that all  information sources and  literature used are 
+
+cited in the reference section of the dissertation.  
+
+………………………… 
+
+Sabina Bhandari 
+
+Date: March, 2024 
+
+ii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT OF RESEARCH COMMITTEE 
+
+Ms Sabina Bhandari has defended research proposal entitled “Factors Impacting Online 
+
+Shopper’s  Action  in  Kathmandu  Valley”,  successfully.  The  research  committee  has 
+
+registered the dissertation for further progress. It is recommended to carry out the work as 
+
+per  suggestions  and  guidance  of  supervisor  Mikha  Shrestha  and  submit  the  thesis  for 
+
+evaluation and viva voce examination.  
+
+Mikha Shrestha 
+
+Dissertation Proposal Defended Date 
+
+Dissertation Supervisor:………….  
+
+Signature: ……………………. 
+
+Asso. Prof. Dr. Sajeeb Kumar Shrestha  
+
+Head, Research Department 
+
+Signature: ……………………. 
+
+……………………………………………
+…………….. 
+Dissertation Submitted Date 
+
+……………………………………………
+…………….. 
+Dissertation Viva Voce Date 
+
+……………………………………………
+…………….. 
+
+iii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPROVAL SHEET 
+
+We,  the  undersigned,  have  examined  the  thesis  entitled  “Factors  Impacting  Online 
+
+Shopper’s Action in Kathmandu Valley” presented by Sabina Bhandari, a candidate for 
+
+the  degree  of  Master  of  Business  Studies  (MBS  Semester)  and  conducted  Viva  voce 
+
+examination of the candidate. We hereby certify that the thesis is worthy of acceptance. 
+
+………………….. 
+
+Mikha Shrestha 
+
+Dissertation Supervisor  
+
+………………………. 
+
+Internal Examiner  
+
+………………………... 
+
+External Examiner  
+
+……………………….. 
+
+Asso. Prof. Dr. Sajeeb Kumar Shrestha  
+
+Chairman, Research Committee  
+
+………………………… 
+
+Asso. Prof. Dr. Krishna Prasad Acharya  
+
+Campus Chief  
+
+iv 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACKNOWLEDGEMENTS 
+
+I would like to forward my deepest gratitude to Mikha Shrestha of Shanker Dev Campus 
+
+who  supports  me  with  her  invaluable  scholarly  supervision,  constructive  comments  and 
+
+suggestions that allow me to furnish this thesis report in this final format. 
+
+I would like to pay my sincere thanks to Asso. Prof. Dr. Sajeeb Kumar Shrestha, Head of 
+
+Research  Department  and  Asso.  Prof.  Dr.  Krishna  Prasad  Acharya,  Campus  Chief  of 
+
+Shanker Dev Campus. Besides, I would also  like to thank to other respected teachers of 
+
+Shanker  Dev  Campus  and  all  of  the  staff  of this  campus  for  their  help  in  providing  me 
+
+various kinds of suggestion, information and comments. 
+
+Further, my deep regard to known and unknown individual who helped to collect the data 
+
+at preliminary stage of this dissertation writing. 
+
+It is the matter of my immense pleasure to express my deep sense of gratitude and heartfelt 
+
+respect to my parents for their affection, inspiration and incredible support to precede my 
+
+academic career.  
+
+Sabina Bhandari 
+
+v 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+Title Page                                                                                                                               i 
+
+Certification of Authorship                                                                                                   ii 
+
+Report of Research Committee                                                                                            iii 
+
+Approval Sheet                                                                                                                     iv 
+
+Acknowledgements                                                                                                                v 
+
+Table of Contents                                                                                                           .      vi 
+
+List of Tables                                                                                                                     .viii 
+
+List of Figures  
+
+         ix 
+
+Abbreviations                                                                                                                        x 
+
+Abstract                                                                                                                               xi 
+
+CHAPTER I  INTRODUCTION                                                                                
+
+1.1 Background of the Study                                                                                           1 
+
+1.2 Problem Statement                                                                                                     4 
+
+1.3 Objectives of the Study                                                                                              5 
+
+1.4 Research Hypothesis                                                                                                  5 
+
+1.5 Rationale of the Study                                                                                                5 
+
+1.6. Limitations of the Study                                                                                            6 
+
+CHAPTER II  LITERATURE REVIEW                                                                  
+
+2.1 Theoretical Review                                                                                                    7 
+
+       2.1.1 Concept of Internet Banking 
+
+       2.1.2 Internet Banking and Consumer Adoption  
+
+       2.1.3 Concept of Service Quality  
+
+                     7 
+
+                     8 
+
+                     9 
+
+       2.1.4 Traditional Service Quality Dimension 
+
+                                 9 
+
+       2.1.5 Concept of Shopper’s Action  
+
+     2.1.6 Advantages of Online Shopping 
+
+       10 
+
+                 10 
+
+       2.1.7 Demographic Factors Influencing Shoppers Action                                          11 
+
+       2.1.8 Non-Store Factors for Online Shoppers Action                                                12 
+
+       2.1.9 Online Shoppers in Digital Age                                                                        14 
+
+       2.1.10 Models of Consumer Behavior                                                                       15 
+
+       2.1.11 Online Reviews and Recommendation of Online Shopping                          16 
+
+vi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                
+                  
+ 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       2.1.12 E-commerce Infrastructure and Logistics of Online Shopping                      17 
+
+2.2 Empirical Review                                                                                                     17 
+
+       2.2.1 Review of Journal and Articles 
+
+       2.2.2 Review of Thesis 
+
+                                17 
+
+                                26 
+
+2.3 Research Gap                                                                                                            29 
+
+CHAPTER III  RESEARCH METHODOLOGY                                                 
+
+3.1 Research Design                                                                                                       30 
+
+3.2 Population and Sample                                                                                             31 
+
+3.3 Nature and Sources of Data                                                                                      31 
+
+3.4 Instrumentation of Data Collection                                                                          32 
+
+3.5 Methods of Analysis                                                                                                 32 
+
+3.6 Statistical Tools                                                                                                        32 
+
+       3.6.1 Correlation Analysis 
+
+        33 
+
+       3.6.2 Descriptive Statistics                                                                                          33 
+
+3.7 Research Framework and Definition of Variables                                                   35 
+
+CHAPTER IV RESULTS AND DISCUSSION                                                      
+
+4.1 Results                                                                                                                       37 
+
+       4.1.1 Demographic Analysis of the Respondents 
+
+       4.1.2 Descriptive Statistics 
+
+                    37 
+
+        39 
+
+   4.1.3 Major Finding of the Study                                                                                 47 
+
+4.2 Discussion                                                                                                                 49 
+
+CHAPTER-V SUMMARY AND CONCLUSION                                                 
+
+5.1. Summary                                                                                                                  51 
+
+5.2. Conclusion                                                                                                               52 
+
+5.3. Implications                                                                                                             54 
+
+REFERENCES 
+
+APPENDICES 
+
+vii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIST OF TABLES 
+
+Table No. 
+
+Title 
+
+        Page No. 
+
+Table 1 Empirical Review of International Article 
+
+                    22 
+
+Table 2 Age of the Respondents                                                                                         37 
+
+Table 3 Gender of the Respondents                                                                                   38  
+
+Table 4 Education of the Respondents                                                                              38 
+
+Table 5 Monthly Income of the Respondents                                                                    39 
+
+Table 6 Occupation of the Respondents                                                                            39 
+
+Table 7 Descriptive Analysis of Convenience                                                                   40 
+
+Table 8 Descriptive Analysis of Information                                                                     41 
+
+Table 9 Descriptive Analysis of Availability                                                                     41 
+
+Table 10 Descriptive Analysis of Time and Cost                                                              42              
+
+Table 11 Descriptive Statistics of Online Shoppers Action                                               43 
+
+Table 12 Descriptive Analysis of Study of Variables                                                        43 
+
+Table 13 Correlation Matrix                                                                                               44 
+
+Table 14 Model Summary of Regression Analysis                                                            46 
+
+Table 15 ANOVA Table of Dependent and Independent Variable                                   46 
+
+Table 16 Coefficient Table of Dependent and Independent Variable                                47 
+
+viii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIST OF FIGURES 
+
+Figure No.                                                   Title 
+
+       Page No. 
+
+Figure 1 Research Framework 
+
+      35 
+
+ix 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS 
+
+ANOVA 
+
+: Analysis of Variance 
+
+Avai 
+
+: Availability 
+
+C&T    
+
+: Cost and Time Efficiency 
+
+Conv    
+
+: Convenience 
+
+COVID 
+
+: Corona Virus 
+
+E- Commerce  : Electronic Commerce 
+
+EFA  
+
+IBM  
+
+Inf  
+
+:  Exploratory Factor Analysis 
+
+: International Business Machine 
+
+: Information 
+
+KMO   
+
+: Kaiser–Meyer–Olkin 
+
+OSA 
+
+SLC 
+
+SPSS 
+
+US 
+
+: Online Shoppers Action 
+
+: School Leaving Certificate 
+
+: Statistical Package for Social Sciences 
+
+: United State 
+
+x 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT 
+
+The  surge  in  information  and  technology  has  led  to  a  rising  trend  of  online  shopping, 
+
+particularly in urban areas of Nepal, notably in the Kathmandu valley. This shift has proven 
+
+especially  valuable  during  the  COVID-19  pandemic,  providing  a  convenient  means  of 
+
+acquiring products and services delivered directly to our homes. Online shopping offers a 
+
+vast array of options, including items that may not be readily available in physical stores. 
+
+This method reduces the risk of disease transmission, as there is no need to visit stores and 
+
+physically select items.  
+
+A study was conducted with 400 participants, all of whom had engaged in online shopping. 
+
+Both multiple-choice and open-ended questions addressing the factors influencing online 
+
+shopper behavior were administered through online platforms, utilizing Google Forms. The 
+
+collected  data  underwent  analysis  using  IBM  SPSS  Software,  involving  Descriptive 
+
+Statistical  Analysis  and  Correlation  Analysis  to  draw  insights  from  the  information 
+
+gathered. 
+
+In  the  context  of  the  Kathmandu  Valley,  various  factors  such  as  time  efficiency,  cost 
+
+considerations, access to information, and the availability of goods and services contribute 
+
+to the preference for online shopping. Convenience plays a significant role in the overall 
+
+customer  experience  and  should  be  a  central  focus  in  the  strategies  and  plans  of  retail 
+
+brands.  The  convenience  factor  is  instrumental  in  business  growth,  making  it  a  crucial 
+
+aspect  of  marketing.  Having  reliable  information  is  an  essential  asset  for  any  business, 
+
+serving as a critical tool for success. 
+
+Information  allows  you  to  monitor  profitability,  manage  inventory  and  products,  and 
+
+respond to customer demands. Correct information in online business help to facilitate the 
+
+business expansion. Availability of goods and services helps to fulfil the needs and wants 
+
+of the consumers. Cost and time-saving are the main factor which consumers choose to 
+
+shop online. The popularity of online shopping among Nepalese people has increased with 
+
+the different factors such as convenience, time-saving and cost, availability of goods and 
+
+services, information.  
+
+Keywords:  Convenience,  Information,  Availability,  Cost  and  Time  Efficiency,  Online 
+
+Shoppers Action 
+
+xi 
+
+ 
+1 
+
+CHAPTER I 
+
+INTRODUCTION 
+
+1.1 Background of the Study 
+
+Online  Shoppers’s  actions  are  the  process  of  purchasing  goods  or  services  over  the 
+
+internet  It  has  become an  increasingly  popular  way  for  consumers  to  shop  in  recent 
+
+years, with the rise of e-commerce platforms and the increasing availability of high-
+
+speed  internet  Online  shopping  offers  a  number  of  benefits  to consumers,  including 
+
+convenience,  a  wider  selection  of  products,  and  the  ability  to  compare  prices  and 
+
+reviews across different websites (Koirala, 2021:14).  
+
+The growth of online shopper’s action has been driven by a number of factors, including 
+
+advancements in technology, changes in consumer behavior and preferences, and the 
+
+increasing availability of online retailers. According to a report by eMarketer, global 
+
+ecommerce sales are projected to reach $5 trillion by 2022, driven by continued growth 
+
+in emerging markets and increasing mobile commerce.  
+
+However, online shopping also presents a number of challenges for retailers, including 
+
+the  need  to  develop  effective  online  marketing  strategies,  provide  secure  payment 
+
+options, and create a seamless online shopping experience. As a result, businesses are 
+
+constantly seeking ways to improve their online sales and customer engagement, such 
+
+as through the use of social media, targeted advertising, and personalized promotions.  
+
+Online shoppers action is influenced by a variety of factors, including personal, social, 
+
+psychological,  and  situational  factors.  Understanding  these  factors  is  crucial  for 
+
+businesses looking to  improve their online sales and customer engagement. The key 
+
+factors  that  influence  online  shoppers  action  include  convenience,  perceived  risk, 
+
+website design, social  influence, trust, and personal factors such as age, income, and 
+
+education level. 
+
+Convenience  is  often  cited  as  one  of  the  most  important  factors  influencing  online 
+
+shoppers action, as it allows consumers to shop from the comfort of their own homes, 
+
+at any time of the day or night. Perceived risk, on the other hand, refers to the level of 
+
+uncertainty  or  potential  negative  consequences  associated  with  an  online  purchase, 
+
+which can affect a consumer's decision to buy. Website design and usability are also 
+
+ 
+2 
+
+important factors, as they can impact a consumer's perception of a retailer's credibility 
+
+and ease of use. Social influence, such as the opinions and recommendations of friends 
+
+or family, can also play a significant role in online shopper’s action. Trust is another 
+
+important factor, as consumers need to feel confident that their personal and financial 
+
+information  is  secure  when  making  online  purchases.  Personal  factors  such  as  age, 
+
+income, and education level can also impact online shoppers action, as these factors can 
+
+influence a consumer's level of comfort with technology, their financial resources, and 
+
+their shopping habits (Hussain et al. 2021:21).  
+
+The online shoppers action of consumers in Kathmandu Valley or Nepal is still in the 
+
+early  stages  of  development,  but  it  is  growing  rapidly  as  internet  penetration  and 
+
+smartphone adoption increase in the region. According to a 2020 report by the Nepal 
+
+Telecommunications Authority, internet penetration in Nepal reached 63.71%, with the 
+
+majority of users accessing the internet via mobile devices.  
+
+A study by Baabdullah et al. (2020) found that convenience, perceived risk, website 
+
+design, social influence, and trust were among the most important factors influencing 
+
+online shoppers action in Nepal. The study also found that purchase intention mediated 
+
+the  relationship  between  these  factors  and  actual  online  shoppers  action.  The  most 
+
+popular  products  purchased  online  in  Nepal  were  electronics,  clothing,  and  beauty 
+
+products. The study also found that consumers were most likely to shop on e-commerce 
+
+platforms that offered cash on delivery as a payment method, as well as platforms that 
+
+were well-known and trusted (Thapa & Sharma, 2020:58).  
+
+However, despite the growth in online shoppers action in Nepal, there are still several 
+
+barriers to adoption, including limited internet access in rural areas, limited availability 
+
+of digital payment options, and concerns around trust and security. A 2021 report  by 
+
+the  Himalayan  Times  highlighted  these  challenges,  noting  that  online  shopping  in 
+
+Nepal is still largely limited to urban areas, and that many consumers still prefer to shop 
+
+in physical stores where they can see and touch products before purchasing.  
+
+Overall, the online shoppers action of consumers in Kathmandu Valley or Nepal is still 
+
+in the early stages of development, but it is a rapidly growing market with significant 
+
+potential for expansion in the coming years. 
+
+ 
+ 
+3 
+
+The focus of the study is to identify and assess the factors that influence online shoppers 
+
+action  among  consumers  in  the  Kathmandu  Valley.  It  analyzes  the  relationship  and 
+
+impact of convenience, information, available products and services, and cost and time 
+
+efficiency on consumer behavior for online shopping. By providing  insights  into the 
+
+factors that impact online shoppers action, this study can help e-commerce businesses 
+
+develop effective strategies to meet the needs and expectations of their customers in the 
+
+Kathmandu Valley. 
+
+1.1.1 A Brief Introduction of Online Shopping Portals 
+
+Online shopping portals in Nepal have gained immense popularity in recent years due 
+
+to the growing trend of e-commerce. Some of the leading online shopping portals  in 
+
+Nepal include Daraz, Sastodeal, Kaymu, NepBay, and Muncha, among others. These 
+
+portals offer a wide range of products, including clothing, electronics, home appliances, 
+
+groceries,  and  more.  They  provide  customers  with  a  convenient  and  hassle-free 
+
+shopping experience, allowing them to browse and purchase products from the comfort 
+
+of their homes. With the rise of online shopping in Nepal, these portals have become 
+
+an essential part of the country's retail landscape, providing customers with easy access 
+
+to a diverse range of products and services. 
+
+  Daraz: Daraz is one of the most popular online shopping portals in Nepal. It offers 
+
+a wide range of products, including electronics, fashion, home appliances, beauty 
+
+products, and more. Daraz provides a convenient and secure platform for customers 
+
+to shop online, with easy payment options and a reliable delivery system. 
+
+  Sastodeal: Sastodeal is another popular online shopping portal in Nepal. It offers a 
+
+diverse range of products, including clothing, electronics, books, toys, and more. 
+
+Sastodeal  provides  customers  with  a  hassle-free  shopping  experience,  with  easy 
+
+payment options and a user-friendly interface. 
+
+  Kaymu: Kaymu is an online marketplace that connects buyers and sellers in Nepal. 
+
+It offers a wide range of products, including clothing, electronics, home appliances, 
+
+and more. Kaymu provides customers  with access to a diverse range of products 
+
+and sellers, with easy payment options and a secure delivery system. 
+
+  NepBay: NepBay is an online shopping portal that offers a wide range of products, 
+
+including clothing, electronics, books, and more. NepBay provides customers with 
+
+ 
+ 
+4 
+
+a convenient and secure platform to shop online, with easy payment options and a 
+
+reliable delivery system. 
+
+  Muncha: Muncha is an online shopping portal that offers a wide range of products, 
+
+including clothing, electronics, books, and more. Muncha provides customers with 
+
+a convenient and secure platform to shop online, with easy payment options and a 
+
+reliable delivery system. It also offers a unique service called "Send Gifts to Nepal," 
+
+allowing customers to send gifts to their loved ones in Nepal. 
+
+1.2 Problem Statement  
+
+The increment in internet users, the perception and attitude of the people have changed 
+
+from going to the store and likely have been shifted for viewing products online with 3 
+
+required information.  This  means store outlet attraction doesn’t attract people online 
+
+but necessary information does.  People visit the physical market less and browse the 
+
+product online. If a local/small business doesn’t make their online presence, they will 
+
+slowly lose their customers to the competitors by providing online services. Many e-
+
+commerce  websites  in  Nepal  allow  the  listing  of  products  and  services  for  FREE. 
+
+Consumers can directly contact these businesses via contact details submitted by the 
+
+businesses Internet (Schiffman and Kanuk, 2010:20). 
+
+Advancements  in  online-based  technology  have  resulted  in  shifts  in  the  retailing 
+
+industry, affecting both customers and business practice. The development of Internet 
+
+technology  has  enabled  customers  to  access  online  customer  reviews  and  organize 
+
+information to enhance their shopping experience. Furthermore, the need and desires 
+
+of  consumers  undergo  change  from  time  to  time.  In  order  to  adapt  business  with 
+
+changing pace of consumer needs and desires, it is essential for marketers to conduct 
+
+research  continuously  on  consumers.  Hence  it  is  necessary  to  study  the  factors 
+
+impacting online shoppers action in Kathmandu Valley (Zeithaml and Bitner, 2003:21). 
+
+Factors  affecting  customer  satisfaction  are  key  concern  for  any  organization, 
+
+department or country because through customer satisfaction any business can establish 
+
+long term profitable relationship with customer. The reason behind is once a firm loses 
+
+its loyal customers it has to incur a cost of acquiring them again in addition to acquiring 
+
+the new ones. To satisfy the aim, objective and the purpose for the review, the following 
+
+questions has been outlined depending the issues below: 
+
+ 
+ 
+ 
+5 
+
+  What are the factors influencing the online shoppers action of Kathmandu Valley? 
+
+ 
+
+Is there any relationship between convenience, information, available products & 
+
+services and cost and time efficiency and online shopper’s action?  
+
+  What is the impact of the convenience, information, available products & services 
+
+and cost & time efficiency on online shopper’s action? 
+
+1.3 Objectives of the Study 
+
+This study is aimed at fulfilling the following objectives: 
+
+  To assess the factors influencing the online shoppers action of Kathmandu valley. 
+
+  To analyze the relationship between convenience, information, available products 
+
+& services and cost & time efficiency and online shopper’s action.  
+
+  To  examine  the  impact  of  convenience,  information,  available  products  & 
+
+services and cost & time efficiency on online shopper’s action. 
+
+1.4 Research Hypothesis 
+
+Based on the empirical study, the following hypothesis were formulated to conduct this 
+
+study: 
+
+H1: There is significant relationship between convenience and online shopper’s action.  
+
+H2: There is significant relationship between information and online shopper’s action. 
+
+H3: There is significant relationship between available products & services and online 
+
+shopper’s action. 
+
+H4:  There  is  significant  relationship  between  cost  &  time  efficiency  and  online 
+
+shopper’s action. 
+
+1.5 Rationale of the Study 
+
+The findings of this study will not only benefit the online marketers in formulating their 
+
+marketing strategies but will also increase the knowledge and research in the field of 
+
+online shopping. The study will identify internal and external factors which influences 
+
+online shoppers action and it is important to know how much effect these factors have 
+
+on  online  shopper’s  action.  Besides  the  factors  influencing,  the  study  also  helps  to 
+
+analyze who are the online shoppers in terms of demography.  
+
+ 
+ 
+6 
+
+The rationale of this study is that the findings of this research work can be useful for 
+
+the  marketer to  formulate  marketing  strategy.  It  can  benefit  both the  consumers  for 
+
+making buying decision easily and the marketer for redesign, modifying their products 
+
+as per need of consumers.  
+
+Specifically, the research work may be useful for the following sector: -  
+
+  Marketers are concerned with the development of effective marketing program 
+
+and strategy. So as to persuade the prospective buyer to choose particular products 
+
+or brands, this kind of study can be very useful for marketers.  
+
+  Academic  researchers  are  basically  concerned  with  understanding  how 
+
+consumers make buying decisions. This kind of study in Nepal is likely to prove 
+
+the foundation for basic research on consumers' buying behavior in Nepal. 
+
+  Public policy makers are concerned with protection of consumer's interest in the 
+
+market  place.  In  Nepal,  this  objective  becomes  even  more  important  than  in 
+
+development countries due to low level of consumer knowledge and absence  of 
+
+independent agencies that provide objective information. 
+
+1.6. Limitations of the Study 
+
+The study has certain limitations, which are as follows:  
+
+  This  study  is  focused  on  the  factors  impacting  online  shoppers  action  of 
+
+consumers inside Kathmandu Valley only.  
+
+  The  sample  size  is  limited  to  a  specific  group  or  area  and  may  not  be 
+
+representative of the whole country. 
+
+  The study relies on self-reported data which is subject to response bias or may 
+
+not represent the actual behavior of the participant. 
+
+  The  study  faces  time  and  budget  constraints,  which  limit  the  scope  of  the 
+
+research  and  the  ability  to  explore  all  relevant  factors  that  impact  online 
+
+shoppers action among consumers in Kathmandu Valley. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+
+CHAPTER II 
+
+LITERATURE REVIEW 
+
+A literature review is the overview of reviewing the critical points of current knowledge 
+
+including substantive findings as well as theoretical and methodological contributions 
+
+to a particular topic. It is also a critical and in depth evaluation of previous research 
+
+performed  by  prior  researchers.  This  knowledge  motivates  further  research  on  some 
+
+topics  which  weren't  researched  by  others.  The  various  articles,  books,  research 
+
+journals, unpublished theses and internet have been used for this research work.  
+
+2.1 Theoretical Review 
+
+2.1.1 Concept of Internet Banking 
+
+Internet banking, also known as online banking or e-banking, is a service provided by 
+
+financial institutions that allows customers to access and manage their bank accounts 
+
+via the internet It provides a wide range of services including account balance check, 
+
+fund  transfer,  bill  payment,  and  investment  management,  among  others.  Internet 
+
+banking has  gained popularity due to its convenience, accessibility, and time-saving 
+
+features. 
+
+According to a report by the Federal Reserve, as of 2021, over 90% of U.S. households 
+
+have access to the internet, and over 80% of those households have used online banking 
+
+services  at  least  once  in  the  past  year.  This  highlights  the  widespread  adoption  of 
+
+internet banking in the United States. 
+
+Internet  banking  offers  various  benefits  for  both  banks and  customers.  For  banks,  it 
+
+allows for cost savings in terms of physical infrastructure and staff, while also providing 
+
+a wider reach to customers. For customers, it offers convenience and 24/7 availability, 
+
+allowing for transactions to be done from anywhere and at any time. A study conducted 
+
+by McKinsey & Company found that internet banking can reduce transaction costs by 
+
+up to 90% and increase customer satisfaction levels by up to  30% (Shah &  Tanodn, 
+
+2020:58). 
+
+However,  internet  banking  also  poses  security  risks  such  as  identity  theft,  phishing 
+
+attacks,  and  malware.  To  mitigate  these  risks,  financial  institutions  employ  various 
+
+security measures including multi-factor authentication, encryption, and firewalls. 
+
+ 
+ 
+8 
+
+In  conclusion,  internet  banking  has  become  a  popular  service  offered  by  financial 
+
+institutions, providing convenience, accessibility, and cost savings to both banks and 
+
+customers. While it comes with inherent security risks, appropriate security measures 
+
+can  be  implemented  to  ensure  safe  and  secure  banking  experiences  for  customers 
+
+(Parasuraman, 1985:56). 
+
+2.1.2 Internet Banking and Consumer Adoption 
+
+Internet  banking  has  transformed  the  traditional  banking  experience  by  providing  a 
+
+convenient  and  secure  online  platform  for  customers  to  access  their  bank  accounts, 
+
+make transactions, and manage their finances. Consumer adoption of internet banking 
+
+has been increasing steadily over the years due to its many benefits such as ease of use, 
+
+flexibility, and accessibility. 
+
+According to a study conducted by the Pew Research Center, the number of adults in 
+
+the United States who use mobile banking services has increased from 18% in 2011 to 
+
+46%  in  2019.  This  highlights  the  growing  adoption  of  internet  banking  among 
+
+consumers in the US. 
+
+Several factors have contributed to the increasing adoption of internet banking. One of 
+
+the primary factors is convenience. Customers can access their accounts and perform 
+
+transactions  from  anywhere,  anytime  using  their  mobile  devices  or  computers.  This 
+
+eliminates  the  need  to  visit  a  physical  bank  branch,  saving  time  and  effort  for  the 
+
+customers. 
+
+Another factor is the increasing use of smartphones and mobile devices. With the rise 
+
+of mobile technology, customers have become accustomed to accessing services and 
+
+products on the go, including banking services. A report by eMarketer estimates that 
+
+over 60% of US adults will use mobile banking services by 2023. 
+
+Security  is  also  an  important  factor  that  influences  consumer  adoption  of  internet 
+
+banking. Customers expect their personal and financial information to be kept secure, 
+
+and  banks  have  implemented  various  measures  to  ensure  the  safety  of  online 
+
+transactions.  These  include  two-factor  authentication,  encryption,  and  anti-fraud 
+
+monitoring systems. In conclusion, internet banking has become an essential service in 
+
+the  banking  industry,  and  consumer  adoption  continues  to  increase  due  to  its 
+
+ 
+ 
+9 
+
+convenience,  accessibility,  and  security.  As  technology  continues  to  evolve,  it  is 
+
+expected that internet banking will become even more integrated into consumers' daily 
+
+lives (Zeithaml and Bitner, 2003:21). 
+
+2.1.3 Concept of Service Quality 
+
+Service  quality  refers  to  the  degree  to  which  a  service  meets  or  exceeds  customer 
+
+expectations. It is a crucial aspect of business success, as customers are likely to return 
+
+and recommend a business that provides high-quality service. Here are some notable 
+
+citations about the concept of service quality. Service quality is the degree of excellence 
+
+or  superiority  that  customers  perceive  in  the  delivered  service.  This  definition 
+
+emphasizes  the  importance  of  customer  perception  in  evaluating  service  quality. 
+
+Service quality is the gap between customer expectations and perceptions of service. 
+
+This definition highlights the idea that service quality is not an absolute concept, but 
+
+rather  depends  on  how  well  a  service  meets  customer  expectations  (Parasuraman, 
+
+1985:56). 
+
+2.1.4 Traditional Service Quality Dimension 
+
+Traditional service quality dimensions are a set of dimensions that are commonly used 
+
+to  evaluate  the  quality  of  services.  These  dimensions  were  first  introduced  by 
+
+Parasuraman, Zeithaml, and Berry in their landmark 1985 study titled "A Conceptual 
+
+Model  of  Service  Quality  and  Its  Implications  for  Future  Research"  and  have  been 
+
+widely used in research and practice since then. 
+
+The five traditional service quality dimensions are: 
+
+  Tangibles:  This  dimension  refers  to  the  physical  appearance  of  the  service, 
+
+including the facilities, equipment, and personnel. 
+
+  Reliability: This dimension refers to the ability of the service provider to perform 
+
+the promised service dependably and accurately. 
+
+  Responsiveness: This dimension refers to the willingness of the service provider 
+
+to help customers and provide prompt service. 
+
+  Assurance: This dimension refers to the knowledge, competence, and courtesy of 
+
+the service provider and their ability to inspire trust and confidence in customers. 
+
+  Empathy:  This  dimension  refers  to  the  caring,  individualized  attention  that  the 
+
+service provider gives to customers (Parasuraman, 1985:23). 
+
+ 
+ 
+10 
+
+2.1.5 Concept of Shopper’s Action  
+
+Shopper’s  action  is  the  study  of  the  actions  and  decision-making  processes  of 
+
+individuals or groups when purchasing goods or services. It encompasses a wide range 
+
+of factors, including psychological, social, and cultural influences, as well as economic 
+
+and situational factors. Shoppers action is crucial for businesses to understand as it can 
+
+help them develop effective marketing  strategies,  identify new  market opportunities, 
+
+and build strong relationships with their customers.  Shoppers action is influenced by 
+
+four key factors: cultural, social, personal, and psychological. Cultural factors include 
+
+values, beliefs, and customs that shape consumers' behavior. Social factors refer to the 
+
+influence of family, friends, and other reference groups on consumer behavior. Personal 
+
+factors include age, gender, income, and lifestyle, while psychological factors include 
+
+motivation, perception, and learning (Solomon, 2021:24). 
+
+2.1.6 Advantages of Online Shopping 
+
+Online shopping leads to various kinds of shops in the online platform. An online shop 
+
+is a place for a transaction to sell products or services via the internet Online shop does 
+
+not  have  to  be  on  a  website.  We  can  also  open  online  stores  on  social  media,  i.e. 
+
+Facebook, Instagram and etc. The existence of the internet has created a change in the 
+
+commerce world becoming more modern. The Customer does not have to meet face-
+
+to-face to be able to conduct a transaction. They only need to make a deal between the 
+
+two parties and the products will arrive at the location without having to bother to visit 
+
+the store, or in other words, you may be selling or buying products and services over 
+
+the Internet (Schiffman and Kanuk, 2010:20). 
+
+Besides, customers may enjoy shopping online 24 hours a day. It is due to e-commerce 
+
+is  open  365  days  and  never  closed  for  even  one  minute.  Ecommerce  also  expands 
+
+geographical reach because customers can purchase any goods and services anytime, 
+
+anywhere. Therefore, online shopping is  more environmentally friendly compared to 
+
+buying in-store or offline shops because customers can fulfill their needs by choosing 
+
+without having to go to the store/shop (Parasuraman, 1985:26).  
+
+ 
+ 
+ 
+ 
+2.2.7 Demographic Factors Influencing Shoppers Action 
+
+These  factors  also  influence  buyer  behavior.  The  important  personal  factors,  which 
+
+influence online shoppers action are as follows: 
+
+11 
+
+a) Age 
+
+b) Occupation  
+
+c) Income 
+
+ d) Gender 
+
+ e) Education 
+
+a)  Age 
+
+Age of a person is one of the important factors influencing online buyer behavior. The 
+
+age of the consumer determines the type of product demanded and the choice of stores. 
+
+People buy different products at their different stages of cycle. Their taste, preference, 
+
+etc.  also  change  with  change  in  life  cycle.  Normally,  a  young  person  is  fashion 
+
+conscious in the choice of products, while a  middle-aged person  is  status conscious. 
+
+Young  consumers  are  more  prone  to  visit  departmental  stores,  while  middle-aged 
+
+persons prefer discount stores. Young consumers show  more risk taking behavior  in 
+
+buying new products than older consumers. 
+
+b)  Occupation 
+
+Occupation  of  the  individual  often  determines  his/her  consumer  behavior  pattern. 
+
+Occupation is a key determinant of a consumer’s income and social class.  Consumers 
+
+involved in different occupations show different product needs (occupational) and buy 
+
+products in different outlets. Occupation or profession of a person influences his buying 
+
+behavior.  The  life  styles  and  buying  considerations  and  decisions  differ  widely 
+
+according to the nature of the occupation. For instance, the buying of a doctor can be 
+
+easily differentiated from that of a lawyer, teacher, clerk businessman, landlord, etc. 
+
+So,  the  marketing  managers  have  to  design  different  marketing  strategies  suit  the 
+
+buying motives of different occupational groups. 
+
+c)  Income 
+
+Income  level  of  people  is  another  factor  which  can  exert  influence  in  shaping  the 
+
+consumption  pattern.  Income  is  an  important  source  of  purchasing  power.  Personal 
+
+ 
+ 
+12 
+
+income is a major determinant of consumer behavior. The amount of disposable income 
+
+of an individual determines what brands are bought, how frequently and in what type 
+
+of store.  Discretionary income of an individual determines the purchase of consumer 
+
+durable,  entertainment  and  other  leisure  related  activities.  Consumers  past  spending 
+
+pattern is a governing factor in future consumption, since they cannot suddenly change 
+
+their consumption behavior even when sources of income  gradually become narrow.  
+
+So, buying pattern of people differs with different levels of income.  
+
+d)  Gender 
+
+Gender refers to the characteristics of male and female that are socially constructed. It 
+
+is the range of characteristics pertaining to, and differentiating between femininity and 
+
+masculinity. The two genders are both very important for the marketers because of their 
+
+varying needs, behavior and psychology. Marketers generally adopt this approach of 
+
+neutral marketing which is targeting both men and women simultaneously. Gender is 
+
+the major factor out of all the other factors that affects consumer purchasing behavior. 
+
+When gender differs, the perception of consuming the product is different as well. Men 
+
+and women tend to have different choices while shopping because of the difference in 
+
+their upbringing and socialization. 
+
+e)  Education  
+
+Education is the process of receiving or giving systematic instruction, especially at a 
+
+school or university. The different education levels are included like SLC, Intermediate, 
+
+Bachelor and Masters or more. Education affects how people view things around them.  
+
+The  more  educated  a  person  is,  the  higher  the  level  of  discretion  he  will  employ  in 
+
+making purchases. People's preferences can change with education. Every customer is 
+
+well informed in this era (Hermes, 2000:24). 
+
+2.1.8 Non-store Factors for Online Shoppers Action 
+
+Unlike  a  physical  store,  all  the  goods  in  online  stores  described  through  text,  with 
+
+photos, and with multimedia files. Many online stores will provide links for much extra 
+
+information  about  their  product.  On  the  other  hand,  some  online  shoppers  are  an 
+
+adventurous explorer, fun seeker, shopping lover, and some are technology muddler, 
+
+hate waiting for the product to ship. Consequently, online shoppers action (user action 
+
+ 
+ 
+13 
+
+during searching, buying, using products) became a contemporary research area for an 
+
+increasing number of researchers to understand this unique nature of online shopping. 
+
+The non-store distribution channel can be divided into direct selling (off-premises sales) 
+
+and  distance  selling,  including  all  forms  of  electronic  commerce.  Distance  selling 
+
+includes  mail  order,  catalogue  sales,  telephone  solicitations  and  automated  vending.  
+
+Online  shoppers  just  click  or  tap  on  screen  away  from  us  and  also  it  provides  the 
+
+convenience of customizing the time and place of delivery as per our choice and ease. 
+
+Online shoppers indicate electronic commerce to buy products or services directly from 
+
+the seller through the Internet Internet-based or Click and Order business model has 
+
+replaced the traditional Brick and Mortar business model. More people than before are 
+
+using  the  web  to  shop  for  a  wide  variety  of  items,  from  house  to  shoes  to  airplane 
+
+tickets. Now people have multiple options to choose their products and services while 
+
+they are shopping through an online platform. 
+
+The non-store factors are summarized as follows: 
+
+a.  Convenience 
+
+Research shows that convenience of the internet is one of the impact on consumers’ 
+
+willingness to buy online. Online shoppers is available to customers around the clock 
+
+comparing to traditional stores as it is open 24 hours a day, 7 days a week. A research 
+
+shows that 58 percent chose to shop online because they could shop after hours, when 
+
+the traditional stores are closed and 61 percent of the respondents select to shop online 
+
+because they want to avoid crowds. 
+
+Consumers not only look for products, but also for online services. Some companies 
+
+have online customer services available 24 hours. Therefore, even after business hours, 
+
+customers can ask questions; get necessary support or assistance, which has provided 
+
+convenience to customers. 
+
+b.  Information 
+
+The internet has made the data accessing easier. Given customers rarely have a chance 
+
+to touch and feel the service product online before they make decision, online sellers 
+
+normally  provide  more  product  information  that  customers  can  use  when  making  a 
+
+purchase.  Customers  put the  weight  on  the  information  that  meets their  information 
+
+ 
+ 
+14 
+
+needs.  In addition  to  information  from  its  website,  consumers  can also  benefit  from 
+
+product’s reviews by other customers. 
+
+c.  Available Products and Services 
+
+E-commerce has made a transaction easier than it was and online stores offer consumers 
+
+benefits  by  providing  more  variety  of  products  and  services  that  they  choose  from. 
+
+Consumer can find all kinds of products which might be available only online from all 
+
+over the world. Most companies have their own websites to offer products and services 
+
+online, no matter whether they already have their front store or not. Many traditional 
+
+retailers sell certain products only available online to reduce their retailing costs or to 
+
+offer customers with more choices of sizes, colors, or features. 
+
+d.  Cost and Time Efficiency 
+
+Online customers are often offered a better deal; they can get the same product as they 
+
+buy at store at a lower price. Since online stores offer customers with variety of products 
+
+and services, it gives customers more chance to compare price from different websites 
+
+and find the product with lower prices than buying from local retailing stores. 
+
+e.  Online Shoppers Action 
+
+Online shoppers action refers to the process that individuals go through when making 
+
+purchasing decisions. It involves a series of stages that consumers go through, including 
+
+problem recognition, information search, evaluation of alternatives, purchase decision, 
+
+and post-purchase evaluation (Lerner, 2015:69). 
+
+2.1.9 Online Shoppers in Digital Age 
+
+The internet has revolutionized the way consumers shop and interact with businesses, 
+
+giving rise to several trends that are reshaping the retail landscape. One such trend is 
+
+the growing importance of online research in the purchasing process. Today, consumers 
+
+have access to a wealth of information about products and services, including reviews, 
+
+ratings,  and  recommendations  from  other  customers.  As  a  result,  they  are  more 
+
+informed  and  empowered  than  ever  before,  and  are  likely  to  base  their  purchasing 
+
+decisions on a wide range of factors beyond just price and brand reputation. Another 
+
+major trend is the rise of social media as a powerful platform for consumer engagement 
+
+ 
+ 
+ 
+15 
+
+and influence. Social media has given consumers a voice and a platform to share their 
+
+opinions  and  experiences  with  others,  which  can  have  a  significant  impact  on  the 
+
+purchasing decisions of their peers. Businesses are increasingly leveraging this trend 
+
+by creating social media campaigns that encourage customers to share their experiences 
+
+and opinions, and by partnering with influencers to reach wider audiences. The growth 
+
+of  e-commerce  has  also  raised  customer  expectations  for  convenience,  speed,  and 
+
+personalized experiences. Consumers now expect businesses to offer seamless online 
+
+shopping  experiences,  fast  and  reliable  delivery,  and  personalized  recommendations 
+
+based on their past behavior and preferences. In fact, many consumers are willing to 
+
+switch  to  a  competitor  if  they  offer  a  better customer  experience,  making  customer 
+
+satisfaction  a  critical  factor  in  retaining  and  growing  customer  bases.  Finally,  the 
+
+internet and social media have created new marketing channels that businesses can use 
+
+to reach and engage with customers. Targeted advertising allows businesses to reach 
+
+specific  customer  segments  with  personalized  messages,  while  influencer  marketing 
+
+offers a more authentic and organic way to reach wider audiences. These new channels 
+
+are constantly evolving, creating both opportunities and challenges for businesses as 
+
+they seek to navigate the ever-changing digital landscape (McKinsey, 2019:39). 
+
+2.1.10 Models of Consumer Behavior  
+
+a. Traditional Economic Model 
+
+The  traditional  economic  model  of  consumer  behavior  assumes  that  consumers  are 
+
+rational  and  make  decisions  based  on  maximizing  their  utility  or  satisfaction.  This 
+
+model  emphasizes  the  importance  of  cost-benefit  analysis  in  decision-making.  For 
+
+example, a study by Rangel and found that when given a choice between two snacks, 
+
+participants were more likely to choose the one that provided the greatest nutritional 
+
+value per dollar. 
+
+b.  Cognitive Model of Consumer Behavior 
+
+The cognitive  model of consumer behavior emphasizes the role of beliefs, attitudes, 
+
+and perceptions in the decision-making process. This model suggests that consumers 
+
+engage  in  a  series  of  cognitive  processes,  such  as  problem  recognition,  information 
+
+search, evaluation of alternatives, and purchase decision. For example, a study found 
+
+ 
+ 
+16 
+
+that consumers are more  likely to  search for information when they perceive a high 
+
+level of risk associated with a purchase. 
+
+c.  Emotional Model of Consumer Behavior 
+
+The  emotional  model  of  consumer  behavior  emphasizes  the  role  of  emotions  and 
+
+affective states in the decision-making process. This model suggests that emotions can 
+
+influence behavior, such as by  motivating consumers to  make a purchase or avoid a 
+
+particular  product.  For  example,  a  study  by  found  that  emotions  such  as  anger  and 
+
+disgust can lead consumers to make riskier choices. 
+
+d. Social Model of Consumer Behavior 
+
+The social model of consumer behavior emphasizes the role of social influences, such 
+
+as culture, family, and reference groups, in the decision-making process. This model 
+
+suggests that social identity can affect consumer behavior, such as by influencing the 
+
+products  or  brands  that  consumers  prefer.  For  example,  a  study  found  that  cultural 
+
+values, such as individualism or collectivism, can influence the types of products that 
+
+consumers prefer (Zhou, 2020:78). 
+
+2.1.11 Online Reviews and Recommendation of Online Shopping 
+
+Online reviews and recommendations have been found to be influential in consumers' 
+
+online shoppers action. A study found that 88% of consumers trust online reviews as 
+
+much as personal recommendations from friends or family members. Moreover, 72% 
+
+of consumers will take action only after reading a positive review, while 88% will be 
+
+discouraged from purchasing a product  after reading negative reviews  The impact of 
+
+online reviews on consumer behavior has been attributed to the social influence theory, 
+
+which  suggests  that  people's  attitudes,  beliefs,  and  behavior  are  influenced  by  the 
+
+people around them (Hogg & Vaughan, 2018). Consumers perceive online reviews as 
+
+a  form  of  word-of-mouth  communication,  which  is  perceived  as  more  credible  and 
+
+trustworthy than advertising messages from brands (Vaidya, 2019:65). 
+
+2.1.12 E-commerce Infrastructure and Logistics of Online Shopping 
+
+E-commerce infrastructure and logistics are essential components of online shopping 
+
+that  can  significantly  impact  consumer  behavior.  Several  studies  have  explored  the 
+
+ 
+ 
+17 
+
+various  aspects  of  e-commerce  infrastructure  and  logistics  that  influence  online 
+
+shoppers action. Website design is a crucial factor that affects consumers' perception of 
+
+e-commerce  websites.  A  study  found  that  website  design  significantly  influences 
+
+consumers' trust in the website and their intention to make a purchase. A well-designed 
+
+website that is easy to navigate and provides a secure checkout process can encourage 
+
+consumers to make a purchase. Payment gateways are another critical component of e-
+
+commerce  infrastructure.  Payment  security  is  the  most  critical  factor  influencing 
+
+consumers'  trust  in  e-commerce  websites.  Reliable  payment  gateways  that  offer  a 
+
+variety of payment options can increase consumers' trust in the website and the brand 
+
+(Sahin, 2011:78). 
+
+2.2 Empirical Review 
+
+2.2.1 Review of Journal and Articles 
+
+Bucko et al. (2018) researched on “Online Shopping: Factors that Affect Consumer 
+
+Purchasing Behavior”.  The  objective  of  this  research  was  to  determine  factors  that 
+
+affect the consumers’ willingness to purchase product from the online store. Correlation 
+
+Analysis  and  Confirmatory  Factor  Analysis  were  used  to  analyze  the  data.  The 
+
+researchers found that the factor of price explained the largest part of variance in the 
+
+data. The price was especially important for university students, as in majority of cases, 
+
+they are not employed and their financial budget is limited.  
+
+Chitrakar  (2018)  reviewed  on  “Online  Shopping:  Consumer  Behaviour  and 
+
+Competitor Analysis in Nepal”. The aim of the research was to find out how the factors 
+
+of consumer behavior is affecting the online shopping as well as the recognized the 
+
+dominant competitors and how they were reacting towards growing trend in the market 
+
+The researcher used Multi- Regression Analysis for analyzing the data. The findings 
+
+were: Trust  issues were still vulnerable in online shopping business. Awareness was 
+
+shown by the consumers when exposed to tangible promotions. People tended to follow 
+
+the  traditional  business  method  and  were  influenced  with  decision  making  of  their 
+
+companion. In conclusion, people surfing through the internet were not going through 
+
+online shopping websites so it should be made attractive to lure the customer’s schemes 
+
+and discounts. Customers had trust issues so it should be maintained by satisfying their 
+
+needs and building trust.  
+
+ 
+ 
+ 
+18 
+
+Rungsrisawat  et  al.  (2019)  researched  on  “Factors  Determining  Consumer Buying 
+
+Behavior  in  Online  Shopping”.  The  objective  of  the  research  was  to  find  out  the 
+
+determining factors that encourage and influence the online buying behavior. This study 
+
+was based on Multiple Regression Analysis and ANOVA Analysis. The findings of this 
+
+study suggested that the hypotheses were accepted which stated that perceived benefit 
+
+and  psychological  factors  (such  as  security,  privacy,  and  trust)  had  a  direct  and 
+
+significant  relationship  with  online  buying  behaviour.  In  conclusion,  Online  buying 
+
+behavior  was  affected  by  perceived  benefits  offered  by  e-commerce  websites  and 
+
+psychological  factors  such  as  truth.  The  regression  model  showed  a  positive 
+
+relationship, which means the higher these factors, the higher will be the online buying 
+
+behaviour.  
+
+Vaidya (2019) researched on “Online Shopping in Nepal: Preferences and Problems”. 
+
+The researcher objective was to find out the reasons behind to prefer online shopping 
+
+by the Nepalese shoppers, and the problems they have been facing while going for it. 
+
+Correlation Analysis and Chi-square test were used to analyze the data. The findings of 
+
+the research were that Time-saving and quick delivery service at the door-step was seen 
+
+as the main reasons for the shoppers to go for online shopping in context to Nepal.  
+
+Gaudel  (2019)  researched  on  “Consumers’  Attitude  Towards  Online  Shopping: 
+
+Factors Influencing Nepali Consumers to Shop Online”. The objective of the research 
+
+was to analyze the Consumer’s attitudes towards online shopping in Nepal. Descriptive 
+
+research method is used to analyze the data. The results of correlation results of age 
+
+indicated that there was a quite strong positive correlation between age and attitude to 
+
+online shopping. From the results the researcher concluded that the most influencing 
+
+and  attractive  factor  among  four  factors  is  convenience,  following  security  that  is 
+
+second  most  influencing  factor,  time  saving  and  website  design/Feature  was  also 
+
+important,  particularly  the  convenience concerns are  very  important  while  shopping 
+
+online.  
+
+Thakur et al. (2020) researched on “A Study on the Online Impulse Buying Behaviour 
+
+During COVID -19”. The main objectives were to study the effect of Covid19 on the 
+
+online  impulse  buying  behavior  and  to  study  impulse  buying  behavior  and  its 
+
+relationship  with  online  sales,  value  for  Money  and  ease  of  shopping.  Descriptive 
+
+Statistics had been used to analyze the data. The researchers found out that younger 
+
+ 
+ 
+19 
+
+people are more susceptible to impulse buying and tend to buy more products online if 
+
+they get premium products at lower price and also would instantly buy if a product has 
+
+limited  stock.  In  conclusion,  Impulse  buying  behavior  of  customers  had  increased 
+
+during  pandemic  compared  to  the  times  before.  This  is  because  of  the  fact  that 
+
+consumers spent more time over internet during the lockdown period. Consumers came 
+
+across various online advertisements, offers and discounts.  
+
+Shah and Tendon (2020) researched on “Consciousness of Online Shopping Consumer 
+
+Buying Behaviour”. The objectives were to study the dimension of self-consciousness 
+
+as  a  determinant  of  online  shopper’s  action  and  analyse  the  impact  of  self-
+
+consciousness  on  online  shopping  consumer  behaviour.  The  researchers  used  Multi-
+
+Regression Analysis for analyzing the data. The findings were that there was significant 
+
+impact  of  self-consciousness  on  perceived  usefulness,  perceived  ease  of  use  and 
+
+consumer  behaviour  but  not  on  attitude.  Hence,  it  was  concluded  that  self-
+
+consciousness does not stimulate perceived usefulness of online buyers, perceived ease 
+
+of use is not dominantly  impacted by self-consciousness of online buyers, consumer 
+
+attitude is effectively impacted by self-consciousness when it came to shopping on the 
+
+web and consumer buying behaviour is affected by self-consciousness of Indian online 
+
+buyers.  
+
+Uddin (2020) reviewed on “Factors Affecting Consumers’ Internet Shopping Behavior 
+
+During  the  Covid-19  in  Bangladesh”.  The  aim  of  the  study  was  to  investigate  the 
+
+factors affecting consumers’ internet shopping behavior during the coronavirus disease 
+
+(COVID19) pandemic in Bangladesh. The researcher used multiple regression analysis 
+
+to analyze 13 the data. The study found few influences of the independent variables, 
+
+such as product factor, price factor, time saving factor, payment factor, security factor, 
+
+administrative factor and psychological factor. Results exhibited that all factors except 
+
+price  factor  and  security  factor  had  a  momentous  and  positive  association  with 
+
+consumers’  internet  shopping  behavior  during  the  coronavirus  disease  (COVID-19) 
+
+pandemic in Bangladesh.  
+
+Daroch  et  al.  (2020)  researched  on “A  Study  on  Factors  Limiting  Online  Shopping 
+
+Behavior of Consumers”. This study aimed to investigate consumer behaviour towards 
+
+online shopping, which further examines various factors limiting consumers for online 
+
+shoppers action. The Kaiser–Meyer–Olkin (KMO) measured and Cronbach’s a test was 
+
+ 
+ 
+20 
+
+adopted for this research. As per the results total six factors came out from the study 
+
+that restrains consumers to buy from online sites – fear of bank transaction and faith, 
+
+traditional  shopping  more  convenient  than  online  shopping,  reputation  and  services 
+
+provided, experience, insecurity and insufficient product information and lack of trust. 
+
+To be concluded, trust needed to be generated in the customer’s mind, which can be 
+
+done  by  modifying  privacy  and  security  policies.  By  adopting  such  practice,  the 
+
+marketer generated customers’ interest towards online shopping.  
+
+Matz (2021) researched on “Online vs. Offline Shopping, Impact of COVID-19 on the 
+
+Digitalization Process in Austria”. This study aimed to identify the influence of Covid-
+
+19 on the retail industry's digitalization process as well as how it affected the consumers' 
+
+decision to shop online versus offline. For this study, descriptive statistics analysis and 
+
+Kruskal-Wallis tests as well Mann-Whitney U tests were used to analyze the data. On 
+
+the  contrary,  the  study  highlighted  that  consumers  strongly  value  the  high  level  of 
+
+convenience, online shopping contributes to their life. This convenience results from 
+
+factors such as the easiness to see discounts and prices and the greater availability of 
+
+products compared to offline stores.  
+
+Wang (2021) reviewed on “Factors Affecting Online Shopping Behavior in Malaysia”. 
+
+The objective of the research was mainly to determine the influencing factors that affect 
+
+the online shopping. Descriptive Statistics Analysis was mainly used by the researcher 
+
+for  analyzing  the  data.  Cultural  factors,  social  factors,  personal  factors,  and 
+
+psychological  factors  are  important  influencing  factors  found  considering  online 
+
+consumption. The following conclusions were made: Make full use of Internet channels 
+
+and conduct marketing through the Internet to truly reach potential customers, improve 
+
+the  consumer’s  consumption  experience  of  the  company’s  online  shopping  and  to 
+
+establish  a  good  reputation,  create  secondary  consumption,  improve  the  payment 
+
+system, and provide as 11  many payment methods as possible  in order to adapt to a 
+
+wider customer base, with the development of big data technology, it was possible to 
+
+have  a  more  comprehensive  understanding  of  user  needs.  The  quality  of  customer 
+
+experience  promoted  sales  and  customer  retention  more  than  ever  research  method 
+
+theoretically.  It  was  found  that  marketing  communication  process  differs  between 
+
+offline and online consumer decision. Managerial implications are developed for online 
+
+stores to improve their website.  
+
+ 
+ 
+21 
+
+Thang et al., (2022) researched on “Factors Influencing Online Shopping Intention: 
+
+An Empirical Study in Vietnam”. The study examined factors that influence shopping 
+
+intention of online consumers in Vietnam. Studied factors include consumers’ attitude, 
+
+subjective norms, perception of behavioral control, perception of usefulness, perceived 
+
+risks  and  trust.  The  researchers  used  exploratory  factor  analysis  (EFA),  correlation 
+
+analysis and regression analysis to analyze the data. The results showed that shopping 
+
+intention of online consumers are positively affected by their attitude, subjective norms, 
+
+perception of behavioral control, perception of usefulness and trust. In contrast, online 
+
+shopping  intention is negatively affected by the perceived risks that online shopping 
+
+could  bring.  Among  those  factors,  the  perception  of  risk  was  shown  to  have  the 
+
+strongest influence to online shopping intention.  
+
+Liao (2023) conducted a study on “Factors Influencing Individuals Online Shopping 
+
+Behavior: A System Review”. The study suggested that there were plenty of factors that 
+
+had an effect on people’s action of consuming on the internet. Those factors influenced 
+
+people’s behavior in a different way from offline shopping. This research aimed at the 
+
+cause that influenced people behavior in a different way from offline shopping.  This 
+
+research aimed at the cause that influenced people’s online shopping behavior. In this 
+
+review, an analysis based on present research aimed at people’s behavior affected by 
+
+the online shopping model.  Unlike offline stores, online shopping offered people the 
+
+unique  consumption  practice  and  shopping  experience.  The  study  also  provided  the 
+
+cohesive knowledge about the research on how online shopping influenced and changed 
+
+peoples shopping behaviors. The results revealed peoples change in shopping behaviors 
+
+during consumption online and provided the basic information for further studies. 
+
+Table 1 
+
+Empirical Review of International Articles 
+
+Date  
+
+Articles 
+
+Writers   
+
+Objectives  Methodology 
+
+Findings 
+
+ (2018)  Online 
+
+Bucko et al. 
+
+shopping: 
+factors 
+that 
+affect  consumer 
+purchasing 
+behavior 
+
+Determine 
+factors 
+affect 
+consumers' 
+willingness 
+
+that 
+
+to 
+
+Correlation 
+analysis 
+confirmatory 
+factor analysis 
+
+and 
+
+Price is the  most 
+important  factor 
+affecting 
+consumers' 
+willingness 
+
+to 
+
+ 
+ 
+ 
+ (2018)  online 
+
+Chitrakar 
+
+shopping: 
+consumer 
+behaviour  and 
+competitor 
+analysis in nepal 
+
+Rungsrisawat,  et 
+al. 
+
+ (2019)  Factors 
+
+determining 
+consumer 
+buying behavior 
+in 
+online 
+shopping 
+
+purchase 
+products online 
+
+and 
+
+Identify  factors 
+affecting 
+consumer 
+behavior 
+dominant 
+competitors  in 
+the  Nepalese 
+online 
+shopping 
+market 
+
+Determine 
+factors 
+that 
+encourage  and 
+influence 
+online  buying 
+behavior 
+
+Multi-
+regression 
+analysis 
+
+Multiple 
+regression 
+analysis 
+ANOVA 
+
+and 
+
+(2019)  Online 
+
+Vaidya 
+
+in 
+
+shopping 
+nepal: 
+preferences  and 
+problems 
+
+ (2019)  Consumers’ 
+
+Gaudel 
+
+attitude  towards 
+online 
+shopping: 
+factors 
+influencing 
+nepali 
+consumers 
+shop online 
+
+to 
+
+for 
+
+Correlation 
+analysis 
+and 
+chi-square test 
+
+Identify 
+reasons 
+Nepalese 
+shoppers 
+prefer 
+shopping 
+problems 
+face 
+
+to 
+online 
+and 
+they 
+
+Descriptive 
+research 
+method 
+
+Analyze Nepali 
+consumers' 
+attitudes 
+towards  online 
+shopping 
+
+22 
+
+purchase 
+products online 
+
+issues, 
+
+Trust 
+awareness 
+through  tangible 
+promotions,  and 
+traditional 
+decision-making 
+influence  online 
+shoppers  action 
+in Nepal 
+
+Perceived benefit 
+and 
+psychological 
+factors  (security, 
+and 
+privacy, 
+trust)  have 
+a 
+significant 
+relationship  with 
+online 
+buying 
+behavior 
+
+Time-saving  and 
+delivery 
+quick 
+the 
+service  at 
+doorstep  are  the 
+main  reasons  for 
+Nepalese 
+shoppers 
+prefer 
+shopping 
+
+to 
+online 
+
+time-
+and 
+
+Convenience, 
+security, 
+saving, 
+website 
+design/features 
+are 
+factors 
+influencing 
+Nepali 
+consumers 
+shop online 
+
+important 
+
+to 
+
+Thakur et al. 
+
+ (2020)  A  study  on  the 
+online 
+impulse 
+buying 
+behaviour 
+during COVID -
+19 
+
+Descriptive 
+statistics 
+analysis. 
+
+the 
+To  study 
+effect of Covid-
+19  on  online 
+impulse buying 
+behavior and its 
+relationship 
+
+Younger  people 
+more 
+are 
+susceptible 
+to 
+impulse  buying 
+and  tend  to  buy 
+products 
+more 
+
+ 
+ 
+online 
+with 
+sales,  value  for 
+and 
+money, 
+ease 
+of 
+shopping. 
+
+online 
+
+ (2020)  Consciousness 
+of 
+shopping 
+consumer 
+buying 
+behaviour 
+
+Shah and Tendon  To  study 
+
+online 
+
+the 
+impact  of  self-
+consciousness 
+on 
+shopping 
+consumer 
+behavior 
+India. 
+
+in 
+
+Multi-
+regression 
+analysis. 
+
+ (2020)  Factors 
+
+Uddin 
+
+affecting 
+consumers’ 
+internet 
+shopping 
+behavior  during 
+the  covid-19  in 
+Bangladesh 
+
+ (2020)  A 
+
+on 
+study 
+factors  limiting 
+online  shopping 
+
+Daroch, et al. 
+
+Investigate 
+factors 
+affecting 
+internet 
+shopping 
+behavior during 
+COVID-19 
+pandemic 
+Bangladesh 
+
+in 
+
+Investigate 
+factors  limiting 
+consumer 
+online 
+
+Multiple 
+regression 
+analysis 
+
+Kaiser-
+Meyer-Olkin 
+and 
+
+23 
+
+at 
+
+online if they get 
+premium 
+products 
+a 
+lower price or if a 
+has 
+product 
+limited 
+stock. 
+Impulse  buying 
+behavior 
+increased  during 
+the pandemic due 
+to increased time 
+the 
+on 
+spent 
+internet, 
+exposure 
+online 
+advertisements, 
+and  offers  and 
+discounts. 
+
+to 
+
+Self-
+consciousness 
+has  a  significant 
+impact 
+on 
+perceived 
+usefulness, 
+perceived ease of 
+use, 
+and 
+consumer 
+behavior  but  not 
+on 
+attitude. 
+Consumer 
+buying  behavior 
+is affected by the 
+self-
+consciousness  of 
+Indian 
+online 
+buyers. 
+
+factors 
+All 
+except  price  and 
+security  had  a 
+positive 
+association  with 
+consumers' 
+internet shopping 
+behavior 
+
+Fear  of  bank 
+transaction  and 
+faith, 
+convenience, 
+reputation 
+
+and 
+
+ 
+ 
+behavior 
+consumers 
+
+of 
+
+shopping 
+behavior 
+
+Cronbach's  a 
+test 
+
+Matz 
+
+vs. 
+
+ (2021)  Online 
+offline 
+shopping, 
+impact 
+of 
+COVID-19  on 
+the 
+digitalization 
+process 
+Austria 
+
+in 
+
+(2021) 
+
+Wang 
+
+Factors 
+affecting  online 
+shopping 
+behavior 
+Malaysia 
+
+in 
+
+Descriptive 
+statistics 
+analysis, 
+Kruskal-
+tests, 
+Wallis 
+and  Mann-
+Whitney 
+U 
+tests. 
+
+Descriptive 
+statistics 
+analysis. 
+
+To  identify  the 
+of 
+influence 
+Covid-19 
+on 
+the 
+digitalization 
+process  in  the 
+industry 
+retail 
+and 
+it 
+how 
+affected 
+consumers' 
+decision 
+to 
+shop  online  vs. 
+in 
+offline 
+Austria. 
+
+To  determine 
+the  influencing 
+that 
+factors 
+affect 
+online 
+shopping 
+behavior 
+Malaysia. 
+
+in 
+
+24 
+
+and 
+
+services 
+provided, 
+experience, 
+insecurity 
+insufficient 
+product 
+information,  and 
+lack 
+trust 
+of 
+online  shoppers 
+action 
+
+Consumers 
+value 
+strongly 
+the  convenience 
+online  shopping 
+provides, such as 
+to 
+easy  access 
+and 
+discounts 
+prices 
+and 
+greater  product 
+availability 
+compared 
+offline stores. 
+
+to 
+
+include 
+social, 
+and 
+
+Important 
+influencing 
+factors 
+cultural, 
+personal, 
+psychological 
+factors.  Online 
+stores 
+should 
+make  full  use  of 
+internet 
+channels, 
+improve 
+consumer's 
+consumption 
+experience, 
+establish  a  good 
+reputation, 
+provide  multiple 
+payment 
+methods, 
+and 
+utilize  big  data 
+technology 
+to 
+understand  user 
+needs. 
+
+the 
+
+(2022) 
+
+Factors 
+influencing 
+
+Thang et al. 
+
+To 
+factors 
+
+examine 
+that 
+
+Exploratory 
+factor 
+
+Shopping 
+intention 
+
+of 
+
+ 
+ 
+online  shopping 
+intention:  An 
+empirical  study 
+in Vietnam 
+
+influence 
+shopping 
+intention 
+online 
+consumers 
+Vietnam. 
+
+analysis, 
+correlation 
+analysis,  and 
+regression 
+analysis. 
+
+of 
+
+in 
+
+25 
+
+is 
+
+of 
+
+by 
+
+online 
+consumers 
+positively 
+affected 
+attitude, 
+subjective 
+norms, 
+perception 
+behavioral 
+control, 
+perception 
+of 
+usefulness,  and 
+trust.  Perceived 
+risks  negatively 
+affect 
+online 
+shopping 
+intention,  with 
+the perception of 
+risk  having  the 
+strongest 
+influence. 
+
+(2023) 
+
+Liao,  
+
+Factors 
+influencing 
+individual’s 
+online  shopping 
+behavior: 
+A 
+system review 
+
+Synthetic 
+literature 
+research using 
+15 articles  
+
+To examine the 
+factors 
+influencing  the 
+individuals 
+online 
+shopping 
+behavior 
+
+Online  shopping 
+the  most 
+is 
+essential  part  of 
+people 
+lives. 
+There  are  plenty 
+that 
+factors 
+of 
+affect  the  people 
+of 
+action 
+consuming 
+on 
+internet.  
+
+2.2.2 Review of Thesis 
+
+Kundu (2015) has carried out a research on “Factors Influencing the Online Shopping 
+
+Behavior  of  Consumers  in  India”.  The  study  found  that  consumer  trust,  perceived 
+
+usefulness,  and  perceived  ease  of  use  were  significant  factors  influencing  online 
+
+shoppers action. The results were consistent with previous research that had shown that 
+
+trust and ease of use were important drivers of online shopper’s action across different 
+
+countries. The study provided useful insights into the factors online shoppers action in 
+
+India, which helped e-commerce companies to develop effective marketing strategies 
+
+to target Indian consumers. 
+
+Bhattarai  (2018)  researched  on  the  topic  entitled  “The  Factors  Influencing  Online 
+
+Shopping Behavior Among Consumers in Kathmandu Valley”. The study used a survey 
+
+ 
+ 
+ 
+26 
+
+questionnaire to collect data from 250 respondents. The variables included in the study 
+
+were perceived benefits of online shopping, perceived risks of online shopping, trust, 
+
+attitude  towards  online  shopping,  subjective  norm,  and  demographic  variables.  The 
+
+findings of the study revealed that perceived benefits, trust, and subjective norm had a 
+
+positive and significant impact on online shopper’s action, while perceived risks had a 
+
+negative  and  significant  impact  on  online  shopper’s  action.  Attitude  towards  online 
+
+shopping  was  also  found  to  have  a  positive  and  significant  impact  online  shoppers 
+
+action. The study provided valuable insights into the factors impacting online shoppers 
+
+action in Kathmandu valley. 
+
+Doriyat (2018) conducted the study on “Understanding Online Shopping Behavior in 
+
+Context of Social Media” and examined how social media platforms such as Facebook, 
+
+Twitter, and Instagram are used by retailers to influence consumers and drive sales. The 
+
+article  explained  that  social  media  had  become  an  increasingly  important  tool  for 
+
+retailers  to  reach  and  engage  with  their  target  audiences.  Social  media  platforms 
+
+provided  retailers  with  the  ability  to  create  content,  interact  with  customers,  and 
+
+promote products in a more personalized and engaging way than traditional advertising 
+
+methods. For example, retailers used social media to showcase products through visual 
+
+content,  offer  promotions  and  discounts,  and  encourage  customer  reviews  and 
+
+feedback. The article also discussed how social media had changed the way consumers 
+
+shop online. Consumers were increasingly using social media platforms to discover and 
+
+research products before making a purchase. They followed retailers on social media to 
+
+stay up-to-date on new products or promotions, or use social media platforms to read 
+
+reviews and see how other consumers have interacted with a product. In addition, the 
+
+article  examined  the  role  of  social  media  influencers  in  shaping  consumers'  online 
+
+shoppers action. Influencers were individuals with a large  following on social  media 
+
+who have the ability to influence consumer behavior through product endorsements and 
+
+recommendations. Retailers partnered with influencers to promote their products to a 
+
+wider audience and leverage the influencers' credibility and trustworthiness with their 
+
+followers. 
+
+Hamzah  (2019)  researched  on  “The  Role  Online  Shopping  Behavior  on  the  Local 
+
+Product of Saudi-Arabia. The study examined how the design factors, such as website 
+
+layout,  color  schemes,  and  font  choices  can  influence  consumers'  perceptions  of  a 
+
+ 
+ 
+ 
+27 
+
+retailer  and  their  likelihood  to  make  a  purchase.  The  article  explained  that  website 
+
+design plays a crucial role in creating a positive user experience and can significantly 
+
+impact  a  consumer's  decision  to  purchase  a  product.  For  example,  a  website  with  a 
+
+cluttered and confusing layout could have deterred potential customers, while a website 
+
+with  a  clean  and  simple  design  could  have  enhance  the  shopping  experience  and 
+
+increase the likelihood of a purchase. The article also discussed the importance of color 
+
+schemes  in  website  design.  Colors  could  have  evoked  different  emotions  and  can 
+
+influence  consumers'  perceptions  of  a  retailer  and  its  products.  For  example,  warm 
+
+colors such as red and orange can create a sense of urgency and excitement, while cool 
+
+colors such as blue and green can create a sense of calmness and trust. In addition, the 
+
+article examined the impact of font choices on consumers' perceptions of a retailer. Font 
+
+choices  could  convey  different  tones  and  personalities,  and  retailers  must  carefully 
+
+choose fonts that align with their brand identity and target audience. 
+
+Johnson (2020) has carried out a research on “Factors Affecting the Online Purchase 
+
+Intentions: A Study of Generation Z in the United State”. The study explored the factors 
+
+of the purchase intentions of Generation Z consumers in the United States. The study 
+
+used a quantitative survey method and data were collected from 340 respondents using 
+
+convenience  sampling.  The  results  of  the  study  showed  that  online  easiness  has  a 
+
+significant  positive  impact  on  consumer  purchase  intentions  among  Generation  Z 
+
+consumers in the United States.  
+
+Shrestha  (2020)  researched  on  “Factors  Influencing  Online  Shopping  Behavior  of 
+
+Consumers in Kathmandu Valley" and aimed to identify the factors that influence online 
+
+shoppers action among consumers in Kathmandu Valley, Nepal. The research used a 
+
+quantitative  survey  method,  and  data  were  collected  from  400  respondents  using 
+
+convenience  sampling.  The  study  analyzed  the  data  using  descriptive  statistics, 
+
+correlation analysis, and regression analysis. The study found that perceived usefulness, 
+
+perceived ease of use, perceived risk, and social influence significantly influence online 
+
+shoppers  action  among  consumers  in  Kathmandu  Valley.  Specifically,  perceived 
+
+usefulness and perceived ease of use were found to have a positive impact on  online 
+
+shoppers action, while perceived risk had a negative impact. The study also found that 
+
+social influence had a significant impact on online shoppers action, indicating that the 
+
+opinions and recommendations of others play a role in consumer decision-making.  
+
+ 
+ 
+28 
+
+Kim (2021) conducted a study on “An Examination of the Relationship between Online 
+
+Method  of  Buying  and  Consumer  Buying  Intention”.  The  study  used  a  quantitative 
+
+survey  method,  and  data  were  collected  from  550  respondents  using  convenience 
+
+sampling.  The  results  of  the  study  showed  that  online  way  of  selling  product  had  a 
+
+significant positive impact on consumer buying intention.  
+
+Gajurel  (2022)  has  conducted  a  research  on  “The  Factors  Affecting  the  Online 
+
+Shopping Behavior of Consumers in Various Countries, Including Vietnam, Pakistan, 
+
+Malaysia,  India,  and  Nepal”.  Factors  such  as  website  design,  product  information, 
+
+trust, convenience, perceived value, and perceived usefulness have been identified as 
+
+significant influencers of online shopper’s action. The studies have found that consumer 
+
+trust and perceived ease of use are consistent factors impacting online shoppers action 
+
+across  different countries.  Other  factors  such as  cultural and  socio-economic  factors 
+
+may  also  play  a  role  in  influencing  online  shoppers  action.  Overall,  these  empirical 
+
+studies  provide  valuable  insights  into  the  complex  nature  of  online  shoppers  action, 
+
+which  can  help  e-commerce  companies  to  develop  effective  marketing  strategies  to 
+
+target consumers in different countries. 
+
+Sah (2023) has conducted a study on “Factors Affecting Online Shopping Behaviour of 
+
+Boutique Products in Kathmandu Valley”. The study aimed to learn more about how 
+
+people shopped for boutique products online and identified the major influential factors. 
+
+The research used descriptive and casual research design for the study. The data was 
+
+obtained from 325 respondents through convenience sampling. The study showed that 
+
+trust, firm reputation, and ease of use were significant at 5 percent level of significance. 
+
+However,  there  was  insignificant  relationship  between  price  and  online  shopping 
+
+behavior. Firm reputation and ease of use were the major influential factors of online 
+
+shopping of boutique products. The study helped the boutique business to develop their 
+
+strategies as per the need of the consumer.  
+
+2.3 Research Gap 
+
+While  online  shopping  has  gained  popularity  worldwide,  there  is  a  lack  of 
+
+comprehensive research specifically focused on understanding the  Factors Impacting 
+
+Online Shopper’s Action in Kathmandu Valley, Nepal. Despite the increasing adoption 
+
+of online shoppers in this region, there is limited empirical evidence on the key drivers, 
+
+ 
+ 
+29 
+
+motivations, and barriers that shape online shoppers in the online shopping context. The 
+
+existing  literature  on  online  shopper’s  action  predominantly  stems  from  studies 
+
+conducted in Western countries, and there is a dearth of research that takes into account 
+
+the unique cultural, economic, and social factors specific to Kathmandu Valley. 
+
+Therefore,  there  is  a  need  for  research  that  specifically  investigates  the  factors 
+
+influencing  online  shoppers  action  within  the  context  of  Kathmandu  Valley. 
+
+Understanding the specific factors that drive consumers to engage in online shopping, 
+
+such as convenience, product variety, cost, and time efficiency, can provide valuable 
+
+insights for businesses, marketers, and policymakers to develop effective strategies and 
+
+tailor their offerings to the preferences and needs of shoppers in Kathmandu Valley. 
+
+Additionally,  exploring  the  barriers  and  challenges  faced  by  shoppers  in  adopting 
+
+online shopping can help identify areas for improvement and intervention to enhance 
+
+the online shoppers experience in this specific region. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+
+CHAPTER III  
+
+RESEARCH METHODOLOGY 
+
+This chapter presents all the necessary steps to be followed throughout this research 
+
+work  in  order  to  achieve  and  accomplish  the  objective  of  the  study.  Research 
+
+methodology  discussed  in  this  chapter  helps  to  guide  the  research  study  providing 
+
+different  issues  and  aspects.  It  systematically  solves  the  various  sequential  steps  to 
+
+adopt by a researcher in studying problem with the objectives in view.  
+
+This chapter presents a description of the research design and methodology used in the 
+
+study.  Also,  it  provides  an  overview  of  the  research  study,  a  description  of  the 
+
+instrument used for data gathering, targeted population, sampling procedure, sources 
+
+of data used and methods of data analysis, presentation and interpretation. 
+
+3.1 Research Design 
+
+Descriptive  and  causal  comparative  research  design  has  been  used  in  this  study. 
+
+Research  design  is  the  conceptual  structure  within  which  research  is  performed.  It 
+
+serves as a framework for the study, guiding the collection and analysis of the data, the 
+
+research instruments to be utilized, and the sampling plan to be.  It is the conceptual 
+
+structure  within  which  research  is  conducted;  it  constitutes  the  blueprint  for  the 
+
+collection, measurement and analysis of data. 
+
+The quantitative method of research has been used in this research in order to collect 
+
+realistic,  updated  and  practical  empirical  data.  The  research  design  undertaken  is 
+
+descriptive in nature and specifically created questionnaire was sent to the target group 
+
+of people to collect the pertinent information Descriptive, experimental, correlational, 
+
+causal-comparative and experimental are the major types of research design (Sileyew, 
+
+2019). This study was relied on descriptive research design. It is theory based research 
+
+design which emphasis on addressing how, what, when, and where of research queries 
+
+rather  than  why  of  the  research  subject  (da  Silva,  2017).  There  are  different  views 
+
+regarding research design but overall it contains whole reports contents. It is the overall 
+
+plan of proposed study to specify the appropriate research method and procedure for 
+
+obtaining specific finding valid objectively accurate and economically as possible. The 
+
+overall  research  work  is  conducted  through  collection  of  primary  data.  Similarly, 
+
+ 
+ 
+31 
+
+primary data is collected through questionnaire filled up by the people of Kathmandu 
+
+valley who does the shopping through the online medium. 
+
+3.2 Population and Sample 
+
+This study was based on primary source of data. Structured set of 7 point Likert scale 
+
+questionnaire  were  used  to  extract  the  information  from  the  people  involved  in  the 
+
+online  shopping.  Convenience  sampling  method  was  used  for  the  study  as  it  was 
+
+appropriate for this study because this technique is one of the best to reach the target 
+
+respondents.  The  sampling  technique  generally  assumes  a  homogeneous  population 
+
+that means the member of population has similar characteristics. Due to the resource, 
+
+time  and  financial  constraint,  this  method  was  appropriate  way  to  reach  the 
+
+respondents.  The  target  population  for  this  study  was  the  entire  people  of  the 
+
+Kathmandu valley who are involved in the online shopping. The study covers people 
+
+of different age group, qualification level. In this total of 400 samples are taken for the 
+
+study. 
+
+3.3 Nature and Sources of Data 
+
+This  research  is  basically  based  on  primary  sources  of  data  collected  through  the 
+
+opinion survey carried out to the different age group of the consumers of Kathmandu 
+
+Valley. 
+
+Primary Data 
+
+Primary data source mainly includes questionnaire in order to collect information from 
+
+the respondent who are the  online shoppers  in Kathmandu valley.  The primary data 
+
+were collected by self-administered methods of collection. First part is concerned with 
+
+the  respondent’s  demographic  features  like  Age,  Occupation,  Income,  Gender  and 
+
+Education. The second part is divided in to the basis of the study carried forward such 
+
+as  Convenience,  Information,  Available  Products and  Services,  Cost  and  Efficiency 
+
+and Online Shoppers Action. 
+
+Parts  have  different  questions  to  know  about  the  online  shopper’s  action  of  the 
+
+shopper’s  living  in  the  Kathmandu  valley.  Response  on  each  question  is  collected 
+
+ 
+ 
+32 
+
+through the different Likert scale. The total sample size taken for the study was 400 
+
+respondents.   
+
+3.4 Instrumentation of Data Collection 
+
+Structured  questionnaires  were  self-administered  to  the  different  respondents  of  the 
+
+Kathmandu valley. The entire questionnaires were distributed to the respondents who 
+
+are engaged in the online shopping. When physical distribution of questionnaire took 
+
+longer time, the questions were also developed in online using Google forms and then 
+
+the  link  was  circulated.  The  purpose  of  the  study  was  properly  defined  to  every 
+
+respondent on the questionnaire page so that the respondents would understand why 
+
+this research was being done. This also avoided any suspicious, biases and motivated 
+
+them to provide their independent opinions on the question asked. 
+
+Moreover, to have valid and reliable data, questions were formulated considering the 
+
+easiness and understandability and avoiding any vague and double meaning words so 
+
+that the respondents could easily answer the given question without any confusion and 
+
+help minimize any error. 
+
+3.5 Methods of Analysis 
+
+To achieve the objectives of the study, various financial, statistical and accounting tools 
+
+have been used this study. The analysis of data will be made according to the pattern 
+
+of data available. Data analysis task was done through use of descriptive statistics like 
+
+frequencies, percentage, mean standard deviation and coefficient of variation. Apart, 
+
+pictorial presentation of data is also kept through charts and graphs. Data collected from 
+
+the  respondent  will  be  coded  first  and  entered  in  the  Statistical  Package  for  Social 
+
+Sciences (SPSS), computer software for data analysis purpose. Also MS- Excel will be 
+
+used to present the finding in form of tables, charts and figures. The various calculated 
+
+results  obtained  through  financial,  accounting  and  statistic  tools  are tabulated  under 
+
+different headings. Then they are compared with each other to interpret the results. 
+
+3.6 Statistical Tools 
+
+Statistical  tools  are  mathematical  formulas,  models  and  techniques  that  are  used  in 
+
+statistical analysis of raw research data. The statistical tools employed in this study tries 
+
+ 
+ 
+to analyze the online shoppers action of the people living in Kathmandu valley using 
+
+33 
+
+the panel data.  
+
+3.6.1 Correlation Analysis 
+
+This design will adopt to identify the direction and magnitude  of linear relationship 
+
+between different pairs of variables. It shows how two variables move together and 
+
+also shows the degree of association between them. The relationship will explain by 
+
+using  bi-variant  Pearson  correlation  coefficient.  It  measures  correlation  coefficient 
+
+between two variables X and y is usually denoted by 'r' and can be obtained as: 
+
+r =
+
+Where, 
+
+n = number of observation in series X and Y 
+
+X = sum of observation in series X 
+
+Y = sum of observation in series Y 
+
+X2 = sum of squared observation in series X 
+
+Y2 = sum of squared observation n series y 
+
+XY = sum of the product of observations in series X and Y 
+
+The value of correlation coefficient ranges from -1 to +1. 
+
+r = 0 means variables are correlated lies between -1 and +1 
+
+ r = -1 means perfect negative correlation between the variables 
+
+ r = +1 means positive correlation between the variables 
+
+3.6.2 Descriptive Statistics 
+
+Descriptive statistics helps to understand and describe the features of specific data set 
+
+by  giving  short  summaries  about  the  sample  and  measure  of  the  data.  The  most 
+
+recognized  types  of  descriptive  statics  are  mean,  median,  mode.  Standard  deviation 
+
+which are used at almost all level of math and statistic. Among all descriptive statistics 
+
+this study used mean and standard deviation. 
+
+2222YYnXXnYXXYn 
+ 
+ 
+ 
+ 
+ 
+34 
+
+Mean  
+
+The  mean  is  the  measure  of  central  tendency.  It  gives  the  idea  about  the  average 
+
+statistics from the sample observations. 
+
+Mean (X) =
+
+∑ X
+N
+
+Where, 
+
+X  =  Value  of  Work  Environment,  Job  Stress,  Career  Growth,  Compensation  and 
+
+Employee Turnover 
+
+N = Total number of sample observation 
+
+Standard Deviation 
+
+The standard deviation is a measure of the amount of variation or dispersion of a set of 
+
+value. 
+
+Where, 
+
+Standard Deviation(δ) =   √∑(𝑋 − 𝑋)
+𝑛 − 1
+
+2
+
+X=  Value  of  Convenience,  Information,  Availability,  Time  and  Cost  and  Online 
+
+Shopping Behavior 
+𝑋̅= Mean value of variables 
+
+n = Total number of sample observation 
+
+Coefficient of Variation: Coefficient of variation (CV) is a statistical  measure of the 
+
+relative dispersion of data points in a data series around the mean. 
+
+Coefficient of Variation(CV) =
+
+σ
+𝑋̅
+
+× 100%  
+
+Where, 
+
+σ = Standard deviation 
+𝑋̅ = Mean value 
+
+ 
+ 
+ 
+ 
+ 
+ 
+35 
+
+3.7 Research Framework and Definition of Variables 
+
+Conceptual  frameworks  aid  the  researcher  to  precisely  discover  the  variables  of  the 
+
+study and explains the relationship exist among them.  It provides the foundation for 
+
+establishing its creditability. 
+
+Figure 1 Research Framework 
+
+                       Independent Variables 
+
+   Dependent Variable 
+
+Online Shoppers Action 
+
+Convenience 
+
+Information 
+
+Availability 
+
+Cost and Time Efficiency 
+
+(Source: Wang, 2021; Vaidya, 2019) 
+
+Independent Variables 
+
+i.  Convenience 
+
+Convenience refers to the ease and comfort of  online shoppers, allowing shoppers to 
+
+shop at their own convenience without any time or location constraints. According to a 
+
+study by Wolfinbarger and Gilly (2001), convenience is a key factor that influences 
+
+online shoppers action. The convenience of online shopping enables shoppers to save 
+
+time and effort compared to traditional brick-and-mortar shopping methods. 
+
+ii. 
+
+ Information 
+
+Information availability is a crucial factor for online shopper’s action. Online platforms 
+
+provide shoppers with detailed product descriptions, specifications, customer reviews, 
+
+and ratings, allowing them to make informed purchase decisions. A study by Ha and 
+
+Stoel  (2009)  found  that  information  availability  positively  influences  shoppers 
+
+perceived value and purchase intention in online shopping. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36 
+
+iii.  Availability 
+
+Availability refers to the accessibility and availability of products or services online. It 
+
+includes factors such as the range of products offered, stock availability, and delivery 
+
+options.  Research  by  Al-Maghrabi,  Dennis,  and  Halliday  (2011)  highlighted  the 
+
+importance of availability as a determinant of online shopper’s action. Consumers are 
+
+more likely to engage in online shopping when they perceive that the desired products 
+
+or services are readily available. 
+
+iv.  Cost and Time Efficiency 
+
+Cost and Time Efficiency considerations significantly impact online shoppers action. 
+
+Online shopping provides convenience in terms of time savings as shoppers can quickly 
+
+browse and purchase products without physically visiting stores. Additionally, online 
+
+retailers often offer competitive prices, discounts, and cost-saving benefits such as free 
+
+shipping. A study by Jarvenpaa and Todd (1997) found that time and cost savings are 
+
+influential factors in shopper’s decision to shop online. 
+
+Dependent Variable 
+
+  Online Shoppers Action 
+
+Online shoppers action refers to consumers' actions and decisions when engaging  in 
+
+online  shopping  activities.  It  includes  various  aspects  such  as  product  browsing, 
+
+purchase  decisions,  cart  abandonment,  and  post-purchase  behavior.  Online  shoppers 
+
+action is influenced by several factors, including convenience, information availability, 
+
+availability of desired products, and considerations related to time and cost. 
+
+ 
+ 
+ 
+ 
+ 
+37 
+
+CHAPTER IV 
+
+RESULTS AND DISCUSSION 
+
+This chapter provides systematic presentation and analysis of primary data. Different 
+
+statistical and regression model described in chapter three have been used for the study 
+
+purpose. The first section deals with the presentation and analysis of the primary data 
+
+and presents the results of questionnaire. The third section of this chapter deals with 
+
+concluding remarks associated on the basis of findings from primary data analysis.  
+
+4.1 Results 
+
+The data collected from aforementioned sources has been restructured, extracted and 
+
+documented in the systematic manner by using tables in order to reach to the reasonable 
+
+conclusions. The questionnaire was distributed to respondent in market and collected 
+
+data, arranged, refined and presented in suitable format. The data was analyzed through 
+
+the  various  tools  of  statistics  such  as  percentage  mean,  standard  deviation  and 
+
+correlation. 
+
+4.1.1 Demographic Analysis of the Respondents 
+
+We first analyze and interpret the survey data and response taken from the market place 
+
+from the real consumer. From 400 respondents involved in online shopping, the entire 
+
+questionnaire  was  used  for  analysis.  The  following  tables  show  the  profile  of  the 
+
+respondent’s  profile  by  gender,  age,  education,  personal  income,  occupation  of 
+
+respondents while purchasing by online shoppers. 
+
+Table 2 
+
+Age of the Respondents 
+
+Age Group 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+Below 20 
+
+20-40 
+
+40-60 
+
+Above 60 
+
+Total 
+
+72 
+
+294 
+
+30 
+
+4 
+
+400 
+
+(Source: Survey, 2023) 
+
+18 
+
+73.5 
+
+7.5 
+
+1 
+
+100 
+
+18 
+
+91.5 
+
+99 
+
+100 
+
+ 
+ 
+ 
+Table  2  shows  that  72  respondents  belong  to  the  age  group  below20.  The  higher 
+
+respondents belong under the age  group of 20-40. 30 respondents belong to the age 
+
+group 40-60. Only 4 respondents belong to the age group of above 60. 
+
+38 
+
+Table 3 
+
+Gender of the respondents 
+
+Gender 
+
+Female 
+
+Male 
+
+Total 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+180 
+
+220 
+
+400 
+
+45 
+
+55 
+
+100 
+
+45 
+
+100 
+
+(Source: Survey, 2023) 
+
+Table 3 shows that 180 respondents are females whereas 220  respondents are males 
+
+respectively. 
+
+Table 4 
+
+Education of the Respondents 
+
+Education 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+SLC 
+
+Intermediate 
+
+Bachelor 
+
+Master or above 
+
+Total 
+
+54 
+
+62 
+
+120 
+
+158 
+
+400 
+
+(Source: Survey, 2023) 
+
+13.5 
+
+15.5 
+
+30 
+
+41 
+
+100 
+
+13.5 
+
+29 
+
+59 
+
+100 
+
+Table 4 shows the different education level of the respondents. 54 respondents come 
+
+under  SLC  group.  62  respondents  lie  in  Intermediate  group.  120  respondents  come 
+
+under the Bachelor group. Lastly, 158 respondents are from the Master or above.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39 
+
+Table 5 
+
+Monthly Income of the Respondents 
+
+Monthly Income 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+Less than 10000 
+
+10000-20000 
+
+20000-30000 
+
+More than 30000 
+
+Total 
+
+106 
+
+206 
+
+34 
+
+52 
+
+400 
+
+(Source: Survey, 2023) 
+
+26.5 
+
+51.5 
+
+8.5 
+
+13.5 
+
+100 
+
+26.5 
+
+78 
+
+86.5 
+
+100 
+
+Table 5 shows that 106 respondents earn less than 10000 per month. 205 respondents 
+
+earn  the  income  between  10000-20000  per  month.  34  respondents  earn  the  income 
+
+between  20000-30000  per  month.  Lastly,  52  respondents  earn  more than  30000  per 
+
+month. 
+
+Table 6 
+
+Occupation of the Respondents 
+
+Occupation 
+
+Business 
+
+Government Employee 
+
+Private Employee 
+
+Student 
+
+Total 
+
+(Source: Survey, 2023) 
+
+Frequency 
+
+Percentage  Cumulative Percentage 
+
+48 
+
+14 
+
+220 
+
+116 
+
+400 
+
+12.5 
+
+3.5 
+
+55 
+
+29 
+
+100 
+
+12.5 
+
+16 
+
+71 
+
+100 
+
+Table 6 shows the different occupation of the respondents. 48  respondents own their 
+
+business. 14 respondents work in government office. 220 respondents work as a private 
+
+employee. Lastly, 116 respondents are students.  
+
+4.1.2 Descriptive Statistics 
+
+Descriptive statistics provide summaries about the sample and about the observations 
+
+that have made. Descriptive statistics is done representing mean and standard deviation 
+
+ 
+ 
+ 
+ 
+40 
+
+of individual scale  item and overall variable too. It  shows the summarization of the 
+
+data. 
+
+The responses under both dependent and independent variables of the data sample were 
+
+preliminarily  analyzed.  This  preliminary  analysis  included  search  for  missing  data, 
+
+estimation  of  outliers  and  estimation  of  mean,  median  and  standard  deviation. 
+
+Descriptive statistics has been made to understand the facts regarding the variables.  
+
+Table 7 
+
+Descriptive Analysis of Convenience 
+
+Codes 
+
+Statements 
+
+Mean 
+
+Std. 
+
+Deviation 
+
+C1 
+
+It is a great advantage to be able to shop at any time of 
+
+2.44 
+
+1.4221 
+
+the day. 
+
+C2  Online shopping is as secure as traditional shopping. 
+
+2.64 
+
+1.028 
+
+C3  Online shopping is risky. 
+
+3.32 
+
+1.222 
+
+C4  Based  on  my  past  experience,  I  believe  that  the 
+
+2.53 
+
+1.040 
+
+transaction through the online store is safe and reliable. 
+
+Overall Average 
+
+2.74 
+
+0.72 
+
+Table 7 shows actual responses range from 1 to 5 scale; (1) indicates strongly agree, 
+
+(2)  indicates  agree,  (3)  indicates  neutral,  (4)  indicates  disagree  and  (5)  indicates 
+
+strongly disagree. The mean response of respondents on online shopping ranges from 
+
+2.44 to 3.32. Among them, the most significant observations of the respondents were 
+
+found on "Online shopping is risky." with the highest  mean value of 3.32 where the 
+
+least mean 2.44 was observed on “It is a great advantage to be able to shop at any time 
+
+of the day.” 
+
+ 
+ 
+ 
+ 
+ 
+41 
+
+Table 8  
+
+Descriptive Analysis of Information 
+
+Code 
+
+Statements 
+
+Mean 
+
+Std. 
+
+Deviation 
+
+I5 
+
+I6 
+
+I7 
+
+The information provided on online store are clear. 
+
+2.64 
+
+1.105 
+
+The information provided on online store are accurate. 
+
+2.68 
+
+1.113 
+
+In the online store, I find the information to be logically 
+
+2.63 
+
+1.147 
+
+presented. 
+
+I8 
+
+I find the information on the shopping site to be well-
+
+2.48 
+
+1.154 
+
+organized. 
+
+Overall Average 
+
+2.62 
+
+0.95 
+
+Table 8 shows actual responses range from 1 to 5 scale; (1) indicates strongly agree, 
+
+(2)  indicates  agree,  (3)  indicates  neutral,  (4)  indicates  disagree  and  (5)  indicates 
+
+strongly disagree. The mean response of respondents on online shopping ranges from 
+
+2.48 to 2.68. Among them, the most significant observations of the respondents were 
+
+found  on  "The  information  provided  on  online  store  are accurate."  with  the  highest 
+
+mean value of 2.68 where the least mean 2.48 was observed on “I find the information 
+
+on the shopping site to be well-organized. 
+
+Table 9 
+
+Descriptive Analysis of Availability 
+
+Codes 
+
+Statements 
+
+Mean 
+
+Std. 
+
+Deviation 
+
+A9 
+
+The customer service representative is available to talk 
+
+2.58 
+
+1.096 
+
+with me. 
+
+A10 
+
+A11 
+
+My problem is resolved efficiently. 
+
+2.64 
+
+1.146 
+
+Both  local  and  international  products  are  available  to 
+
+2.44 
+
+1.319 
+
+shop online. 
+
+Overall Average 
+
+2.56 
+
+0.95 
+
+Table 9 shows actual responses range from 1 to 5 scale; (1) indicates strongly agree, 
+
+(2)  indicates  agree,  (3)  indicates  neutral,  (4)  indicates  disagree  and  (5)  indicates 
+
+strongly disagree. The mean response of respondents on online shopping ranges from 
+
+ 
+ 
+ 
+2.44 to 2.64. Among them, the most significant observations of the respondents were 
+
+found on "My problem  is resolved efficiently.”  with the highest mean value of 2.64 
+
+where the least mean 2.44 was observed on “Both local and international products are 
+
+42 
+
+available to shop online.” 
+
+Table 10  
+
+Descriptive Analysis of Time and Cost 
+
+Codes 
+
+Statements 
+
+Mean 
+
+Std. 
+
+Deviation 
+
+TC12  The  delivery  of  the  product  and  services  are  on 
+
+2.47 
+
+1.149 
+
+time. 
+
+TC13 
+
+Shopping on Internet is cheaper than going to the 
+
+3.14 
+
+1.155 
+
+store. 
+
+TC14  The delivery fees are high. 
+
+2.97 
+
+1.180 
+
+TC15  We  have  an  advantage  to  shop  international 
+
+2.78 
+
+1.358 
+
+products with discounts. 
+
+Overall Average 
+
+2.85 
+
+0.75 
+
+Table 10 shows actual responses range from 1 to 5 scale; (1) indicates strongly agree, 
+
+(2)  indicates  agree,  (3)  indicates  neutral,  (4)  indicates  disagree  and  (5)  indicates 
+
+strongly disagree. The mean response of respondents on online shopping ranges from 
+
+2.47 to 3.14. Among them, the most significant observations of the respondents were 
+
+found on "Shopping on Internet is cheaper than going to the store.”  with the highest 
+
+mean value of 3.14 where the least mean 2.47 was observed on “ The delivery of the 
+
+product and services are on time. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 11 
+
+Descriptive Statistics of Online Shoppers Action 
+
+Codes  Statements 
+
+43 
+
+Mean  Std. 
+
+Deviation 
+
+OS16 
+
+I have a positive attitude towards online shopping. 
+
+2.51 
+
+0.772 
+
+OS17  Online Shopping is more popular nowadays so, I prefer 
+
+2.35 
+
+0.857 
+
+online shopping.  
+
+OS18 
+
+Promotions on home page would provide me with a good 
+
+2.56 
+
+0.795 
+
+deal in my online shopping.  
+
+OS19  Online  Shopping  would  provide  me  with  a  timely 
+
+2.47 
+
+0.881 
+
+response to my request.   
+
+0S20 
+
+Online Shopping helps me get which product I want. 
+
+2.86 
+
+1.025 
+
+Overall Average 
+
+2.55 
+
+0.86 
+
+Table 11 shows actual responses range from 1 to 5 scale; (1) indicates strongly agree, 
+
+(2) indicates agree, (3) indicates neutral (4) indicates disagree and (5) indicates strongly 
+
+disagree. The  mean response of respondents on Online shoppers action  ranges from 
+
+2.35 to 2.86. Among them, “Online Shopping is  more popular nowadays so, I prefer 
+
+online shopping.” with the highest mean value of 2.35 where the highest  mean 2.86 
+
+observation was on “Online Shopping helps me get which product I want. 
+
+Table 12 
+
+Descriptive Analysis of Study of Variables 
+
+Codes 
+
+Variables 
+
+Mean  Std. Deviation 
+
+C 
+
+I 
+
+A 
+
+Convenience (Independent) 
+
+2.74 
+
+0.72 
+
+Information (Independent) 
+
+2.62 
+
+0.95 
+
+Availability (Independent) 
+
+2.56 
+
+0.95 
+
+TC 
+
+Time and Cost (Independent) 
+
+2.85 
+
+0.75 
+
+OS 
+
+Online Shoppers Action (Dependent) 
+
+2.55 
+
+0.86 
+
+ 
+ 
+ 
+ 
+44 
+
+Table  12  shows  that  all  the  independent  variables;  convenience,  information, 
+
+availability, time and cost have mean value above 2.5. It indicates that the factors of 
+
+online shopping are agreed by all respondents. Among them availability mostly agreed 
+
+by all respondents with the mean value 2.56. In addition, convenience was also agreed 
+
+by majority of respondents with the mean value 2.74. Similarly, dependent variable; 
+
+online shopping has mean value 2.55 indicates online shopping behavior influence the 
+
+consumer to shop online. 
+
+Correlation Analysis 
+
+Correlation analysis is a kind of inferential statistical analysis that is used to measure 
+
+existence of significant association between variables (Coopers and Schindler, 2003). 
+
+Correlation coefficient is used to describe and quantify the relationship between two 
+
+variables. 
+
+Table 13 
+
+Correlation Matrix 
+
+Online 
+
+Shoppers 
+
+1 
+
+.638** 
+
+.659** 
+
+.557** 
+
+Online Shoppers 
+
+Information 
+
+Availability 
+
+Time and Cost 
+
+Information  Availability 
+
+and 
+
+Convenience  
+
+Time 
+
+Cost 
+
+. 
+
+. 
+
+1 
+
+.621** 
+
+1 
+
+1 
+
+.780** 
+
+.488** 
+
+Convenience 
+
+.621** 
+
+.788** 
+
+.488** 
+
+.557** 
+
+1 
+
+**. Correlation is significant at the 0.01 level (2-tailed). 
+
+Table  13  demonstrates  the  Pearson’s  correlation  coefficients  between  the  studied 
+
+variables.  The table shows that there was moderate correlation between information 
+
+and  online  shoppers  action  as  their  correlation  was  (r  =0.638)  which  is  more  than 
+
+(r>0.3). Correlation between availability was found to be moderate as their correlation 
+
+was  (r  =  0.659).  Time  and  Cost  was  found  to  have  moderate  correlation  as  their 
+
+correlation was (r = 0.557). Correlation between convenience was found to be strong 
+
+as their correlation was (r = 0.621).  Similarly, there was moderate correlation between 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+45 
+
+information  and  availability  that  is  the  correlation  was  (r  =  0.780).  There  exists 
+
+moderate  correlation  between  after  information  and  time  and  cost  were  (r  =0.488) 
+
+respectively. 
+
+In the similar way, availability, and time and cost was found to have strong correlation 
+
+as their correlation was (r =0.621). In addition, there exist moderate correlation between 
+
+convenience and time and cost as their correlation were (r = 0.557) respectively.  
+
+Regression Analysis 
+
+Regression analysis is a method used to examine the relationship between a dependent 
+
+variable and one or more independent variables. It is a powerful tool that allows for the 
+
+examination  of  multiple  variables  and  the  creation  of  predictive  models.  While 
+
+correlation analysis can determine if there is a relationship between two variables, it 
+
+cannot provide information about the nature or strength of that relationship. Regression 
+
+analysis is useful  in this case, as  it can provide  more detailed  information about the 
+
+association between the variables, such as the strength and direction of the relationship, 
+
+and  how  changes  in  the  independent  variable  impact  the  dependent  variable.  It  also 
+
+allows for the prediction of the dependent variable based on the independent variable. 
+
+Regression analysis is employed to estimate outcomes and comprehend the correlation 
+
+between  variables.  Relapse  examination  was  used  in  this  review  to  assess  the 
+
+speculation. The autonomous factors that decide the result's changeability are recorded 
+
+in this part, alongside the extent of the reliant variable's fluctuation that is made sense 
+
+of by the free factors and the factors that are huge (in connection to different factors) in 
+
+making sense of the reliant variable's changeability. To decide the connection between 
+
+the  dependent  variable  (Online  Shoppers)  and  autonomous  variables  (Information, 
+
+Availability, Time and Cost and Convenience), direct relapse investigation was done 
+
+as a result of  its convenience, simplicity of understanding,  logical acknowledgment, 
+
+and general accessibility, straight relapse is more suitable. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Table 14  
+
+Model Summary of Regression Analysis 
+
+46 
+
+Std. Error of the 
+
+Model 
+
+R 
+
+R Square 
+
+Adjusted R Square 
+
+Estimate 
+
+1 
+
+.472a 
+
+.223 
+
+.215 
+
+.71080 
+
+Table  14  presents  a  summary  of  the  correlation  coefficient  (R)  and  coefficient  of 
+
+determination (R2) between the dependent and independent variables. The correlation 
+
+coefficient  between  the  dependent  variable  and  all  independent  variables  is  0.472, 
+
+which indicates a positive correlation between the dependent and independent variables 
+
+as a whole. 
+
+The coefficient of determination, or R2, is also known as the coefficient of assurance. 
+
+It is a measurement that estimates how closely the data follows the regression line. The 
+
+R2 value represents the proportion of the variation in the dependent variable that can 
+
+be  explained  by  the  independent  variable(s)  in  the  model.  A  value  of  R2  should  be 
+
+between 0 and 100 percent, with a higher value indicating a better fit of the model to 
+
+the data. In this case, the R2 of 0.223 indicates that the institutional variable accounts 
+
+for 22.3% of the variation of online shoppers. 
+
+Table 15 
+
+ANOVA Table of Dependent and Independent Variable 
+
+Sum of 
+Squares 
+
+df  Mean Square 
+
+F 
+
+Sig. 
+
+1 
+
+Regression 
+
+55.563 
+
+Residual 
+
+193.506 
+
+Total 
+
+249.069 
+
+4 
+
+399 
+
+387 
+
+a. Dependent Variable: Online Shoppers 
+
+13.891 
+
+27.494 
+
+.000b 
+
+.505 
+
+ b. Predictors: (Constant), Information, Availability, Time and Cost and 
+Convenience 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+
+According to ANOVA table 15, there is a lot of evidence to conclude that the model is 
+
+effective and, therefore, significant at F = 27.494, p = 0.000, as the significance level 
+
+of 0.000 is lower than that of 0.05. Thus, the online  shoppers and its factor affecting 
+
+variables have a significant linear relationship. 
+
+Table 16 
+
+Coefficient Table of Dependent and Independent Variable 
+
+Model 
+
+(Constant) 
+
+Information 
+
+Availability 
+
+Time and Cost 
+
+ Convenience 
+
+Unstandardized 
+Coefficients 
+
+Standardized 
+Coefficients 
+
+Std. 
+Error 
+
+B 
+
+Beta 
+
+t 
+
+Sig. 
+
+1.572 
+
+.208 
+
+7.545 
+
+.000 
+
+.023 
+
+.053 
+
+.027 
+
+.427 
+
+.670 
+
+.260 
+
+.061 
+
+.274 
+
+4.296 
+
+.000 
+
+.195 
+
+.068 
+
+.156 
+
+2.887 
+
+.004 
+
+.110 
+
+.051 
+
+.123 
+
+2.166 
+
+.031 
+
+Table 16 displays the results of the regression analysis for the relationship between the 
+
+independent and dependent variables. By  looking at the coefficient value and the p-
+
+value, it can be determined that the slope is positive. A significant association between 
+
+the independent and dependent variables is indicated when the p-value is less than 0.05. 
+
+In this case, the p-value of the independent variable  information is  greater than 0.05, 
+
+which suggests that there is no significant impact of  information on online shoppers. 
+
+On the other hand, the p-value of availability, time and cost and convenience  is less 
+
+than 0.05, indicating that there is a significant impact of availability, time and cost and 
+
+convenience on online shoppers. 
+
+4.1.3 Major Finding of the Study 
+
+  The age level of the respondents is as shown out of total 73.5percent fall in to the 
+
+age group of 20-40, 18 percent fall under 20 age group, 7.5percent from 40-60 
+
+age group and remaining one percent from above 60 age group. 
+
+  Out of total respondents, male respondents are 55 percent and female respondents 
+
+are 45 percent. 
+
+ 
+ 
+ 
+48 
+
+  Out of total respondents, 30% have completed Bachelors, 15.5% have completed 
+
+Intermediate,  39.5%  have  completed  masters  and  remaining  13.5%  have 
+
+completed SLC. 
+
+  Out of total respondents, 51.5% earn 10000-20000 per month, 8.5% earn 20000-
+
+30000 per month, 26.5% earn less than 10000 and remaining 13% earn more than 
+
+30000. 
+
+  Out  of  total  respondents,  12.5%  own  a  business,  3.5%  work  as  a  government 
+
+employee, 55% are private employee and 29% are students. 
+
+  Regarding  on  the  descriptive  analysis  of  online  shopper’s  action,  five  general 
+
+questions were asked to all respondents those who buy the product through online 
+
+shoppers.  Among  the  total  respondents  surveyed,  “Online  Shopping  is  more 
+
+popular nowadays so, I prefer online shopping.” with the highest mean value of 
+
+2.35 where the highest mean 2.86 observation was on “Online  Shopping helps 
+
+me get which product I want. 
+
+  Regarding  on  the  descriptive  analysis  of  convenience,  four  general  questions 
+
+were  asked  to  all  respondents  i.e.  online  shoppers.  Among  them,  the  most 
+
+significant observations of the respondents were found on " Online shopping is 
+
+risky."  with  the  highest  mean  value  of  3.32  where  the  least  mean  2.44  was 
+
+observed on “It is a great advantage to be able to shop at any time of the day.” 
+
+  Regarding on the descriptive analysis of information, four general questions were 
+
+asked to all shoppers those who buy the product through online. Among them, 
+
+the  most  significant  observations  of  the  respondents  were  found  on  "The 
+
+information provided on online store are accurate." with the highest mean value 
+
+of 2.68 where the least mean 2.48 was observed on “I find the information on the 
+
+shopping site to be well-organized.” 
+
+  Regarding on the descriptive analysis of availability, three general questions were 
+
+asked to all shoppers those who buy the product through online. Among them, 
+
+the most significant observations of the respondents were found on "My problem 
+
+is resolved efficiently.” with the highest mean value of 2.64 where the least mean 
+
+2.44 was observed on “Both local and international products are available to shop 
+
+online.” 
+
+  Regarding  on  the  descriptive  analysis  of  time  and  cost,  four  general  questions 
+
+were asked to all  shoppers those who buy the product through online. Among 
+
+ 
+ 
+49 
+
+them,  the  most  significant  observations  of  the  respondents  were  found  on 
+
+"Shopping on Internet is cheaper than going to the store.” with the highest mean 
+
+value of 3.14 where the least mean 2.47 was observed on “ The delivery of the 
+
+product and services are on time.” 
+
+  Descriptive  analysis  of  independent  and  dependent  variables  shows  that  each 
+
+construct of variables was important. All the variables have mean value above 
+
+2.5,  which  indicates  that  all  shoppers  have  positive  attitudes  towards  online 
+
+shopping. Among independent variables, time and cost had highest mean value 
+
+2.85 and availability had  lowest  mean value 2.5. It indicates that convenience, 
+
+availability,  information,  time  and  cost  are  crucial  factors  towards  online 
+
+shopper’s action. 
+
+  Regarding  the  correlation  between  different  variables,  there  was  strong 
+
+correlation between online shopper’s action and availability as their correlation 
+
+was 0.659 which is more than 0.60. There exists strong correlation between online 
+
+shopper’s action and information, moderate correlation between online shopper’s 
+
+action and time and cost, strong correlation between online shopper’s action and 
+
+convenience as their correlation was 0.638, 0.557 and 0.621 respectively. 
+
+4.2 Discussion 
+
+To  meet  the  objectives  of  the  research,  researcher  distributed  questionnaire  to  the 
+
+consumers  of  Kathmandu  Valley  on  the  topic,  ‘Factors  Influencing  Online  Buying 
+
+Behaviour of Consumers in Kathmandu  Valley’ through online platform. Data were 
+
+interpreted by using SPSS software. Data findings are discussed below: 
+
+The primary objective of the current study was to find out influencing factors of online 
+
+buying  behaviour  of  consumers  inside  Kathmandu  valley.  Descriptive  analysis  of 
+
+independent  and  dependent  variables  shows  that  each  construct  of  variables  was 
+
+important.  All  the  variables  have  mean  value  above  2.5,  which  indicates  that  all 
+
+shoppers  have  positive  attitudes  towards  online  shopping.  Among  independent 
+
+variables, time and cost had highest mean value 2.85 and availability had lowest mean 
+
+value  2.5.  It  indicates  that  convenience,  availability,  information,  time  and  cost  are 
+
+crucial factors towards online shopper’s action. 
+
+ 
+ 
+ 
+50 
+
+It is found that there was strong correlation between online shoppers and information, 
+
+and  convenience  which  is  more  than  0.60.  There  exists  strong  correlation  between 
+
+online shoppers and availability and time and cost, moderate correlation between online 
+
+shoppers and time and cost. Future researchers can study a different set of population 
+
+or  look  at  the  different  set  of  variables.  Future  researchers  can  do  experimental 
+
+research. 
+
+The study aims to investigate the factors that influencing online buying behavior of 
+
+consumers in Kathmandu valley. The study also aims to identify the significant impact 
+
+of information, availability, time and cost and convenience  on online shoppers. The 
+
+study examines the information, availability, time and cost and convenience within the 
+
+context of shoppers doing the online shopping in the Kathmandu valley. 
+
+There is no significant impact of information of the consumers doing shopping online 
+
+in  Kathmandu  valley  but  the  empirical  evidence  of  this  study  found  that  perceived 
+
+online attachment had significant impact on online shoppers which contradicts with the 
+
+study conducted by Daroch et al. (2020) and Qazzafi (2020).  
+
+The results of this study confirm by showing a strong influence of an availability on 
+
+the online shoppers. It suggests that  in order to  maintain the relationship with other 
+
+users one continue to have the online shopping. The current result of the study supports 
+
+the findings Wang (2021) and Thang et al. (2022). 
+
+Time and cost has a notable effect on how shoppers do online shopping. The research 
+
+findings also indicate that time and cost plays a significant role in online shopping. The 
+
+results align with previous studies conducted by Sinha and Kim (2012), Shakya (2014) 
+
+and  Shrestha  (2018),  which  all  suggest  that  individuals  with  a  stronger  inclination 
+
+towards time and cost tend to be more willing to share their knowledge online. 
+
+There is a significant impact of convenience of consumers in the online buying. The 
+
+empirical evidence of this study also found that convenience has a strong influence or 
+
+significant  impact  on  online  shoppers.  The  current  results  of  the  study  support  the 
+
+findings of Osman et al. (2015) and Shah and Tendon (2020). 
+
+ 
+ 
+ 
+ 
+ 
+51 
+
+CHAPTER V  
+
+SUMMARY AND CONCLUSION
+
+This chapter presents the summary of the entire study and highlights the major findings 
+
+of the study. Furthermore, the major conclusions are discussed in separate section of 
+
+this  chapter  which  is  followed  by  some  implications  and  the  recommendations 
+
+regarding the factors influencing online shoppers action. This chapter emphasizes at 
+
+the dialogue and the interpretation of the research outcomes. Except all that this chapter 
+
+provides an interpretation of information that generated from the essential findings and 
+
+comes  at  certain  conclusion.  Finally,  the  chapter  ends  with  the  scope  of  the  future 
+
+research in the same field. 
+
+5.1. Summary 
+
+Different  domestic  and  international  companies  have  facilitated  online  shopping  in 
+
+Kathmandu  valley.  Their  names 
+
+include  Daraz,  Muncha,  Pathao,  Sastodeal, 
+
+Foodmandu, Flipkart, Braz Beauty etc. These companies provide products like clothes, 
+
+cosmetics,  electronic  items,  groceries,  books  and  appearels  also  services  related  to 
+
+beauty parlour, salon at home, person pick up and so on pushing digital development.  
+
+Ride-sharing  applications  such  as  Tootle  and  Pathao;  payment  platforms  such  as 
+
+eSewa,  IMEpay,  and  Khalti;  or  websites  such  as  Daraz  and  Muncha  have  already 
+
+shown the potential of e-commerce as an alternative tool to drive local business.  
+
+The  payments  can  be  shipping  or  when  the  products  are  delivered  through  cash  or 
+
+online  payment  like  esewa,  IME  Pay,  online  banking  transfer  through  user  bank 
+
+accounts as per the desired view of users. Many users are attracted to online shopping 
+
+and using online services. Many online portals and shopping portals are launched. The 
+
+competition  is  rapidly  increasing  day-by-day  due  to  an  increasing  number  of  online 
+
+stores  in  Nepal,  which  will  ultimately  benefit  the  future  of  e-commerce  in  Nepal. 
+
+Similarly,  the  Nepalese  entrepreneurs  have  also  enhanced  another  aspect  of  online 
+
+shopping by increasing the trend of using social media as a shopping platform. 
+
+The major objectives were to find out the factors impacting the online shoppers action 
+
+of consumers and to analyse the factors such as age, gender, education, income level 
+
+ 
+ 
+ 
+ 
+52 
+
+and profession. To achieve the objectives of this study descriptive, explanatory design 
+
+has been used. 
+
+Primary data (qualitative and quantitative) were collected through questionnaire which 
+
+were sent to respondents using social media platform specially  Facebook messenger 
+
+and Viber. Follow up messages and  phone calls were made after two/three weeks to 
+
+stress the significance of their responses.  
+
+Total population for the research was the persons who have shopped online. For the 
+
+study  total  500  questionnaires  were  sent  directly  and  indirectly  (forwarded  through 
+
+friends  and  relatives)  and  only  400  responses  were  collected.  Respondents  were 
+
+provided  with  5  point  Likert  scale  questionnaire  (ranging,  1  to  5)  to  provide  their 
+
+responses or perception on the topic whereas actual responses range from 1 to 5 scale; 
+
+(1)  indicates  strongly  agree,  (2)  indicates  agree,  (3)  indicates  neutral  (4)  indicates 
+
+disagree and (5) indicates strongly disagree. 
+
+Analysis of data is the most important and critical phase for study. Different tools were 
+
+used to analyze the data by the researcher to draw meaningful conclusion. In this study 
+
+IBM SPSS  Statistics  V28 (Statistical Package), Microsoft Excel and Microsoft word 
+
+were used to analyze the data. With the help of these tools, few statistical techniques 
+
+such as mean, standard deviation, correlation were calculated. 
+
+5.2. Conclusion 
+
+The findings of the study show that male of Kathmandu valley, age between 20-40, 
+
+students who were having bachelor degree and income level of 10000-20000 are keen 
+
+to shop online. 
+
+After  the  completion  of  the  study,  it  is  found  out  that  convenience,  information, 
+
+availability,  time  and  cost  are  the  factors  that  influence  online  shoppers  action  of 
+
+consumers inside Kathmandu Valley. Among independent variables, time and cost and 
+
+availability  are  the  major  option  which  shoppers  goes  for  online  shopping  in 
+
+accordance to the respondents taken for the research. 
+
+It  is  found  that  there  was  strong  correlation  between  online  shoppers  action  and 
+
+availability.  Consistent  product  availability  is  the  essence  that  makes  your  business 
+
+ 
+ 
+53 
+
+successful since it provides the structure and attracts the target market by providing the 
+
+product  to  fulfill  the  needs.  The  product  availability,  after  sales  service,  warranty, 
+
+guarantee  of  the  product  or  service  must  be  mentioned  clearly  so  that  the  online 
+
+businesses  get  good  reviews.  Not  only  that  this  service  helps  them  get  good 
+
+recommendations. 
+
+There exists strong correlation between online shoppers action and information. Wrong 
+
+information  may  lead  to  false  behaviour  and  comments  which  may  lead  to  loss  in 
+
+business. The  scarcity and lack of knowledge of the product and of the information 
+
+related to the online sellers could be disastrous. The Information about the seller and 
+
+its  products  and  brands  is  very  important  in  order  to  be  able  to  attract  and  retain 
+
+consumers. 
+
+There exists moderate correlation between online shopper’s action and time and cost. 
+
+Cost  and  Time-saving  is  the another  option  that  shoppers  goes  for  online  shopping. 
+
+Consumers  like  to  shop  online  because  all  they  want  is  to  save  the  time  to  select, 
+
+analyze and pay that they have to do in the store.  
+
+There  exists  strong  correlation  between  online  shoppers  action  and  convenience 
+
+respectively.  Hence,  cconvenience  is  the  next  essential  of  customer  experience  that 
+
+saves customer time and effort. Shopping online offers the convenience of purchasing 
+
+items where and where it suits, via payment method of our choice while having the 
+
+item delivered.  
+
+Hence, considered safer, cost and time saving, information and availability,  shoppers 
+
+are turning to online  shopping to buy products like foods, clothing  items, electronic 
+
+items.  In  the  light  of  the  current  research  findings  and  conclusions,  the  study 
+
+recommends that companies need to have a better understanding of  online shoppers 
+
+action on the Internet in Nepal. They may conduct in-depth market research, focusing 
+
+on how Nepalese view online buying behavior, and how they can be encouraged to 
+
+make a better and more effective use of this new buying technology.  Availability in 
+
+business  matches the present and future needs of the business Consumers  should be 
+
+made well aware of the right quality, quantity, cost, use of available goods and services. 
+
+Appropriate information of products and services in online websites and applications 
+
+help  the  customer  for  the  right  use  of  products  and  services.  It  is  necessary  for the 
+
+ 
+ 
+54 
+
+business to keep updated information. Consumers shop online as they want to save the 
+
+time and cost of selecting the product and going from the stores. Regarding the cost of 
+
+the product, it should be moderate to the buyer. 
+
+5.3. Implications 
+
+The  implications  of  the  study  on  "Factors  Impacting  Online  Shoppers  Action  in 
+
+Kathmandu Valley" can provide valuable insights for various stakeholders, including 
+
+businesses, policymakers, and researchers. Here are some key implications: 
+
+  E-Commerce Businesses and Retailers: The study can help e-commerce businesses 
+
+and retailers operating in Kathmandu Valley understand the factors that drive online 
+
+shoppers action. By identifying the most influential factors, businesses can tailor 
+
+their  marketing  strategies,  website  design,  and  customer  service  to  meet  the 
+
+preferences and needs of consumers. For instance, if convenience and ease of use 
+
+are major drivers, businesses may invest in user-friendly websites and mobile apps. 
+
+  Product and Service Offerings: Insights gained from the study can aid businesses 
+
+in determining which products and services are more likely to be purchased online. 
+
+By understanding consumer preferences, companies can optimize their inventory, 
+
+focus  on  popular  products,  and  diversify  their  offerings  to  attract  more  online 
+
+shoppers. 
+
+  Marketing and Advertising Strategies: The study can inform businesses about the 
+
+most  effective  marketing  channels  and  messages  to  target  online  shoppers  in 
+
+Kathmandu  Valley.  This  could  include  using  social  media,  email  campaigns, 
+
+influencers, or search engine optimization to reach and engage the target audience 
+
+effectively. 
+
+  Payment and Delivery Methods: Understanding the preferred payment methods and 
+
+delivery  options  can  help  businesses  streamline  their  processes  and  offer  more 
+
+suitable options to consumers. If a significant portion of consumers prefer cash-on-
+
+delivery over digital payment, for instance, businesses may need to accommodate 
+
+this preference to encourage more online purchases. 
+
+  Policy and Regulations: The findings of the study can be valuable for policymakers 
+
+in Nepal. It can help them better understand the dynamics of e-commerce within 
+
+the Kathmandu Valley and make informed decisions about regulations, consumer 
+
+ 
+ 
+55 
+
+protection laws, and infrastructure development to support the growth of the digital 
+
+economy. 
+
+  Consumer  Education:  The  study  can  highlight  areas  where  consumers  may  lack 
+
+awareness  or  understanding  of  online  shopping  practices.  Businesses  and 
+
+authorities can work together to provide educational resources and initiatives that 
+
+address concerns about online security, privacy, and reliable sources. 
+
+  Digital  Device  and  Accessibility:  If  certain  factors  influencing  online  shoppers 
+
+action are related to internet access or technology availability, the study can draw 
+
+attention to the digital divide within Kathmandu Valley. Policymakers can use this 
+
+information  to  implement  initiatives  that  bridge  the  gap  and  improve  internet 
+
+infrastructure and accessibility for all residents. 
+
+  Future  Research:  The  study  can  also  open  up  new  avenues  for  further  research. 
+
+Researchers can delve deeper into specific factors, conduct longitudinal studies to 
+
+track changes over time, or explore differences in  online shopper’s action across 
+
+different demographic groups within the Kathmandu Valley. 
+
+In conclusion, the implications of this study can offer valuable guidance to businesses, 
+
+policymakers,  and  researchers  seeking  to  understand  and  optimize  online  shoppers 
+
+action within Kathmandu Valley. By taking these insights  into account, stakeholders 
+
+can make informed decisions that foster a thriving e-commerce ecosystem in the region. 
+
+ 
+ 
+REFERENCES 
+
+Al-Maghrabi,  T.,  Dennis,  C.,  &  Halliday,  S.  V.  (2011).  Antecedents  of  continuance 
+
+intention  to  shop  online:  Empirical  study  of  Saudi  Arabia.  Journal  of  Computer 
+
+Information Systems, 52(4), 22-31. 
+
+Baabdullah,  J.,  Kakalejcik,  L.  &  Ferencova,  M.  (2020).  Online  Shopping:  Factors  that 
+
+affect purchasing Behaviour: Cogent Business & Management, 9(2), 56-60.  
+
+Bhattarai,  M.  (2018).  The  Factors  Influencing  Online  Shopping  Behavior  Among 
+
+Consumers in Kathmandu Valley. The Journal of Nepalese Studies, 10(2), 48-52.  
+
+Bucko,  B,  Dolip  L.  &  Watner  K.  (2018)  Online  shopping:  factors  that  affect consumer 
+
+purchasing behavior. International Business Management Learning, 1 (2), 9-13. 
+
+Chitrakar B. (2018).  Online Shopping: Consumer Behaviour and Competitor Analysis in 
+
+Nepal. International Management Learning. 13(4), 67-69. 
+
+Da  Silva,  J.  (2017).  Descriptive  research  design:  Theory  and  application.  Journal  of 
+
+Applied Research Design, 3(1), 45-58. 
+
+Daroch, B., Nagrath, G. & Gupta, A. (2020).  A Study on factors limiting online   shopping 
+
+behaviour of consumers. Emerald Group Publishing, 15(1), 99-105. 
+
+Doriyat, G. (2018). Understanding Online Shopping Behavior in Context of Social Media. 
+
+The Journal of Nepalese Studies, 3(2), 12-15. 
+
+Gajurel, A. (2022). The Factors Affecting the Online Shopping Behavior of Consumers in 
+
+Various Countries, Including  Vietnam, Pakistan, Malaysia, India, and Nepal.  The 
+
+Journal of Nepalese Studies, 12(1), 44-48. 
+
+Gaudel, M. (2019). Consumers’ Attitude Towards Online  Shopping: Factors Influencing 
+
+Nepali Consumers to Shop Online. Procedia Economics and Finance. 8 (3), 123-
+
+125.  
+
+Ha, S., & Stoel, L. (2009). Consumer e-shopping acceptance: Antecedents in a technology 
+
+acceptance model. Journal of Business Research, 62(5), 565-571. 
+
+Hamzah, U. (2019). The Role Online Shopping Behavior on the Local Product of Saudi-
+
+Arabia. Journal of Management Research and Analysis, 4(5), 20-23. 
+
+Hussain, A., Baabdullah, A., Thapa, R., & Sharma, N. (2021). Factors influencing online 
+
+shopping behavior: A study in Nepal. Journal of Consumer Behavior, 15(3), 19-25. 
+
+DOI: 10.1002/cb.1821 
+
+Jarvenpaa, S. L., & Todd, P. A. (1997). Consumer reactions to electronic shopping on the 
+
+world wide web. International Journal of Electronic Commerce, 1(2), 59-88. 
+
+ 
+ 
+ 
+ 
+Johnson,  K.  (2020).  Factors  Affecting  the  Online  Purchase  Intentions:  A  Study  of 
+
+Generation Z  in the  United  State.  International Business Management Learning, 
+
+3(2), 25-28. 
+
+Kim, C. (2021). An Examination of the Relationship between Online Method of Buying 
+
+and Consumer Buying Intention. International Journal of Applied Research. 4(5), 
+
+46-49. 
+
+Koirala,  K  D.  (2021).  1st  Edition.   Consumer  Behaviour.  Kathmandu,  Nepal:  Samjhana 
+
+Publication Pvt. Ltd. 
+
+Kundu,  G.  (2015).  Factors  Influencing  the  Online  Shopping  Behavior  of  Consumers  in 
+
+India, Journal of Management Research and Analysis, 3(4), 23-29. 
+
+Lerner, M. P. (2015).  The concept of health in One Health and some practical implications 
+
+for  research  and  education:  what  is  One  Health?  International  Business 
+
+Management Learning, 2 (2), 31-52. 
+
+Liao, Q. (2023). Factors influencing  individuals' online shopping behavior: A systematic 
+
+review. Journal of Consumer Behavior, 14(3), 274-289. 
+
+Martz, K. (2021). Online vs. Offline Shopping, Impact of COVID-19 on the Digitalization 
+
+Process in Austria. International Business Management Learning, 2 (2), 31-52. 
+
+McKinsey,  W.  (2019).  Factors  Affecting  Online  Shopper  Behaviour  in  Malaysia.  The 
+
+Frontiers of Society, Science and Technology, 3(5), 24-33. 
+
+Parasuraman,  P.W.  (1985).  The  Effects  of  Consumers’  Online  Shopping  Goals  and 
+
+their   characteristics on Perceived Interactivity and Shopping Behaviours. Journal 
+
+of Consumer Research. 4(3), 45-47.  
+
+Rungsriswat,  S.,  Joemsittiprasert,  W.  &  Jermsittiparsert  J.   (2019).  Factors  determining 
+
+consumer  buying  behaviour  in  online  shopping:  International  Journal  of 
+
+Innovation, Creativity and Change, 8(8), 89-94.  
+
+Sah,  A.  (2023).  Factors  affecting  online  shopping  behaviour  of  boutique  products  in 
+
+Kathmandu Valley. Journal of Retailing and Consumer Services, 67, 82. 
+
+Sahin,  J.  (2011).   Factors  affecting  Indian  Consumers’  Online  Buying  Behaviour. 
+
+Innovative Marketing. 8(2), 43-46. 
+
+Schiffman, L. G., & Kanuk, L. L. (2010).  Consumer behavior. Upper Saddle River, NJ: 
+
+Pearson Education. 
+
+Shah,  F.A.  &   Tandon,  V. (2020). Consciousness of  Online  Shopping Consumer Buyer 
+
+Behaviour: International Journal of Research and Review, 7(3), 76-79. 
+
+ 
+ 
+ 
+ 
+Shrestha,  S.  (2019).  Consumer  Buying  Behavior  Among  the  Youths  of  the  Kathmandu 
+
+Valley. The Journal of Nepalese Studies, 7(2), 45-50. 
+
+Solomon, S. K. (2021). Customer Impulse Buying Behaviour in Kathmandu. The Journal 
+
+of Nepalese Studies, 11(1), 154-168. 
+
+Thakur, C., Diwekar, A., Reddy, B. J.   & Gajjala, N.  (2020). A Study of the online impulse 
+
+buying  behaviour  during  COVID-19.  International  Journal  of  Research  in 
+
+Engineering, Science and Management, 3(9), 24-28. 
+
+Thang,  G.,  Guhan,  L.  Mirak,  N.  &  Ghenam  M.  (2022).  Factors  Influencing  Online 
+
+Shopping  Intention:  An  Empirical  Study  in  Vietnam.  Cogent  Business  & 
+
+Management, 5(1), 45-49. 
+
+Thapa, H. A., & Sharma, T. H.  (2020).  Factors Influencing Online shopping intention: An 
+
+Empirical Study in Vietnam. Journal of Asian Finance, Economics and Business, 
+
+8(3), 1257–1266. 
+
+Uddin, B. (2020). Factors affecting consumers’ Internet Shopping Behaviour during the 
+
+COVID-19 in Bangladesh.: Chinese Business Review,19(3), 91-104. 
+
+Vaidya, R. (2019). Online Shopping in Nepal: Preferences and Problems: The Journal of 
+
+Nepalese Studies, 12(1), 17-19. 
+
+Wang  C.  (2021).  Factors  Affecting  Online  Shopping  Behavior  in  Malaysia.  Chinese 
+
+Business Review,9(13), 101-114. 
+
+Wolfinbarger, M., & Gilly, M. C. (2001). Shopping online for freedom, control, and fun. 
+
+California Management Review, 43(2), 34-55. 
+
+Zeithaml,  B.  &   Bitner,  G.  (2003).   E-commerce  factors  influencing  consumers’  online 
+
+shopping decision. Social Technologies, 5(1), 74-81. 
+
+Zhou,  C.   (2020).  Online  Shopper  Behaviour:  Influences  of  Online  Shopping  Decision. 
+
+Asian Journal of Business Research. 1(2), 84-89.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDICES  
+
+ANNEX I 
+
+QUESTIONNAIRE  
+
+Dear respondents, 
+
+I  am  Sabina  Bhandari.  Currently  I  am  pursuing  Master  of  Business  Studies  (MBS)  in 
+
+Shanker Dev Campus; Tribhuvan University with marketing as a major.. This questionnaire 
+
+is a part of my thesis and based on a title “Factors Impacting Online Shoppers Action in 
+
+Kathmandu Valley”. The survey is carried out only for academic purpose. The information 
+
+given will be confidential and used in this study only. 
+
+Thank you in advance for your cooperation. 
+
+E - Mail: ___________________________________________________________ 
+
+Name: ___________________________________________________________ 
+
+1.  Age: 
+
+  Below 20 
+
+  20-40 
+
+  40-60 
+
+  Above 60 
+
+2.  Gender: 
+
+  Female 
+
+  Male 
+
+3.  Education: 
+
+  SLC 
+
+ 
+
+Intermediate 
+
+  Bachelor 
+
+  Master level or above 
+
+4.  Income: 
+
+  Less than 10000 
+
+  10000-20000 
+
+  20000-30000 
+
+  More than 30000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+5.  Occupation of the respondents: 
+
+  Business 
+
+  Government Employee 
+
+  Private Employee 
+
+  Student 
+
+The following Statements are measured in a Likert scale of 1 to 5. Please give a rating on 
+
+your online shopping experience. 
+
+C1: It is a great advantage to be able to shop at any time of the day. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+C2: Online shopping is as secure as traditional shopping. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+C3: Online shopping is risky. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C4: Based on my past experience, I believe that the transaction through the online store 
+
+is safe and reliable. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+I5: The information provided on online store are clear. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+I6: The information provided on online store are accurate. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+I7: In the online store, I find the information to be logically presented. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+I8: I find the information on the shopping site to be well-organized. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+A9: The customer service representative is available to talk with me. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+A10: My problem is resolved efficiently. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+A11: Both local and international products are available to shop online. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+TC12: The delivery of the product and services are on time. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+TC13: Shopping on Internet is cheaper than going to the store. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+TC14: The delivery fees are high. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+TC15: We have an advantage to shop international products with discounts. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+OS16: I have a positive attitude towards online shopping. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+0S17: Online Shopping is more popular nowadays so, I prefer online shopping. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+OS18: Promotions on home page would provide me with a good deal in my online  
+
+shopping. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+ 
+ 
+ 
+ 
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+OS19: Online Shopping would provide me with a timely response to my request. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+OS20: Online Shopping helps me get which product I want. 
+
+1. Strongly Agree 
+
+2. Agree 
+
+3. Neutral 
+
+4. Disagree 
+
+5. Strongly Disagree 
+
+THANK YOU ! 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Age of the Respondents 
+
+ANNEX – II 
+
+Age Group 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+Below 20 
+
+20-40 
+
+40-60 
+
+Above 60 
+
+Total 
+
+72 
+
+294 
+
+30 
+
+4 
+
+400 
+
+Gender of the Respondents 
+
+18 
+
+91.5 
+
+99 
+
+100 
+
+18 
+
+73.5 
+
+7.5 
+
+1 
+
+100 
+
+Gender 
+
+Female 
+
+Male 
+
+Total 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+180 
+
+220 
+
+400 
+
+45 
+
+100 
+
+45 
+
+55 
+
+100 
+
+Education of the Respondents 
+
+Education 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+SLC 
+
+Intermediate 
+
+Bachelor 
+
+54 
+
+62 
+
+120 
+
+Master or above 
+
+158 
+
+Total 
+
+400 
+
+13.5 
+
+29 
+
+59 
+
+100 
+
+13.5 
+
+15.5 
+
+30 
+
+41 
+
+100 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monthly Income of the respondents 
+
+Monthly Income 
+
+Frequency 
+
+Percentage 
+
+Cumulative Percentage 
+
+Less than 10000 
+
+106 
+
+10000-20000 
+
+20000-30000 
+
+206 
+
+34 
+
+More than 30000 
+
+52 
+
+Total 
+
+400 
+
+26.5 
+
+78 
+
+86.5 
+
+100 
+
+26.5 
+
+51.5 
+
+8.5 
+
+13.5 
+
+100 
+
+Occupation of the respondents 
+
+Occupation 
+
+Frequency 
+
+Percentage 
+
+Cumulative 
+
+Percentage 
+
+Business 
+
+48 
+
+12.5 
+
+12.5 
+
+Government Employee 
+
+14 
+
+Private Employee 
+
+Student 
+
+220 
+
+116 
+
+3.5 
+
+55 
+
+29 
+
+16 
+
+71 
+
+100 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Descriptive Analysis of Convenience 
+
+ANNEX III 
+
+Codes 
+
+Statements 
+
+Mean 
+
+Std. Deviation 
+
+C1 
+
+It is a great advantage to be able to shop at 
+
+2.44 
+
+1.4221 
+
+any time of the day. 
+
+C2 
+
+Online  shopping  is  as  secure  as  traditional 
+
+2.64 
+
+1.028 
+
+shopping. 
+
+C3 
+
+C4 
+
+Online shopping is risky. 
+
+3.32 
+
+1.222 
+
+Based on my past experience, I believe that 
+
+2.53 
+
+1.040 
+
+the  transaction  through  the  online  store  is 
+
+safe and reliable. 
+
+Overall Average 
+
+2.74 
+
+0.72 
+
+Descriptive Analysis of Information 
+
+Codes 
+
+Statements 
+
+Mean 
+
+Std. Deviation 
+
+I5 
+
+The information provided on online store are 
+
+2.64 
+
+1.105 
+
+clear. 
+
+I6 
+
+The information provided on online store are 
+
+2.68 
+
+1.113 
+
+accurate. 
+
+I7 
+
+In the online store, I find the information to 
+
+2.63 
+
+1.147 
+
+be logically presented. 
+
+I8 
+
+I find the information on the shopping site to 
+
+2.48 
+
+1.154 
+
+be well-organized. 
+
+Overall Average 
+
+2.62 
+
+0.95 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Descriptive Analysis of Availability 
+
+Codes 
+
+Statements 
+
+Mean 
+
+Std. Deviation 
+
+A9 
+
+The  customer  service  representative  is 
+
+2.58 
+
+1.096 
+
+available to talk with me. 
+
+A10 
+
+My problem is resolved efficiently. 
+
+2.64 
+
+1.146 
+
+A11 
+
+Both  local  and  international  products  are 
+
+2.44 
+
+1.319 
+
+available to shop online. 
+
+Overall Average 
+
+2.56 
+
+0.95 
+
+Descriptive Analysis of Time and Cost 
+
+Codes 
+
+Statements 
+
+Mean 
+
+Std. Deviation 
+
+TC12 
+
+The delivery of the product and services are 
+
+2.47 
+
+1.149 
+
+on time. 
+
+TC13 
+
+Shopping on Internet is cheaper than going 
+
+3.14 
+
+1.155 
+
+to the store. 
+
+TC14 
+
+The delivery fees are high. 
+
+2.97 
+
+1.180 
+
+TC15  We have an advantage to shop international 
+
+2.78 
+
+1.358 
+
+products with discounts. 
+
+Overall Average 
+
+2.85 
+
+0.75 
+
+Descriptive Statistics of Online Shoppers Action 
+
+Codes 
+
+Statements 
+
+Mean  Std. Deviation 
+
+OS16 
+
+I  have  a  positive  attitude  towards  online 
+shopping. 
+
+2.51 
+
+0.772 
+
+OS17  Online Shopping is more popular nowadays 
+
+2.35 
+
+0.857 
+
+so, I prefer online shopping.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+OS18 
+
+Promotions on home page would provide me 
+with a good deal in my online shopping.  
+
+2.56 
+
+0.795 
+
+OS19  Online  Shopping would provide  me with a 
+timely response to my request.   
+
+2.47 
+
+0.881 
+
+0S20 
+
+Online  Shopping  helps  me  get  which 
+product I want. 
+
+2.86 
+
+1.025 
+
+Overall Average 
+
+2.55 
+
+0.86 
+
+Descriptive Analysis of Study of Variables 
+
+Codes 
+
+Variables 
+
+Mean  Std. Deviation 
+
+C 
+
+I 
+
+A 
+
+Convenience (Independent) 
+
+2.74 
+
+0.72 
+
+Information (Independent) 
+
+2.62 
+
+0.95 
+
+Availability (Independent) 
+
+2.56 
+
+0.95 
+
+TC 
+
+Time and Cost (Independent) 
+
+2.85 
+
+0.75 
+
+OS 
+
+Online Shoppers Action (Dependent) 
+
+2.55 
+
+0.86 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correlation Matrix 
+
+ANNEX IV 
+
+Online 
+
+Shoppers 
+
+1 
+
+.638** 
+
+.659** 
+
+.557** 
+
+Online Shoppers 
+
+Information 
+
+Availability 
+
+Time and Cost 
+
+Information  Availability 
+
+and 
+
+Convenience  
+
+Time 
+
+Cost 
+
+. 
+
+. 
+
+1 
+
+.621** 
+
+1 
+
+1 
+
+.780** 
+
+.488** 
+
+Convenience 
+
+.621** 
+
+.788** 
+
+.488** 
+
+.557** 
+
+1 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+6/27/24, 9:52 AM
+
+Summary Report
+
+Factors Impacting Online Shopper's Action in Ka...
+By: Sabina Bhandari
+
+As of: May 29, 2024 8:55:23 AM
+16,063 words - 77 matches - 21 sources
+
+Similarity Index
+
+19%
+
+Mode:  Summary Report
+
+sources:
+
+155 words / 1% - Internet from 15-Oct-2022 12:00AM
+www.researchgate.net
+
+111 words / 1% - Internet from 14-Feb-2023 12:00AM
+www.researchgate.net
+
+69 words / 1% - Internet from 03-Sep-2020 12:00AM
+www.researchgate.net
+
+204 words / 1% - Crossref
+Aulia Agung Dermawan, Harmein Nasution, Muhammad Haikal Sitepu. "The impact of branding on purchasing decision-
+making in mall shopping and online shopping", IOP Conference Series: Materials Science and Engineering, 2020
+
+170 words / 1% - from 27-Feb-2024 12:00AM
+elibrary.tucl.edu.np
+
+170 words / 1% - Internet from 27-Oct-2019 12:00AM
+www.tandfonline.com
+
+156 words / 1% - Internet from 22-Aug-2020 12:00AM
+ma adoc.com
+
+152 words / 1% - Internet from 19-Jan-2021 12:00AM
+www.journals.resaim.com
+
+146 words / 1% - Internet from 26-Aug-2022 12:00AM
+www.nepjol.info
+
+125 words / 1% - Internet from 08-Oct-2022 12:00AM
+www.aiirjournal.com
+
+115 words / 1% - Internet from 10-Feb-2022 12:00AM
+francis-press.com
+
+115 words / 1% - Internet from 21-Aug-2020 12:00AM
+www.ijicc.net
+
+110 words / 1% - Internet from 13-Sep-2021 12:00AM
+koreascience.or.kr
+
+https://app.ithenticate.com/en_us/report/108756482/summary
+
+1/25
+
+

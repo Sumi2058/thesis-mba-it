@@ -1,0 +1,6358 @@
+CONSUMER PERCEPTION TOWARDS QUICK 
+
+RESPONSE PAYMENT IN NEPAL 
+
+A Dissertation Submitted to the office of the Dean, Faculty of Management 
+
+in partial fulfillment of the requirements for the Master's Degree 
+
+By 
+
+Narayan Prasad Sharma   
+
+Exam Symbol No: 5812/18 
+
+T.U. Reg. No: 7-2-446-111-2012  
+
+Campus Roll No: 3305/074 
+
+Shanker Dev Campus 
+
+ Kathmandu Nepal 
+
+June, 2023 
+
+i 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certification of Authorship  
+
+I hereby corroborate that I have researched  and submitted the final  draft  of dissertation 
+
+entitled  “CONSUMER  PERCEPTION  TOWARDS  QR  PAYMENT  IN  NEPAL  ". 
+
+The  work  of  this  dissertation  has  not  been  submitted  previously  for  the  purpose  of 
+
+conferral of any degrees nor has it been proposed and presented as part of requirements 
+
+for any other academic purpose.  
+
+The assistance and cooperation that I have received during this research  work has been 
+
+acknowledged. In addition, I declare that all information sources and literature used are 
+
+cited in the reference section of the dissertation. 
+
+…………………………….. 
+
+Narayan Prasad Sharma  
+
+Date:  
+
+ii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report of Research Committee 
+
+Mr.  Narayan  Prasad  Sharma  has  defended  research  proposal  entitled  "  CONSUMER 
+
+PERCEPTION TOWARDS QR PAYMENT IN NEPAL " successfully. The research 
+
+committee has registered the dissertation for further progress. It is recommended to carry 
+
+out  the work as per suggestion and  guidance of  supervisor  Dr.  Dhan Raj Chalise and 
+
+submit the dissertation for evaluation and Viva-Voce examination.  
+
+Dr.  Dhan Raj Chalise  
+
+Dissertation Supervisor 
+
+Dissertation Proposal Defended Date: 
+
+Signature:………………………… 
+
+………………………………………… 
+
+Dissertation Submitted Date: 
+
+………………………………………… 
+
+Asso. Prof. Dr. Sajeeb Kumar Shrestha 
+
+Dissertation Viva-Voce Date: 
+
+Head of Research Department  
+
+Signature: …………………………….. 
+
+………………………………………… 
+
+iii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approval Sheet 
+
+We  have  examined 
+
+the  dissertation  entitled  “CONSUMER  PERCEPTION 
+
+TOWARDS QR PAYMENT IN NEPAL presented by Mr. Narayan Prasad Sharma for 
+
+the degree of Master of  Business Studies. We hereby certify that the acceptable for the 
+
+award of degree.  
+
+……………………………………… 
+
+Dr. Dhan Raj Chalise  
+
+Dissertation Supervisor 
+
+……………………………………… 
+
+Internal Examiner 
+
+……………………………………… 
+
+External Examiner 
+
+……………………………….. 
+
+Asso. Prof. Dr. Sajeeb Kumar Shrestha 
+
+Head of Research Department  
+
+……………………………….. 
+
+Asso. Prof. Dr. Krishna Prasad Acharya 
+
+Campus Chief 
+
+Date:  
+
+iv 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgements 
+
+This  dissertation entitled  CONSUMER  PERCEPTION  TOWARDS  QR PAYMENT  IN 
+
+NEPAL has been prepared for the partial fulfillment of the requirements for the Degree 
+
+of MBS. 
+
+I am highly indebted to the respective dissertation supervisor Dr. Dhan Raj Chalise , of 
+
+Shanker  Dev    Campus  for  his  valuable  guidance,  encouragement  and  suggestions 
+
+throughout  my  work,  which  helped  me  to  accomplish  this  research  project  on  time. 
+
+Similarly, my sincere gratitude goes to Associate Professor Dr. Sajeeb Kumar Shrestha , 
+
+Head of Research Department for their gracious response to my queries. I would like to 
+
+thank all the non-teaching members of MBS for the help they extended to me during this 
+
+study in very many ways. 
+
+My  sincere  gratitude  goes  to  all  the  authors  and  learned  personalities,  whose  writings 
+
+have been cited in this study. I also express my sincere gratitude to those authors whose 
+
+writings  though  not  cited  but  helped  and  inspired  me  in  making  my  vision  clear  and 
+
+reaching on conclusion. 
+
+Similarly, my heartfelt thanks go to my colleagues who encouraged me all the moments 
+
+to  enhance  this research  work on  right  time.  I am  heartily indebted to  my  all members, 
+
+especially  my  parents,  who  not  only  encouraged  but  also  provided  me  with  everything 
+
+possible to pursue higher studies and materialize my cherished dream. 
+
+Narayan Prasad Sharma 
+
+Researcher 
+
+v 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Contents 
+
+Certification of Authority ................................................................................................... ii 
+
+Report of Research Committee .......................................................................................... iii 
+
+Approval Sheet................................................................................................................... iv 
+
+Acknowledgements ............................................................................................................. v 
+
+List of Figures .................................................................................................................... ix 
+
+List of Tables ...................................................................................................................... x 
+
+Abbreviations ..................................................................................................................... xi 
+
+Abstract ............................................................................................................................. xii 
+
+CHAPTER I ........................................................................................................................ 1 
+
+INTRODUCTION .............................................................................................................. 1 
+
+1.1 Background of the study ........................................................................................... 1 
+
+1.2 Problem Statement .................................................................................................... 2 
+
+1.3 Objectives of the Study ............................................................................................. 2 
+
+1.4 Research Hypothesis ................................................................................................. 3 
+
+1.7 Rationale of the Study ............................................................................................... 3 
+
+1.7 Limitations of the Study............................................................................................ 4 
+
+CHAPTER II ....................................................................................................................... 5 
+
+LITERATURE REVIEW ................................................................................................... 5 
+
+2.1 Review of the Literature ........................................................................................... 6 
+
+2.2 Theoretical Review  ................................................................................................ 10 
+
+2.3 Empirical Review.................................................................................................... 20 
+
+2.4 Research Gap  ......................................................................................................... 34 
+
+vi 
+
+ 
+ 
+ 
+ 
+ 
+CHAPTER III ................................................................................................................... 34 
+
+RESEARCH METHODOLOGY...................................................................................... 34 
+
+3.1 Introduction ............................................................................................................. 34 
+
+3.2 Research Design...................................................................................................... 34 
+
+3.3 Sample Description ................................................................................................. 35 
+
+3.3.1 Population and sample ..................................................................................... 35 
+
+3.3.2 Sample Size and Sampling Techniques ........................................................... 35 
+
+3.3.3 Instrumentation ................................................................................................ 36 
+
+3.4 Data Collection Procedure & Time Frame ............................................................. 38 
+
+3.4.1 Pilot Test .............................................................................................................. 40 
+
+3.4.2 Reliability and Validity ........................................................................................ 40 
+
+3.5 Data Analysis Procedures ....................................................................................... 41 
+
+CHapter IV ........................................................................................................................ 43 
+
+Results and discussions ..................................................................................................... 43 
+
+4.1 Respondents Profile ................................................................................................ 43 
+
+4.1.1 Gender of Respondents .................................................................................... 43 
+
+4.1.2 Age of Respondents ......................................................................................... 44 
+
+4.1.3 Education Level ............................................................................................... 45 
+
+4.1.5 Income.............................................................................................................. 46 
+
+4.1.6 Awareness of QR payment gateway ................................................................ 47 
+
+4.2 Descriptive Analysis ............................................................................................... 49 
+
+4.2.1 Consumer Perception towards QR Payment .................................................... 50 
+
+4.2.2 Perceived Risk ................................................................................................. 51 
+
+4.2.4 Effort Expectancy ............................................................................................ 55 
+
+4.3 Inferential Analysis ................................................................................................. 58 
+
+vii 
+
+ 
+ 
+ 
+4.3.1 Correlation Analysis ........................................................................................ 59 
+
+4.4 Regression Analysis ................................................................................................ 60 
+
+4.4.1 ANOVA ........................................................................................................... 61 
+
+4.4.2 Model Summary............................................................................................... 62 
+
+4.4.3 Coefficients of Regression Model ................................................................... 62 
+
+4.5 Discussion ............................................................................................................... 65 
+
+CHAPTER V .................................................................................................................... 68 
+
+SUMMARY AND CONCLUSION ................................................................................. 68 
+
+5.1 Summary ................................................................................................................. 68 
+
+5.2 Conclusion .............................................................................................................. 71 
+
+5.3 Implication .............................................................................................................. 72 
+
+References ......................................................................................................................... 74 
+
+ANNEXURE..................................................................................................................... 83 
+
+viii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Figures 
+
+Figure 3.1 Conceptual Framework ............................................................................... 43 
+
+ix 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Tables 
+
+Table 3. 1: Reliability Test................................................................................................ 40 
+
+Table 4. 1: Gender wise Distribution of Respondents ...................................................... 43 
+
+Table 4. 2: Age of Respondents ........................................................................................ 44 
+
+Table 4. 3: Distribution by Education Level of Respondents ........................................... 45 
+
+Table 4. 4: Distribution by Occupation............................................................................. 45 
+
+Table 4. 5: Distribution by Income ................................................................................... 46 
+
+Table 4. 6: Distribution by Awareness of QR Payment Gateway .................................... 47 
+
+Table 4. 7: Distribution by main purpose of using QR ..................................................... 47 
+
+Table 4. 8: Distribution by Frequency of use ................................................................... 48 
+
+Table 4. 9: Distribution by Mode of Payment .................................................................. 49 
+
+Table 4.10: Descriptive Analysis of Consumer Perception .............................................. 50 
+
+Table 4. 11: Descriptive Analysis of Perceived Risk ....................................................... 52 
+
+Table 4. 12: Descriptive Analysis of Social Influence ..................................................... 54 
+
+Table 4. 13: Descriptive Analysis of Effort Expectancy .................................................. 56 
+
+Table 4. 14: Descriptive Analysis of Facilitating Conditions ........................................... 57 
+
+Table 4. 15 Correlation between Dependent and Independent Variables ......................... 59 
+
+Table 4.16 ANOVA .......................................................................................................... 61 
+
+Table 4.17 Model Summary ............................................................................................. 62 
+
+Table 4.18: Coefficients of Regression Model ................................................................. 63 
+
+Table 4.19: Summary Result of Hypothesis Testing ........................................................ 64 
+
+x 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNOVA     Analysis of Variance 
+
+Abbreviations 
+
+EDP 
+
+EFT 
+
+EOU 
+
+FTC 
+
+ICFT 
+
+Electronic Data Processing 
+
+Electronic Fund Transfer 
+
+Ease of Use 
+
+Federal Trade Commission 
+
+Interoperable Credit Transfer Framework 
+
+ICT                Information and Communication Technologies 
+
+mPKI   
+
+MS        
+
+PIN 
+
+PR 
+
+Mobile Public Key Infrastructure 
+
+Microsoft 
+
+Personal Identification Number 
+
+Perceived Risk 
+
+QR                     Quick Response 
+
+QRIS   
+
+Quick Response Code Indonesian Standard 
+
+TAM        
+
+Technology Acceptance Model 
+
+TBP 
+
+Theory of Planned Behaviour 
+
+TR            
+
+ Technology Readiness 
+
+TRA  
+
+Theory of Reasoned Action 
+
+TTF          
+
+Technology Task Fit 
+
+UTAUT 
+
+Unified Theory on Acceptance and Use of Technology 
+
+xi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT  
+
+This study investigates consumer perceptions towards Quick Response (QR) payments in 
+
+Nepal, understanding of the factors influencing adoption. Using a quantitative approach, 
+
+the  research    gathers  numerical  data  on  consumer  perceptions,  preferences,  and  usage 
+
+patterns related to  QR payments. The independent  variables for the study  are perceived 
+
+risk, social influence, effort expectancy and facilitating conditions and dependent variable 
+
+is consumer perception. Out of 386 respondents mostly prefer using Fonepay to conduct 
+
+their  QR  transactions.  Demographic  analysis  shows  higher  acceptance  among  younger 
+
+demographics, higher-income groups, and urban consumers. Findings reveal a generally 
+
+positive  sentiment  towards  QR  payments,  with  convenience,  security,  and  trust  as  key 
+
+adoption influencers. However, security concerns and limited awareness pose challenges. 
+
+This  insight  informs  stakeholders,  including  policymakers,  financial  institutions,  and 
+
+technology providers, guiding strategies to enhance security measures and foster a more 
+
+inclusive  digital  financial  environment.  The  study  concludes  that  while  QR  payments 
+
+have  the  potential  to  thrive  in  Nepal's  financial  ecosystem,  addressing  security 
+
+apprehensions  and  awareness  gaps  is  crucial  for  widespread  adoption.  Future  research 
+
+could delve deeper into specific security concerns, explore cultural factors, and examine 
+
+the impact of promotional campaigns on awareness and adoption dynamics towards QR 
+
+payment system. 
+
+Key Words:     Fonepay, QR transactions, Convenience, Security, Trust
+
+xii 
+
+ 
+ 
+ 
+ 
+1 
+
+CHAPTER I 
+
+INTRODUCTION 
+
+1.1 Background of the study 
+
+Quick  Response  codes  are  two-dimensional,  machine-readable  matrix  bar  codes  that 
+
+Denso Wave  Incorporated created in  1994 for the  goal  of quick and  accurate inventory 
+
+inspections.  Unlike  QR  codes,  which  can  store  data  both  vertically  and  horizontally, 
+
+traditional  one-dimensional  bar  codes  can  only  store  data  horizontally.  As  a  result,  QR 
+
+codes can store more precise and large amounts of data than traditional one-dimensional 
+
+bar codes. QR codes can be decoded by any smartphone and dedicated QR scanners and 
+
+can  contain  any  textual  stringThis  makes  it  possible  to  encode  web  addresses  in  QR 
+
+codes, which can direct the scanning device to the provided URL in the built-in browser. 
+
+In contrast to barcodes, QR codes also have an error-checking element. This means that 
+
+even if some of the QR code is unreadable, it can still be successfully deciphered (Fox, 
+
+2019). 
+
+As QR Code usage expanded globally, new types of QR Codes emerged to fulfill more 
+
+specific  needs.  One  such  innovation  was  the  micro  QR  Code,  designed  to  occupy  less 
+
+space while maintaining functionality, leading to its adoption as a JIS standard in 2004. 
+
+In 2008, the iQR Code  was introduced, featuring  a  compact  size  yet capable of storing 
+
+large  amounts  of  data,  and  allowing  the  use  of  rectangular  modules.  Another 
+
+advancement  included  QR  Codes  with  reading  restrictions,  developed  in  response  to 
+
+evolving  user  preferences  for  enhanced  privacy  and  security  measures  over  time 
+
+(Masahiro, 2019). 
+
+Online  marketing,  particularly  mobile  online  marketing,  has  been  gaining  greater 
+
+attention  and  recognition  by  marketers.  QR  codes  make  the  purchase  easier  for 
+
+customers. Moreover, with  the increasing  competition  with  e-commerce, the use of QR 
+
+Codes  will  give  any  type  of  business  and  utmost  competitive  advantage  to  the  market. 
+
+Emerging  as  one  of  the  leading  technologies  to  transform  customers‘  experience  and 
+
+allowing  them  to  save  their  time  by  accessing  the  information  at  the  tap  of  their 
+
+ 
+ 
+ 
+smartphone device, have made QR codes as one of the most in-demand techs-tool today 
+
+2 
+
+(Vall, 2022). 
+
+1.2 Problem Statement 
+
+As  the  laws  for  social  distancing  were  imposed  following  Covid-19,  people  became 
+
+increasingly  accustomed with  digital  payments. People avoided standing  in  lines to  pay 
+
+bills  and  buy  because  they  were  afraid  of  becoming  infected.  They've  discovered  that 
+
+online  payments  and  buying  are  more  convenient,  secure,  and  time-saving  alternatives. 
+
+Because of their flexibility, security, ease, and ubiquitous availability, QR payments are 
+
+currently the most popular of all. In Nepal, QR payments have helped people in distant 
+
+locations overcome geographical hurdles to financial transactions and given them a sense 
+
+of  temporal  value.  Urban  residents  can  also  benefit  from  it  because  they  have  limited 
+
+time  and  can  use  a  variety  of  services  offered  by  QR  payments  to  save  a  lot  of  time, 
+
+increase  productivity,  and  be  more  efficient.  A  study  that  examined  the  adoption  of 
+
+mobile  QR  Payments  found  that  young  consumers  were  more  content  and  enthusiastic 
+
+about  doing  so.  With  the  use  of  QR  payments,  this  inquiry  intends  to  analyze  and 
+
+evaluate customer impression in Nepal. The current study will also look at findings that 
+
+might affect the adoption of QR in Nepal. This research will aim at answering following 
+
+research questions: 
+
+The  study  on  consumer  perception  towards  Quick  Response  (QR)  payment  in  Nepal 
+
+identifies  several  critical  issues  that  warrant  attention.  Firstly,  a  lack  of  awareness  and 
+
+understanding  about  QR  payment  systems  among  consumers  poses  a  significant 
+
+challenge. Many individuals may not  be well-informed about  the functionality, security 
+
+features,  and  benefits  of  QR  payments,  hindering  their  adoption.  Additionally,  security 
+
+concerns  represent  a  prominent  problem,  as  consumers  may  be  apprehensive  about  the 
+
+safety  of  their  financial  transactions  through  QR  codes.  The  potential  vulnerability  to 
+
+fraud or unauthorized access may undermine the trust required for widespread adoption. 
+
+Furthermore,  the  study  aims  to  explore  the  impact  of  socio-economic  factors  on 
+
+consumer  perceptions,  recognizing  that  disparities  in  income  levels,  education,  and 
+
+ 
+ 
+ 
+ 
+3 
+
+geographical location might influence the adoption rates of QR payments. Accessibility 
+
+to smartphones and reliable internet connectivity, especially in rural areas, may emerge as 
+
+a hindrance to widespread adoption. 
+
+Another area of concern is the influence of cultural factors on consumer behavior towards 
+
+digital  payment  methods.  Cultural  preferences,  habits,  and  traditional  attitudes  towards 
+
+cash  transactions  may  shape  perceptions  and  act  as  barriers  to  QR  payment  adoption. 
+
+Understanding  these  cultural  dynamics  is  crucial  for  tailoring  effective  strategies  that 
+
+resonate with the local population. 
+
+The  study  intends  to  investigate  the  challenges  associated  with  the  regulatory 
+
+environment  and  infrastructure  readiness  for  QR  payments  in  Nepal.  Ambiguous  or 
+
+restrictive  regulations  and  the  absence  of  a  robust  technological  infrastructure  may 
+
+impede the seamless integration and functioning of QR payment systems. 
+
+Addressing these identified problems is imperative for promoting the successful adoption 
+
+of  QR  payments  in  Nepal.  This  research  aims  to  provide  insights  that  can  guide 
+
+policymakers,  financial  institutions,  and  technology  developers  in  developing  targeted 
+
+interventions  to  overcome  these  challenges  and  foster  a  favorable  environment  for  QR 
+
+payment acceptance. 
+
+1.  What  is  the  status  of  consumer  perception  towards  quick  response  payment  in 
+
+Nepal? 
+
+2.  Is  there  any  relationship  between  perceived  risk,  social  influence,  effort 
+
+expectancy, facilitating conditions and QR payment? 
+
+3.  What  is  the  impact  of  perceived  risk,  social  influence,  effort  expectancy, 
+
+facilitating conditions on QR payment? 
+
+1.3 Objectives of the Study 
+
+The following are the objectives of the research: 
+
+1.  To assess  the status  of consumer perception towards quick response payment in 
+
+Nepal. 
+
+ 
+ 
+ 
+4 
+
+2.  To  analyze  relationship  between  perceived  risk,  social 
+
+influence,  effort 
+
+expectancy, facilitating conditions and QR payment. 
+
+3.  To  examine  the  impact  of  perceived  risk,  social  influence,  effort  expectancy, 
+
+facilitating conditions on QR payment. 
+
+1.4 Research Hypothesis 
+
+The following are the research HYPOTHEIS that was examined in this paper: 
+
+H1:  There  is  significant  relationship  between  perceived  risk  and  consumer  perception 
+
+towards QR Payment. 
+
+H2:  There  is  significant  relationship  between  social  influence  and  consumer  perception 
+
+towards QR payment. 
+
+H3: There is significant relationship between effort expectancy and consumer perception 
+
+towards QR payment. 
+
+H4:  There  is  significant  relationship  between  facilitating  conditions  and  consumer 
+
+perception towards QR payment. 
+
+1.5 Rationale of the Study 
+
+As QR payment gateways are surging on an account of growing online payment in Nepal, 
+
+this  study  undertakes  to  give  an  insight  about  consumer‘s  perception  towards  QR 
+
+payment.  QR  payments  are  becoming  a  seamless,  fast  and  simple  way  for  making 
+
+payments. This study is an attempt to identify the thinking of consumers with respect to 
+
+QR payments and about the safety of these payments. Though, a lot of research has been 
+
+done on consumer perception towards credit card payments, very less has been done on 
+
+other  modes  of  payment  like  QR  and  the  challenges  faced  by  the  consumers  for  QR 
+
+payments. The study will provide us with the following insights: 
+
+  Understanding the popularity and growing use of QR payment in today‘s market 
+
+  Analyzing the concerns of privacy and security among different age group and its 
+
+direct impact in consumers perception towards QR payment. 
+
+ 
+ 
+ 
+ 
+  Analyzing  how  convenience  and  flexibility  of  use  of  QR  payments  leads  to 
+
+change in perception among different age groups 
+
+5 
+
+1.6 Limitations of the Study  
+
+The following are the limitations of this research: 
+
+  The study was based on the respondent‘s perception within Kathmandu Valley 
+
+  Honesty of respondents was arguable while filling out the questionnaire 
+
+  This research was based on questionnaire only; hence, limited information can be 
+
+gathered from the respondents as per developed questionnaire. 
+
+  A  time  constraint  has  been  one  of  the  major  problems  because  the  topic  is  vast 
+
+and time is very limited. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+
+CHAPTER II 
+
+LITERATURE REVIEW  
+
+In  this  chapter,  the  basics  and  theories  (from  journals,  books,  conference  proceedings) 
+
+relating  to  the  concept  of  digital  payment,  measures  of  digital  payment  activities, 
+
+consumers perception towards digital payment are reviewed. Likewise, critical evaluation 
+
+of existing studies being done by various authors on digital payment are also presented. 
+
+2.1 Conceptual Review  
+
+Concept of Information Technology  
+
+Information  technology  (IT)  involves  the  use  of  computers  to  store,  retrieve,  transmit, 
+
+and  manipulate  data  or  information.  Typically  applied  in  business  contexts  rather  than 
+
+personal  or  entertainment  settings,  IT  is  a  subset  of  information  and  communications 
+
+technology  (ICT).  An  IT  system  encompasses  information  systems,  communication 
+
+systems,  or  specifically,  computer  systems.  This  includes  all  hardware,  software,  and 
+
+peripheral devices used by a defined group of IT users. Essentially, IT covers everything 
+
+businesses use computers for, from building communication networks and safeguarding 
+
+data  to  managing  databases  and  resolving  technical  issues  to  ensure  the  efficiency  and 
+
+security of business  information systems. Demand for professionals  in  this field  is high 
+
+and growing, and people entering the field have a range of career paths to choose from 
+
+(Stokdyk, 2019). 
+
+Information  technology  is  the  broad  use  of  technology  to  address  issues  in  business  or 
+
+organizations.  Regardless  of  the  position,  an  IT  department  employee  collaborates  with 
+
+others to address both significant and little technological issues (Slyter, 2019). 
+
+Although  computers  and  associated  networks  are  frequently  referred  to  as  "IT,"  the 
+
+phrase also refers to other information dissemination technologies, such as television and 
+
+mobile devices. Information technology (IT) covers any form of technology, that is, any 
+
+equipment or technique used by a company, institution, or any other organization which 
+
+handles  information.  It  incorporates  computing,  telecommunication  technologies,  and 
+
+includes consumer electronics and broadcasting as it is getting more and more digitized. 
+
+ 
+ 
+ 
+7 
+
+Spearheaded by the computer, the decades since the mid-1960s have been characterized 
+
+by an extreme development (Grauer, 2001). 
+
+The Evolution of Information Technology 
+
+Information  technology  has  dramatically  altered  organizational  structures  and  business 
+
+operations.  Constantly  evolving,  it  breaks  new  barriers,  defines  new  horizons,  and 
+
+introduces  new  dimensions  to  our  lifestyle.  IT  can  be  defined  as  a  structured  body  of 
+
+tools,  techniques,  and  infrastructure  for  generating,  collecting,  storing,  processing,  and 
+
+transmitting information and data.  
+
+In  the  late  1950s  and  throughout  the  1960s,  business  data  processing  was  carried  out 
+
+using  punched  card  equipment,  electronic  accounting  machines,  and  large  mainframe 
+
+computers with significantly less capability than today‘s microcomputers. The electronic 
+
+data  processing  (EDP)  department  was  responsible  for  this  function.  In  the  1970s,  the 
+
+advent  of  primitive  multi-user  networks  connected  terminals  to  these  massive 
+
+mainframes.  
+
+This  period  also  saw  the  emergence  of  database  management  systems,  developed  in 
+
+response  to  the  challenges  of  handling  large  volumes  of  business  data,  laying  the 
+
+foundation for  Information Systems  (IS), Management  Information  Systems  (MIS), and 
+
+Decision  Support  Systems  (DSS).  These  processes  were  centrally  managed  using 
+
+application software developed with third-generation programming languages.  
+
+Subsequent  decades  saw  the  integration  of  telecommunications  and  networking 
+
+technologies  for  business  use.  Improving  product  and  service  quality  became  a  key 
+
+objective  for  businesses  during  this  time,  leading  to  significant  investments  in  total 
+
+quality management (TQM) strategies by leading organizations in the 1980s. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+
+Electronic Banking 
+
+Electronic  banking  encompasses  various  methods  by  which  customers  can  conduct 
+
+banking transactions electronically, eliminating the need to visit physical bank branches. 
+
+Terms such as personal computer (PC) banking, Internet banking, virtual banking, online 
+
+banking, home banking, remote electronic banking, and phone bank all refer to different 
+
+forms of electronic banking, though they are often used interchangeably. 
+
+Among  the  primary  delivery  channels  for  electronic  banking  services  are  ATMs,  POS 
+
+systems, mobile banking, and internet banking: 
+
+- ATM (Automated Teller Machine): An ATM allows users to withdraw cash, purchase 
+
+recharge cards, transfer funds, and check account balances 24/7 without visiting a bank 
+
+branch. 
+
+-  Internet  Banking:  This  service  enables  customers  to  conduct  financial  transactions 
+
+securely via a financial institution's website. It includes functions like checking balances, 
+
+transferring funds, and accessing account information. 
+
+- POS (Point of Sale): POS terminals are used in physical stores to process payments for 
+
+goods  or  services  via  card  transactions.  They  manage  sales  transactions  and  generate 
+
+receipts. 
+
+-  Mobile  Banking:  Also  known  as  M-banking,  this  allows  users  to  perform  banking 
+
+activities  such  as  balance  checks,  fund  transfers,  bill  payments,  and  credit  applications 
+
+using mobile phones or PDAs. It began with SMS banking and has expanded to include 
+
+more sophisticated mobile apps. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+
+These electronic banking services have evolved significantly since the introduction of the 
+
+ATM  in  the  mid-1970s.  They  provide  convenience,  accessibility,  and  flexibility  to 
+
+customers  worldwide,  including  those  in  remote  or  underserved  areas.  Additionally, 
+
+newer technologies like Electronic Funds Transfer (EFT) and telephone banking further 
+
+enhance  the  range  of  services  available  electronically,  allowing  customers  to  manage 
+
+their finances conveniently from any location with phone or internet access. 
+
+2.2 Theoretical Review  
+
+Technology Acceptance Model (TAM):  
+
+The  review  applies  the  TAM  to  analyze  consumer  acceptance  and  adoption  of  QR 
+
+payment  systems.  It  examines  the  factors  influencing  perceived  usefulness  and  ease  of 
+
+use,  such  as  perceived  security,  convenience,  and  compatibility  with  existing  payment 
+
+habits.  Trust  and  security  are  critical  factors  influencing  consumer  perception  and 
+
+adoption  of  QR  payment  systems.  The  review  explores  theories  of  trust,  including  the 
+
+Technology Trust Model (TTM) and the Trust Transfer Model, to understand how trust is 
+
+established  and  maintained  in  QR  payment  transactions.  Perceived  risk,  including 
+
+financial,  privacy,  and  security  risks,  can  impact  consumer  attitudes  and  behaviors 
+
+towards  QR  payment.  The  review  examines  theories  of  risk  perception,  such  as  the 
+
+Protection Motivation Theory (PMT), to understand how consumers assess and mitigate 
+
+perceived risks associated with QR payment. 
+
+Innovation Diffusion Theory: 
+
+The  review  applies  the  Innovation  Diffusion  Theory  to  analyze  the  diffusion  of  QR 
+
+payment  technology  among  consumers.  It  examines  the  adoption  process,  including 
+
+awareness, interest, evaluation, trial, and adoption, to understand the factors influencing 
+
+QR  payment  adoption  at  different  stages.  Social  Influence:  Social  influence,  including 
+
+peer  recommendations,  social  norms,  and  cultural  factors,  can  shape  consumer 
+
+perceptions  and behaviors towards QR payment. The review explores theories of social 
+
+ 
+ 
+ 
+ 
+ 
+influence, such as Social Learning Theory and Social Identity Theory, to understand how 
+
+social factors influence QR payment adoption. 
+
+10 
+
+QR (Quick Response) 
+
+Consumers  perceive  QR  code  payments  as  convenient,  practical,  and  time-saving. 
+
+According  to  Ryu  (2013),  individuals  using  QR  codes  in  the  US  tend  to  be  more 
+
+innovative,  adventurous,  and  engaged  in  larger-scale  shopping  compared  to  non-users. 
+
+They  are  also  more  experienced  in  online  shopping.  Almehairi  and  Bhatti  (2014) 
+
+presented  a  conceptual  model  in  the  UAE,  highlighting  a  strong  consumer  demand  for 
+
+QR code-based shopping due to its ease and utility, particularly appealing to younger and 
+
+middle-aged consumers seeking convenience and avoiding long queues. Wara and Dugga 
+
+(2014)  explored  how  QR  codes  enhance  retail  shopping  experiences  by  providing  real-
+
+time product information through an efficient online catalog system. 
+
+Perception 
+
+According  to  Schacter  and  Daniel  (2011),  perception  is  the  organization,  identification, 
+
+and interpretation of sensory data in order to represent and comprehend the information 
+
+or environment  being given. The word perception is  derived from  the  Latin perception, 
+
+which means gathering or receiving.  
+
+In  addition  to  the  passive  reception  of  these  signals,  perception  is  also  influenced  by 
+
+learning, memory, expectancy, and attention in the recipient. Perceptual systems can also 
+
+be  analyzed  computationally  by  examining  the  information  they  process.  Philosophical 
+
+discussions on perception include debates on whether sensory qualities like sound, smell, 
+
+or  color  exist  objectively  or  are  constructs  of  the  mind.  Traditionally  seen  as  passive 
+
+receivers,  perceptual  systems  have  been  shown  through  studies  of  illusions  and 
+
+ambiguous  images  to  actively  and  pre-consciously  interpret  incoming  stimuli.  There 
+
+remains  ongoing  debate  regarding  whether  perception  functions  akin  to  hypothesis 
+
+testing, similar to scientific inquiry, or if the richness of realistic sensory data makes this 
+
+process redundant (Gregory, 1987).  
+
+ 
+ 
+ 
+ 
+11 
+
+According to Bernstein (2010), sensory input is a process that transforms this low-level 
+
+information to higher-level information (e.g., extracts shapes for object recognition). The 
+
+process  that  follows  connects  a  person's  concepts  and  expectations  (or  knowledge), 
+
+restorative  and  selective  mechanisms  (such  as attention)  that  influence  perception.  
+
+Psychophysics quantitatively describes the relationships between the physical qualities of 
+
+the  sensory  input  and  perception. Sensory  neuroscience studies  the  neural  mechanisms 
+
+underlying perception. ( Fechner & Gustav, 1860). 
+
+Perceived Risk 
+
+According  to  Hsieh  (2014),  Perceived  risk  refers  to  customers'  feelings  of  uncertainty 
+
+regarding  potential  negative  impacts  when  using  new  technology,  which  can  hinder 
+
+adoption. In studies examining Malaysian customers' perceptions of mobile payments, it 
+
+was found that customers are hesitant to adopt m-payment due to fears of compromising 
+
+confidential information. Additionally, customers are concerned that mobile transactions 
+
+may  heighten  the  risk  of  transaction  fraud.  A  qualitative  study  by  Mallat  identified 
+
+several dimensions of risk associated with m-payment usage. First, there is the risk that 
+
+someone else could make payments if the device is lost. Second, there is the possibility of 
+
+a lack of transaction records, complicating follow-ups. Third, there is the risk of errors in 
+
+payment  transactions.  Lastly,  there  is  the  risk  of  exposing  privacy  through  mobile 
+
+transactions.  Recent  studies  have  confirmed  that  perceived  risk  negatively  influences 
+
+customer intention to use m-payment services. Anxiety refers to a feeling of unease when 
+
+using technology, driven by concerns about whether the technology meets requirements 
+
+and  its  safety  level.  Previous  research  has  demonstrated  that  anxiety  can  impact 
+
+technology  usage,  potentially  leading  to  reduced  adoption  or  avoidance.  Therefore,  the 
+
+researcher  identified  anxiety  as  a  crucial  factor  to  investigate  in  this  study,  particularly 
+
+among  small  entrepreneurs  and  their  perceptions  of  QR  Code  technology,  considered  a 
+
+modern technological concern. Small business operators often experience anxiety related 
+
+to  technology,  such  as  fears  about  its  complexity,  limited  access  to  learning  resources, 
+
+and  lack  of  user  familiarity.  Understanding  these  concerns  is  essential  for  studying 
+
+ 
+ 
+ 
+ 
+12 
+
+cognition-based  trust  antecedents  and  consumer  perceptions  regarding  online  sellers, 
+
+focusing on information quality, perceived privacy, and security protection. 
+
+Technology readiness (TR) 
+
+Technology  readiness  (TR)  refers  to  people‘s  propensity  to  embrace  and  use  of  new 
+
+technologies  for  accomplishing  goals  in  home  life  and  at  work.  Based  on  individual‘s 
+
+technology  readiness  score  and  the  technology  readiness,  they  further  classified 
+
+technology  consumers  into  five  technology  readiness  segments  of  explorers,  pioneers, 
+
+skeptics, paranoids, and laggards. S-shaped adoption curve of innovators, early adopters, 
+
+early  majority,  late  majority  and  laggards.  The  Diffusion  of  innovation  or  Technology 
+
+readiness is vital for organization implementation success because it is market focus, 
+
+The  success  of  PI  depends  on  its  relevance  and  perceived  usefulness  to  the  customers. 
+
+More  the  customers  feel  information  is  useful;  they  will  adopt  QR  codes  for  receiving 
+
+information  Higgins,  Wolf  and  Wolf  (2014),  concurrent  to  this  the  affective  attitude 
+
+generated through information leads to liking, preference and conviction through AD QR 
+
+codes. In their seminal paper, Lavidge and Steiner (1961) identified three key functions 
+
+of  advertising:  firstly,  creating  awareness  and  disseminating  knowledge;  secondly, 
+
+fostering  customer  liking  and  preference  by  shaping  favorable  attitudes;  and  thirdly, 
+
+guiding  customers  towards  making  a  definite  purchase  decision.  Similarly,  Jung, 
+
+Somerstein,  and  Kwon  (2012)  argue  that  advertising  QR  codes  fulfills  these  functions 
+
+effectively.  Additionally,  QR  codes  are  targeted  towards  specific  customer  groups  who 
+
+find the messages appealing and useful. These customers' attitudes are influenced by the 
+
+attractiveness  of  advertising,  especially  when  coupled  with  sales  promotion  offers,  as 
+
+noted by Singh and Bamoriya (2013).The conative action leads to BP sent via QR code; 
+
+customer‘s  acceptance  of  code  will  lead  to  payment  gate  to  finish  the  transaction.  The 
+
+security of financial transactions is paramount to mitigate customer risks, as highlighted 
+
+by  Cabanillas,  Luna,  and  Rios  (2015).  Humbani  and  Wiese  (2018)  discussed  consumer 
+
+concerns about payment insecurity through mobile phones, attributing these concerns to 
+
+potential hacking risks. In contrast, Lubua and Pretorius (2018) found in their study that 
+
+error-free  financial  transactions  enhance  consumer  trust,  fostering  adoption  and  future 
+
+use of the technology (Kokku, 2021). 
+
+ 
+ 
+ 
+Social Influence 
+
+ Social  influence  could  be  an  important  predictor  for  customers  to  adopt  a  new 
+
+technology. Here's a paraphrased version: 
+
+13 
+
+Customers factor in social influence when deciding whether to adopt m-payment. Social 
+
+interactions  within  groups  often  involve  sharing  service  experiences,  influencing 
+
+consumption  choices.  In  this  study,  social  influence  is  defined  as  the  extent  to  which 
+
+customers  perceive  others'  opinions  as  important  in  their  decision  to  use  m-payment. 
+
+Social influence (SI) is the degree to which an individual perceives that important other 
+
+believe he or she should use the new system. SI becomes the biggest supporting factor in 
+
+the use of a new system by a person because it is influenced by the encouragement of the 
+
+people  and  situation  around  him/her.  This  construction  has  been  widely  accepted  by 
+
+many  previous  researchers  in  determining  the  interest  in  adopting  technology  such  as 
+
+mobile payment ( Putera & Nilo, 2021). 
+
+Effort Expectancy 
+
+Effort  expectancy  is  similar  to  the  concepts  of  perceived  ease  of  use  in  TAM  which  is 
+
+defined as the degree of ease m-payment can be used. Effort expectation is the degree to 
+
+which ease of use is associated with the system use Venkatesh (2012). ―This variable has 
+
+been derived from the combination of theories, which includes 1. Perceived ease of use, 
+
+2. Complexity, 3. Ease of use. Similarities have been noted in previous research Davis et 
+
+al.  (1989);  Moore  &  Benbasat(1991).  This  variable  has  been  validated  by  numerous 
+
+studies in electronic commerce (e-commerce) adoption. For instance, Escobar-Rodríguez 
+
+and  Carvajal-Trujillo  found  that  effort  expectancy  is  the  main  factor  that  influence 
+
+customer‘s intention to purchase online tickets for low-cost carriers, while in Musleh, et 
+
+al.  it  positively  impacts  customer‘s  intention  to  shop  online.  In  m-payment  adoption, 
+
+Abidin,  et  al.    proved  that  this  variable  affecting  customer‘s  intention  to  use  the 
+
+technology  where  customer  expects  greater  ease  in  performing  purchase  than  using 
+
+conventional  cash  payment.  In  m-payment,  customer  need  not  to  bring  cash  to  make  a 
+
+payment‖ (Dawi, 2019). "Perceived ease of use is the degree to which a person believes 
+
+ 
+ 
+ 
+ 
+14 
+
+that using a particular system will save effort" Davis (2009). There are many studies that 
+
+also use similar concepts as ―perceived ease of use" such as "complexity" and "expected 
+
+effort" (Venkatesh et al., 2003). An easy-to-use technology will stimulate potential users 
+
+to increase their intention to use new technology and services. Studies of Venkatesh et al. 
+
+(2003), Davis et al (1992), Taylor and Todd (1995), Shin et al. (2012), also confirms and 
+
+demonstrates  that  ease  of  use  is  a  factor  influencing  the  intention  to  adopt  new 
+
+technology and services. The higher customers‘ perceived ease of use on QR code service 
+
+is, the easier it is for customers to accept the service (Thu Ngo & Nguyen, 2020). 
+
+Facilitating Conditions 
+
+Facilitating  conditions  is  the  degree  to  which  a  person  believes  that  an  organization  or 
+
+technical infrastructure is available in support of system use Venkatesh et al.: (2012). The 
+
+construct  of  facilitating  conditions  is  comprised  of  perceived  behavioral  control 
+
+(TPB/DTPB,  C-TAM-TPB),  facilitating  conditions  Chaveesuk  &  Piyawat  (2021).  Price 
+
+value refers to ―the trade-off between the benefits derived from using technology and the 
+
+costs associated with its use. Positive price value occurs when the benefits outweigh the 
+
+costs.  In  e-commerce  adoption  studies,  it  has  been  established  that  positive  price  value 
+
+significantly  influences  customers'  intentions  to  shop  online‖.  For  example,  Escobar-
+
+Rodríguez  and  Carvajal-Trujillo  termed  this  concept  "price  saving,  showing  a  positive 
+
+relationship  between  perceived  monetary  savings  and  online  purchase  intentions.  This 
+
+variable has also been studied in the context of m-payment services‖. However, findings 
+
+an insignificant effect of price value on the intention to use m-payment services, leading 
+
+to contradictory results that warrant further investigation in current research settings. It is 
+
+argued  that  when  customers  perceive  the  benefits  of  using  m-payment  to  outweigh  the 
+
+costs, price value significantly affects their intention to use such services. 
+
+Habit, included in the UTAUT2 model, reflects ―the extent to which customers engage in 
+
+automatic behaviors due to past learning experiences. In commercial activities, customers 
+
+follow  a  series  of  repetitive  steps  from  recognizing  a  need  to  consuming  a  product, 
+
+fostering  the  formation  of  habits.  In  the  context  of  m-payment,  habit  emerges  from  the 
+
+ 
+ 
+ 
+ 
+15 
+
+repetitive  use  of  mobile  devices  for  mobile  commerce,  such  as  mobile  banking. 
+
+Therefore, habit may facilitate behavior transfer and indicate the adoption of m-payment 
+
+services‖. 
+
+Rogers (2003) defined perceived compatibility as ―the degree to which an innovation is 
+
+perceived  as  being  consistent  with  the  existing  values,  needs,  and  past  experiences  of 
+
+potential  adopter.‖  Schierz  et  al.  (2010)  explained  that  ―perceived  compatibility 
+
+encompasses  the  reconcilability  of  an  innovation  with  existing  values,  behavioral 
+
+patterns, and experiences.‖ From these definitions, it can be inferred that ―an individual's 
+
+decision  to  adopt  new  technology—specifically  the  QR  mobile  payment  system  in  this 
+
+study—will be influenced by whether the technology aligns with the adopter‘s lifestyle, 
+
+behavior,  or  needs.  For  example,  does  the  QR  mobile  payment  system  fit  into  their 
+
+shopping habits,  or can it  integrate seamlessly into their lifestyle? Previous research by 
+
+Moore  and  Benbasat  (1991)  and  Tornatzky  and  Klein  (1982)  has  shown  that  perceived 
+
+compatibility is a crucial factor in technology acceptance. Similar findings are evident in 
+
+the context  of mobile payments  (Aydin  &  Burnaz, 2016). Therefore, it is expected that 
+
+individuals who perceive the system as compatible with their existing needs, lifestyle, or 
+
+behavior will be more interested in  adopting the QR mobile payment system‖  (Siali,  et 
+
+al., 2021). 
+
+From  a  marketing  perspective,  Kim  and  Han  (2014)  observed  that  advertisements 
+
+highlighting benefits increase consumer engagement. Extrinsic rewards, such as coupons, 
+
+rebates,  and  sample  gifts,  can  motivate  consumers  (Aydin  and  Burnaz,  2016).  Evans 
+
+(2014) noted that loyalty points can drive consumer adoption of mobile payment systems. 
+
+Additionally,  Points  (2016)  reported  that  94.4%  of  surveyed  consumers  would  use  a 
+
+mobile wallet more frequently if they could earn or redeem points and miles with every 
+
+purchase,  emphasizing  the  importance  of  integrating  loyalty  programs  into  mobile 
+
+wallets. 
+
+Definitions  of  innovativeness  vary  across  disciplines.  Rogers  (2003)  identified  early 
+
+adopters of innovations as innovative, while Agarwal and Prasad (1998) defined personal 
+
+ 
+ 
+ 
+ 
+16 
+
+innovativeness  in  IT  as  the  willingness  to  try  new  technologies.  Innovative  individuals 
+
+are  more  likely  to  accept  and  adopt  new  technologies  (Aydin  and  Burnaz,  2016). 
+
+Previous  studies  have  examined  the  impact  of  personal  innovativeness  on  adopting  IT 
+
+systems (Agarwal and Prasad, 2011), mobile services (Zarmpou et al., 2012), and mobile 
+
+wallets  (Aydin  and  Burnaz,  2016).  Sulaiman  et  al.  (2007)  found  that  highly  innovative 
+
+individuals  are  more  likely  to  adopt  mobile  banking  in  Malaysia,  and  Yang  (2005) 
+
+reported  a  positive  influence  of  innovativeness  on  mobile  commerce  adoption  in 
+
+Singapore. 
+
+There  are  gaps  between  the  present  research  and  previous  studies  regarding  objectives, 
+
+analytical  tools,  and  data  collection  periods.  The  current  research  aims  to  draw  a 
+
+conclusion about customers' perceptions of QR payment by considering previous studies. 
+
+These earlier works provide the foundation for the present study, and thus, various books, 
+
+journals, articles, and published and unpublished dissertations are referenced to make the 
+
+research effective and smooth. 
+
+2.3 Empirical Review 
+
+Samson, Mehta, and Chandani (2014) conducted research on the impact of online digital 
+
+communication  on  customer  buying  decisions,  specifically  within  the  automobile 
+
+industry  and  focusing  on  the  passenger  car  segment.  The  study  aimed  to  examine  the 
+
+effectiveness  of  online  digital  communication  as  a  marketing  medium.  The  sample 
+
+population consisted of 100 post-graduate MBA students and urban professionals aged 25 
+
+and above. The findings revealed that online information sources are significantly more 
+
+effective in communicating detailed specifications, features, and comparative information 
+
+about passenger car models compared to traditional media like television and print. 
+
+K. and M.,(2015) made a study  about online marketing and consumer purchase behavior 
+
+in Nigerian firms by using a structured questionnaire to elicit data from selected firms in 
+
+Lagos.  For  the  purpose  of  this  research  initial  and  raw  date  were  received  through  the 
+
+queries  and  questions  by  sample  public,  where  questionnaire  comprised  close-ended 
+
+ 
+ 
+ 
+ 
+ 
+17 
+
+questions  only.  120  questionnaires  were  administrated  to  the  respondents  from  the  30 
+
+companies  from  Lagos  metropolis.  The  Statistical  Package  for  Social  Sciences  (SPSS) 
+
+version  20.0  was  used  for  analysis  and  evaluation  of  data.  In  the  study  hypothesis  are 
+
+tested using Pearson Moment Correlation Analysis. The studying reveals that consumers 
+
+who  follow  another-based  decision  making  process  are  shifting 
+
+towards 
+
+the 
+
+internet/online  marketing  because  of  the  unique  characteristics  of  the  internet  such  as 
+
+information accessibility. The study shows that there is significant relationship between 
+
+consumer purchase decision and infrastructure for the internet and also there is significant 
+
+relationship between consumers purchase decisions and internet security.     
+
+Andac,  Akbyk,  and  Karkar(2016)  tried  to  find  out  the  impact  of  content  marketing  on 
+
+satisfaction of consumers. In this study a face to face questionnaire method was applied 
+and  22  questions  were  asked  ―to  the  3rd  and  4th  grade  students  studying  in  Business 
+
+Administration  in  Sileyman  Demirel  University  located  in  Isparta,  Turkey.  200 
+
+respondents  were asked  the 7 questions about  the demographic  characteristics and their 
+
+perception regarding content marketing and remaining questions were asked to measure 
+
+the  customer  satisfaction  factor  in  the  digital  content  market.  5  points  likert  scale  was 
+
+used and the data was collected from questionnaire conducted face-to-face and reliability 
+
+testing  was  performed  to  test  the  extent  of  reliability  of  the  data.  The  study  shows  that 
+
+only  40.7%  respondents  hear  about  content  marketing  and  only  26.2%  know  what  the 
+
+content  marketing  is.  In  research  it  was  found  that  there  was  no  relationship  between 
+
+gender, age, income, internet usage time or shopping frequency on internet and customer 
+
+satisfaction level provided by content marketing. In the scope of the research, it was also 
+
+seen that 3 factors could be effective in decision making phase which are pre-sale, sale 
+
+and  post-sale‖.  The  study  concluded  that  the  companies  should  identify  the  customer 
+
+expectations, content should be created by the companies in such a way that it provided 
+
+the impressive values which will eventually turn the consumers into customers. 
+
+                  (Mahalaxmi & Ranjith, 2016) mainly focused to examine the intention of the customers 
+
+to  make  utilize  of  the  digital  marketing  channels  in  their  buying  decision  and  also 
+
+analyses  that  what  kind  of  product  that  they  should  buy  make  use  of  digital  marketing 
+
+more  preferably  in  their  research  named  as  impact  of  digital  marketing  on  consumer 
+
+purchase decision in Trichy.  It reveals that people are aware of digital channels in spite 
+
+ 
+ 
+ 
+of their education qualification and the customer prefers digital channels to buy any sort 
+
+of  products.  The  researchers  find  out  that  the  effectiveness  of  digital  channel  does  not 
+
+accessible  in  change  of  general  opinion  of  customer  towards  purchasing  goods  and 
+
+services. 
+
+                  (Sathya, 2017) conducted a study on digital marketing and its impact for both customers 
+
+18 
+
+and  marketers.  The  primary  data  was  collected  from  the  100  respondents  through 
+
+questionnaires and secondary data was collected from journals, books and magazines  to 
+
+develop the theory.  The study find out that the ratio of male customers is very high in 
+
+online  shopping  that  is  70%.  Awareness  about  online  shopping  is  100%  among  the 
+
+respondents.  54%  of  respondents  feel  that  the  availability  of  online  information  about 
+
+product and service is outstanding. People feel secure during online purchasing. 46% of 
+
+the  respondents  purchase  the  products  2-3  times  in  a  year.  The  study  concluded  that 
+
+digital marketing may achieve something more if it consider consumer desire as a peak 
+
+priority. 
+
+(Sivasankaran,  2017)  tried  to  find  out  the  changing  buying  behavior  of  the  youth  and 
+
+their impact on digital marketing in   Kanyakumari  District,  India.  Both  primary  and 
+
+secondary data were used and random sampling technique was used to select the sample. 
+
+100 youngsters were randomly selected and questionnaires were distributed among them. 
+
+By using the five point likert scale, the study reveals that most of the youngsters of the 
+
+present  generation have access to the digital media but the lack the awareness about its 
+
+optimum  utilization.  The  study  find  out  that  lifestyle,  attracting  the  opposite  sex, 
+
+purchasing  power,  family  background,  employment  status  of  the  youth,  intervention  of 
+
+the  western  culture,  educational  qualification  are  the  factors  which  generally  influence 
+
+the  buying  behavior  of  the  youth.  The  study  concluded  that  in  order  to  capture  the 
+
+potential market, the marketers need to understand the changing buying behavior of the 
+
+youth and adapt themselves and develop the strategy according to the development of the 
+
+technologies. 
+
+(Nizar  &  Janathanan,  2018)  examined  the  impact  of  digital  marketing  on  consumer 
+
+purchase behavior by conducting a case study on Dialog Axiatia in Colombo, Sri Lanka 
+
+with specific reference to social media marketing. Cost efficient, information satisfaction, 
+
+consumer  trust,  internet  shopping  experience  were  analyzed  in  which  the  consumer‘s  
+
+ 
+ 
+ 
+19 
+
+purchase  behavior  and  the  reputation  of  the  firm  depends.  This  research  is  based  on 
+
+survey  method  as  the  questionnaire  was  distributed  to  184  respondents  as  well  as 
+
+interview  was  conducted  among  the  interviewees  in  Dialog  Axiatia.  By  utilizing  the 
+
+journal  articles  from  the  previous  researchers,  data  was  collected.  The  data  for  this 
+
+research  was  analyzed  through  IBM  SPSS  statistical  software.  The  study  reveal  that 
+
+Dialog  should  consider  about  the  charge  of  their  services  as  10.9%  of  the  respondents 
+
+mentioned  that  charged  price  is  not  affordable.  Dialog  need  to  improve  their  service 
+
+quality  of  4G  network  in  fact  they  are  about  to  launch  5G  network  as  present  service 
+
+quality  of  4G  network  is  not  satisfactory  one  as  9.3%  of  the  respondents  states  that 
+
+Dialog does not provide the effective service quality. The study also reveals that Dialog 
+
+also needs to provide the proper information to the consumers in order to gain the trust of 
+
+the  consumers  as  9.8%  of  the  respondent  states  that  there  is  no  consumer  purchase 
+
+behavior on online purchase.        
+
+Ghazie  amd  Dolah,  2018,  tried  to  find  out  the  consumer  behavior  towards  digital 
+
+marketing  in  Malaysia.  The  study  was  mainly  focused  on  working  consumer  in  Kula 
+
+Lumpur. Primary data was collected through online survey from 40 respondents whereas 
+
+secondary  data  was  collected  from  existing  research  report,  survey,  online  journals,  e-
+
+books, books, online articles. The study reveals that mainly adult generation and females 
+
+are  generally  more  active  on  internet.  The  study  shows  that  100%  respondents  have 
+
+access to internet and 78.57% respondents are universities graduate while others 21.43% 
+
+are  from  high  school  graduates.  Most  of  the  respondents  are  using  internet  to  gain 
+
+information that is 46.67%. 33.33% of the respondents slightly often do online shopping 
+
+and  it  is  popular  because  the  information  about  the  products  can  gain  easily.  Product 
+
+review, price comparison and product  discounts are easy to  get.  53.33% of respondents 
+
+trust internet advertisement and 40% ignore online ads. Overall the study reveals that the 
+
+consumer has different needs and expectations towards digital marketing.  
+
+Hemavati and Raji (2018) conducted a study on impact of digital marketing on consumer 
+
+buying behavior with an aim to find out about the awareness of digital marketing, type of 
+
+products bought by utilizing digital market, the impact of digital marketing on consumer 
+
+ 
+ 
+ 
+ 
+ 
+20 
+
+buying  behavior  and  to  provide  marketing  strategies  to  improve  more  sales.  The  study 
+
+was  conducted  in  North  Banglore  and  100  respondents  were  chosen  randomly  in  the 
+
+streets  and  neighborhood.  Structured  questionnaire  were  prepared  for  the  purpose  of 
+
+collecting primary data and secondary data were collected from secondary sources which 
+
+includes  research  papers,  newspapers,  articles  and  other  information  available  in  the 
+
+internet.  The  study  reveal  that  among  the  respondents  40%  of  them  are  aware  about 
+
+websites,  30%  are  aware  about  social  media,  20%  of  the  respondents  are  aware  about 
+
+multimedia  advertising  and  10%  are  aware  about  email  advertising.  50%  of  the 
+
+respondents  prefer  website  for  buying  products  whereas  20%  and  15%  prefer  social 
+
+media  and  e-mail  simultaneously.  40%  of  respondents  were  influenced  by  websites  to 
+
+buy  more  whereas  30%  are  influenced  by  social  media,  20%  are  influenced  by 
+
+multimedia  and  10%  are  influenced  by  e-mail  and  others.  65%  of  the  respondents 
+
+frequently  prefer  to  buy  shopping  goods  online,  20%  prefer  to  buy  convenience  goods 
+
+and  15%  prefer  to  buy  speciality  goods.  The  study  also  reveals  that  20%  of  the 
+
+respondents  are  influenced  by  digital  channel  towards  purchase  decision,  10%  of  the 
+
+respondents  agree that digital  channels  change opinion towards purchase decision. 15% 
+
+are  neutral  and  30%  disagree  that  digital  channels  influence  consumers  to  purchase 
+
+online.  The  study  find  out  that  30%  of  the  respondents  are  totally  satisfied  with  the 
+
+products bought online whereas 50% of the respondents are satisfied, 10% are neutral and 
+
+5% disagree. The study shows that 30% of the respondents bought the products online in 
+
+every month, 40% of the respondents  bought  products  sometimes, 20% rarely purchase 
+
+and 10% never purchase online. The study suggested that companies need to be aware of 
+
+the  types  of  product  they  sell  as  digital  channels  are  influencing  consumers  to  change 
+
+opinion toward purchase decision.  
+
+(Godwin,  2019)  in  the  study  conducted  in  Nigeria  results  showed  that  the  digital 
+
+marketing  has  a  profound  effect  on  consumer  buying  and  identified  that  ―the  Nigerian 
+
+consumers  buy  different  categories  of  the  products  on  digital  media  platforms  and 
+
+categories  of  products  that  consumers  buy  on  digital  channels  include  convenience 
+
+products,  shopping  products,  specialty  products  and  unsought  products.  Digital  media 
+
+platforms  such  as  facebook,  twitter,  youtube,  google,  instagram,  website/  blogs, 
+
+ 
+ 
+ 
+             
+21 
+
+multimedia advertising, emails, linkedin have direct influences on consumer behavior and 
+
+buying  decision  process.  The  study  concluded  that  the  world  has  become  a  global 
+
+marketplace  and  in  order  to  remain  competitive  in  today‘s  business  environment, 
+
+companies must operate on a global scale using technology as a strategic tools‖. 
+
+Kaushik  and  Prativindhya  (2019)  investigated  the  influence  of  digital  marketing  on 
+
+consumer buying behavior for electronic products among urban consumers in India. The 
+
+study  was  descriptive  and  included  a  sample  size  of  500  respondents  selected  through 
+
+judgment  sampling.  Data  was  collected  using  a  structured  questionnaire  and  analyzed 
+
+using  factor  analysis  and  regression.  The  study  identified  six  key  factors  influencing 
+
+consumer buying behavior: Search Engine Marketing, Content Marketing, Online Public 
+
+Relations,  Social  Media  Marketing,  Affiliate  Marketing,  and  E-mail  Marketing.  The 
+
+findings  indicated  that  search  engine  marketing  effectively  attracts  customers  searching 
+
+for information online, especially when the Click Through Rate (CTR) is high. Content 
+
+marketing  was  found  to  be  crucial  as  consumers  often  navigate  to  products  through 
+
+relevant content. Word of mouth and online ratings and reviews were also significant in 
+
+influencing consumer decisions. The study find out that social media marketing is one of 
+
+the  best  digital  marketing  factors  as  lots  of  people  are  engaged  in  various  social  media 
+
+platforms  such  as:  Facebook,  Twitter,  You  Tube,  Snapchat,  TikTok,  Instragram  and  so 
+
+on. The study find out that e-mail marketing can be an effective tool for making the long 
+
+term relationship with the consumers. The success of e-mail depends on its opening rate, 
+
+CTR and response to call to action on landing page. Apart from all these factors the study 
+
+find  out  that  affiliate  marketing  has  no  significant  influence  on  consumer  buying 
+
+behavior.  The  study  concluded  that  the  popularity  of  digital  marketing  is  increasing  as 
+
+lots of people are  engaged in  different  kinds of digital  platforms and  also  popularity of 
+
+mobile phones makes easier for developing the digital marketing platforms. 
+
+Sharma  and  Thakur  (2020)    evaluated  the  impact  of  digital  marketing  on  consumer 
+
+buying  behavior  and  awareness  of  digital  marketing  in  Mumbai.  For  the  purpose  of 
+
+collecting  data  questionnaires  were  provided  to  100  participants  who  were  actively 
+
+involved in digital platforms in order to buy products and services. The respondents were 
+
+asked the questions about their age, monthly income, occupation and so on. The data was 
+
+ 
+ 
+ 
+ 
+22 
+
+evaluated  and  the  theory  was  checked  using  a  mathematical  method  such  as  chi-square 
+
+check.  The study  reveal that with  the changes in consumer behavior i.e the consumers 
+
+are simultaneously shifted towards the digital technologies companies should also adopt 
+
+the  digital  platforms  in  order  to  progress.  The  study  signifies  that  there  is  a  connection 
+
+among  the  consumer‘s  income  and  goods  they  buy.  There  is  a  meaningful  association 
+
+among the consumer loyalty and purchasing of the products. The study concluded that a 
+
+business  will  achieve  even  better  with  digital  media  because  it  knows  and  implement 
+
+what the customer wants. 
+
+(Bansal, 2020) investigated how Chandigarh's consumer behavior was affected by digital 
+
+marketing  platforms.  The  study's  primary  goal  was  to  investigate  consumer  purchasing 
+
+patterns for herbal cosmetics. The major goals of the research were to determine whether 
+
+or  not  consumers  are  more  likely  to  make  purchases  online  and  the  effects  of  digital 
+
+marketing  on  consumer  buying  behavior  according  to  gender.  A  questionnaire  was 
+
+distributed to people in Punjab between the ages of 18 and 25 and to graduate students as 
+
+part of a descriptive research design, and quantitative research was also conducted. The 
+
+information was gathered through snowball sampling. There were 102 answers in all. The 
+
+Cochran's  sample  size  formula  was  used  to  determine  the  sample  size,  and  SPSS  was 
+
+used  to  test  the  hypothesis.  According  to  the  report,  consumers  are  becoming  more 
+
+sensitive  about  their  appearance,  and  any  firm  may  succeed  by  getting  to  know  its 
+
+customers.    According  to  the  report,  consumers  use  search  engines  to  aid  in  their 
+
+decision-making and that photo and video content has a favorable and significant impact 
+
+on their purchasing decisions. According to the study's findings, the cosmetics business 
+
+in India is among those with the quickest growth rates. Marketers should be aware of the 
+
+variables  influencing  consumers'  purchasing  decisions  as  well  as  their  opinions  of 
+
+cosmetic  items.  People  always  prioritize  quality  when  purchasing  cosmetics  and  view 
+
+them as an essential component of daily life, which is a good sign for marketers. 
+
+Goplani, Gupta, and Sabhani (2020) this study focused on influence of digital marketing 
+
+on buying behavior of youth. The respondents for this study were youth between 18 and 
+
+30  years  who  reside  in  Mumbai  city.  By  using  non  probability  sampling  technique 
+
+ 
+ 
+ 
+ 
+ 
+23 
+
+structured questionnaire were asked to 227 respondents and likert  scale, Chi-Square and 
+
+percentage  method  statistical  tool  were  used  to  receive  the  data.  The  study  reveal  that 
+
+modern form of marketing method such as: website, social networking sites are gaining 
+
+more  popularity  among  the  youths  because  of  their  24  hours  availability,  quality 
+
+information and on time delivery. Apart from this the study also provides the suggestion 
+
+to the customers to check the authenticity of the websites, online offers as well as for the 
+
+marketers  the  study  suggest  that  they  should  maximum  utilize  the  different  online 
+
+platforms in order to increase their sale. 
+
+Omar  and  Atteya,(2020)  examined  the  effectiveness  of  e-mail  marketing,  mobile 
+
+marketing, and retargeting marketing channels on the consumer buying decision process 
+
+in the Egyptian market. Standard sampling method was used and 285 questionnaires were 
+
+distributed  among  them  213  samples  were  obtained.  Need  recognition,  information 
+
+research,  evaluation  of  alternatives,  purchase  decision,  post  purchase  behavior  were 
+
+determined  as  the  consumer  decisions  stage.  The  study  reveals  that  among  the  three 
+
+variables  re-targeting  has  a  high  impact  on  consumer  decisions  in  the  evaluation  stage, 
+
+then information research, need recognition, purchase decision and post purchase. E-mail 
+
+has a high impact on post-purchase and information research and has a negative impact 
+
+on  consumer  decision.  The  study  also  shows  that  mobile  marketing  channel  has  a 
+
+negative impact on the consumer buying decision through all the stages of the consumer 
+
+buying  decision  process.  The  study  suggested  the  marketers  that  digital  marketing 
+
+channels are needed for the businesses in order to earn more profit that‘s why they should 
+
+involve more on digital marketing channels to promote their products. 
+
+Jain  and  Pandey  (2020)  looked  at  how  consumer  behavior  is  impacted  by  digital 
+
+marketing.  Data  collection  for  the  study  was  done  in  India  using  the  random  sample 
+
+method.  A  standardized  questionnaire  with  a  Likert  scale  was  utilized  to  gather 
+
+information  from  150  respondents.  The  tools  for  data  analysis  used  were  ANOVA, 
+
+regression,  and  correlation.  According  to  this  survey,  digital  marketing  is  the  most 
+
+popular,  efficient,  and  affordable  method  of  advertising  goods  and  services  and 
+
+ 
+ 
+ 
+ 
+ 
+24 
+
+influencing  consumer  behavior.  According  to  the  report,  firms  should  gather  and 
+
+appropriately apply customer feedback in the right way. 
+
+Hole,  Pawar  Hole,  and  Malkar's  study  from  2020  examined  digital  marketing  critically 
+
+with  particular  attention  to  the  Indian  market.  The  study's  goals  are  to  identify  the 
+
+influence of digital marketing on customer purchasing decisions as well as the value of 
+
+digital  marketing  in  today's  cutthroat  marketplace.  The  study  found  that  because  to 
+
+mobile technology advancements and affordable data plans, the average person can now 
+
+access the internet in their daily lives. Businesses must be present on the digital landscape 
+
+in the modern era if they want to assess how consumers' purchasing patterns are evolving.  
+
+Business requires to picks the profits then they should work as per the strategies of digital 
+
+marketing  in  India  as  everyone  and  the  whole  thing  is  recurrently  related  by  way  of 
+
+approaches for digitalization. 
+
+(Pal  &  Shukla,  2020)  analyzed  the  impact  of  digital  marketing  on  consumer  buying 
+
+behavior  in  Gorakhpur  city,  India.  The  research  was  conducted  with  the  aim  to 
+
+distinguish  the  variable  impact  of  buying  behavior  of  the  customers  and  to  inspect  the 
+
+changing  purchasing  behavior  of  young  and  their  effect  on  advanced  advertising. 
+
+Through  the  questionnaires  filling  method  and  from  magazines,  newspapers,  journals 
+
+data  were  collected.  A  sample  of  320  respondents  was  selected  for  the  study  of  which 
+
+71.50%  were  males,  27.30%  were  females  and  1.20%  were  transgenders.  This  study 
+
+shows  that  58.20%  respondents  were  belong  in  age  of  21  to  25  year  which  means 
+
+youngsters  are  more  interested  to  buy  online  products.  32.80%  of  respondents  got 
+
+motivated  to  involve  in  digital  marketing  because  of  easy  payment  factor  and  23.40% 
+
+were  involved  in  digital  marketing  because  of  wide  range  of  products.  36.40%  of 
+
+respondents  prefer to  buy  mobile  and  accessories and second popular item  is  fast  food. 
+
+This  study  reveals  that  most  of  the  youngsters  prefer  digital  marketing  over  traditional 
+
+marketing  because  the  information  about  the  various  products  can  be  found  in  short 
+
+period  of  time,  easy  payment,  wide  range  of  products  and  customer  see  the  offer  and 
+
+discounts. 
+
+ 
+ 
+ 
+ 
+ 
+25 
+
+In  order  to  determine  the  efficacy  and  influence  of  digital  marketing  on  customer 
+
+purchasing  behavior,  specifically  with  regard  to  consumer  electronics,  (Bhardwaj  & 
+
+Bordoloi, 2020) did a study. The sample size for the study in Guwahati City, India, was 
+
+100.  Data  was  gathered  through  questionnaires  and  from  journals,  periodicals,  and 
+
+previous  research  projects  by  employing  both  primary  and  secondary  sources  of  data, 
+
+including  those  mentioned  earlier.  The  research  design  is  descriptive,  and  convenience 
+
+sampling  is  used.  The  survey  collected  the  information  about  the  responses,  reasons, 
+
+preference of consumers towards digital  marketing over traditional as well as the study 
+
+analyzes  the  impact  and  non-impact  of  digital  marketing.  The  study  reveals  that  the 
+
+involvement  of  male  customers  is  more  than  the  female  customers  and  88%  of  the 
+
+respondents  have  purchased  goods  through  digital  marketing.  The  study  shows  that 
+
+respondents prefer digital marketing because of readily involvement, consumers updated, 
+
+quick purchase are the reasons for buying the goods promoted digitally. According to the 
+
+report,  people  favor  digital  marketing  since  it  is  easy  to  become  involved,  keeps 
+
+customers  informed,  and  allows  for  speedy  purchases  of  the  products  that  are  offered 
+
+online.  The  study  reveals  that  men  are  more  affected  than  women  are,  and  that  the 
+
+greatest effect of digital marketing is on raising customer awareness of new products and 
+
+releases. The study also looked at the reasons why consumers weren't affected by digital 
+
+marketing,  including  media  weariness,  a  lack  of  trust,  and  not  paying  attention. 
+
+According to the study's findings, consumers are now conducting their own research, and 
+
+digital word-of-mouth advertising has established itself as a reliable method of promotion 
+
+promotional strategies are affecting the people, whether positively or negatively.  
+
+Basr  and  Daud,(2020)  analyzed  the  impact  of  purchasing  behavior  towards  digital 
+
+marketing  in  Kangar,  Perils  by  using  the  independent  variables  such  as  attitude, 
+
+subjective norms, perceived behavior, and pricing that effecting the purchasing behavior. 
+
+This research used convenience sampling method and 381 people were randomly selected 
+
+as  respondents  from  the  population.  The  target  sample  were  given  questionnaire  that 
+
+contains questions about the independent variable, dependent variable and demographic 
+
+factors.  The  questionnaire  uses  likert  scale  as  a  measuring  tool.  The  study  reveals  that 
+
+among  the  independent  variables  only  perceive  behavior  control  was  found  to  have  no 
+
+ 
+ 
+ 
+ 
+26 
+
+significant  effect  on  digital  marketing  as  the  significant  value  of  perceive  behavior  is 
+
+0.721  which  is  more  than  the  regression  analysis  0.05.  Apart  from  perceive  behavior 
+
+attitude , subjective norms, pricing have an impact on digital marketing as their values are 
+
+0.01, 0.017, 0.018 simultaneously.    
+
+Al-Azzam and Al-Mizeed (2021) carried out a study to examine the influence of digital 
+
+marketing  channels  purchase  decisions.  The  study's  independent  variables  were  the 
+
+digital  marketing platforms,  such as  ―email  marketing, social media, online advertising, 
+
+and  mobile  marketing,  while  the  dependent  variable—consumer  purchase  decisions—
+
+was  studied  based  on  the  product  and  brand  choices‖.  Students  from  three  universities 
+
+completed  300  questionnaires,  and  220  responded,  yielding  a  73%  response  rate.  The 
+
+primary data collection tool for this study was an online survey that was administered to 
+
+college students.  It was  discovered that ―social media marketing and mobile marketing, 
+
+has  a  profound  impact  on  consumer  purchasing  decision.  E-mail  marketing  is  the  most 
+
+negligible  influential  factor  in  student  purchasing  decision.  The  result  of  this  study 
+
+suggest  that  firms  should  adopt  strategies  to  leverage  the  digital  world  and  technology 
+
+increase  brand  awareness  through  digital  platforms  to  continue  competing  in  today‘s 
+
+commercial environment‖. 
+
+Ganapathi, Prabhudeva, Senthilsabariviswanath, and Renupriya,(2021) conducted a study 
+
+mainly focused on transformation of digital marketing in promoting the brands at a global 
+
+level, better understanding of consumer preferences and analyze the behavior pattern of 
+
+consumers at Salem district. This study was an explanatory research and questionnaires 
+
+were  distributed  through  the  internet.  The  study  reveal  that  consumer  preference  and 
+
+behavior  are  changing  gradually  especially  the  millennial  generations.  The  consumers 
+
+seek the information about the products, review in the internet before buying them that‘s 
+
+why  the  businesses  need  to  provide  accurate  and  up-to-date  information.  The  research 
+
+concluded that digitalization has brought positive impact in consumer behavior. 
+
+The  summary  of  review  of  literature  of  different  authors  discussed  above  has  been 
+
+presented in table 2.1. 
+
+ 
+ 
+ 
+  
+ 
+ 
+27 
+
+Table 2.1  
+
+Summary of empirical review 
+
+             Authors  
+
+                              Findings 
+
+Samson,  Mehta, 
+
+and 
+
+The study reveals that online information sources are much 
+
+Chandani (2014) 
+
+more  effective  for  communicating  detailed  specifications, 
+
+features  and  comparative  information  about  a  particular 
+
+passenger car, model as compared to traditional media like 
+
+television and print.  
+
+K. and M.,(2015) 
+
+The  study  shows  that  there  is  significant  relationship 
+
+between consumer purchase decision and infrastructure for 
+
+the  internet  and  also  there  is  significant  relationship 
+
+between  consumer  purchase  decision  and  security  in 
+
+Lagos. 
+
+Andac, 
+
+Akbyk, 
+
+and 
+
+The  result  of  the  research  indicate  that  there  was  no 
+
+Karkar(2016) 
+
+relationship  between  gender,  age,  income,  internet  usage 
+
+time  or  shopping  frequency  on  internet  and  customer 
+
+satisfaction level provided by content marketing. The study 
+
+also  reveals  that  3  factors  could  be  effective  in  decision 
+
+making phase which are pre-sale, sale and post-sale. 
+
+ Mahalaxmi  and  Ranjith 
+
+This study reveals that people are aware of digital channels 
+
+(2016) 
+
+in  spite  of  their  education  qualification  and  the  customer 
+
+prefers digital channels to buy any sort of products. 
+
+(Sathya, 2017) 
+
+The study reveals that awareness about online shopping is 
+
+100% among the respondents as people feel secure during 
+
+online  purchasing,  46%  of  the  respondents  purchase  2-3 
+
+times in a year. 
+
+(Sivasankaran, 2017) 
+
+The study find out that lifestyle, attracting the opposite sex, 
+
+purchasing power, family background, employment status, 
+
+ 
+ 
+ 
+28 
+
+of 
+
+the  youth, 
+
+intervention  of 
+
+the  western  culture, 
+
+educational  qualification  are  the  factors  which  generally 
+
+influence the buying behavior of the youth. 
+
+(Nizar & Janathanan, 2018)  This study reveals that Dialog needs to provide the proper 
+
+information  to  the  consumers  in  order  to  gain  the  trust  of 
+
+the consumers as 9.8% of the respondent states that there is 
+
+no consumer purchase behavior on online purchase.  
+
+(Ghazie & Dolah, 2018) 
+
+This  study  showed  that  the  consumer  had  different  needs 
+
+and expectation towards digital marketing. 
+
+Hemavati and Raji(2018) 
+
+This  study  shows  that  30%  of  the  respondents  bought  the 
+
+products  online  in  every  month,  40%  of  the  respondents 
+
+bought products sometimes, 20% rarely purchase and 10% 
+
+never purchase online. 
+
+(Godwin, 2019) 
+
+This  study  identified  that  ―the  Nigerian  consumers  buy 
+
+different  categories  of  the  products  on  digital  media 
+
+platforms  and  categories  of  products  that  consumers  buy 
+
+on digital channel include convenience products, shopping 
+
+products, specialty products and unsought goods‖. 
+
+Kaushik 
+
+and 
+
+This  study reveals  that the popularity of digital  marketing 
+
+Prativindhya,(2019) 
+
+is  increasing  as  lots  of  people  are  engaged  in  different 
+
+kinds  of  digital  platforms  and  also  popularity  of  mobile 
+
+phones makes easier for developing the digital platforms. 
+
+Sharma and Thakur (2020)  This  study  reveals  that  with  the  changes  in  consumers 
+
+behavior, 
+
+the  consumers  are  simultaneously  shifted 
+
+towards  the  digital  technologies  companies  should  also 
+
+adopt the digital platforms in order to progress. 
+
+(Bansal, 2020) 
+
+This  study  examines  the  impact  of  photo  and  video  on 
+
+ 
+ 
+ 
+29 
+
+customer  behavior,  finding  that  consumers  rely  on  search 
+
+engines  to  guide  their  decisions  and  that  these  effects  are 
+
+positive and significant. 
+
+Goplani, 
+
+Gupta, 
+
+and 
+
+This study reveals that modern form of marketing method 
+
+Sabhani (2020) 
+
+such as: website, social networking sites are gaining more 
+
+popularity  among  the  youths  because  of  their  24  hours 
+
+availability, quality information and on time delivery.  
+
+Omar and Atteya,(2020) 
+
+This  study  demonstrates  how  the  customer  purchase 
+
+decision  process,  at  all  stages,  is  negatively  impacted  by 
+
+the mobile marketing channel. 
+
+Jain and Pandey, (2020) 
+
+This  study  reveals  that  digital  marketing  is  the  most 
+
+trending,  quick  and  economic  form  of  selling  of  products 
+
+and  services,  promotional  activities  which  influences  the 
+
+consumer‘s behavior. 
+
+Hole,  pawar  hole,  and 
+
+The  study  found  that  because  to  mobile  technology 
+
+Malkar,(2020) 
+
+advancements  and  affordable  data  plans,  the  average 
+
+person can now access the internet in their daily lives. 
+
+(Pal & Shukla, 2020) 
+
+This study reveals that most of the youngsters prefer digital 
+
+marketing  over 
+
+traditional  marketing  because 
+
+the 
+
+information  about  the  various  products  can  be  found  in 
+
+short period of time, easy payment, wide range of products 
+
+and customer see the offer and discounts. 
+
+(Bhardwaj  &  Bordoloi, 
+
+This study shows that respondents prefer digital marketing 
+
+2020) 
+
+because of readily involvement, consumers updated, quick 
+
+purchase  are  the  reasons  for  buying  the  goods  promoted 
+
+digitally. 
+
+ 
+ 
+ 
+ 
+30 
+
+Basr and Daud,(2020) 
+
+This  study  demonstrates  that  only  the  control  of  perceive 
+
+behavior,  with  a  significant  value  greater 
+
+than 
+
+the 
+
+regression analysis's cutoff of 0.05, was shown to have no 
+
+meaningful 
+
+impact  on  digital  marketing  among 
+
+the 
+
+independent variables. 
+
+Al-Azzam  and  Al-Mizeed 
+
+ This  study  discovered  that  social  media  marketing  and 
+
+(2021) 
+
+mobile  marketing,  has  a  profound  impact  on  consumer 
+
+purchasing decision 
+
+Ganapathi, 
+
+Prabhudeva, 
+
+The  study  reveals  that  consumer  preference  and  behavior 
+
+Senthilsabariviswanath, 
+
+are 
+
+changing  gradually 
+
+especially 
+
+the  millennial 
+
+and Renupriya,(2021) 
+
+generations. 
+
+2.4 Research Gap  
+
+In Nepal, the customer impression of QR payments is a topic that has not been sufficiently 
+
+investigated. Research on customer preferences and perceptions of QR payments in Nepal is 
+
+still lacking. This research gap is especially important because mobile payment systems are 
+
+gaining  in  popularity  in  Nepal  and  because  QR  payments  have  the  potential  to  play  a 
+
+significant role in the expanding payments market. To fully comprehend the market potential 
+
+for QR payment in Nepal, studies that examine the factors influencing adoption or rejection of 
+
+the  technology,  consumer  attitudes  toward  the  technology,  and  the  level  of  confidence  and 
+
+security connected with it, are required. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+
+CHAPTER III 
+
+RESEARCH METHODOLOGY 
+
+3.1 Introduction 
+
+The research techniques that were employed to complete the study's specified objectives 
+
+are  described  in  this  chapter.  It  illustrates  the  complete  process  of  research  into  how 
+
+customers  perceive  QR  payments.  As  a  result,  this  chapter  contains  information  on  the 
+
+research design, sources for data collecting, tools employed, data collection methodology, 
+
+population  and  sample,  instrumentation,  instrument  administration,  and  data  analysis 
+
+strategy.  Highlighting  the  procedures  and  methods  used  to  obtain  the  most  accurate 
+
+results while still adhering to the research's stated goal and testing the hypothesis is the 
+
+main goal of this chapter. The methodology and design were used in accordance with the 
+
+type of research. 
+
+3.2 Research Design  
+
+The primary survey is  the foundation for the research's conclusions.  The purposive and 
+
+connivance research design has been adopted for this study.   A series of well-structured 
+
+questionnaires  is  created,  distributed,  and  then  collected  from  students,  workers,  and 
+
+professionals  in  order  to  gather  the  data.  The  results  are  entirely  supported  by  the 
+
+information  and  evidence  that  the  sampled  respondents  gave.  In  business  and 
+
+management  research,  the  survey  approach  is  a  well-liked  and  frequently  employed 
+
+tactic.  In  order  to  gather  information  for  this  research  study,  a  structured  survey-style 
+
+questionnaire will be used. The Cronbach's alpha test, which is the most used test for the 
+
+inter-item  consistency  reliability  and  the  best  measure  for  many  scale  items,  is  used  to 
+
+examine the reliability and validity of scales. 
+
+3.3 Sample Description 
+
+3.3.1 Population and sample 
+
+A population is basically defined as the universe of units from which the sample is to be 
+
+selected.  The  target  population  to  assess the  digital  payment  are  people  who  frequently 
+
+use QR payment gateways to make their payments in purchase or travel. The selection of 
+
+ 
+ 
+ 
+32 
+
+the  sample  is  one  of  the  difficult  procedures  in  the  research  process.  One  of  the  most 
+
+common non-probability sampling techniques was used in this investigation, convenience 
+
+sampling. People who are simple to approach make up a convenience random sample. A 
+
+sample size of 386 respondents was taken people who are using  QR to make payment. 
+
+Respondents  from  different  age  groups  and  occupational  backgrounds  were  chosen  in 
+
+order to diversify the sample.  
+
+3.3.3 Instrumentation 
+
+In order to answer  research questions, it is  crucial  for a researcher to  choose a suitable 
+
+study population and a proper sample technique. Sampling is the deliberate selection of a 
+
+predetermined  number  of  individuals  to  represent  a  specific  community.  In  order  to 
+
+collect data from a representative sample of the population, it is crucial to decide on the 
+
+sampling size and sampling frame because it is  not  practical  for the researcher to  carry 
+
+out a census study. 
+
+The  questionnaire  consists  of  background  questions  for  demographic  information,  and 
+
+questions  related  to  level  of  importance  given  by  the  respondents  to  different  factors 
+
+while  doing  QR  payments.  There  are  five  questions  in  Section  A.    From  these  eight 
+
+questions, researchers aim to know the demographic composition of the respondents such 
+
+as  gender,  age,  education  level,  income  level  and  usage  related  to  QR  payments.  In 
+
+Section B, mode of payment, frequency of use, purpose of use and awareness related to 
+
+QR  payments  is  analyzed  and  also  is  created  to  show  and  evaluate  the  dependent  and 
+
+independent variables of this research which consists of perceived risk, social influence, 
+
+effort  expectancy  and  facilitating  conditions  as  independent  variable  and  consumer 
+
+perception as dependent variable. There are four to five questions included in each of the 
+
+dependent and independent variable. In this section, there are five questions required to 
+
+be  answered  by  respondents.  The  full  questionnaire  is  presented  in  Appendix. 
+
+Respondents were asked along a 5-point Likert-scale (1= strongly disagree; 2=disagree, 
+
+3=neutral, 4=agree, 5= strongly agree).   
+
+ 
+ 
+ 
+ 
+33 
+
+The questionnaire was administered via email as well as physical forms were distributed 
+
+as per convenience. At the beginning, the participants received more information about 
+
+the aim of the survey, and they were reminded that their participation was voluntary and 
+
+their answers would remain anonymous. 
+
+Questionnaire  
+
+One  of  the  most  widely  utilized  data  collection  methods  within  the  survey  strategy  in 
+
+business and management research is the questionnaire. In general, questionnaires cover 
+
+all  data  gathering  methods  where  respondents  are  requested  to  answer  the  same  set  of 
+
+questions in a planned sequence. Due to the fact that each responder is asked to respond 
+
+to a same set of questions, using a questionnaire is an effective way to obtain responses 
+
+from  a  large  number  of  people.  Additionally,  it  can  avoid  bias  during  the  process  of 
+
+gathering  information.  As  a  result,  the  most  reasonable  and  appropriate  approach  for 
+
+gathering  information  from  a  large  number  of  people  in  order  to  achieve  the  goals  and 
+
+objectives of the research study is through the use of questionnaires.  
+
+Questionnaire Design  
+
+The  author  distributed  questionnaires  that  were  administered  by  a  researcher  for  the 
+
+purpose of gathering data from the respondents.  The questionnaire is made to allow for 
+
+the  empirical  testing  of  the  theory  put  forth  in  the  previous  chapter  regarding  the 
+
+relationship between the respondents' demographic characteristics, perceived risk, social 
+
+influence,  expected  level  of  effort,  and  enabling  circumstances  as  they  relate  to  their 
+
+perception of QR payments. 
+
+The questionnaire for the research is divided in two major sections. Section 'A' deals in 
+
+collecting of demographic factors of the respondents which mainly includes facts such as 
+
+age, gender, education level, profession and usage of QR.  The goal, manner, awareness, 
+
+and  frequency  of  employing  QR  are  all  being  collected  in  Section  "B."  Additionally, 
+
+independent  variables  such  as  perceived  risk,  social  impact,  effort  expectation,  and 
+
+facilitating  settings  were  examined  in  relation  to  customer  perception  of  QR  payments. 
+
+ 
+ 
+ 
+34 
+
+To  ensure  that  responders  could  easily  grasp  and  interpret  the  questions'  intended 
+
+meanings, all of the questions in the two sections were made coherent.  
+
+The level of agreement for each item was assessed on a 5-point Likert scale. The answers 
+
+to questions with a likert scale are not too difficult. The author pledged to maintain the 
+
+respondents'  demographic  information's  privacy.  The  questionnaire  copy  is  included  in 
+
+Appendix A.  
+
+3.4 Data Collection Procedure & Time Frame 
+
+For a researcher to successfully achieve the desired aims and objectives of a study, it is 
+
+essential to gather all necessary information and relevant data. There are two main data 
+
+collection  methods:  primary  and  secondary  sources  of  data.  Primary  data  refers  to 
+
+original data collected directly from the main source. Methods for collecting primary data 
+
+include  observation,  surveys,  questionnaires,  and  personal  interviews.  Conversely, 
+
+secondary data involves the collection and analysis of data previously gathered by other 
+
+researchers  for  different  purposes.  This  type  of  data  can  be  found  in  raw  form  or  as 
+
+published summaries (Hussey & Hussey, 1997).  
+
+Primary Data  
+
+Primary data refers to information specifically collected for the research project at hand. 
+
+This type of data is more relevant and consistent with the study's objectives. Primary data 
+
+can effectively answer questions related to people's preferences, intentions, and purchase 
+
+behaviors. The analysis  of primary  data serves as a crucial component of this study.  In 
+
+this research, the questionnaire technique is utilized to gather primary data. 
+
+The survey strategy allows the researcher to collect which can be analyzed quantitatively 
+
+using descriptive and inferential statistics. The data collected through survey strategy is 
+
+easy to explain and understand. Moreover, it can be used to suggest possible reasons for 
+
+relationships between variables and to produce models of these relationships. 
+
+ 
+ 
+ 
+35 
+
+3.4.2 Reliability and Validity 
+
+Cronbach's  alpha  coefficients  were  calculated  to  assess  the  scale  items'  internal 
+
+consistency. This test is designed to determine the accuracy of the information gathered 
+
+for  the  various  variables  included  in  this  model.  The  dependability  of  the  data  is 
+
+determined  by  Cronbach's  Alpha,  and  a  value  of  0.70  or  higher  is  considered  to  be 
+
+satisfactory. 
+
+Table 3. 1 
+
+ Reliability Test   
+
+Variable 
+
+Cronbach‘s Alpha 
+
+Number of Items 
+
+Consumer  Perception  towards 
+QR Payment 
+
+0.890 
+
+Perceived Risk 
+
+Social Influence 
+
+Effort Expectancy 
+
+Facilitating Conditions 
+
+0.857 
+
+0.834 
+
+0.804 
+
+0.782 
+
+4 
+
+4 
+
+5 
+
+4 
+
+4 
+
+The independent and dependent variable Cronbach's Alpha coefficients are displayed in 
+
+Table 3.1. Its value varies from 0 to 1, usually indicating internal consistency. Less than 
+
+0.6 Cronbach's Alpha coefficients  are regarded as poor, more than 0.6 but  less than 0.8 
+
+are  seen  as  acceptable,  and  more  than  0.8  are  regarded  as  good.  All  the  variables' 
+
+Cronbach's Alpha in  this situation is  acceptable.  As a result, the tools employed in this 
+
+study are regarded as trustworthy. 
+
+3.5 Data Analysis Procedures  
+
+To  calculate  various  values  for  the  study's  variables,  descriptive  statistics  is  a  crucial 
+
+statistical  tool.  It  offers  precise  information  on  several  measuring  elements.  The  mean, 
+
+median, mode, and standard deviations, among other statistical data, are computed in this 
+
+study. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+36 
+
+The statistical method of determining the relationship between two or more variables is 
+
+correlation analysis. The strength and direction of the relationship between two variables 
+
+can be ascertained using regression method. SPSS software was used to analyze the data. 
+
+3.6  Research Framework 
+
+A  theoretical  framework  is  a  framework  that  can  hold  or  support  a  research  study's 
+
+theory.  In a nutshell, it is the framework upon which the entire investigation is built. A 
+
+theoretical  framework  is  a  set  of  beliefs  about  how  specific  concepts  or  variables  are 
+
+related to one another, as well as an explanation of why we feel they are related. 
+
+So,  in  this  section  the  relationship  between  independent  variables  and  dependent 
+
+variables are shown. The schematic diagram of the conceptual is shown in Figure 1.  
+
+Figure 3.1 Conceptual Framework 
+
+Perceived Risk 
+
+Social Influence 
+
+Effort expectancy 
+
+Facilitating Conditions 
+
+Consumer 
+
+perception 
+
+towards QR 
+
+Payments 
+
+Independent Variables 
+
+Dependent Variable 
+
+Source: Panupong & Rawin (2021) The Journal of Asian Finance, Economics and 
+
+Busines 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+
+3.7 Defination of Variables 
+
+Dependent Variable 
+
+Since it describes the issue being investigated, the research's title serves as the dependent 
+
+variable. Independent, moderating, and mediating variables are what determine its worth. 
+
+Consumer  perception  of  QR  payments  will  be  the  study's  dependent  variable  here. 
+
+According to De & Bono (De & Bono, 2022) the process of customer perception is one in 
+
+which a person learns about their surroundings and interprets that knowledge in light of 
+
+their  needs,  wants,  and  attitudes.  Several  independent  variables,  such  as  perceived  risk, 
+
+social influence, effort expectation, and facilitating conditions, will all have an impact on 
+
+this variable. 
+
+Independent variables 
+
+The variables that affect  the dependent  variable  but  have no independent cause of their 
+
+own  are  known  as  independent  variables.  The  perceived  danger,  social  impact,  effort 
+
+expectations, and facilitating factors will be the independent variables of this study.  
+
+Perceived  risk  is  the  uncertainty  that  people  feel  about  the  potential  drawbacks  of 
+
+employing new technology (IGI Global, 2022). 
+
+When  other  individuals  have  an  impact  on  a  person's  thoughts,  feelings,  and  behavior, 
+
+this  is  known  as  social  influence.  It  is  an  essential  component  of  interpersonal 
+
+interactions inside and between groups (Smith & Schultz, 2011). 
+
+According to Venkatesh et al. (2003), effort expectancy is the degree of ease with which 
+
+a system is used. Thus, whether a system is simple or complex, effort expectancy relates 
+
+to  the  amount  of  work  required  to  use  it.  Users  may  readily  embrace  and  utilize  user-
+
+friendly technology (Catherine, Geofrey, Moya, & Aballo, 2017). 
+
+According  to  Chan  et  al.  (2010),  the  degree  to  which  one  thinks  that  the  current 
+
+organizational and technological infrastructure can support the application of technology 
+
+(AMBARWATI, 2020) is known as the "facilitating condition." 
+
+ 
+ 
+ 
+ 
+ 
+38 
+
+CHAPTER IV 
+
+RESULTS AND DISCUSSIONS 
+
+. 4.1 Respondents Profile 
+
+The  demographic  analysis  and  interpretation  of  primary  data  gathered  through  surveys 
+
+are covered in this section. This makes it easier to understand the demographic traits of 
+
+the study's respondents. Gender, age, educational attainment, and occupation are all part 
+
+of the respondent profile. 
+
+4.1.1 Gender of Respondents 
+
+In  any  study  the  gender  plays  a  vital  role  in  view  of  certain  gender  specific  attributes 
+
+which influence the variables taken  for the study. Hence, study  of  gender is  imperative 
+
+and  is  classified  as  male  and  female.  Table  4.1  describes  gender  wise  distribution  of 
+
+respondents.  
+
+Table 4. 1 
+
+ Gender wise Distribution of Respondents 
+
+Gender 
+
+Male 
+
+Female 
+
+Total 
+
+Frequency  
+
+Percentage (%)  
+
+230 
+
+156 
+
+386 
+
+59.6 
+
+40.4 
+
+100.0 
+
+Source: Field Survey 2023 
+
+Table 4.1 shows the distribution of respondent according to the gender. The frequencies 
+
+of  male  and  female  are  121  and  82  respectively.  Hence,  respondents  comprised  of  60 
+
+percent male and 40 percent female. 
+
+ 
+ 
+ 
+ 
+ 
+4.1.2 Age of Respondents 
+
+The age of respondents has been categorized into four groups: 16 to 25, 26 to 34,35-45 
+
+and  46  above.  The  frequency  distribution  of  respondents  as  per  the  gender  is  shown  in 
+
+39 
+
+Table 4.2. 
+
+Table 4. 2 
+
+Age of Respondents 
+
+Age  
+
+16-25 years  
+
+26-34 years  
+
+34-45 
+
+46 and above 
+
+Total  
+
+Source: Field Survey 2023 
+
+Frequency  
+
+Percentage (%)  
+
+156 
+
+215 
+
+12 
+
+ 3 
+
+386 
+
+40.4 
+
+55.7 
+
+3 
+
+1 
+
+100.0  
+
+Table 4.2 shows the distribution of respondent according to the age. The survey revealed 
+
+that out of 386 respondents 40.4% fall in the age group 16-25 years, 55.7% are in 26-34 
+
+years age group, 3% fall in the age group 35-45 years and 1% in 46 and above age group. 
+
+Hence, this result shows that the majority of people using QR service fall within the age 
+
+group of 26-34. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+
+4.1.3 Education Level 
+
+The frequency distribution of respondents as per their educational qualification is shown 
+in Table 4.3. 
+
+Table 4. 3: 
+
+Distribution by Education Level of Respondents 
+
+Education level 
+
+Frequency  
+
+Percentage (%)  
+
+10 +2 or below high school 
+
+Bachelor‘s degree 
+
+Masters or above  
+
+Total  
+
+Source: Field Survey 2023 
+
+38 
+
+181 
+
+167 
+
+386 
+
+9.9 
+
+46.8 
+
+43.3 
+
+100.0  
+
+Table 4.3 shows the distribution of respondent  according to  the education level.  As per 
+
+the  data  collected,  out  of  the  total  respondents  43.3%  have  master  ‗s  degree  or  above, 
+
+46.8% were have completed their bachelor degree whereas rest 9.9% have 10+2 or below 
+
+high school degree. Therefore, this result shows that the majority of the QR users have a 
+
+qualification Bachelor degree. 
+
+4.1.4 Occupation 
+
+The frequency distribution of respondents as per their occupation is shown in Table 4.4. 
+
+Table 4. 4 
+Distribution by Occupation 
+
+Occupation  
+
+Student 
+
+Employee 
+
+Self Employed 
+
+Other 
+
+Total  
+
+Source: Field Survey 2023 
+
+Frequency  
+
+Percentage (%)  
+
+115 
+
+225 
+
+39 
+
+7 
+
+386  
+
+29.6 
+
+58.1 
+
+9.9 
+
+1.5 
+
+100.0  
+
+ 
+ 
+ 
+ 
+ 
+ 
+41 
+
+Table 4.4 shows the distribution of respondent according to occupation background. The 
+
+data clearly shows that 29.6% of the respondent are students, 58.1% of the respondent are 
+
+working as employee, 9.9% of the respondent operate their own business, whereas, 1.5% 
+
+of the respondent has other group occupation. Hence, most of the QR users are employee. 
+
+4.1.5 Income 
+
+The frequency distribution of the respondent as per income is shown in Table 4.6 
+
+Table 4. 5 
+Distribution by Income 
+
+Income (Monthly) 
+
+Below Rs 30,000 
+
+Rs 30,000-60,000 
+
+Rs 60,000-90,000 
+
+Above Rs 1,00,000  
+
+Total 
+
+Source: Field Survey 2023 
+
+Frequency  
+
+Percentage (%)  
+
+195 
+
+114 
+
+42 
+
+35 
+
+386 
+
+50.7 
+
+29.6 
+
+10.8 
+
+8.9 
+
+100.0 
+
+Table 4.5 indicates the following results; out of 386 respondents 50.7% of the respondent 
+
+have  income  below  Rs30,000,  29.6%  of  the  respondents  have  income  Rs  30,000  – 
+
+60,000,  10.8%  of  the  respondents  have  income  Rs  60,000-90,000,  8.9%  of  the 
+
+respondents  have income above 1,00,000.  It  shows that the majority of the respondents 
+
+i.e., 50.7 percent have income below 30,000 which is 103 in numbers. 
+
+4.1.6 Awareness of QR payment gateway 
+
+The  frequency  distribution  of  the  respondent  awareness  about  QR  payment  gateway  is 
+
+shown in Table 4.6. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+
+Table 4. 6 
+Distribution by Awareness of QR Payment Gateway 
+
+Particular 
+Yes 
+
+No 
+
+Total 
+
+Source: Field Survey 2023 
+
+Frequency 
+354 
+
+Percentage (%) 
+91.6 
+
+32 
+
+386 
+
+8.4 
+
+100.0 
+
+Among  386  respondents,  386  respondents  have  used  QR  payments  whereas  17 
+
+respondents  have  not  yet  used  the  QR  payments.  Hence,  this  research  only  takes  386 
+
+respondents to analyze further.  
+
+4.1.7 Main Purpose of using QR 
+
+The  frequency  distribution  of  the  respondent  as  per  purpose  of  using  QR  is  shown  in 
+
+Table 4.7. 
+
+Table 4. 7 
+Distribution by main purpose of using QR 
+
+Particular 
+Entertainment 
+
+Fund Transfer 
+
+Merchant Payment 
+
+Online Shopping Payment 
+
+Frequency 
+17 
+
+Percentage (%) 
+4.3 
+
+95 
+
+125 
+
+21 
+
+24.7 
+
+32.3 
+
+5.4 
+
+Utilities Bill Payment                                                                                                                                                                                                                                 
+
+30.6 
+
+118 
+
+Others 
+
+Total 
+
+Source: Field Survey 2023 
+
+10 
+
+386 
+
+2.7 
+
+100 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Among 386 respondents 4.3% respondents use QR for Entertainment purpose, 24.7% for 
+
+fund  transfer,  32.3%  for  merchant  payment,  5.4%  for  online  shopping  payment,  30.6% 
+
+for utilities bill payment and 2.7% for other purpose. This means that most of the people 
+
+43 
+
+use QR for merchant payment.  
+
+4.1.8 Frequency of Use 
+
+The frequency response in terms of use of QR payment gateway is shown in table 4.8 
+
+Table 4. 8 
+Distribution by Frequency of use 
+
+Particular 
+Daily 
+
+Weekly 
+
+Monthly 
+
+Yearly 
+
+Total 
+
+Source: Field Survey 2023 
+
+Frequency 
+214 
+
+Percentage (%) 
+55.4 
+
+108 
+
+54 
+
+10 
+
+386 
+
+28 
+
+14 
+
+2.7 
+
+100.0 
+
+All  of  the  respondents  use  QR  payment  gateway  where  55.4%  use  it  daily,  28%  use  it 
+
+weekly, 14% monthly and 2.7% use it yearly. 
+
+4.1.9 Mode of QR Payment 
+
+The frequency response in terms of use of mode of QR payment is shown in table 4.8. 
+
+ 
+ 
+ 
+ 
+ 
+44 
+
+Table 4. 9 
+Distribution by Mode of Payment 
+
+ Particular 
+Fonepay 
+eSewa 
+IMEPAY 
+Khalti 
+connectIPS 
+Others 
+Total 
+Source: Field Survey 2023 
+
+Frequency 
+264 
+87 
+6 
+4 
+21 
+4 
+386 
+
+Percentage 
+(%) 
+68.3 
+22.6 
+1.6 
+1.1 
+5.4 
+1.1 
+100 
+
+When respondents were asked about which mode they prefer, Fonepay is used by major 
+
+of the respondents i.e., 127 followed by eSewa-42, connectIPS-10, IMEPAY-3, Khalti-2 
+
+and others-2.  
+
+4.2 Descriptive Analysis 
+
+This section is focused on the descriptive analysis of the data collected from the survey 
+
+questionnaires.  Descriptive  analysis  helps  to  quantitatively  describe  the  main  feature  of 
+
+the collected data with the aim of summarizing the data statistically and reach towards a 
+
+set objective. In the sub-sections below, using the result acquired from the calculations of 
+
+statistical  measures  such  as  mean,  standard  deviation  and  maximum  and  minimum 
+
+values, the data have been displayed. Also, the frequency charts were used to show the 
+
+respondents  preference  to  one  alternative  over  another.  To  get  this  result,  ―Five  Point 
+
+Likert  Scale  questions  were  used  to  the  respondents  which  scaled  from  1  Strongly 
+
+Disagree, 2 Disagree, 3 Neutral, 4 Agree and 5 Strongly agree. As mentioned earlier the 
+
+total number of respondents was 386. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+
+4.2.1 Consumer Perception towards QR Payment 
+
+The  descriptive  analysis  for  consumer‘s  perception  towards  QR  payment  is  represented 
+
+on Table 4.10. 
+
+Table 4.10 
+Descriptive Analysis of Consumer Perception  
+
+PARTICULARS 
+
+traditional 
+
+QR  payment  system  is  better 
+than 
+payment 
+channels 
+QR  payment  system  is  much 
+more efficient than traditional 
+payment channels 
+I will  choose  the  trusted  QR 
+payment  system 
+to  make 
+transaction 
+I  feel  that  a  user-friendly  QR 
+payment 
+will 
+influence  me  to  adopt  the 
+system 
+Overall 
+
+system 
+
+1 
+
+8 
+
+6 
+
+2 
+
+4 
+
+6 
+
+3 
+
+4 
+
+5 
+
+29 
+
+167 
+
+178 
+
+MEAN  Standard 
+Deviation 
+0.829 
+
+4.3 
+
+39 
+
+152 
+
+183 
+
+4.3 
+
+0.829 
+
+10 
+
+10 
+
+29 
+
+183 
+
+154 
+
+4.19 
+
+0.892 
+
+10 
+
+6 
+
+29 
+
+167 
+
+174 
+
+4.26 
+
+0.876 
+
+4.26 
+
+0.86 
+
+Source: Field Survey 2023 
+The  responses  provided  by  the  respondents  regarding  how  consumers  perceive  QR 
+
+payments are displayed in Table 4.10. The ratings ranged from 1 to 5. When asked if 
+
+the  QR  payment  method  is  superior  than  conventional  payment  channels,  the 
+
+respondents  gave  answers  in  the  following  order:  (1=strongly  Disagree,  2=Disagree, 
+
+3=Neutral, 4=Agree, and 5=Strongly Agree). They gave it a rating between 1 and 5, or 
+
+strongly  disagree  to  strongly  agree.    Additionally,  the  assertion  that  the  QR  payment 
+
+method  is  superior  to  conventional  payment  channels  has  a  mean  of  4.3,  the  highest 
+
+among the other claims, and a standard deviation of 0.829, indicating that the majority 
+
+of respondents concur. 
+
+When  the  respondents  were  asked  QR  payment  system  is  much  more  efficient  than 
+
+traditional  payment  channels.  They  rated  that  factor  from  1  to  5  i.e.,  from  strongly 
+
+disagree  to  strongly  agree.    And,  the  mean  is  4.3  being  the  highest  among  other 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             
+46 
+
+statements  and  with  standard  deviation  of  0.829  which  mean  they  agree  that  QR 
+
+payment system is much more efficient than traditional payment channels. 
+
+When the respondents were asked if they will choose the trusted QR payment system to 
+
+make  transaction.  They  rated  that  factor  from  1  to  5  i.e.,  from  strongly  disagree  to 
+
+strongly  agree.    And,  the  mean  is  4.19  with  standard  deviation  of  0.892  which  mean 
+
+they agree to choose the trusted QR payment system to make transaction. 
+
+When the respondents were asked if user-friendly QR payment system will influence to 
+
+adopt  the  system.  They  rated  that  factor  from  1  to  5  i.e.,  from  strongly  disagree  to 
+
+strongly  agree.  And, the mean is  4.26 with  standard deviation  of 0. 876 which mean 
+
+they agree user-friendly QR payment system will influence to adopt the system. 
+
+4.2.2 Perceived Risk 
+
+The descriptive analysis for perceived risk as consumers perception towards QR payment 
+
+is represented on table 4.11. 
+
+Table 4. 11 
+Descriptive Analysis of Perceived Risk  
+
+PARTICULARS 
+
+QR  payment  methods  have 
+sufficient  security  controls  to 
+maintain  data  confidentiality 
+and prevent fraud 
+QR  payment  is  more  secure 
+than other payment 
+The  risk  of  abuse  of  usage 
+information  (e.g.,  names  of 
+business  partners,  payment 
+amount)  is  low  when  using 
+QR payment services 
+There  is  less  risk  involved  in 
+using  QR  payment  compared 
+to card payment 
+Overall 
+
+Source: Field Survey 2023 
+
+1 
+
+8 
+
+2 
+
+3 
+
+4 
+
+5 
+
+37 
+
+134 
+
+149 
+
+58 
+
+MEAN  Standard 
+Deviation 
+0.936 
+
+3.55 
+
+6 
+
+16 
+
+39 
+
+46 
+
+120 
+
+154 
+
+67 
+
+3.61 
+
+0.943 
+
+147 
+
+127 
+
+50 
+
+3.38 
+
+0.997 
+
+15 
+
+44 
+
+135 
+
+131 
+
+61 
+
+3.46 
+
+1.009 
+
+3.5 
+
+0.97 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+
+Table  4.11  shows  the  responses  given  by  the  respondents  regarding  perceived  risk  as 
+
+consumers perception towards QR payment. They rated the statements from 1 to 5. (1= 
+
+strongly Disagree, 2= Disagree, 3= Neutral, 4= Agree and 5= Strongly Agree)   
+
+When  the  respondents  were  asked  if  QR  payment  methods  have  sufficient  security 
+
+controls to maintain data confidentiality and prevent fraud. They rated that factor from 
+
+1  to  5  i.e.,  from  strongly  disagree  to  strongly  agree.    And,  the  mean  is  3.55  with 
+
+standard  deviation  of  0.936  which  mean  they  agree  on  the  statement  QR  payment 
+
+methods  have  sufficient  security  controls  to  maintain  data  confidentiality  and  prevent 
+
+fraud. 
+
+When the respondents  were asked if QR payment is more secure than other payment. 
+
+They rated that factor from 1 to 5 i.e., from strongly disagree to strongly agree.  And, 
+
+the mean is 3.61 being the highest among other statements and with standard deviation 
+
+of  0.943  which  mean  they  agree  that  the  QR  payment  is  more  secure  than  other 
+
+payment.  
+
+When the respondents were asked the risk of abuse of usage information (e.g., names of 
+
+business  partners,  payment  amount)  is  low  when  using  QR  payment  services.  They 
+
+rated  that  factor  from  1  to  5  i.e.,  from  strongly  disagree  to  strongly  agree.    And,  the 
+
+mean is 3.38 with standard deviation of 0.997 which mean they are agree on statement 
+
+the  risk  of  abuse  of  usage  information  (e.g.,  names  of  business  partners,  payment 
+
+amount) is low when using QR payment services. 
+
+When the respondents were there is less risk involved in using QR payment compared 
+
+to  card  payment.  They  rated  that  factor  from  1  to  5  i.e.,  from  strongly  disagree  to 
+
+strongly  agree.    And,  the  mean  is  3.46  with  standard  deviation  of  1.009  which  mean 
+
+they agree on statement There is less risk involved in using QR payment  compared to 
+
+card payment. 
+
+4.2.3 Social Influence  
+
+The  descriptive  analysis  for  social  influence  as  consumers  perception  towards  QR 
+
+payment is represented on table 4.12. 
+
+ 
+ 
+ 
+Table 4. 12 
+Descriptive Analysis of Social Influence  
+
+PARTICULARS 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+35 
+
+114 
+
+104 
+
+104 
+
+29 
+
+48 
+
+MEAN  Standard 
+Deviation 
+1.111 
+
+2.94 
+
+I  am  using  QR  payments 
+because  my  family,  friends 
+and so on uses it. 
+I  am  using  QR  payments 
+because  whenever  I  am  in  a 
+cash  counter,  merchant  ask 
+me to scan the code. 
+I am using QR payments as it 
+is in a trend nowadays. 
+I  am  using  QR  because 
+society judge me if I pay with 
+cash. 
+Using QR payment will make 
+me superior in my peer. 
+Overall 
+
+Source: Field Survey 2023 
+
+66 
+
+172 
+
+66 
+
+63 
+
+19 
+
+2.47 
+
+1.101 
+
+50 
+
+104 
+
+100 
+
+94 
+
+180 
+
+124 
+
+30 
+
+37 
+
+38 
+
+15 
+
+2.92 
+
+1.201 
+
+1.91 
+
+1.126 
+
+156 
+
+108 
+
+60 
+
+46 
+
+16 
+
+2.12 
+
+1.189 
+
+2.47 
+
+1.145 
+
+Table 4.12 shows the responses given by the respondents regarding social influence as 
+
+consumers perception towards QR payment. They rated the statements from 1 to 5. (1= 
+
+strongly Disagree, 2= Disagree, 3= Neutral, 4= Agree and 5= Strongly Agree)   
+
+When  the  respondents  were  asked,  if  they  use  QR  payments  because  their  family, 
+
+friends  and  so  on  uses  it.  They  rated  that  factor  from  1  to  5  i.e.,  from  disagree  to 
+
+strongly  agree.    And,  the  mean  is  2.94  being  the  highest  among  other  statements  and 
+
+with standard deviation of 1.111 which mean they deny on the statement they use QR 
+
+payments because of family, friends and so on uses it. 
+
+When the respondents were asked if they use using QR payments because whenever in 
+
+a cash counter, merchant ask to scan the code. They rated that factor from 1 to 5 i.e., 
+
+from strongly disagree to strongly agree.  And, the mean is 2.47 with standard deviation 
+
+of 1.101 which mean they disagree in using QR payments because whenever in a cash 
+
+counter, merchant ask to scan the code. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+49 
+
+When the respondents were asked, they use QR payments as it is in a trend nowadays. 
+
+They rated that factor from 1 to 5 i.e., from strongly disagree to strongly agree.  And, 
+
+the  mean  is  2.92  with  standard  deviation  of  1.201  which  mean  they  disagree  on  the 
+
+statement that they use QR payments as it is in a trend nowadays. 
+
+When the respondents were asked, they use QR because society judges if anyone pays 
+
+with  cash.  They  rated  that  factor  from  1  to  5  i.e.,  from  Strongly  disagree  to  strongly 
+
+agree.  And, the mean is 1.91 with standard deviation of 1.126 which mean they deny 
+
+they use QR because society judges if anyone pays with cash. 
+
+When  the  respondents  were  asked  if  using  QR  payment  will  make  superior  in  peer. 
+
+They rated that factor from 1 to 5 i.e., from neutral to strongly agree.  And, the mean is 
+
+2.12 with standard deviation of 1.189 which mean they disagree using QR payment will 
+
+make superior in peer. 
+
+4.2.4 Effort Expectancy 
+
+The  descriptive  analysis  for  effort  expectancy  as  consumers  perception  towards  QR 
+
+payment is represented on table 4.13. 
+
+Table 4. 13 
+Descriptive Analysis of Effort Expectancy  
+
+PARTICULARS 
+
+There  are  few  steps  required 
+to complete the transaction 
+It is easier to use QR payment 
+than Cash/Card payment 
+The 
+interaction  with  QR 
+payment  services  is  clear  and 
+understandable 
+Using  QR  payment  will  save 
+me time 
+Overall 
+
+Source: Field Survey 2023 
+
+1 
+
+16 
+
+6 
+
+8 
+
+2 
+
+24 
+
+24 
+
+15 
+
+3 
+
+89 
+
+68 
+
+62 
+
+4 
+
+5 
+
+193 
+
+64 
+
+MEAN  Standard 
+Deviation 
+0.964 
+
+3.69 
+
+168 
+
+120 
+
+3.97 
+
+0.935 
+
+191 
+
+112 
+
+3.98 
+
+0.891 
+
+10 
+
+13 
+
+58 
+
+157 
+
+148 
+
+4.09 
+
+0.951 
+
+3.932 
+
+0.935 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+50 
+
+Table 4.13 shows the responses given by the respondents regarding effort expectancy as 
+
+consumers perception towards digital payment. They rated the statements from 1 to 5. 
+
+(1= strongly Disagree, 2= Disagree, 3= Neutral, 4= Agree and 5= Strongly Agree)   
+
+When  the  respondents  were  asked  There  are  few  steps  required  to  complete  the 
+
+transaction. They  rated that factor from  1 to  5 i.e., from  strongly disagree to  strongly 
+
+agree.  And, the mean is 3.69 with standard deviation of 0.964 which mean they agree 
+
+on the statement there are few steps required to complete the transaction. 
+
+When  the  respondents  were  asked  is  it  easier  to  use  QR  payment  than  Cash/Card 
+
+payment.  They  rated  that  factor  from  1  to  5  i.e.,  from  strongly  disagree  to  strongly 
+
+agree.  And, the mean is 3.97 with standard deviation of 0.935 which mean they agree 
+
+that it is easier to use QR payment than Cash/Card payment.  
+
+When the respondents were asked the interaction with QR payment services is clear and 
+
+understandable.  They  rated  that  factor  from  1  to  5  i.e.,  from  strongly  disagree  to 
+
+strongly  agree.    And,  the  mean  is  3.98  with  standard  deviation  of  0.891  which  mean 
+
+they agree that the interaction with QR payment services is clear and understandable. 
+
+When  the  respondents  were  asked  using  QR  payment  will  save  time.  They  rated  that 
+
+factor from 1 to 5 i.e., from Strongly disagree to strongly agree.  And, the mean is 4.09 
+
+being the highest among other statements and with standard deviation of 0.951 which 
+
+mean they agree using QR payment will save time. 
+
+4.2.5 Facilitating Conditions 
+
+The  descriptive  analysis  for  facilitating  conditions  as  perception  on  using  QR  payment 
+
+gateway is represented on table 4.14. 
+
+ 
+ 
+ 
+51 
+
+Table 4. 14 
+Descriptive Analysis of Facilitating Conditions  
+
+PARTICULARS 
+
+system 
+
+I  feel  that  a  user-friendly  QR 
+will 
+payment 
+influence  me  to  adopt  the 
+system 
+I  will  choose  QR  payment 
+method which is user friendly 
+I 
+that  QR  payment 
+platforms collect and treat my 
+information 
+personal 
+confidentially 
+I 
+method I use is secure 
+Overall 
+
+that  QR  payment 
+
+feel 
+
+feel 
+
+1 
+
+6 
+
+2 
+
+3 
+
+4 
+
+5 
+
+10 
+
+62 
+
+208 
+
+100 
+
+MEAN  Standard 
+Deviation 
+0.822 
+
+3.99 
+
+2 
+
+19 
+
+15 
+
+29 
+
+39 
+
+210 
+
+120 
+
+4.12 
+
+0.776 
+
+112 
+
+174 
+
+52 
+
+3.55 
+
+0.981 
+
+8 
+
+16 
+
+108 
+
+187 
+
+67 
+
+3.74 
+
+0.869 
+
+3.85 
+
+0.862 
+
+Source: Field Survey 2023 
+
+Table 4.14 shows the responses given by the respondents for facilitating conditions as 
+
+consumer perception on using QR payment gateway. They rated the statements from 1 
+
+to 5. (1= strongly Disagree, 2= Disagree, 3= Neutral, 4= Agree and 5= Strongly Agree)   
+
+When the respondents were asked, if they feel that a user-friendly QR payment system 
+
+will influence to adopt the system. They rated that factor from 1 to 5 i.e., from strongly 
+
+disagree  to  strongly  agree.    And,  the  mean  is  3.99  with  standard  deviation  of  0.822 
+
+which mean they agree on the statement  that a user-friendly QR payment system will 
+
+influence to adopt the system  
+
+When  the  respondents  were  asked  if  they  will  choose  QR  payment  method  which  is 
+
+user friendly. They rated that factor from 1 to 5 i.e., from strongly disagree to strongly 
+
+agree.    And,  the  mean  is  4.12  being  the  highest  among  other  statements  and  with 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+
+standard  deviation  of  0.776  which  mean  they  are  agree  that  they  will  choose  QR 
+
+payment method which is user friendly. 
+
+When  the  respondents  were  asked  about,  I  feel  that  QR  payment  platforms  collect  and 
+
+treat my personal information confidentially. They rated that factor from 1 to 5 i.e., from 
+
+strongly  disagree  to  strongly  agree.    And,  the  mean  is  3.55  with  standard  deviation  of 
+
+0.981  which  mean  they  are  agree  on  statement  that  I  feel  that  QR  payment  platforms 
+
+collect and treat my personal information confidentially.  
+
+When the respondents were asked about, I feel that QR payment method I use is secure. 
+
+They rated that factor from 1 to 5 i.e., from strongly disagree to strongly agree.  And, the 
+
+mean is 3.74 with standard deviation of 0.869 which mean they agree on statement I feel 
+
+that QR payment method I use is secure. 
+
+4.3 Inferential Analysis 
+
+The purpose of this section is to present the method for analyzing the results and test the 
+
+hypothesis set in the previous chapter. Inferential statistics are procedures used that allow 
+
+researchers to infer or generalize observations made with samples to the larger population 
+
+from which they were selected. It enables use of one or more samples of observations to 
+
+infer values of a population. Inferential analysis tests hypothesis to determine if observed 
+
+differences between groups or variables are real or occur simply by chance. It produces 
+
+new information by making predictions and generalizations based on samples. 
+
+4.3.1 Correlation Analysis  
+
+Pearson  correlation  analysis  was  conducted  on  all  of  the  independent  and  dependent 
+
+variables. Rubin (2010) scale for correlation coefficient, these were all weak to moderate 
+
+or  moderate-to-strong  correlation  coefficients.  A  correlation  analysis  can  only  tell 
+
+whether  or  not  a  strong  relationship  exists  between  two  variables.  But  even  if  a 
+
+correlation  coefficient  indicates  that  a  strong  relationship  exists  between  two  variables, 
+
+we still do not know the exact shape of the relationship between the two variables. The 
+
+correlation results were used to answer the research questions or hypotheses. 
+
+ 
+ 
+ 
+53 
+
+Table 4. 15 
+Correlation between Dependent and Independent Variables 
+
+X1  Pearson Correlation 
+Sig. (2-tailed) 
+N 
+
+X2  Pearson Correlation 
+Sig. (2-tailed) 
+N 
+
+X3  Pearson Correlation 
+Sig. (2-tailed) 
+N 
+
+X4  Pearson Correlation 
+Sig. (2-tailed) 
+N 
+
+X5  Pearson Correlation 
+Sig. (2-tailed) 
+N 
+
+X1 
+
+1 
+
+386 
+.415 
+.000  
+386 
+.057 
+.440 
+386 
+.467 
+.000 
+386 
+.399 
+.000 
+386 
+
+Correlations 
+
+X2 
+
+X3 
+
+X4 
+
+X5 
+
+1 
+
+386 
+.328 
+.000  
+386 
+.448 
+.000 
+386 
+.611 
+.000 
+386 
+
+1 
+
+386 
+.125 
+.090  
+386 
+.211 
+.004 
+386 
+
+1 
+
+386 
+.518 
+.000  
+386 
+
+1 
+
+386 
+
+. Correlation is significant at the 0.01 level (2-tailed). 
+
+Source: SPSS Data Output 
+
+Table  4.15  shows  the  correlation  matrix  between  dependent  variable  and  independent 
+
+variables,  where,  X1  =  Perceived  Risk  (Independent  variable),  X2=Social  Influence 
+
+(Independent variable), X3=Effort Expectancy (Independent variable), X4=Facilitating 
+
+Conditions (Independent variable), X5= Consumer Perception towards QR (Dependent 
+
+variable). 
+
+The  correlation  between  perceived  risk  and  consumer  perception  is  0.399.  The 
+
+corresponding p-value is 0.000 which is lower than the level of significance (α) = 0.05, 
+
+perceived  risk  has  positive  and  statistically  significant  relationship  with  consumer 
+
+perception  towards  QR  payments.  This  indicates  an  increase  in  perceived  risk  lead  to 
+
+increase in consumer perception towards QR payments. 
+
+The  correlation  between  social  influence  and  consumer  perception  is  0.611.  The 
+
+corresponding p-value is 0.000 which is lower than the level of significance (α) = 0.05, 
+
+social  influence  has  positive  and  statistically  significant  relationship  with  consumer 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+54 
+
+perception  towards  QR  payments.  This  indicates  an  increase  in  social  influence  led  to 
+
+increase in consumer perception towards QR payments 
+
+The  correlation  between  effort  expectancy  and  consumer  perception  is  0.211.  The 
+
+corresponding p-value is 0.004 which is lower than the level of significance (α) = 0.05, 
+
+effort  expectancy  has  positive  and  statistically  significant  relationship  with  consumer 
+
+perception towards QR payments. This indicates an increase in  effort expectancy led to 
+
+increase in consumer perception towards QR payments 
+
+ The  correlation  between  facilitating  conditions  and  consumer  perception  is  0.518.  The 
+
+corresponding p-value is 0.000 which is lower than the level of significance (α) = 0.05, 
+
+facilitating conditions has positive and statistically significant relationship with consumer 
+
+perception towards QR payments. This indicates an increase in facilitating conditions led 
+
+to increase in consumer perception towards QR payments 
+
+4.4 Regression Analysis 
+
+In  a  multiple  regression  study,  there  is  one  dependent  variable  and  at  least  two 
+
+independent  variables.  The  analysis  enables  you  to  find  out  some  judgments  about  the 
+
+fact  and  also  the  relative  strengths  of  the  independent  variables.  The  independent 
+
+variables  include  perceived  risk,  social  influence,  effort  expectancy  and  facilitating 
+
+conditions whereas dependent variable is customer perception towards QR payment.  
+
+4.4.1 ANOVA  
+
+Analysis of variance (ANOVA) in a multiple regression analysis is used to show whether 
+
+the model is significant or not. ANOVA helps to show whether the model that includes 
+
+different independent variable is significant or not at given level of confidence interval to 
+
+measure the dependent variable. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+55 
+
+Table 4.16  
+ANOVA 
+
+Sumof 
+Squares 
+Regression  28.678 
+
+Model 
+1 
+
+Residual 
+
+73.131 
+
+Total 
+
+101.809 
+
+Source: SPSS Data Output 
+
+df 
+4 
+
+381 
+
+386 
+
+Mean Square  F 
+7.169 
+
+17.548 
+
+Sig. 
+.000b 
+
+.409 
+
+a.  Dependent Variable: consumer perception 
+b.  Predictors:  (Constant),  facilitating  conditions,  social  influence,  effort  expectancy,  perceived 
+risk 
+Table  4.16  gives  the  description  of  ANOVA  table.  ANOVA  table  is  used  to  analyze 
+
+whether the overall model is significant and if model can be applied to the research. The 
+
+result  of  table  shows  that  p-value  is  less  than  α  i.e.,  0.000<0.05  so,  the  model  is 
+
+significant at 5% level of significance.  
+
+From the Regression ANOVA table 4.16, it can be inferred that the independent variables 
+
+perceived  risk,  social  influence,  effort  expectancy  and  facilitating  conditions  are  good 
+
+predictors  of  the  dependent  variable  consumer  perception  towards  QR  payments  at  5% 
+
+level of significance. 
+
+4.4.2 Model Summary 
+
+The model of regression analysis is used for the prediction purpose. 
+
+Table 4.17 
+Model Summary 
+
+Model  R 
+
+R Square 
+
+Adjusted 
+Square 
+
+Std. Error of the Estimate 
+
+1 
+
+.533a 
+
+.284 
+
+.268 
+
+.63810 
+
+Source: SPSS Data Output 
+
+Table 4.17 gives the overall model summary of factors influencing consumers perception 
+
+towards  QR  payments.  R-squared  (R2)  is  a  statistical  measure  that  represents  the 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+56 
+
+proportion  of  the  variance  for  a  dependent  variable  that's  explained  by  an  independent 
+
+variable or variables in  a regression model. The R-square is  the percentage of response 
+
+variable variance described by a linear regression model. R-square is always between 0% 
+
+and 100%. In general, higher the R-square better the model fits data.  
+
+Table 4.17 shows that, R-square is 0.284 which indicates that 28.4% variation consumer 
+
+perception towards QR payment is explained by perceived risk, social influence, effort 
+
+expectancy  and  facilitating  conditions.  The  remaining  71.6  percent  of  perception  is 
+
+accounted for by other factors not present in the model. The adjusted R-square of 0.268 
+
+indicates  that  after  adjusting  degree  of  freedom,  26.8%  of  the  variance  in  consumer 
+
+perception  is  explained  perceived  risk,  social  influence,  effort  expectancy  and 
+
+facilitating  conditions.  Higher  R  value  indicates  that  there  is  a  strong  positive 
+
+relationship  between  independent  variables  perceived  risk,  social  influence,  effort 
+
+expectancy and facilitating conditions and dependent consumer perception towards QR 
+
+payments.  Further,  the  standard  error  of  estimate  shows  that  the  estimated  regression 
+
+equation deviates by 0.63810 
+
+4.4.3 Coefficients of Regression Model  
+
+The coefficients of regression model show the different contributing variables to measure 
+
+the dependent variable. Different contributing variables in this study are  perceived risk, 
+
+social  influence,  effort  expectancy  and  facilitating  conditions  and  dependent  variable  is 
+
+consumer  perception.  Therefore,  coefficient  table  shows  the  p-value,  test  statistic  value 
+
+and standard error of each individual value. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+57 
+
+Table 4.18 
+Coefficients of Regression Model  
+
+Model 
+1 
+
+(Constant) 
+
+Standardized 
+Coefficients 
+Beta 
+
+t 
+6.234 
+
+p-value 
+.000 
+
+Collinearity Statistics 
+Tolerance  VIF 
+
+Perceived risk 
+
+.216 
+
+2.530 
+
+.012 
+
+.553 
+
+1.809 
+
+Social influence 
+
+-.070 
+
+-1.042 
+
+.299 
+
+.878 
+
+1.139 
+
+Effort expectancy 
+
+.327 
+
+4.311 
+
+.000 
+
+.698 
+
+1.433 
+
+Facilitating 
+conditions 
+Source: SPSS Data Output 
+
+.111 
+
+1.296 
+
+.197 
+
+.552 
+
+1.812 
+
+Positive  coefficients  indicate  positive  relationship  and  negative  coefficients  indicate 
+
+negative  relationship.  B  values  also  indicate  what  degree  each  predictor  affects  the 
+
+outcome if the effects of all other are held constant. 
+
+Regression coefficient of perceived risk in regression analysis is 0.216 means increase in 
+
+value of 1 unit of perceived risk result in 0.216 increase in unit of perception on using QR 
+
+payment. 
+
+Regression coefficient of social influence in regression analysis is -0.070 means increase 
+
+in  value  of  1  unit  in  social  influence  result  in  -0.070  decrease  in  unit  of  perception  on 
+
+using QR payment. 
+
+Regression coefficient of effort expectancy in regression analysis is 0.327 means increase 
+
+in  value  of  1  unit  in  effort  expectancy  result  in  0.327  increase  in  unit  of  perception  on 
+
+using QR payment. 
+
+Regression  coefficient  of  facilitating  conditions  in  regression  analysis  is  0.111  means 
+
+increase  in  value  of  1  unit  in  facilitating  conditions  result  in  0.111  increase  in  unit  of 
+
+perception on using QR payment. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collinearity  is  a  phenomenon  in  which  two  or  more  predictor  variables  in  a  multiple 
+
+regression model are highly correlated, meaning that one can be linearly predicted from 
+
+the  others  with  a  substantial  degree  of  accuracy.  In  the  given  model,  the  VIF  of  all 
+
+independent  variables  is  less  than  3,  so  there  exists  no  multicollinearity  between 
+
+58 
+
+independent variables. 
+
+Table 4.19 
+Summary Result of Hypothesis Testing 
+
+Hypothesis 
+
+P value 
+
+Remarks 
+
+H1:  There  is  significant  relationship  between 
+perceived  risk  and  perception  on  using  QR 
+payment  
+
+0.012 
+
+Accept 
+
+H2:  There  is  significant  relationship  between 
+social  influence  and  perception  on  using  QR 
+payment  
+
+0.299 
+
+Reject 
+
+H3:  There  is  significant  relationship  between 
+effort  expectancy  and  perception  on  using  QR   
+payment                                                                                 
+
+0.000 
+
+Accept                                    
+
+H4:  There  is  significant  relationship  between 
+facilitating  conditions  and  perception  on  using 
+QR payment  
+Source: SPSS Data Output 
+H1:  There  is  significant  relationship  between  perceived  risk  and  perception  on 
+
+Reject 
+
+0.197 
+
+using QR payment. 
+
+As  shown  in  Table  4-19  there  is  significant  relationship  between  perceived  risk  and 
+
+perception on using QR payment as P (0.012) < 0.05 and the H1 is accepted. Therefore, 
+
+there  is  significant  relationship  between  perceived  risk  and  perception  on  using  QR 
+
+payment. 
+
+H2:  There  is  significant  relationship  between  social  influence  and  perception  on  using 
+
+QR payment. 
+
+As shown in Table 4-19 there is no significant relationship between social influence and 
+
+perception on using QR payment as P (0.299)> 0.05 and the H2 is rejected. Therefore, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+59 
+
+there is no significant relationship between social influence and perception on using QR 
+
+payment. 
+
+H3: There is significant relationship between effort expectancy and perception on using 
+
+QR payment. 
+
+As shown in Table 4-19 there is no significant relationship between social influence and 
+
+perception on using QR payment as P (0.000) < 0.05 and the H3 is accepted. Therefore, 
+
+there is significant relationship between effort expectancy and perception on using QR 
+
+payment. 
+
+H4:  There  is  significant  relationship  between  facilitating  conditions  and  perception  on 
+
+using QR payment. 
+
+As  shown  in  Table  4-19  there  is  no  significant  relationship  between  facilitating 
+
+conditions  and  perception  on  using  QR  payment  as  P  (0.197)>0.05  and  the  H4  is 
+
+rejected.  Therefore,  there  is  no  significant  relationship  between  facilitating  conditions 
+
+and perception on using QR payment. 
+
+4.5 Discussion 
+
+The  basic  objective  of  this  research  study  and  scientific  research  works  was  intended 
+
+towards knowing the consumer perception in QR payment. In order to do so, few basic 
+
+and  important  variables  were  derived  from  the  thorough  and  in-depth  review  of  the 
+
+literature. Five demographic factors viz. gender, age, education, occupation and income 
+
+and  four  factors  related  to  customer  perception  towards  QR  payment  in  the  form  of 
+
+perceived  risk,  social  influence,  effort  expectancy  and  facilitating  conditions  were 
+
+examined to  assess the relationship  between  consumer perception towards QR payment 
+
+and these important independent variables. 
+
+Previous  empirical  research  had  proven  that  perceived  risk  negatively  influences 
+
+behavioral intention to use mobile banking Liao et al. (2011). Chen (2013); Martins et al. 
+
+(2014);  Nguyen  and  Nguyen  (2017);  Yang  et  al.  (2015).  Moreover,  numbers  of 
+
+researchers  support  those  five  sub-constructs  presented  in  this  research  were  negatively 
+
+significant on behavioral intention to adopt mobile banking and mobile payment context. 
+
+( Panupong & Rawin, 2021) 
+
+ 
+ 
+ 
+60 
+
+The  study  of  this  research  has  supported  two  variables  perceived  risk  and  effort 
+
+expectancy which have significant impact on consumer perception towards QR payment. 
+
+However, this research has not supported to the other 2 variable i.e., social influence and 
+
+facilitating  conditions.  This  research  has  supported  to  the  research  conducted  by  Teo. 
+
+Teo, et al. used Unified Theory of Acceptance and Use of Technology (UTAUT) model 
+
+to  predict  m-payment  behavioral  intention  among  university  students.  They  discovered 
+
+that  effort  expectancy  and  facilitating  conditions  influence  customers‘  behavioral 
+
+intention  to  use  m-payment,  while  social  influence  and  performance  expectancy  do  not 
+
+have significant impact to behavioral intention. (Dawi, 2019) 
+
+The  significant  influence  of  perceived  risk  on  consumer  perception  underscores  the 
+
+importance  of  addressing  security  and  trust  issues  associated  with  QR  payment.  This 
+
+finding aligns with prior research (Ho et al., 2013), emphasizing the need for robust  
+
+The  study's  revelation  of  a  non-significant  relationship  between  social  influence  and 
+
+consumer perception suggests that individual attitudes towards QR payment may not be 
+
+strongly influenced by social factors. This contrasts with findings by Jung et al. (2012), 
+
+indicating that personal motivations play a more substantial role in QR code adoption. 
+
+The high mean value for effort expectancy highlights its dominance in shaping consumer 
+
+perception. This aligns with the literature (Kadry, 2021), emphasizing the pivotal role of 
+
+user-friendliness and ease of use in driving the adoption of digital payment methods. 
+
+Surprisingly,  facilitating  conditions  did  not  exhibit  a  significant  impact  on  consumer 
+
+perception.  This  challenges  the  conventional  belief  that  a  supportive  environment, 
+
+including  infrastructure  and  regulatory  frameworks,  significantly  influences  technology 
+
+adoption  (Venkatesh,  2000).  Further  exploration  is  needed  to  understand  this  nuanced 
+
+relationship. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+61 
+
+CHAPTER V 
+
+SUMMARY AND CONCLUSION 
+
+This chapter gives a brief overview of findings and conclusion of the study. It also draws 
+
+inferences from the findings which lead to make generalizations. There are three sections 
+
+in this chapter consisting summary of the findings in first section, conclusion of the study 
+
+in second section and suggestion for further study in third section.  
+
+5.1 Summary  
+
+The research on consumer perception towards Quick  Response  (QR) payment in  Nepal 
+
+holds substantial significance in the current context, aligning with the government's push 
+
+towards a cashless  economy. The study's conceptual framework, built upon a review of 
+
+relevant  literature,  investigates  the  direct  impact  of  independent  variables  such  as 
+
+perceived  risk,  social  influence,  facilitating  conditions,  and  effort  expectancy  on 
+
+consumer perception towards QR payment. 
+
+Structured  questionnaires  were  administered  to  respondents  aged  16  to  46  and  above, 
+
+employing convenience sampling to gather opinions from 386 participants. The findings 
+
+revealed  that  among  the  four  variables,  only  perceived  risk  exhibited  a  significant 
+
+relationship  with  consumer  perception  towards  QR  payment.  Conversely,  social 
+
+influence,  effort  expectancy,  and  facilitating  conditions  did  not  show  a  significant 
+
+correlation. 
+
+Demographic  characteristics  of  the  respondents,  including  age,  gender,  education  level, 
+
+profession,  and  income,  were  analyzed.  The  majority  fell  within  the  26-34  age  group, 
+
+with diverse educational backgrounds and varied professional occupations. Notably, 386 
+
+respondents  used  QR  payments,  with  preferences  for  entertainment,  fund  transfer, 
+
+merchant payments, online shopping, and utility bill payments. 
+
+The  study  employed  descriptive  statistics  to  highlight  mean  values  and  standard 
+
+deviations  of  variables.  Perceived  risk,  effort  expectancy,  and  facilitating  conditions 
+
+exhibited mean values above 3.5, indicating a positive inclination towards QR payment. 
+
+ 
+ 
+ 
+62 
+
+Effort  expectancy  had  the  highest  mean  value,  while  social  influence  had  the  lowest, 
+
+suggesting disagreement among respondents regarding social influence statements. 
+
+Inferential  statistics,  particularly  ANOVA,  demonstrated  that  independent  variables 
+
+collectively explained 26.8% of the variation in QR payment. Hypothesis testing affirmed 
+
+the  significant  impact  of  perceived  risk  and  effort  expectancy  on  consumer  perception, 
+
+while social influence and facilitating conditions had no significant influence. 
+
+The study provides valuable insights into the dynamics of consumer perception towards 
+
+QR  payment  in  Nepal.  It  emphasizes  the  need  for  targeted  interventions  to  address 
+
+perceived risk concerns and enhance positive consumer attitudes. The findings contribute 
+
+to  the  ongoing  discourse  on  digital  financial  inclusion  and  may  guide  policymakers, 
+
+financial  institutions,  and  technology  developers  in  fostering  a  conducive  environment 
+
+for QR payment adoption. 
+
+5.2 Conclusion  
+
+In  conclusion,  the  research  on  consumer  perception  towards  Quick  Response  (QR) 
+
+payment  in  Nepal  provides  valuable  insights  into  the  dynamics  of  digital  payment 
+
+adoption in the context of a developing economy. The study, guided by variables such as 
+
+perceived risk, social influence, facilitating conditions, and effort expectancy, highlights 
+
+key considerations for stakeholders in the financial sector and policymakers. 
+
+The  analysis  of  the  demographic  profile  of  respondents  indicates  a  diverse  participant 
+
+base,  encompassing  various  age  groups,  educational  backgrounds,  professions,  and 
+
+income  levels.  This  diversity  emphasizes  the  widespread  usage  of  QR  payments  across 
+
+different  segments of the population.  The findings underscore the  growing relevance of 
+
+digital payment methods and the need to tailor strategies to cater to the varied needs and 
+
+preferences  of  consumers.  Effort  expectancy  emerges  as  a  critical  factor  influencing 
+
+consumer  perception  towards  QR  payments.  The  positive  inclination  towards  the  ease 
+
+and convenience offered by QR payment  methods suggests that user-friendly interfaces 
+
+and  seamless  transactions  contribute  significantly  to  the  adoption  of  digital  payment 
+
+solutions. Policymakers and financial institutions can leverage these insights to focus on 
+
+ 
+ 
+ 
+63 
+
+enhancing  the  user  experience  and  simplifying  the  processes  associated  with  QR 
+
+payments. 
+
+Perceived risk, another  vital  variable in  the study, demonstrates  a significant  impact  on 
+
+consumer perception. Addressing concerns related to security, privacy, and trust is crucial 
+
+for  fostering  a  favorable  environment  for  QR  payment  adoption.  Initiatives  aimed  at 
+
+building trust, ensuring data security, and increasing awareness about the safety of digital 
+
+transactions can contribute to overcoming perceived risks associated with QR payments. 
+
+However,  the  study  indicates  that  social  influence  and  facilitating  conditions  did  not 
+
+emerge  as  significant  factors  influencing  consumer  perception  towards  QR  payments. 
+
+This  suggests  that,  while  individual  perceptions  and  ease  of  use  are  critical,  external 
+
+social  factors  and  the  overall  environment  may  not  play  as  prominent  a  role  in 
+
+influencing consumer attitudes towards QR payments in the Nepalese context. 
+
+In  summary,  as  Nepal  advances  towards  a  cashless  economy,  understanding  and 
+
+addressing consumer perceptions are paramount. The study provides actionable insights 
+
+for  policymakers,  financial  institutions,  and  technology  developers  to  refine  strategies, 
+
+improve  the  user  experience,  and  build  trust,  ultimately  contributing  to  the  successful 
+
+integration of QR payments into the financial landscape of Nepal. 
+
+5.3 Implication 
+
+The  implications  of  the  study  on  consumer  perception  towards  Quick  Response  (QR) 
+
+payment  in  Nepal  carry  significance  for  various  stakeholders,  including  policymakers, 
+
+financial  institutions,  researchers,  and  technology  developers.  Additionally,  the  study 
+
+points towards potential avenues for future research in the evolving landscape of digital 
+
+payments. 
+
+  The  study  underscores  the  importance  of  addressing  perceived  risks  associated 
+
+with  QR  payments.  Policymakers  can  formulate  regulations  and  initiatives 
+
+focused  on  enhancing  the  security  and  privacy  of  digital  transactions.  Clear  and 
+
+ 
+ 
+ 
+ 
+ 
+ 
+64 
+
+transparent policies will contribute to building trust among users, fostering wider 
+
+acceptance of QR payments. 
+
+  Effort  expectancy  emerges  as  a  critical  factor  influencing  consumer  perception. 
+
+Financial  institutions  and  technology  developers  should  prioritize  improving  the 
+
+user  experience  of  QR  payment  platforms.  User-friendly  interfaces,  streamlined 
+
+processes, and responsive customer support can enhance the overall usability and 
+
+attractiveness of QR payment solutions. 
+
+  As  the  study  reveals  diverse  user  demographics,  educational  campaigns  become 
+
+crucial. Initiatives aimed at educating users about the benefits, security measures, 
+
+and convenience of QR payments can play a pivotal role in increasing adoption. 
+
+This  is  particularly  important  for  reaching  segments  of  the  population  with 
+
+varying educational backgrounds. 
+
+  Financial institutions can tailor their marketing strategies based on the identified 
+
+preferences  and  purposes  for  QR  payments.  Targeted  campaigns  emphasizing 
+
+specific  use  cases,  such  as  fund  transfers,  utility  bill  payments,  or  merchant 
+
+payments, can align with consumer preferences and encourage adoption. 
+
+  Future  researchers  could  delve  into  the  cultural  nuances  that  might  impact 
+
+consumer perceptions towards digital payments in Nepal. Understanding cultural 
+
+factors and preferences could provide insights into tailoring strategies for different 
+
+regions and communities. 
+
+  Conducting longitudinal studies can offer a deeper understanding of the evolving 
+
+nature  of  consumer  perceptions  over  time.  Tracking  changes  in  attitudes, 
+
+preferences,  and  adoption  rates  will  provide  valuable 
+
+insights 
+
+into 
+
+the 
+
+sustainability and long-term impact of QR payments. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+65 
+
+  Comparative  studies  across  different  countries  or  regions  with  varying  levels  of 
+
+digital payment adoption could offer a broader perspective. Analyzing similarities 
+
+and  differences  in  consumer  perceptions  can  inform  global  best  practices  and 
+
+strategies for promoting digital payments. 
+
+  Given  the  rapid  advancements  in  technology,  future  research  can  focus  on 
+
+emerging  trends  and  innovations  in  digital  payment  technologies.  Exploring  the 
+
+impact  of  new  features,  security  measures,  and  interfaces  on  consumer 
+
+perceptions will be essential in guiding the development of cutting-edge payment 
+
+solutions. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+66 
+
+References 
+
+Agarwal,  R.,  &  Prasad,  J.  (1998).  A  conceptual  and  operational  definition  of  personal 
+
+innovativeness in the domain of information technology. Information Systems 
+
+Research, 9(2), 204-215. 
+
+Ahmed,  M.,  &  Alam,  D.  (2017).  QR  Codes  Awareness  from  a  Developing  Country 
+
+Perspective.  International  Review  of  Management  and  Business  Research, 
+
+6(4), 1367-1370. 
+
+Ajzen, I., & Fishbein, M. (2000, January). Understanding Attitudes and Predicting Social 
+
+Behavior. European Review of Social Psychology 11(1), 1-33. 
+
+Almehairi, M., & Bhatti, T. (2014). Adoption of Virtual Shopping: Using Smart Phones 
+
+and QR Codes. Journal of Management and Marketing Research, 1(7), 1-12. 
+
+Amoroso, D. L., & Lim, R. A. (2015). Exploring the personal innovativeness construct: 
+
+the  roles  of  ease  of  use,  satisfaction,  and  attitudes.  Asia  Pacific  Journal  of 
+
+Information Systems, 25(4), 662-685. 
+
+AniKarniawati, N. P., Darma, G. S., Mahyuni, L. P., & Sanica, I. G. (2021). Community 
+
+Perception  of  Using  QR  Code  Payment  in  the  Era  of  the  New  Normal. 
+
+Palarch’s Journal Of Archaeology Of Egypt/Egyptology, 18, 3986-3999. 
+
+Aydin,  G.,  &  Bumaz,  S.  (2016).  Adoption  of  Mobile  Payment  Systems:  A  Study  on 
+
+Mobile Wallets. Journal of Business, Economic and Finance, 5(1), 73-74. 
+
+Bamoriya, H. (2014). QR code-based marketing in India and Japan. Singidunum Journal 
+
+of Applied Sciences, 11(2), 20-29. 
+
+Benbasat,  I.,  &  Barki,  H.  (2007).  "Quo  vadis,  TAM?".  Journal  of  the  Association  for 
+
+Information Systems, 12(1), 211–218. 
+
+Bernstein, D. (2010). Essentials of Psychology (5th ed., Vol. 5). 
+
+Bryman,  A.,  &  Bell,  E.  (2003).  Business  Research  Methods.  New  York:  Oxford 
+
+University Press. 
+
+Cabanillas,  F.,  Luna,  J.,  &  Rios,  J.  (2015).  Security  concerns  in  mobile  payment:  An 
+
+analysis of QR code-based transactions. Electronic Commerce Research 
+
+and Applications, 14(3), 150-160. 
+
+ 
+ 
+ 
+ 
+67 
+
+Calvello,  M.  (2019,  June  11).  Learn  Hub.  Retrieved  from  LearnHub  Website: 
+
+https://learn.g2.com/what-is-information-technology 
+
+Chaveesuk,  S.,  &  Piyawat  N.  (2021).  Use  of  QR  code  technology  in  eastern  Thailand: 
+
+Entrepreneurship Perspective. Utopía y Praxis Latinoamericana. 
+
+Chuttur,  M.  (2009).  Overview  of  the  Technology  Acceptance  Model:  Origins, 
+
+Developments  and  Future  Directions.  Indiana  University,  USA:  Sprouts: 
+
+Working Papers on Information Systems. 
+
+Cox, S., & Shiffler, R. (2014). Extent of QR Code Adoption by Consumers. International 
+
+Journal of Business, Humanities and Technology, 4(6). 18-36. 
+
+Creswell,  J.  (2009).  Research  Design:  Qualitative,  Quantitative,  and  Mixed  Methods 
+
+Approaches (3rd ed.). CA: Sage Publications. 
+
+Daniel, E. (1999). Provision of Electronic Banking in the UK and the Republic of Ireland. 
+
+International Journal of Marketing, 3(1), 72-82. 
+
+Dawi,  N.  M.  (July  2019).  Factors  Influencing  Consumers'  Intention  to  Use  QR  Code 
+
+Mobile  Payments. 
+
+International  Journal  of  Recent  Technology  and 
+
+Engineering, 8(2S), 2277-3878. 
+
+De,  E.,  &  Bono.  (2023).  Perception  is  real  even  when  it  is  not  reality.  Retrieved  from 
+
+https://clootrack.com/ 
+
+Demir, S., Kaynak, R., & Alpaslan, K. (2015, May 11). Usage Level and Future Intent of 
+
+Use  of  Quick  Response  (QR)  Codes  for  Mobile  Marketing  among  College 
+
+Students 
+
+in 
+
+Turkey. 
+
+Retrieved 
+
+from 
+
+www.sciencedirect.com: 
+
+https://www.sciencedirect.com/science/article/pii/S1877042815031961 
+
+Dhital,  B.  (2021,  December  19).  Adoption  of  Digital  Payment  in  Nepal:  An  Overview. 
+
+Retrieved 
+
+from 
+
+https://blog.khalti.com: 
+
+https://blog.khalti.com/fintech-
+
+trends/adoption-of-digital-payment-in-nepal-an-overview/ 
+
+Ertekin, S., & Pelton, L. E. (2014). An empirical study of consumer motivations to use 
+
+QR codes on magazine ads. American International Journal of Contemporary 
+
+Research, 4(5), 47-55. 
+
+Evans,  M.  (2014).  Leveraging  Consumer  Loyalty  to  Drive  Mobile  Payments  Adoption. 
+
+Euromonitor International. Retrieved from  
+
+ 
+ 
+ 
+68 
+
+https://www.pymnts.com/assets/Uploads/pdf/Leveraging-Consumer-Loyalty-
+
+toDrive-Mobile-Payments-Adoption.pdf 
+
+Eyuboglu, K., & Sevim, U. (2016). Determinants Of Consumers Adoption To Shopping 
+
+With Qr Code In Turkey. Journal of International Social Research, 9(43). 22-
+
+36 
+
+Fechner, T., & Gustav, R. (3860). Gustav Theodor Fechner. Elemente der Psychophysik 
+
+(6 ed., Vol. 6). Leipzig. 
+
+Fox, A. (2019, July 19).  The Anatomy of  a QR  Code: How QR Codes  Work. Retrieved 
+
+from www.maketecheasier.com 
+
+Fox, D. (2019). Revolutionary QR Code error correction: All you need to know. Scanova. 
+
+Retrieved 
+
+from 
+
+[https://www.scanova.io/blog/revolutionary-qr-code-
+
+error-correction](https://www.scanova.io/blog/revolutionary-qr-code-
+
+error-correction). 
+
+Gates, R. (1995). The Road Ahead. 1840-1975. London, Viking Penguin. 
+
+Goldstein. (2009). Sensation and Perception (8 ed.). Cengage Learning. 
+
+Gonzalez,  M.  (2008,  January).  An  Alternative  Approach  in  Service  Quality:  An  E-
+
+Banking Case Study. Quality Management, 15(1), 41-59. 
+
+Gordon, W., & Langmaid, R. (1988). Qualitative Market Research: A Practitioner's and 
+
+Buyer's Guide. Wisconsin: Gower. 
+
+Grauer, M. (2001). Information Technology. International Encyclopedia of the Social & 
+
+Behavioral Sciences, 12(1), 7473-7476. 
+
+Gregory, R. (1987). "Perception" in Gregory. Zangwill, 3(1), 598–601. 
+
+Hossain, S. M., Zhou, X., & Rahman, F. M. (2018, November 29). Examining the impact 
+
+of QR codes on purchase intention and customer satisfaction on the basis of 
+
+perceived flow. Retrieved from journals.sagepub.com 
+
+Hsieh,  P.  J.  (2014).  Understanding  perceived  risk  in  online  shopping.  Journal  of 
+
+Consumer 
+
+Research, 
+
+41(2), 
+
+393-402. 
+
+Retrieved 
+
+from 
+
+[https://www.journals.uchicago.edu/jcr/perceived-
+
+risk](https://www.journals.uchicago.edu/jcr/perceived-risk) 
+
+ 
+ 
+ 
+ 
+69 
+
+Humbani,  M., & Wiese, M. (2018). Consumer perceptions  of mobile payment security: 
+
+The  case  of  QR  code  transactions.  Journal  of  Retailing  and  Consumer 
+
+Services, 40, 135-143. 
+
+Hussey,  J.,  &  Hussey,  R.  (1997).  Business  Research:  A  Practical  Guide  for 
+
+Undergraduate and Postgraduate Students. London: Macmillan Press. 
+
+IGI  Global.  (2023).  Retrieved  from  https://www.igi-global.com/dictionary/perceived-
+
+risk/22304 
+
+Jung, J. H., Somerstein, R., & Kwon, E. S. (2012). Should I scan or should I go? Young 
+
+consumers'  motivations  for  scanning  QR  code  advertising.  International 
+
+Journal of Mobile Marketing, 7(3). 
+
+Jung,  J.,  Somerstein,  R.,  &  Kwon,  E.  (2012).  The  role  of  QR  codes  in  consumer 
+
+advertising:  Functions  and  effectiveness.  Journal  of  Advertising 
+
+Research, 52(4), 455-468. 
+
+Kadry,  S.  (2021).  On  The  Evolution  Of  Information  Systems.  Kuwait:  American 
+
+University of the Middle East. 
+
+Keil, M., Beranek, P. M., & Konsynski, B. R. (1995). "Usefulness and ease of use: field 
+
+study  evidence  regarding  task  considerations",  Decision  Support  Systems. 
+
+Decision Support Systems, 13(1), 75–91. 
+
+Kim, Y. J., & Han, J. (2014). Why smartphone advertising attracts customers: A model of 
+
+Web  advertising,  flow,  and  personalization.  Computers  in  Human  Behavior, 
+
+33, 256-269. 
+
+Kokku,  R.  (2021).  Customer  Response  towards  QR  Codes  Used  in  Marketing:  An 
+
+African Perspective. International Journal of Business and Management, 16, 
+
+234-265 
+
+Lo,  H.  (2015).  Quick  response  codes  around  us:  Personality  traits,  attitudes  toward 
+
+innovation,  and  acceptance  Quick  Response  Codes  Around  Us:  Personality 
+
+Traits, Attitudes Toward Innovation, and Acceptance. February 2014. 
+
+Lubua, E. W., & Pretorius, P. D. (2018). Error-free financial transactions and consumer 
+
+adoption of mobile  payments.  Journal of  Financial Services  Marketing, 
+
+23(1), 78-88. 
+
+ 
+ 
+ 
+70 
+
+Lunceford,  B. 
+
+(2009).  "Reconsidering  Technology  Adoption  and  Resistance: 
+
+Observations  of  a  Semi-Luddite".  Explorations  in  Media  Ecology,  8(1),  29–
+
+47. 
+
+Marikyan,  D.,  &  Papagiannidis,  S. 
+
+(2023).  Retrieved 
+
+from  Theory  Hub: 
+
+https://open.ncl.ac.uk/ 
+
+Masahiro,  H.  (2019).  How  QR  Code®  works.  Explain  That  Stuff.  Retrieved  from 
+
+[http://www.explainthatstuff.com/howqrcodeswork.html](http://www.ex
+
+plainthatstuff.com/howqrcodeswork.html). 
+
+Masahiro,  H. 
+
+(2019).  Retrieved 
+
+from 
+
+https://www.qrcode.com/en/history/: 
+
+https://www.qrcode.com/en/history/ 
+
+McKenna, Jeff & Sage, Jennifer (2012). "9 Things to Know About Consumer Behavior 
+
+and QR Codes", CMB Consumer Pulse, pp. 1-16. 
+
+Moore,  G.  C.,  &  Benbasat,  I.  (1991).  Development  of  an  Instrument  to  Measure  the 
+
+Perceptions of Adopting an Information Technology Innovation. Information 
+
+Systems Research, 192-222. 
+
+Moutinho,  L.,  &  Smith,  A.  (2000).  Modelling  bank  customer  satisfaction  through 
+
+mediation  of  attitudes  towards  human  and  automated  banking.  International 
+
+Journal of Bank Marketing, 20(1), 124-134. 
+
+Mun,  Y.  P.,  Khalid,  H.,  &  Nadarajah,  D.  (2017).  Millennials‘  perception  on  mobile 
+
+payment services in Malaysia. Procedia Computer Science, 124, 397-404. 
+
+Muniruddeen, L. (2007). An Examination of Individual's Perceived Security and Privacy 
+
+of the Internet in Malaysia and the Influence of This on Their Intention to Use 
+
+E-Commerce:  Using  An  Extension  of  the  Technology  Acceptance  Model. 
+
+Journal of Internet Banking and Commerce, 12(3), 234-256. 
+
+Olumoye, M. Y. (2013,  October). The Significance of  Information and Communication 
+
+Technology  (ICT)  in  the  development  of  banking  Industry.  International 
+
+Journal of Engineering Research & Technology (IJERT), 2(10), 3395-3403. 
+
+Ozkaya, E., Ozkaya, H. E., Roxas, J., Bryant, F., & Whitson, D. (2015). Factors affecting 
+
+consumer usage of QR codes. Journal of Direct, Data and Digital Marketing 
+
+Practice, 16(3), 209-224. 
+
+ 
+ 
+ 
+71 
+
+Panupong, A., & Rawin, F. (2021). An Investigation of Behavioral Intention Towards QR 
+
+Code  Payment  in  Bangkok,  Thailand.  The  Journal  of  Asian  Finance, 
+
+Economics and Business, 8(1), 939-950. 
+
+Pomerantz, J. (2003). "Perception: Overview". In Encyclopedia of Cognitive Science (pp. 
+
+527–537.). London: Nature Publishing Group. 
+
+Putera,  K.,  &  Nilo.  (2021).  Factors  Affecting  Consumer  Intention  on  QR  Payment  of 
+
+Mobile  Banking:  A  Case  Study  in  Indonesia.  The  Journal  of  Asian  Finance, 
+
+Economics  and  Business,  8,  0391-0405.  Retrieved  from  koreascience: 
+
+https://www.koreascience.or.kr/article/JAKO202112748675015.page 
+
+Quresh,  S.,  &  Davis,  A.  (2007).  Overcoming  the  Digital  Divide  through  Electronic 
+
+Commerce:  Harnessing  Opportunities  in  IT  for  Development.  40th  Hawaii 
+
+International Conference on System Sciences, Hawaii. 
+
+Rahimi.  (2018).  A  Systematic  Review  of  the  Technology  Acceptance  Model  in  Health 
+
+Informatics. Health Informatics, 604-634. 
+
+Rogers, E. M. (2004). Diffusion of Innovations (Vol. 5). New York: Free Press. 
+
+Sago, B. (2011). The Usage Level and Effectiveness of Quick Response (QR) Codes for 
+
+Integrated  Marketing  Communication  Purposes  among  College  Students. 
+
+International  Journal  of  Integrated  Marketing  Communications,  3(2).  812-
+
+840 
+
+Schacter, R., & Daniel, A. (2011). Psychology. Worth Publishers. 
+
+Siali,  F.,  Hajazi,  M.  A.,  Chan,  S.  S.,  Ya‘kob,  S.  A.,  &  Latip,  H.  A.  (2021).  Usage 
+
+Intention  of  Qr  Mobile  Payment  System  Among  Millennials  in  Malaysia. 
+
+International Journal of Academic Research in Business and Social Sciences, 
+
+1(1), 645-661. 
+
+Singh,  R.,  &  Bamoriya,  H.  (2013).  The  influence  of  QR  codes  on  consumer  behavior 
+
+with sales promotions. International Journal of Marketing Studies, 5(2), 
+
+116-124. 
+
+Slyter,  K.  (2019).  Rassmussen  University.  Retrieved  from  Rassmussen  University 
+
+Website: 
+
+https://www.rasmussen.edu/degrees/technology/blog/what-is-
+
+information-technology/. 
+
+ 
+ 
+ 
+72 
+
+Smith,  J.  R.,  &  Schultz,  P.  W.  (2011,  September).  Introduction:  Social  influence  in 
+
+action. Retrieved from http://www.researchgate.net. 
+
+Sthapit, A., & Bajracharya, N. (2019, June). Customer Perception towards Adoption of e-
+
+banking  Services  in  Kathmandu:  A  Survey  of  Business  School  Students. 
+
+Journal of Business and Social Sciences Research, 4(1), 13-26. 
+
+Stokdyk, D. (2019, September 29). Southern New Hampshire University. Retrieved from 
+
+Southern  New  Hampshire  University  website:  https://www.snhu.edu/about-
+
+us/newsroom/2018/07/what-is-information-technology. 
+
+Surendran,  P.  (2012).  Technology  Acceptance  Model:  A  Survey  of  Literature.  Bahrain: 
+
+AMA International University. 
+
+Taylor, S., & Todd, P. A. (1995). Understanding Information Technology Usage: A test 
+
+of Competing models. Information System Research. 
+
+Thu Ngo, T. K., & Nguyen, H. T. (2020). The intention to use QR code payment in an 
+
+emerging  market  –  the  role  of  "Attitude'  as  Mediator.  Psychology  and 
+
+Education, 58, 3440-3454. 
+
+Timothy,  A.  (2012).  Electronic  Banking  Services  and  Customer  Satisfaction  in  the 
+
+Nigerian  Banking 
+
+Industry. 
+
+International  Journal  of  Business  and 
+
+Management, 2(1), 1-8. 
+
+Vall, M. (2022). The impact of QR codes on customer experience. Tech Trends Journal, 
+
+24(3), 45-52.  
+
+Venktesh, V. (2000). Determinants of perceived ease of use: Integrating control, intrinsic 
+
+motivation,  and  emotion  into  the  technology  acceptance  model.  Information 
+
+Systems Research, 342-365. 
+
+Wolf,  J.,  &  Wolf,  S.  (2014).  The  impact  of  affective  attitudes  generated  through 
+
+information  on  consumer  behavior  using  AD  QR  codes.  Journal  of 
+
+Digital Marketing, 29(3), 215-230. 
+
+Workman,  M.  (2007).  "Advancements  in  technology:  New  opportunities  to  investigate 
+
+factors  contributing 
+
+to  differential 
+
+technology  and 
+
+information  use. 
+
+International Journal of Management and Decision Making, 6(1), 318–342. 
+
+Yang,  S.,  Lu,  Y.,  Gupta,  S.,  Cao,  Y.,  &  Zhang,  R.  (2012).  Mobile  payment  services 
+
+adoption across time: An empirical study of the effects of behavioral beliefs, 
+
+ 
+ 
+ 
+73 
+
+social  influences,  and  personal  traits.  Computers  in  Human  Behavior,  28(1), 
+
+129-142. 
+
+Zarmpou,  T.,  Saprikis,  V.,  Markos,  A.,  &  Vlachopoulou,  M.  (2012).  Modeling  users‘ 
+
+acceptance  of  mobile  services.  Electronic  Commerce  Research,  12(2),  225-
+
+248. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE 
+
+74 
+
+Dear respondent, 
+
+I,  Nayaran  Prasad  Sharma,  a  student  of  Master  of  Business  Studies  (MBS)  at  Shanker 
+
+Dev  Campus  have  taken  a  research  study  on  "A  STUDY  ON  CONSUMERS 
+
+PERCEPTION TOWARDS QR PAYMENTS" as part of my requirement for the partial 
+
+fulfillment of my MBS degree at Tribhuvan University. 
+
+With regard to this, I would like you to contribute few minutes of your valuable time and 
+
+kindly  fill  in  the  following  questions.  I  would  be  thankful  to  you  all  for  your  kind 
+
+cooperation  for  providing  valuable  information.  All  the  information  received  is  strictly 
+
+for academic purpose and will be treated confidentially. Thank you for your support. 
+
+1.  Age: 
+
+  18-30 
+  31-50 
+  51or above 
+
+2.  Gender 
+
+  Male 
+  Female 
+  Others 
+
+3.  Education: 
+
+  10+2 or below high school 
+  Bachelor Degree 
+ 
+
+ Master Degree or above 
+
+4.  Occupation:  
+  Student 
+  Employee 
+  Self Employed  
+  House Wife 
+  Other 
+
+5.  Income 
+
+  Below 30,000 
+  Rs 30000 – 60000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+75 
+
+  Rs 60,000 – 90,000  
+  Above 1,00,000  
+
+6.  Have you ever used QR Payment?  
+
+  Yes 
+  No 
+
+7.  If yes, which of the following mode of QR do you use often?? 
+
+  Fonepay 
+  Esewa 
+  Khalti 
+  PrabhuPay 
+  ImePay 
+  ConnectIPS 
+  Others 
+
+8.  How frequently do you use QR? 
+
+  Daily 
+  Weekly 
+  Monthly 
+  Yearly 
+
+9.  What is your main purpose of using QR? 
+
+  Utilities Bill Payment 
+  Fund Transfer 
+  Merchant Payment 
+  Online Shopping Payment 
+  Entertainment 
+  Others 
+
+10. Factor 1:  Consumers’ perception towards QR Payment 
+
+Strongly 
+disagree 
+
+Disagree 
+
+Neutral  Agree  Strongly 
+
+Agree 
+
+Statement 
+
+(Rahimi, 2018) 
+
+QR payment system is 
+better than traditional 
+payment channels 
+
+QR payment system is 
+much more efficient than 
+traditional payment 
+channels 
+
+I will choose the trusted 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+76 
+
+QR payment system to 
+make transactions 
+
+I feel that a user-friendly 
+QR payment system will 
+influence me to adopt the 
+system 
+
+11. Factor 2:  Perceived Risk  
+
+Statement 
+
+Strongly 
+disagree 
+
+Disagree 
+
+Neutral  Agree 
+
+Strongly 
+Agree 
+
+QR payment methods have 
+sufficient security controls 
+to maintain data 
+confidentiality and prevent 
+fraud/ 
+
+QR payment is more 
+secure than other payment 
+
+The risk of abuse of usage 
+information (e.g., names of 
+business partners, payment 
+amount) is low when using 
+QR payment services 
+
+There is less risk involved 
+in using QR payment 
+compared to card payment 
+
+12. Factor 3:  Social Influence 
+
+Statement 
+
+Strongly 
+disagree 
+
+Disagree 
+
+Neutral  Agree 
+
+Strongly 
+Agree 
+
+I am using QR payments 
+because my family, friends 
+and so on uses it. 
+
+I am using QR payments 
+because whenever I am in a 
+cash counter, merchant ask 
+me to scan the code. 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+77 
+
+I am using QR payments as 
+it is in a trend nowadays. 
+
+I am using QR because 
+society judge me if I pay 
+with cash. 
+
+Using QR payment will 
+make me superior in my 
+peer. 
+
+13. Factor 4: Effort Expectancy 
+
+Statement 
+
+Strongly 
+disagree 
+
+Disagree 
+
+Neutral  Agree 
+
+Strongly 
+Agree 
+
+There are few steps required 
+to complete the transaction 
+
+It is easier to use QR 
+payment than Cash/Card 
+payment 
+
+The interaction with QR 
+payment services is clear 
+and understandable 
+
+Using QR payment will 
+save me time 
+
+14. Factor 5: Facilitating Conditions 
+
+ Statement 
+
+Strongly 
+disagree 
+
+Disagree 
+
+Neutral  Agree  Strongly 
+
+Agree 
+
+I feel that a user-friendly 
+QR payment system will 
+influence me to adopt the 
+system 
+
+I will choose QR payment 
+method which is user 
+friendly 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78 
+
+I feel that QR payment 
+platforms collect and treat 
+my personal information 
+confidentially 
+
+I feel that QR payment 
+method I use is secure 
+
+Thank you! 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6/2/24, 2:00 PM
+
+Summary Report
+
+CONSUMER PERCEPTION TOWARDS QUICK RESPONSE PAYM...
+By: Narayan Prasad Sharma
+
+As of: Jun 2, 2024 1:57:45 PM
+17,462 words - 52 matches - 9 sources
+
+Similarity Index
+
+6%
+
+Mode:  Summary Report
+
+sources:
+
+154 words / 1% - Internet from 13-Jul-2020 12:00AM
+shodhganga.in ibnet.ac.in
+
+142 words / 1% - Internet from 13-Jan-2023 12:00AM
+www.shanlaxjournals.in
+
+124 words / 1% - Internet from 03-Oct-2022 12:00AM
+www.ijrte.org
+
+110 words / 1% - Internet from 03-Dec-2020 12:00AM
+www.slideshare.net
+
+107 words / 1% - from 31-Oct-2023 12:00AM
+koreascience.or.kr
+
+101 words / 1% - Internet from 16-Sep-2022 12:00AM
+hrmars.com
+
+99 words / 1% - Internet from 13-Jan-2023 12:00AM
+elibrary.tucl.edu.np
+
+97 words / 1% - Internet from 29-Sep-2022 12:00AM
+psychologyandeducation.net
+
+95 words / 1% - from 03-Apr-2023 12:00AM
+www.researchgate.net
+
+paper text:
+
+ABSTRACT This study investigates consumer perceptions towards Quick Response (QR) payments in Nepal, understanding
+
+of the factors in uencing adoption. Using a quantitative approach, the research gathers numerical data on consumer
+
+perceptions, preferences, and usage patterns related to QR payments. The independent variables for the study are perceived
+
+risk, social in uence, effort expectancy and facilitating conditions and dependent variable is consumer perception. Out of
+
+386 respondents mostly prefer using Fonepay to conduct their QR transactions. Demographic analysis shows higher
+
+https://app.ithenticate.com/en_us/report/108843034/summary
+
+1/28
+
+

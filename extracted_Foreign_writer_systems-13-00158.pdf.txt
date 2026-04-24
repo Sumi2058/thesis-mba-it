@@ -1,0 +1,1481 @@
+Article
+Influence of Consumer Trust, Return Policy, and Risk Perception
+on Satisfaction with the Online Shopping Experience
+
+Francisco Hipólito 1, Álvaro Dias 2,*
+
+and Leandro Pereira 2
+
+1
+
+2
+
+Business School, ISCTE-Instituto Universitário de Lisboa, 1649-026 Lisboa, Portugal;
+francisco_hipolito@iscte-iul.pt
+BRU, ISCTE-Instituto Universitário de Lisboa, 1649-026 Lisboa, Portugal; leandro.pereira@iscte-iul.pt
+
+* Correspondence: alvaro.dias@iscte-iul.pt
+
+Abstract: This study examines the interplay of consumer trust, return policies, and risk per-
+ception in shaping satisfaction with online shopping experiences in a business to consumer
+e-commerce context. Employing a conceptual model tested through Partial Least Squares-
+Structural Equation Modeling (PLS-SEM), it evaluates how these factors individually and
+collectively influence consumer satisfaction. The findings confirm that consumer trust
+reduces perceived risk and enhances shopping satisfaction. Contrary to expectations, attrac-
+tiveness of free returns has no significant impact on either risk perception or satisfaction,
+while clear return policies positively influence satisfaction but not risk perception. Addi-
+tionally, the study reveals a quadratic relationship between risk perception and satisfaction,
+suggesting that an optimal level of perceived risk maximizes satisfaction, deviating from
+prior research advocating for minimal perceived risk. These results offer new insights into
+consumer behavior in online retail, highlighting the nuanced role of risk and emphasizing
+the strategic importance of trust and return policies. The paper concludes by discussing
+managerial implications and suggesting directions for future research.
+
+Keywords: consumer trust; risk perception; return policy; online shopping satisfaction;
+B2C e-commerce
+
+Academic Editors: Anna
+
+Lewandowska, Justyna Berniak-
+
+Wo´zny and Naveed Ahmad
+
+Received: 13 January 2025
+
+Revised: 24 February 2025
+
+Accepted: 25 February 2025
+
+Published: 26 February 2025
+
+Citation: Hipólito, F.; Dias, Á.;
+
+Pereira, L. Influence of Consumer
+
+Trust, Return Policy, and Risk
+
+Perception on Satisfaction with the
+
+Online Shopping Experience. Systems
+
+2025, 13, 158. https://doi.org/
+
+10.3390/systems13030158
+
+Copyright: © 2025 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license
+
+(https://creativecommons.org/
+
+licenses/by/4.0/).
+
+1. Introduction
+
+Electronic commerce (e-commerce) has been defined by the Organization for Economic
+Cooperation and Development (OECD) as the ordering of goods and services over the
+internet while payment and delivery of the goods or services can be conducted either online
+or offline [1].
+
+This concept has seen enormous growth over the last two decades, radically transform-
+ing the retail sector and significantly changing consumers’ purchasing behaviors [2]. This
+accelerated growth can be attributed to several factors, including technological advances,
+greater accessibility to the internet, and changes in consumer preferences [3]. However, the
+expansion of e-commerce has also brought new concerns, especially in relation to online
+trust, return policies, and risk perception, which play crucial roles in consumer satisfaction,
+especially in the type of e-commerce called Business to Consumer (B2C), which is the most
+explored [4], and which is a concept defined by the direct sale of a company’s product
+to many potential consumers online [5]. This type of e-commerce is the most common
+type of e-commerce, where the economic volume of transactions and the amount of goods
+exchanged exceeds any other type of e-commerce [5].
+
+While previous studies have explored these factors individually (e.g., [2,4]), this
+research examines their combined effects in a B2C e-commerce context, revealing novel
+
+Systems 2025, 13, 158
+
+https://doi.org/10.3390/systems13030158
+
+Systems 2025, 13, 158
+
+2 of 18
+
+insights. Specifically, this study challenges the prevailing notion that minimal perceived risk
+universally maximizes satisfaction by uncovering a quadratic relationship, suggesting an
+optimal level of perceived risk exists. Furthermore, understanding the intricate relationship
+between online trust, return policies, and risk perception is crucial for enhancing consumer
+satisfaction in e-commerce. As such, this study delves into how these factors collectively
+influence consumer satisfaction, revealing that trust in online retailers significantly reduces
+perceived risk, which, in turn, enhances satisfaction. Clear and well-communicated return
+policies further bolster consumer confidence, mitigating perceived risks and contributing
+to a positive shopping experience. Consumer satisfaction in the context of e-commerce
+depends not only on the quality of the product, but also on intangible factors such as trust
+in the seller, clarity, the generosity of return policies and the minimization of perceived risks,
+with several studies showing that a positive shopping experience, facilitated by high levels
+of trust and low risk perceptions, results in greater customer loyalty and better evaluations
+of the online store [6,7].
+
+According to Greatorex and Mitchell [8], retailers use return policies as a security
+tool for the risk that the consumer has in a purchase. This strategy makes it possible to
+offer greater security to the customer and increase their trust in the company. For this
+reason, having a returns policy has become one of the most competitive weapons that
+influence product sales [9]. In addition to a clear returns policy, there is the possibility of
+promoting the attractiveness of free returns, a strategy that has proven effective in increasing
+consumer confidence. Several studies indicate that generous return policies, which include
+free returns, can reduce the perception of risk associated with online shopping [10]. When
+consumers know they can return products at no extra cost, they feel safer making purchases,
+which increases their trust in the seller and their overall satisfaction with the shopping
+experience [11,12].
+
+Perceived risk can manifest itself in various ways, including fear of fraud, concerns
+about product quality, and fears about the return’s process [13]. Clear and favorable
+return policies are key to mitigating these concerns. When consumers perceive that they
+have viable and hassle-free options for returning products, the perceived risk decreases
+significantly, which can lead to greater satisfaction with the shopping experience [14].
+
+However, the existing literature on this topic is not sufficiently explored. Due to the
+improvements in e-commerce in recent years, it is crucial to explore how the dynamics
+between consumer online trust, return policies, risk perception, and satisfaction with the
+shopping experience have changed. To this end, this study has three objectives: 1. To
+explore how risk perception is affected by consumer online trust in the purchase; 2. To
+understand how consumer online trust and the offer of a clear and/or free return policy
+affect satisfaction with the shopping experience; 3. To explore how the perception of risk
+can influence satisfaction with the shopping experience. This study explores how these
+variables interact and how their influence on consumer satisfaction is essential for online
+retailers who wish to remain competitive in today’s market. To relate these variables, this
+exploratory study presents a conceptual model, empirically tested using PLS-Structural
+Equation Modeling (PLS-SEM) techniques.
+
+2. Literature Review
+2.1. Key Concepts
+
+Online trust is a determining factor in e-commerce, as it directly affects the consumer’s
+willingness to shop online. Studies show that trust can significantly reduce the perception
+of risk and, consequently, increase consumer satisfaction [7]. To this end, it is important
+for companies to develop mechanisms that increase consumer trust, such as security
+certifications, ratings/comments from previous customers, and robust privacy policies, all
+
+Systems 2025, 13, 158
+
+3 of 18
+
+measures that can help reduce the perception of risk [15]. According to Gefen et al. [16],
+trust is essential to reduce the uncertainty inherent in online transactions, where physical
+interaction between buyer and seller is non-existent. This trust can be influenced by various
+elements, such as the reputation of the site, the security of the transactions, and the clarity of
+the information provided [17]. One specific aspect that influences trust and, consequently,
+consumer satisfaction, is the return policy adopted by online retailers.
+
+The relationship between trade and technology has always existed and will continue
+to do so. Developments and advances in Information and Communication Technologies
+(ICT) have enabled developments in various fields, such as global trade. Consequently, the
+processes of many areas of activity (commerce, economics, health, banking, clothing, etc.)
+have evolved and grown with these advances [18]. For this reason, traditional commerce
+will not be able to respond to modern needs and will need to adapt and come up with new
+ideas [19,20]. Today, the internet has become an indispensable component in people’s lives,
+with people from all over the world stating that the internet plays a significant role in their
+lives and has led to the production of job opportunities and developments in business and
+commerce [21,22]. Thanks to its enormous impact on people’s lives and on the various
+areas of life in a developed society, information technology is considered one of humanity’s
+greatest innovations. Its application in operations related to economic and commercial
+processes has led to the creation of a new dimension, known as e-commerce, which plays
+a significant role in global economic affairs [23]. The developments achieved in recent
+decades in this technology have resulted in a revolution in the field of commerce and
+business, dramatically altering the lifestyle of many people in developed countries [24].
+
+E-commerce has been defined by the OECD as the ordering of goods and services
+over the internet while payment and delivery of the goods or services can be conducted
+either online or offline [1]. The global volume of e-commerce is growing every year with
+more people opting for this option. In 2014, e-commerce turnover was USD 1.34 trillion,
+in 2019 it reached USD 3.35 trillion, in 2023 it was USD 5.78 trillion, and in 2027, it is
+expected to reach USD 8.03 trillion [25], having peaked in 2017 with an impressive 28%
+increase in volume compared to 2016 [26]. COVID-19 has provided additional impetus for
+e-commerce, something that is clear when we look at the growth this modality experienced
+in 2020 (25.7%) compared to the previous year (20.5%) [25]. This growth trend is expected to
+continue, with the percentage of sales that e-commerce represents in world retail reaching
+22.6% in 2027, a trend that has been growing since 2022, when e-commerce accounted for
+18.7% [26].
+
+E-commerce is seen as one of the best ways in which ICT is applied for economic
+purposes. This form of selling can support an entity’s economic growth and development,
+improve its commercial efficiency, and offer an easier process for acquiring a good or
+service. With this reality becoming increasingly present in people’s and companies’ daily
+lives, different organizations in different industries must use and apply these technologies
+so that they can benefit from their competitive advantages [27].
+
+Understanding the motives and factors of online consumers in B2C e-commerce leads
+to successful implementation of an organization’s internet marketing strategy [28]. The
+main motives of online shoppers, according to Pilík et al. [29], are as follows: (i) Discovering
+lower prices, because promotional campaigns offering low prices have a positive impact
+on sales growth even though they can contribute to reducing the company’s profit; (ii) The
+convenience of the process, because online services are always available and products are
+delivered to the destination of the consumer’s choice, which helps consumers save time;
+(iii) The ease of quickly comparing products.
+
+However, for companies with a presence in e-commerce, building trust in this medium
+is very important because the consumer experience is not like in traditional commerce
+
+Systems 2025, 13, 158
+
+4 of 18
+
+where the physical product is acquired at the time of purchase. In online business, it is
+necessary to ensure that after the customer makes the purchase, the product arrives in
+optimal condition, and in a reasonable time, to the buyer. For this reason, the reputation of
+the company’s website is linked to the proper functioning of the online purchase logistics
+process, which is consequently linked to the company’s overall reputation [30,31].
+
+As e-commerce grows, so does the number of returned products. Product returns are
+an important and necessary component of customer relationship management in virtually
+all product sales companies, with clothing companies having return rates of up to 50% of
+their sales [32]. According to Blanchard [33], in the US, product returns cost producers
+and retailers around USD 100 billion annually in lost sales and reverse logistics, which
+translates into an average reduction of 3.8% in profit per retailer or producer. These costs
+are seen as an unavoidable economic cost for managing the relationship with customers,
+and possibly for this reason, product returns are a metric that is not considered by retailers
+when decisions need to be made [34]. By way of example, according to Petersen and
+Kumar [34], in a qualitative questionnaire of 56 retailers, around half of the retailers did not
+include product return metrics in their decisions on the selection and optimal allocation
+of resources. This means that online retailers evaluate the performance of their marketing
+initiatives (coupons, newsletters, catalogs) by considering their effect on sales, without
+considering the influence of these initiatives on product returns, which cost organizations
+money. In addition, online retailers allow dissatisfied customers to promptly report their
+dissatisfaction as unresolved product returns via social media, something that can greatly
+damage these online retailers [35].
+
+2.2. Hypotheses Development and Conceptual Model
+
+Consumer trust in online retailers is a crucial metric in managing customer relation-
+ships in e-commerce. Recent studies show that consumers who perceive a website as
+reliable and secure tend to make more purchases, demonstrating that online trust directly
+affects purchase intent and customer satisfaction. For example, a 2023 study highlights
+that trust in online retailers is essential for increasing purchase intentions and customer
+satisfaction, especially in contexts where the convenience and usability of the website are
+determining factors [36].
+
+It is very important for e-commerce companies to identify ways of retaining customers
+in the long term, as this leads to more profits and revenue [37]. The same author states
+that customers who are satisfied with the website’s service not only return to shop on the
+same website but also become loyal. Therefore, the concept of loyalty is important for
+retaining customers [38,39] and customers who trust online retailers are also customers
+who are usually loyal [40]. With a positive shopping experience and strengthened trust,
+the perceived risk of making a purchase from an online retailer decreases. Risk perception
+has always been a major challenge in online commerce because consumers consciously
+and unconsciously make judgments about products and services online [16]. According
+to Saoula et al. [41], this trustworthiness and loyalty in the online supplier reduces the
+perception of risk when buying online and has a positive influence on customer retention.
+Therefore, the hypothesis presented is as follows:
+
+H1A: Consumer online trust has a negative relationship with risk perception.
+
+As a rule, in e-commerce, where products cannot be tested or examined before pur-
+chase, retailers must ensure that their products will be delivered as expected. Therefore,
+consumer online trust becomes an important factor affecting satisfaction with the online
+shopping experience [42]. Satisfaction is one of the most important conditions for ensuring
+customer loyalty [43] and is the result obtained from the comparison between expectations
+
+Systems 2025, 13, 158
+
+5 of 18
+
+and actual performance [44], while the consumer’s shopping experience strengthens the
+relationship between performance expectations and satisfaction [45]. Therefore, the reliabil-
+ity of receiving the exact products that were ordered positively influences online shopping
+satisfaction [46]. Therefore, the hypothesis presented is as follows:
+
+H1B: Consumer online trust has a positive relationship with satisfaction with the shopping experience.
+
+According to Wood [47], a free returns policy encourages customers to order items
+more hastily, something that is helped by the ease and time savings that an online pur-
+chase gives a consumer, which according to Koufaris et al. [48] increases the number of
+unplanned purchases.
+
+In the context of Green Communication for more package-free e-commerce returns, our
+findings indicate that push factors, such as consumer dissatisfaction, and the mooring factor,
+specifically the habit of returning items by mail, had only a minor influence on switching
+intention. Contrary to previous studies, among the pull factors—service convenience and
+green value—the impact of green value on switching intention was notably weaker than
+that of service convenience [49]. Ultimately, convenience emerged as the most significant
+factor in green communication. Das and Kunja [50] identified two main categories of
+reasons behind online product return behavior. The first category, company-related factors,
+includes issues such as receiving an unsuitable product, delivery problems, misleading
+advertisements, and the spread of manipulated information. The second category, customer-
+related factors, encompasses buyer’s remorse, wardrobing, and impulsive purchasing.
+
+Therefore, a free returns policy increases impulse buying, something that is amplified
+by the ease of making an online purchase, and according to Lantz and Hjort [51], free
+returns facilitate impulse buying because consumers face no immediate risk. That said, the
+hypothesis is as follows:
+
+H2A: Attractiveness of free returns has a negative relationship with risk perception.
+
+Minglun et al. [52] state that as e-commerce grows globally, consumers increasingly
+expect free deliveries and consequently more free returns. However, processing customer
+returns is costly for online retailers. The loss associated with online returns in the United
+States in 2019 was estimated at 9.6% of total online retail sales, leading to online retailers
+losing around USD 41 billion in sales [53]. Because of this, to reduce and limit the costs of
+these returns, some online retailers choose to tighten their free return policies [54]. However,
+for a customer, having a free return policy causes them to change their purchasing behavior,
+because according to Lantz and Hjort [51], having the possibility of making free returns is
+associated with a higher frequency of orders, a lower average order value, a lower number
+of items purchased, and a higher probability of returning products. Based on this literature,
+the hypothesis is as follows:
+
+H2B: Attractiveness of free returns has a positive relationship with satisfaction with the
+shopping experience.
+
+Return policies can be categorized as either lenient or strict based on the ease of the
+return process. Strict policies, by increasing exit costs, create barriers that discourage
+returns. However, these high exit costs and reduced flexibility can increase consumer
+dissatisfaction, ultimately decreasing both initial purchases and repurchases [55]. Reducing
+exit costs and increasing the level of customer satisfaction are the characteristics that make
+up tolerant return policies, which increase the purchase and repurchase rate [56]. Online
+consumers are more sensitive to return policies than traditional retail consumers [57]. In
+
+Systems 2025, 13, 158
+
+6 of 18
+
+online shopping, a lenient return policy can lead to a more favorable product evaluation,
+and consumers are more likely to believe that favorable return policies are indicative of
+high-quality products since these companies stand behind their products.
+
+Conversely, consumers who encounter a strict returns policy are more likely to ques-
+tion the quality of the products [58]. However, the more lenient the returns policy, the more
+costs retailers will have to pay to accept returns [59]. Rogers and Tibben-Lembke [60] found
+that a clear and attractive returns policy is one of the most important tools for attracting
+consumers. Mukhopadhyay and Setaputra [61] used an analytical model to examine the
+effects of online retailers’ return policies on their profits. However, few [47,62] have investi-
+gated the influence of online retailers’ return policy on consumer behavior and perception.
+Therefore, the hypotheses presented are as follows:
+
+H3A: A clear and easy (favorable) return policy is negatively associated with perceived risk in
+online shopping.
+
+H3B: A clear and easy (favorable) return policy is positively associated with satisfaction with the
+online shopping experience.
+
+In online commerce, risk plays a vital role in consumer buying behavior [63]. This
+consumer buying behavior is strongly explained by risk perception [64]. Risk perception
+is defined as “the nature and amount of uncertainty or consequences experienced by
+the consumer when contemplating a particular purchase decision” [65]. This feeling of
+uncertainty increases when the consumer is unsure whether the purchase made will allow
+them to obtain the products they have bought, something that is found in e-commerce due
+to the nature of the activity being spatially remote [66]. Of the various risks associated
+with online commerce, the most common perceived risks are low-quality products, poor
+after-sales service, and disclosure of customers’ personal information [67]. Peng et al. [68]
+state that giving service guarantees (promises to customers that what will be delivered is
+what is advertised) can reduce the perception of risk in the purchasing process; however,
+Udo et al. [69] argue that a reduced perception of risk leads to a higher perceived quality of
+service, but not necessarily consumer satisfaction or purchase intention. On the opposite
+point, Mortimer et al. [70] state that when the perceived risk is low, the consumer will
+be satisfied and will develop positive purchasing behaviors, something that is supported
+by the conclusions of the study by Miao et al. [71]. Guru et al. [72] state that a consumer
+will not make an online purchase again if they perceive a high purchase risk. On this
+topic, the consensus in the literature is that the lower the perception of risk, the greater the
+satisfaction of the consumer and their shopping experience. Therefore, the hypotheses are
+as follows:
+
+H4A: Risk perception is negatively related to satisfaction with the shopping experience.
+
+The inclusion of a quadratic term for risk perception in the model allows for the
+exploration of a non-linear relationship between risk perception and satisfaction with the
+shopping experience. This approach is grounded in the theoretical understanding that risk
+can have both positive and negative valences in consumer behavior [68]. While excessive
+risk can lead to anxiety and dissatisfaction, a certain degree of risk can also contribute to
+excitement and a sense of adventure, potentially enhancing the shopping experience [50,72].
+The quadratic term allows us to investigate whether an optimal level of perceived risk
+exists that maximizes satisfaction, rather than assuming a strictly linear relationship.
+
+Systems 2025, 13, 158
+
+7 of 18
+
+H4B: Risk perception has an inverted u-shaped relationship with satisfaction with the shop-
+ping experience.
+
+The conceptual model is presented in Figure 1.
+
+Figure 1. Conceptual model. Note: QE = Quadratic effect.
+
+3. Materials and Methods
+3.1. Data Collection and Sample
+
+For data collection, a convenience sample was used because there is no information
+
+on the total number of consumers, so it is not possible to stratify the sample.
+
+However, the aim was to have a diverse sample, from different age groups and with
+different incomes. An online questionnaire was used to collect the data. This questionnaire
+was developed through a literature review of various scientific articles that analyzed the
+variables studied by developing questions about them. A pre-validation of the question-
+naire was also carried out with 8 respondents to check that it was correctly perceived. The
+final questionnaire was posted online and received a total of 212 responses. This sample
+size is considered adequate for PLS-SEM analysis since it includes more than 10 responses
+for each variable considered in the conceptual model. The online survey was conducted
+in Portugal between December 2023 and April 2024. Participants were recruited through
+a convenience sampling method using online platforms and social media channels. The
+choice of Portugal as the study location was motivated by its status as a developed Euro-
+pean country with high internet penetration and active e-commerce participation, offering
+a relevant context to examine online shopping behavior. Table 1 shows the demographic
+data for the questionnaire sample.
+
+Systems 2025, 13, x FOR PEER REVIEW 7 of 18   risk can lead to anxiety and dissatisfaction, a certain degree of risk can also contribute to excitement and a sense of adventure, potentially enhancing the shopping experience [50,72]. The quadratic term allows us to investigate whether an optimal level of perceived risk exists that maximizes satisfaction, rather than assuming a strictly linear relationship. H4B: Risk perception has an inverted u-shaped relationship with satisfaction with the shopping experience. The conceptual model is presented in Figure 1.  Figure 1. Conceptual model. Note: QE = Quadratic eﬀect. 3. Materials and Methods 3.1. Data Collection and Sample For data collection, a convenience sample was used because there is no information on the total number of consumers, so it is not possible to stratify the sample. However, the aim was to have a diverse sample, from diﬀerent age groups and with diﬀerent incomes. An online questionnaire was used to collect the data. This questionnaire was developed through a literature review of various scientiﬁc articles that analyzed the variables studied by developing questions about them. A pre-validation of the question-naire was also carried out with 8 respondents to check that it was correctly perceived. The ﬁnal questionnaire was posted online and received a total of 212 responses. This sample size is considered adequate for PLS-SEM analysis since it includes more than 10 responses for each variable considered in the conceptual model. The online survey was conducted in Portugal between December 2023 and April 2024. Participants were recruited through a convenience sampling method using online platforms and social media channels. The choice of Portugal as the study location was motivated by its status as a developed Euro-pean country with high internet penetration and active e-commerce participation, oﬀering a relevant context to examine online shopping behavior. Table 1 shows the demographic data for the questionnaire sample. Table 1. Sample descriptives. Sample Characteristics Frequency Percentage (%) Gender Female 121 57.08% Male 91 42.92% Other 0 0.00% Online trustAttractivenessoffree returnReturnpolicyPerceivedriskSatisfactionwithpurchasingexperienceH1aH1bH2aH2bH3aH3bH4aH4bQeSystems 2025, 13, 158
+
+8 of 18
+
+Table 1. Sample descriptives.
+
+Sample Characteristics
+
+Frequency
+
+Percentage (%)
+
+Gender
+
+Age
+
+Female
+Male
+Other
+
+18–24
+25–34
+35–44
+45–54
+55–64
+65+
+
+Highest Level of Education
+
+Basic Education (up to 9th grade)
+Secondary Education (up to 12th grade)
+Higher Education—Professional Higher
+Technical Course
+Higher Education—Bachelor’s or Licentiate Degree
+Postgraduate
+Higher Education—Pre-Bologna degree or
+Master’s degree
+Higher Education—Doctorate
+
+Professional Status
+
+Paid employment (includes professional internship)
+Student or trainee
+Retired
+Unemployed
+
+Net Monthly Income
+
+No income
+Up to EUR 500
+EUR 501–700
+EUR 701–900
+EUR 901–1100
+EUR 1101–1300
+EUR 1301–1500
+EUR 1501–1800
+EUR 1801–2200
+EUR 2201–2900
+More than EUR 2900
+
+121
+91
+0
+
+34
+93
+35
+29
+16
+5
+
+3
+14
+
+3
+
+83
+20
+
+85
+
+4
+
+177
+28
+1
+6
+
+27
+2
+1
+12
+28
+32
+34
+35
+21
+10
+10
+
+57.08%
+42.92%
+0.00%
+
+16.04%
+43.87%
+16.51%
+13.68%
+7.55%
+2.36%
+
+1.42%
+6.60%
+
+1.42%
+
+39.15%
+9.43%
+
+40.09%
+
+1.89%
+
+83.49%
+13.21%
+0.47%
+2.83%
+
+12.74%
+0.94%
+0.47%
+5.66%
+13.21%
+15.09%
+16.04%
+16.51%
+9.91%
+4.72%
+4.72%
+
+3.2. Variables
+
+This study used existing scales to measure all the variables. To measure the four items
+of Online Consumer Trust, the work of Saoula et al. [41] was used as a basis, while the two
+items of Return Policy and the five items of Attractiveness of Free Returns were taken and
+adapted from the work of Urvashi et al. [73]. The four Risk Perception items were based on
+the work of Han and Li [74]. The three items on Satisfaction with the Shopping Experience
+were taken from the work of Sharma and Aggarwal [75]. The five variables studied were
+measured using seven-point Likert scales anchored at 1 (strongly disagree) and 7 (strongly
+agree). The survey items are presented in the Appendix A.
+
+Systems 2025, 13, 158
+
+9 of 18
+
+4. Results
+
+The SEM model was used to test the conceptual model. More specifically, the Par-
+tial Least Squares (PLS) technique was used, which is a technical variation of structural
+equation modeling based on variance, using SmartPLS 4 software [76]. Following a two-
+stage approach, we first assessed the measurement model’s reliability and validity before
+evaluating the structural model. To ensure the quality of the measurement model, we
+examined individual indicators of reliability, convergent validity, internal consistency, and
+discriminant validity [77]. All standardized factor loadings exceeded 0.6 (minimum 0.63)
+and were significant (p < 0.001), supporting the individual indicator reliability [77]. The
+reliability of the internal consistency was confirmed because all the values of Cronbach’s
+alpha (α) and the composite reliability (CC) of the constructs exceeded the cut-off point of
+0.7 (see Table 2) [75].
+
+Table 2. Evaluation of the measurement model.
+
+Latent Variables
+
+α
+
+CC
+
+AVE
+
+COC
+
+DGP
+
+PD
+
+PR
+
+SEC
+
+Online Consumer
+Confidence (COC)
+Attractiveness of Free
+Returns (AFR)
+Return Policy (DP)
+Risk Perception (RP)
+Satisfaction with the
+Shopping Experience (SEC)
+
+0.760
+
+0.847
+
+0.583
+
+0.764
+
+0.145
+
+0.281
+
+0.514
+
+0.748
+
+0.820
+
+0.751
+0.843
+
+0.841
+
+0.868
+
+0.875
+0.895
+
+0.904
+
+0.571
+
+0.779
+0.682
+
+0.759
+
+0.075
+
+0.221
+−0.422
+
+0.614
+
+0.756
+
+0.422
+0.100
+
+0.131
+
+0.537
+
+0.883
+−0.031
+
+0.145
+
+0.088
+0.826
+
+0.283
+
+−0.257
+
+0.136
+
+0.317
+0.293
+
+0.871
+
+Note: α—Cronbach’s Alpha; CC—Composite Reliability; AVE—Average Variance Extracted. The numbers in
+bold are the square root of the AVE. Below the diagonal are the correlation values between the various variables.
+Above the diagonal, the values are the HTMT ratios.
+
+Convergent validity was confirmed by three findings: (1) all items loaded positively
+and significantly on their respective constructs (as noted above); (2) all constructs had CC
+values higher than 0.70; and (3) the average variance extracted (AVE) for all constructs
+exceeded the 0.50 threshold (Table 2) [78]. Discriminant validity was then assessed using
+two approaches. Firstly, the Fornell and Larcker criterion was used. This criterion requires
+that the square root of the SEM of a construct (shown diagonally with bold values in
+Table 2) is greater than its highest correlation with any construct [77]. Table 2 shows that
+this criterion is met for all constructs. Secondly, the heterotrait-monotrait ratio of the
+correlations ratio (HTMT) criterion was used ([77,79]).
+
+As Table 2 shows, all HTMT ratios are below the more conservative threshold value
+of 0.85 [77,79]. These findings provide further evidence of discriminant validity. The
+structural model was then evaluated by examining the sign, magnitude, and significance of
+the structural path coefficients; the R2 value for each endogenous variable (as a measure of
+predictive accuracy); and the Stone–Geisser Q2 values (as a measure of predictive relevance).
+However, collinearity was assessed before the structural model was evaluated [77]. The VIF
+values ranged from 1.00 to 3.42, which is below the indicative critical value of 5 [80]. These
+values indicate that there is no collinearity. The coefficient of determination, R2, values
+for the two endogenous variables Perception of Risk and Satisfaction with the Shopping
+Experience were 0.195 and 0.435. These values exceed the 10% threshold [81]. The Q2 values
+for the endogenous variables (Risk Perception: 0.161 and Satisfaction with the Shopping
+Experience: 0.337) were above zero, which indicates the predictive relevance of the model.
+Bootstrapping with 5000 subsamples was used to assess the significance of the parameter
+estimates [77].
+
+Systems 2025, 13, 158
+
+10 of 18
+
+The results in Table 3 show that consumer online trust has a negative effect on risk
+perception (the higher the trust, the lower the risk) (β = −0.434, p < 0.001) and that
+consumer online trust has a positive effect on satisfaction with the shopping experience
+(β = 0.554, p < 0.001). These results support hypotheses H1A and H1B, respectively.
+The attractiveness of free returns has no significant effect on risk perception (β = 0.128,
+n.s.) or on satisfaction with the shopping experience (β = 0.010, n.s.), so hypotheses
+H2A and H2B are not supported. The return policy does not have a significant effect
+on risk perception (β = 0.011, n.s.) but it does have a positive effect on satisfaction with
+the shopping experience (β = 0.141, p < 0.05), so hypothesis H3A is not supported by
+the model, but hypothesis H3B is supported. The perception of risk has no significant
+effect on satisfaction with the shopping experience (the lower the risk, the greater the
+satisfaction with the shopping experience) (β = −0.047, n.s.), so hypothesis H4A is not
+supported. Finally, the perception of risk and its quadratic relationship with satisfaction
+with the shopping experience has a positive effect (β = 0.179, p < 0.01), so hypothesis H4B
+is supported.
+
+Table 3. Structural model assessment.
+
+Original
+Sample (β)
+
+Standard
+Deviation
+
+Statistics t
+
+p-Values
+
+Result
+
+Online Consumer Confidence
+→ Risk Perception
+Online Consumer Confidence
+→ Satisfaction with
+Shopping Experience
+Attractiveness of Free Returns
+→ Risk Perception
+Attractiveness of Free Returns
+→ Satisfaction with the
+Shopping Experience
+Return Policy →
+Risk Perception
+Return Policy → Satisfaction
+with the Shopping Experience
+Risk Perception → Satisfaction
+with the Shopping Experience
+EQ (Risk Perception) →
+Satisfaction with the
+Buying Experience
+
+−0.434
+
+0.554
+
+0.128
+
+0.010
+
+0.011
+
+0.141
+
+−0.047
+
+0.179
+
+0.053
+
+0.074
+
+0.089
+
+0.067
+
+0.081
+
+0.063
+
+0.067
+
+0.056
+
+8.219
+
+0.000
+
+Supported
+
+7.468
+
+0.000
+
+Supported
+
+1.427
+
+0.154
+
+Not Supported
+
+0.153
+
+0.878
+
+Not Supported
+
+0.141
+
+2.250
+
+0.700
+
+0.887
+
+Not Supported
+
+0.024
+
+Supported
+
+0.484
+
+Not Supported
+
+3.177
+
+0.001
+
+Supported
+
+5. Discussion
+
+The results of this study are based on three strands of analysis: 1. the influence of
+consumer confidence on risk perception, 2. the relationship between return policy and
+satisfaction with the shopping experience, and 3. the relationship between risk perception
+and satisfaction with the shopping experience.
+
+5.1. Consumer Confidence in Risk Perception
+
+According to the study, consumer confidence has a negative linear relationship with
+perceived risk, so that the lower the confidence, the greater the perceived risk. This result
+is in line with the conclusions of the research work by D’Alessandro et al. [82]. The authors
+concluded that if the perceived risk is high, it is a significant barrier to making an online
+purchase. These results reinforce the importance of online retailers being perceived as
+trustworthy and that their reputation influences a consumer’s purchasing decision.
+
+Systems 2025, 13, 158
+
+11 of 18
+
+5.2. Return Policy and Satisfaction with the Shopping Experience
+
+Satisfaction with the consumer’s shopping experience is a central factor in the success
+of an online business. In online business, the convenience of being able to access from
+anywhere and/or any device, the possibility of comparing not only products but also prices,
+and the sensitivity of the site to the consumer are all factors of vital importance for consumer
+satisfaction [83], which indicates that e-commerce platforms must prioritize the consumer
+experience and, consequently, satisfaction with the consumer’s shopping experience.
+
+The results of the study indicate that consumer satisfaction with the online experience
+is positively influenced by consumer trust. In addition, the β and p values for the relation-
+ship between the returns policy and satisfaction with the consumer experience show that a
+well-defined product returns policy has a positive influence on consumer satisfaction.
+
+These results support the conclusion of Demirel [84], who states that consumer satis-
+faction with the online experience is positively influenced by consumer trust and adds that
+consumer trust is also positively influenced by a well-defined product return policy.
+
+On the other hand, the positive influence of a product return policy contradicts the
+conclusion of Lantz and Hjort [51], who argue that a return policy, from a management
+point of view, is not an economically advantageous measure. However, the same authors
+also state that if any company decided to stop having a returns policy, this would be
+detrimental to the company itself, because it would be perceived by the consumer as
+negative. This last observation is in line with the results of this study, which conclude that
+having a clear returns policy is important.
+
+5.3. The Perception of Risk in Satisfaction with the Shopping Experience
+
+The existing literature on the influence of perceived risk on satisfaction with the
+shopping experience is that the lower the perceived risk, the greater the satisfaction for
+the consumer and their shopping experience. Mortimer et al. [70] state that when the
+perceived risk is low, the consumer will be satisfied and will develop positive purchasing
+behaviors, something that is supported by the conclusions of the study by Miao et al. [71].
+Tandon et al. [85] show that perceived risk and satisfaction with the shopping experience
+have a negative linear relationship. Moreover, the identification of a quadratic relationship
+between perceived risk and satisfaction with the shopping experience constitute the most
+interesting and novel contribution. This finding challenges the prevailing notion that
+minimizing perceived risk always leads to greater satisfaction. Instead, our results suggest
+that an optimal level of perceived risk exists, where a moderate degree of risk can enhance
+the shopping experience and contribute to greater satisfaction.
+
+The results obtained in this study challenge these conclusions. This study shows that
+the relationship between perceived risk and satisfaction with the shopping experience is
+not just a linear relationship, but that there is a quadratic relationship between these two
+variables (U-shaped), where there is an optimum point of perceived risk that positively
+affects satisfaction with the customer’s shopping experience. This relationship between
+perceived risk and satisfaction with the consumer’s shopping experience shows that a very
+low perception of risk results in dissatisfaction with the consumer’s shopping experience.
+As the perceived risk increases, satisfaction with the shopping experience also increases,
+until an optimum perceived risk value is reached, from which point satisfaction with the
+shopping experience begins to decline. Thus, too low or too high a perceived risk results
+in dissatisfaction with the consumer’s shopping experience, and maximum satisfaction
+with the consumer’s shopping experience is achieved with a certain degree of perceived
+risk in online shopping. This result opposes the results presented by Tandon et al. [85] and
+Shu-Hao et al. [86], who state that the central objective of companies should be to reduce
+the perceived risk of online shopping for the customer, so that trust on the website and
+
+Systems 2025, 13, 158
+
+12 of 18
+
+the company leads to satisfaction with the shopping experience. According to this study,
+companies should seek to find the optimum value of perceived risk of online shopping that
+allows them to maximize satisfaction with the shopping experience.
+
+The unexpected findings related to the relationship between return policies, free
+returns, and risk perception highlight the evolving dynamics of consumer behavior in
+e-commerce. While the prior literature suggests that lenient return policies and free returns
+reduce perceived risk [8,10], our results indicate that these factors do not significantly
+influence risk perception or satisfaction. This divergence may stem from the increasing
+normalization of return policies in online retail, making them less of a differentiating factor
+in shaping consumer perceptions of risk. Moreover, the quadratic relationship between risk
+perception and satisfaction suggests that consumers do not necessarily seek to minimize
+risk entirely but rather appreciate a certain level of perceived risk that enhances engagement
+with the shopping experience. This insight aligns with research highlighting that an optimal
+balance of risk can lead to higher satisfaction [70].
+
+The relationship between return policies, consumer risk perception, and e-satisfaction
+reflects a critical dimension of online consumer behavior. Return policies, whether lenient
+or restrictive, serve as a mechanism to manage consumer uncertainty, yet their psycho-
+logical impact on risk perception remains complex. While prior research indicates that
+flexible return policies reduce perceived risk [10], our findings challenge this assumption by
+demonstrating that neither return policies nor free returns significantly alter risk perception.
+This suggests that modern consumers, accustomed to return policies as a standard feature
+of online shopping, may no longer interpret them as a risk-mitigation tool. Instead, our re-
+sults imply that consumers engage in risk-taking behaviors, such as impulse purchases [47],
+with the implicit expectation of returning unwanted products, shifting the role of return
+policies from risk reduction to behavioral enabler.
+
+6. Conclusions
+6.1. Theoretical Implications
+
+An SEM conceptual model was used to achieve the proposed objectives. The first ob-
+jective was to understand how the perception of risk was affected by the consumer’s online
+purchasing confidence. The results show that consumer trust influences the perception of
+risk because the greater the trust, the lower the perceived risk of buyers and, therefore, that
+it is important for retailers to focus on transmitting trust, as this emerges as a mitigating
+factor of perceived risk.
+
+The second objective was to understand how consumer trust online and the provision
+of a clear and easy returns policy affected satisfaction with the shopping experience. The
+results show that these two variables are important and have a positive relationship with
+consumer satisfaction with the purchase. A relevant recommendation is that the existence
+of a well-defined returns policy is important for consumer purchasing satisfaction and
+should be a factor to consider in the structure of the B2C online purchasing process.
+
+The third objective was to understand how the perception of risk could influence
+satisfaction with the shopping experience and the results point to something different from
+what has previously existed in the scientific literature, where it is clear that it is valuable
+to have a certain amount of risk associated with online shopping and that there is an
+optimum point at which risk can and should be taken in online shopping because this
+risk contributes to the satisfaction of online shopping for the consumer. The relationship
+established between these two variables is a U-shaped relationship, where a purchase
+without risk does not bring satisfaction and a purchase with too much risk also does not
+bring satisfaction to the consumer.
+
+Systems 2025, 13, 158
+
+13 of 18
+
+This work reinforces the negative linear relationship between consumer trust and
+risk perception, which has already been studied by other authors [87]. With regard to
+satisfaction with the online shopping experience, this work is in line with the findings in
+the literature that consumer trust is a factor that positively influences satisfaction with the
+shopping experience [88]. In addition, this work argues that the existence of a well-defined
+return policy is important for satisfaction with the shopping experience. Finally, the main
+result of this work is the introduction of a quadratic relationship between perceived risk and
+satisfaction with the shopping experience. This relationship implies that there is an optimal
+value of perceived risk for which satisfaction with the shopping experience is maximum.
+This result is innovative in the sense that it presents a new quadratic relationship for these
+two variables, as an alternative to the negative linear relationship previously found in
+the literature.
+
+Since the perception of risk is a central aspect of consumer behavior, risk is often
+perceived as being painful because, according to this theory, it leads to the production of
+anxiety, something that must be resolved in some way by the consumer. What this study
+adds is that the existence of a certain degree of risk in a B2C online purchase is positive on
+an economic level and that this anxiety can be an important factor in consumer behavior
+when buying online.
+
+6.2. Practical Implications
+
+This study offers several practical implications for online retailers. First, the findings
+reinforce the importance of trust in online shopping. Retailers should prioritize building
+and maintaining consumer trust by implementing security measures, providing clear and
+accurate product information, offering excellent customer service, and ensuring transparent
+and fair business practices.
+
+Second, while attractiveness of free returns did not directly impact satisfaction in this
+study, having a clear and easy return policy positively influenced consumer satisfaction.
+Retailers should focus on creating hassle-free return experiences that foster trust and
+confidence in their brand.
+
+Furthermore, the study highlights the importance of understanding the nuanced
+role of risk in online shopping. The finding that an optimal level of perceived risk exists
+challenges the traditional focus on minimizing risk. Retailers could explore strategies to
+create a sense of excitement and adventure in the online shopping journey, perhaps through
+limited-time offers, exclusive deals, or personalized recommendations that introduce an
+element of surprise and discovery.
+
+6.3. Limitations and Future Research
+
+This study contains limitations that could be explored in future research. Firstly,
+the cross-sectional nature of the study limits the ability to definitively establish causality.
+Future research should include longitudinal studies that follow consumers over time,
+something that may offer deeper insights into how risk perception and satisfaction evolve
+with accumulated experience [89]. Secondly, this study uses a non-probability convenience
+sampling procedure for the survey, which can create representativeness problems for
+the population under study. Thirdly, this study was only carried out in Portugal, and it
+would be interesting to explore how cultural differences influence risk perception and
+consumer satisfaction. Different cultures have different risk tolerances, which can affect
+their expectations and shopping experiences [83]. Therefore, some caution is needed when
+generalizing the results. Consequently, to achieve better generalization, future research
+should test the conceptual model using data from other cultures and/or countries and use
+a probability sampling procedure.
+
+Systems 2025, 13, 158
+
+14 of 18
+
+Two interesting future topics that can be explored are how emerging technologies, such
+as blockchain and artificial intelligence, can affect consumers’ perception of risk and trust,
+as these technologies have enormous potential to revolutionize security and transparency
+in transactions [90]. Another relevant topic would be the incorporation of more complex
+psychological models to help understand the cognitive and emotional processes underlying
+risk perception, an activity that can undoubtedly help identify more effective interventions
+to increase consumer satisfaction [91].
+
+Author Contributions: Conceptualization, Á.D. and F.H.; methodology, Á.D.; software, Á.D.; val-
+idation, F.H. and L.P.; formal analysis, F.H.; investigation, F.H.; resources, L.P.; data curation, F.H.;
+writing—original draft preparation, F.H.; writing—review and editing, L.P. All authors have read
+and agreed to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Institutional Review Board Statement: This study did not require formal ethical review and approval
+because participants provided written informed consent prior to the in-depth interviews. The survey,
+distributed online through social media channels, ensured anonymity by preventing direct contact
+between researchers and participants. No identifying information was included in the interview script
+or questionnaire. The researchers only had access to anonymized data without names, addresses, or
+birth dates, ensuring participant privacy.
+
+Data Availability Statement: Data will be provided upon reasonable request.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+Appendix A
+
+Survey Items
+Online Trust
+Saoula et al. [41]
+1. I felt secure in my transaction when I made the purchase online.
+2. I believe that the online seller can protect my identity.
+3. I chose an online seller that I believe is honest.
+4. I felt that the online seller gave me a good service.
+Attractiveness of free return
+Urvashi et al. [73]
+1. A free returns policy influences me to shop online more often.
+2. I prefer to buy from sellers who mention that they have a free returns policy.
+3. A free returns policy reduces my risk of receiving a faulty product.
+4. A free returns policy motivates me to buy more.
+5. A free returns policy makes me feel comfortable while shopping online.
+Return policy
+Urvashi et al. [73]
+1. The online seller’s return policy was listed on their website.
+2. The online seller suggests a reasonable amount to pay for the return.
+3. The online seller promises an easy way to return the item.
+Perceived risk
+Han and Li [74]
+1. I was afraid to buy online because I paid for the item (s) straight away and I wasn’t
+
+sure if they would arrive.
+
+2. I was afraid that the online seller would jeopardise my privacy by using personal
+
+information without my permission.
+
+3. I was concerned about the quality of the product (s) when buying online.
+4. I was worried that the product (s) would be different from what I was expecting.
+
+Systems 2025, 13, 158
+
+15 of 18
+
+Satisfaction
+Sharma and Aggarwal [75]
+1. I was satisfied with the online seller’s website.
+2. I will recommend the site to my friends and relatives.
+3. I will buy from the site again.
+
+References
+
+1.
+
+2.
+
+3.
+4.
+
+5.
+
+6.
+
+OECD. Understanding the potential scope, definition and impact of the WTO e-commerce Moratorium. In E-Commerce Strategy;
+OECD iLibrary: Paris, French, 2023. Available online: https://www.oecd.org/content/dam/oecd/en/publications/reports/20
+23/10/understanding-the-potential-scope-definition-and-impact-of-the-wto-e-commerce-moratorium_1a15ea94/59ceace9
+-en.pdf (accessed on 24 February 2025).
+Grewal, D.; Levy, M.; Kumar, V. Customer Experience Management in Retailing: An Organizing Framework. J. Retail. 2009, 85,
+1–14. [CrossRef]
+Grewal, D.; Roggeveen, A.L.; Nordfält, J. The future of retailing. J. Retail. 2017, 93, 1–6. [CrossRef]
+Kim, H.; Niehm, L.S. The Impact of Website Quality on Information Quality, Value, and Loyalty Intentions in Apparel Retailing. J.
+Interact. Mark. 2009, 23, 221–233. [CrossRef]
+Turban, E.; Outland, J.; King, D.; Lee, J.K.; Liang, T.-P.; Turban, D.C. Electronic Commerce 2018: A Managerial and Social Networks
+Perspective, 9th ed.; Springer: Berlin/Heidelberg, Germany, 2018. [CrossRef]
+Anderson, R.E.; Srinivasan, S.S. E-satisfaction and e-loyalty: A contingency framework. Psychol. Mark. 2003, 20, 123–138.
+[CrossRef]
+
+7. McKnight, D.H.; Choudhury, V.; Kacmar, C. Developing and validating trust measures for e-commerce: An integrative typology.
+
+8.
+
+Inf. Syst. Res. 2002, 13, 334–359. [CrossRef]
+Greatorex, M.; Mitchell, V.W. Modelling consumer risk reduction preferences from perceived loss data. J. Econ. Psychol. 1994, 15,
+669–685. [CrossRef]
+
+9. Mukhopadhyay, S.K.; Setoputro, R. Reverse logistics in e-business: Optimal price and return policy. Int. J. Phys. Distrib. Logist.
+
+10.
+
+Manag. 2004, 34, 70–89. [CrossRef]
+Janakiraman, N.; Syrdal, H.A.; Freling, T. The effect of return policy leniency on consumer purchase and return decisions: A
+meta-analytic review. J. Retail. 2016, 92, 226–235. [CrossRef]
+
+11. Xu, X.; Peak, D.; Prybutok, V. A customer value, satisfaction, and loyalty perspective of mobile application recommendations.
+
+Decis. Support Syst. 2015, 79, 171–183. [CrossRef]
+Jarvenpaa, S.L.; Tractinsky, N.; Vitale, M. Consumer trust in an Internet store. Inf. Technol. Manag. 2000, 1, 45–71. [CrossRef]
+12.
+13. Gefen, D.; Karahanna, E.; Straub, D.W. Trust and TAM in online shopping: An integrated model. MIS Q. 2003, 27, 51–90.
+
+[CrossRef]
+
+14. Kim, D.J.; Ferrin, D.L.; Rao, H.R. A trust-based consumer decision-making model in electronic commerce: The role of trust,
+
+15.
+
+perceived risk, and their antecedents. Decis. Support Syst. 2008, 44, 544–564. [CrossRef]
+Ferreira, A.; Silva, G.M.; Dias, Á.L. Determinants of continuance intention to use mobile self-scanning applications in retail. Int. J.
+Qual. Reliab. Manag. 2023, 40, 455–477. [CrossRef]
+Forsythe, S.M.; Shi, B. Consumer patronage and risk perceptions in internet shopping. J. Bus. Res. 2003, 56, 867–875. [CrossRef]
+16.
+17. Roggeveen, A.L.; Tsiros, M.; Grewal, D. Understanding the co-creation effect: When does collaborating with customers provide a
+
+lift to service recovery? J. Acad. Mark. Sci. 2012, 40, 771–790. [CrossRef]
+
+18. Rahayu, R.; Day, J. Determinant Factors of E-commerce Adoption by SMEs in Developing Country: Evidence from Indonesia.
+
+Procedia—Soc. Behav. Sci. 2015, 195, 142–150. [CrossRef]
+
+19. Cegarra-Navarro, J.G.; Jiménez, D.J.; Martínez-Conesa, E.Á. Implementing e-business through organizational learning: An
+
+empirical investigation in SMEs. Int. J. Inf. Manag. 2007, 27, 173–186. [CrossRef]
+
+20. Gonçalves, R.; Dias, C.; Pereira, L.; Costa, R.L.D.; Dias, Á.; Silva, R.V.D. New dynamics of e-commerce on the retail industry:
+
+Analysis of the purchase process of fashion and electronics products. Int. J. Econ. Bus. Res. 2024, 27, 651–672. [CrossRef]
+21. Apăvăloaie, E. The Impact of the Internet on the Business Environment. Procedia Econ. Financ. 2014, 15, 951–958. [CrossRef]
+22. Dias, Á.L. Análise Qualitativa de Projectos de Investimento; Lidel: Lisbon, Portugal, 2002.
+23.
+
+Feizollahi, S.; Shirmohammadi, A.; Kahreh, Z.S.; Kaherh, M.S. Investigating the Effect of Internet Technology on Performance of
+Services Organizations with e-commerce Orientations. Procedia—Soc. Behav. Sci. 2014, 109, 605–609. [CrossRef]
+
+24. Macgregor, R.C.; Vrazalic, L. A Basic Model of Electronic Commerce Adoption Barriers: A Study of Regional Small Businesses in
+
+Sweden and Australia. J. Small Bus. Enterp. Dev. 2005, 12, 510–527. [CrossRef]
+
+25. Chevalier, S. Global Retail E-Commerce Market Size 2014–2027; Statista: Hamburg, Germany, 2024.
+26. Coppola, D. Global E-Commerce Share of Retail Sales 2023; Statista: Hamburg, Germany, 2023.
+
+Systems 2025, 13, 158
+
+16 of 18
+
+27. Choshin, M.; Ghaffari, A. An investigation of the impact of effective factors on the success of e-commerce in small- and
+
+medium-sized companies. Comput. Hum. Behav. 2017, 66, 67–74. [CrossRef]
+
+28. Huseynov, F.; Ozcan, S. Internet users’ attitudes toward business-to-consumer online shopping: A survey. Inf. Dev. 2016, 32,
+
+452–465. [CrossRef]
+
+29. Pilík, M.; Juˇriˇcková, E.; Kwarteng, M.A. Online shopping behavior in the Czech Republic under the digital transformation of
+
+economy. Econ. Ann. XXI 2017, 165, 119–123. [CrossRef]
+
+30. Kim, S.; Park, H. Effects of Various Characteristics of Social Commerce (S-Commerce) on Consumers’ Trust and Trust Performance.
+
+Int. J. Inf. Manag. 2013, 33, 318–332. [CrossRef]
+
+31. Bandara, R.; Fernando, M.; Akter, S. Privacy concerns in E-commerce: A taxonomy and a future research agenda. Electron. Mark.
+
+2019, 30, 629–647. [CrossRef]
+
+32. Kihal, S.E.; Nurullayev, N.; Schulze, C.; Skiera, B. A Comparison of Return Rate Calculation Methods: Evidence from 16 Retailers.
+
+J. Retail. 2021, 97, 676–696. [CrossRef]
+
+33. Blanchard, D. Supply Chains Also Work In Reverse. Ind. Week 2007, 1, 48–49.
+34. Petersen, J.A.; Kumar, V. Perceived Risk, Product Returns, and Optimal Resource Allocation: Evidence from a Field Experiment. J.
+
+35.
+
+Mark. Res. 2015, 52, 268–285. [CrossRef]
+Sahoo, N.; Dellarocas, C.; Srinivasan, S. The Impact Of Online Product Reviews on Product Returns. Inf. Syst. Res. 2018, 29,
+723–738. [CrossRef]
+
+36. Goel, P.; Parayitam, S.; Sharma, A.; Rana, N.P.; Dwivedi, Y.K. A moderated mediation model for e-impulse buying tendency,
+
+customer satisfaction and intention to continue e-shopping. J. Bus. Res. 2022, 142, 1–16. [CrossRef]
+
+37. Lee, H.; Choi, S.Y.; Kang, Y.S. Formation of e-satisfaction and repurchase intention: Moderating roles of computer self-efficacy
+
+and computer anxiety. Expert Syst. Appl. 2009, 36, 7848–7859. [CrossRef]
+
+38. Rodríguez, P.G.; Villarreal, R.; Valiño, P.C.; Blozis, S. A PLS-SEM approach to understanding E-SQ, e-satisfaction and e-loyalty for
+
+fashion e-retailers in Spain. J. Retail. Consum. Serv. 2020, 57, 102–201. [CrossRef]
+
+39. Tapadinhas, R.; Pereira, L.; Geraldes, J.; Gonçalves, R.; Dias, Á.; Costa, R.L.D. Customer journey in fashion industry: Online or
+
+40.
+
+41.
+
+offline. Int. J. Serv. Oper. Inform. 2022, 12, 87–118. [CrossRef]
+Soyeun, L.; Han, H.; Radic, A.; Tariq, B. Corporate social responsibility (CSR) as a customer satisfaction and retention strategy in
+the chain restaurant sector. J. Hosp. Tour. Manag. 2020, 45, 348–358. [CrossRef]
+Saoula, O.; Shamim, A.; Norazah, M.S.; Munawar, J.A.; Muhammad, F.A.; Ataul, K.P.; Abbasi, A.Z. Building e-trust and e-retention
+in online shopping: The role of website design, reliability and perceived ease of use. Span. J. Mark. ESIC 2023, 27, 178–201.
+[CrossRef]
+
+42. Kim, J.; Jin, B.; Swinney, J. The role of retail quality, e-satisfaction and e-trust in online loyalty development process. J. Retail.
+
+Consum. Serv. 2009, 16, 239–247. [CrossRef]
+
+43. Djelassi, S.; Godefroit-Winkel, D.; Diallo, M.F. Does culture affect the relationships among utilitarian and non-utilitarian values,
+satisfaction and loyalty to shopping centers? Evidence from two Maghreb countries. Int. J. Retail. Distrib. Manag. 2018, 46,
+1153–1169. [CrossRef]
+
+44. Duarte, P.; Silva, S.C.; Ferreira, M.B. How convenient is it? Delivering online shopping convenience to enhance customer
+
+satisfaction and encourage e-WOM. J. Retail. Consum. Serv. 2018, 44, 161–169. [CrossRef]
+
+45. Pappas, I.; Pateli, G.; Giannakos, A.N.M.; Chrissikopoulos, V. Moderating effects of online shopping experience on customer
+
+satisfaction and repurchase intentions. Int. J. Retail. Distrib. Manag. 2014, 42, 187–204. [CrossRef]
+
+46. Giao, H.; Vuong, B.; Quan, T. The influence of website quality on consumer’s e-loyalty through the mediating role of e-trust and
+e-satisfaction: An evidence from online shopping in Vietnam. Uncertain Supply Chain. Manag. 2020, 8, 351–370. [CrossRef]
+47. Wood, S.L. Remote purchase environments: The influence of return policy leniency on two-stage decision processes. J. Mark. Res.
+
+2001, 38, 157–169. [CrossRef]
+
+48. Koufaris, M.; Kambil, A.; Labarbera, P.A. Consumer behavior in Web-based commerce: An empirical study. Int. J. Electron.
+
+Commer. 2001, 6, 115–138. [CrossRef]
+
+49. Li, Y.; Martínez-López, F.J.; Feng, C.; Chen, Y. Green Communication for More Package-Free Ecommerce Returns. J. Theor. Appl.
+
+Electron. Commer. Res. 2022, 17, 1450–1472. [CrossRef]
+
+50. Das, L.; Kunja, S.R. Why do consumers return products? A qualitative exploration of online product return behaviour of young
+
+consumers. J. Retail. Consum. Serv. 2024, 78, 103770. [CrossRef]
+
+51. Lantz, B.; Hjort, K. Real e-customer behavioral responses to free delivery and free returns. Electron. Commer. Res. 2013, 13, 183–198.
+
+[CrossRef]
+
+52. Ren, M.; Liu, J.; Feng, S.; Yang, A. Pricing and return strategy of online retailers based on return insurance. J. Retail. Consum. Serv.
+
+2021, 59, 102350. [CrossRef]
+
+53. Retail, A. Consumer Returns in the Retail Industry; Appriss Retail: Irvine, CA, USA, 2018.
+54.
+
+Su, X. Consumer returns policies and supply chain performance. Manuf. Serv. Oper. Manag. 2009, 11, 595–612. [CrossRef]
+
+Systems 2025, 13, 158
+
+17 of 18
+
+55.
+
+Jones, M.A.; Reynolds, K.E.; Mothersbaugh, D.L.; Beatty, S.E. The Positive and Negative Effects of Switching Costs on Relational
+Outcomes. J. Serv. Res. 2007, 9, 335–355. [CrossRef]
+
+56. Yu, Y.; Hye-Shin, K. Online retailers’ return policy and prefactual thinking: An exploratory study of USA and China e-commerce
+
+markets. J. Fash. Mark. Manag. 2019, 23, 504–518. [CrossRef]
+
+57. Li, D.; Li, Y.; Xu, L. Examining relationships between the return policy, product quality, and pricing strategy in online direct
+
+selling. Int. J. Prod. Econ. 2013, 144, 451–460. [CrossRef]
+
+58. Wood, A.T.; Anderson, C.H. The Case Study Method: Critical Thinking Enhanced by Effective Teacher Questioning Skills. In
+Proceedings of the Annual International Conference of the World Association for Case Method Research & Application, Lund,
+Sweden, 17–20 June 2001.
+
+59. Davis, S.; Hagerty, M.; Gerstner, E. Return policies and the optimal level of “hassle”. J. Econ. Bus. 1998, 50, 445–460. [CrossRef]
+60. Rogers, D.S.; Tibben-Lembke, R.S. Going Backwards: Reverse Logistics Trends and Practices; Reverse Logistics Executive Council:
+
+Alpharetta, GA, USA, 1999.
+
+61. Mukhopadhyay, S.K.; Setaputra, R. A dynamic model for optimal design quality and return policies. Eur. J. Oper. Res. 2007, 180,
+
+1144–1154. [CrossRef]
+
+62. Bonifield, C.; Cole, C.; Schultz, R.L. Product returns on the internet: A case of mixed signals? J. Bus. Res. 2010, 63, 1058–1065.
+
+[CrossRef]
+
+63. Zhang, L.; Tan, W.; Xu, Y.; Tan, G. Dimensions of consumers’ perceived risk and their influences on online consumers’ purchasing
+
+behavior. Commun. Inf. Sci. Manag. Eng. 2012, 2, 1–10.
+
+64. Chen, Y.; Yan, X.; Fan, W. Examining the effects of decomposed perceived risk on consumer’s online shopping behavior: A field
+
+study in China. Eng. Econ. 2015, 26, 315–326. [CrossRef]
+
+65. Cox, D.F.; Rich, S.U. Perceived risk and consumer decision-making-the case of telephone shopping. J. Mark. Res. 1964, 1, 32–39.
+
+[CrossRef]
+
+66. Preibusch, S.; Peetz, T.; Acar, G.; Berendt, B. Shopping for privacy: Purchase details leaked to PayPal. Electron. Commer. Res. Appl.
+
+67.
+
+2016, 15, 52–64. [CrossRef]
+Faqih, K.M. Exploring the influence of perceived risk and internet self-efficacy on consumer online shopping intentions:
+Perspective of technology acceptance model. Int. Manag. Rev. 2013, 9, 67–77.
+
+68. Peng, H.; Jiang, W.; Su, R. The effect of service guarantee strength on service quality of online merchants. Int. J. Serv. Technol.
+
+Manag. 2016, 22, 4–17. [CrossRef]
+
+69. Udo, G.J.; Bagchi, K.K.; Kirs, P.J. An assessment of customers’e-service quality perception, satisfaction and intention. Int. J. Inf.
+
+Manag. 2010, 30, 481–492. [CrossRef]
+
+70. Mortimer, G.; Fazal-e-Hasan, S.M.; Grimmer, M.; Grimmer, L. Explaining the impact of consumer religiosity, perceived risk and
+
+moral potency on purchase intentions. J. Retail. Consum. Serv. 2020, 55, 102–115. [CrossRef]
+
+71. Miao, M.; Jalees, T.; Zaman, S.I.; Khan, S.; Hanif, N.U.A.; Javed, M.K. The influence of e-customer satisfaction, e-trust and
+perceived value on consumer’s repurchase intention in B2C e-commerce segment. Asia Pac. J. Mark. Logist. 2022, 34, 2184–2206.
+[CrossRef]
+
+72. Guru, S.; Nenavani, J.; Patel, V.; Bhatt, N. Ranking of perceived risks in online shopping. Decision 2020, 47, 137–152. [CrossRef]
+73. Urvashi, T.; Amit, M.; Sridhar, M. Examining the impact of intangible product features and e-commerce institutional mechanics
+
+on consumer trust and repurchase intention. Electron. Mark. 2021, 31, 945–964. [CrossRef]
+
+74. Han, F.; Li, B. Exploring the effect of an enhanced e-commerce institutional mechanism on online shopping intention in the
+
+75.
+
+context of e-commerce poverty alleviation. Inf. Technol. People 2020, 34, 93–122. [CrossRef]
+Sharma, H.; Aggarwal, A.G. Finding determinants of e-commerce success: A PLS-SEM approach. J. Adv. Manag. Res. 2019, 16,
+453–471. [CrossRef]
+
+76. Ringle, C.M.; Wende, S.; Becker, J.-M. SmartPLS 4. Bönningstedt: SmartPLS. 2024. Available online: https://www.smartpls.com
+
+(accessed on 1 March 2024).
+
+77. Hair, J.F.; Hult, G.M.; Ringle, C.; Sarstedt, M. A Primer on Partial Least Squares Structural Equation Modeling; Sage Publications:
+
+Thousand Oaks, CA, USA, 2017.
+
+78. Bagozzi, R.P.; Yi, Y. On the evaluation of structural equation models. J. Acad. Mark. Sci. 1988, 16, 74–94. [CrossRef]
+79.
+
+Fornell, C.; Larcker, D.F. Evaluating structural equation models with unobservable variables and measure ment error. J. Mark. Res.
+1981, 18, 39–50. [CrossRef]
+
+80. Henseler, J.; Ringle, C.M.; Sarstedt, M. A new criterion for assessing discriminant validity in variance-based structural equation
+
+modeling. J. Acad. Mark. Sci. 2015, 43, 115–135. [CrossRef]
+Falk, R.F.; Miller, N.B. A Primer for Soft Modelling; University of Akron Press: Akron, OH, USA, 1992.
+
+81.
+82. D’Alessandro, S.; Girardi, A.; Tiangsoongnern, L. Perceived risk and trust as antecedents of online purchasing behavior in the
+
+USA gemstone industry. Asia Pac. J. Mark. Logist. 2012, 24, 433–460. [CrossRef]
+
+Systems 2025, 13, 158
+
+18 of 18
+
+83. Karim, K.S.; Islam, M.E.; Ibrahim, A.M.; Pan, S.H.; Rahman, M.M. Online Marketing Trends and Purchasing Intent Advances in
+
+Customer Satisfaction through PLS-SEM and ANN Approach. Adv. Decis. Sci. 2023, 27, 24–54.
+
+84. Demirel, D. The effect of service quality on customer satisfaction in digital age: Customer satisfaction based examination of
+
+digital CRM. J. Bus. Econ. Manag. 2022, 23, 507–531. [CrossRef]
+
+85. Tandon, U.; Ravi, K.; Sah, A.N. The influence of website functionality, drivers and perceived risk on customer satisfaction in
+
+online shopping: An emerging economy case. Inf. Syst. Ebusiness Manag. 2018, 16, 57–91. [CrossRef]
+
+86. Chang, S.H.; Chih, W.H.; Liou, D.K.; Yang, Y.T. The mediation of cognitive attitude for online shopping. Inf. Technol. People 2016,
+
+29, 618–646. [CrossRef]
+
+87. AlSokkar, A.A.; Law, E.L.C.; AlMajali, D.A.; Al-Gasawneh, J.A.; Alshinwan, M. An Indexed Approach for Expectation-
+
+Confirmation Theory: A Trust-based model. Electron. Mark. 2024, 34, 12. [CrossRef]
+
+88. Li, N.; Zhang, P. Consumer online shopping attitudes and behavior: An assessment of research. In Proceedings of the AMCIS
+
+2002 Proceedings, Dallas, TX, USA, 9–11 August 2002.
+
+89. Hofstede, G. Culture’s Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations; Sage Publications:
+
+Thousand Oaks, CA, USA, 2001.
+
+90. Kim, Y.; Peterson, R.A. A meta-analysis of online trust relationships in e-commerce. J. Interact. Mark. 2017, 38, 44–54. [CrossRef]
+91.
+
+Slovic, P. The Feeling of Risk: New Perspectives on Risk Perception; Routledge: London, UK, 2010.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+

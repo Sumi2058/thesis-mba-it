@@ -1,0 +1,1550 @@
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+Factors Affecting the Online Purchase Decision in the Nepalese 
+Context 
+
+Raju Bhai Manandhar
+Faculty of Management 
+Tribhuvan University, Nepal 
+raju.manandhar@pyc.tu.edu.np 
+
+Padam Dongol
+
+Faculty of Management 
+Kathmandu Bernhardt College 
+padamdongol2000@gmail.com 
+
+Dhan Raj Chalise*
+Assistant Professor 
+Tribhuvan University, Nepal 
+chalisedr@shankerdevcampus.edu.np  
+
+Eirika Manandhar
+Research Scholar 
+University of Wolverhampton, UK 
+e.manandhar@wlv.ac.uk  
+
+Milan Katwal
+Computer Engineer 
+Kantipur City College 
+milankatwal@kcc.edu.np 
+
+Corresponding Author* 
+Original Research 
+Received: October 14, 2024 
+
+Copyright: Author(s), (2025) 
+
+Revised & Accepted: April 20, 2025 
+
+  This work is licensed under a Creative Commons Attribution-Non Commercial 
+
+4.0 International License. 
+
+Abstract 
+Background: Online shopping has made it simpler to purchase a wide variety of products and 
+get them delivered directly to the doorsteps.  It  has  been  growing  due  to  the  expansion  of 
+Internet facilities and the busy schedule of people. The study was conducted to identify the 
+influencing factors of online purchase decisions.   
+Methods:  The  study  was  conducted  among  the  447  consumers  living  in  the  Kathmandu 
+Valley. The study was based on the quantitative descriptive and explanatory research design. 
+
+196 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+The  study  adopted  the  simple  random  sampling  technique  to  select  the  respondent.  The 
+structured  survey  questionnaire  was  used  to  collect  the  data.  Validity  and  reliability  were 
+ensured by measuring the Cronbach’s Alpha test (.825). Frequency distribution,  mean, and 
+regression are used to analyze the data.  
+Results:  Results  show  positive  perceptions  across  key  dimensions,  including  convenience, 
+well-designed websites, time-saving, security, and diverse product variety in online shopping. 
+However,  there  is  room  for  improvement  in  after-sales  service  and  product  quality.  The 
+ANOVA  results  show  a  statistically  significant  relationship  between  convenience,  product 
+quality, and website (p < 0.001), and other predictors like security, after-sales services, and 
+product varieties (p < 0.005). 
+Conclusion:  The  overall  positive  sentiment,  as  indicated  by  the  average  mean  score, 
+underscores  the  favorable  outlook  of  respondents  towards  the  online  shopping  experience, 
+providing businesses with insights into areas of strength and potential enhancement. 
+Novelty: the study has statistically measured the effect of different factors on online purchase 
+decisions. These insights can help businesses optimize online shopping experiences and drive 
+consumer engagement. 
+
+Keywords: Convenience, product quality, product variety, security, time-saving, websites 
+
+1. Introduction 
+
+Online Shopping in Nepal is still in the primitive stages. Online shopping has made it simpler 
+to purchase a wide variety of products and get them delivered directly to the doorsteps. It is still 
+in practice of  searching,  comparing,  and  evaluating  products  and services  before purchasing 
+inside Kathmandu Valley, it is getting accepted by many where smaller startups try to earn their 
+place. In the context of Nepal, people living outside the valley still prefer to see and feel the 
+goods before buying them.  
+Online shopping behavior in Nepal has been growing due to the expansion of Internet facilities, 
+cost reduction by Internet service providers, and the changing lifestyle of the urban teenage 
+population. The major online companies (e-commerce) in Nepal are working as Business-to-
+Consumer (B2C) or Consumer-to-Consumer (C2C) model businesses (Vaidya, 2019). A study 
+found that 66.0% of people believe that there are challenges while shopping online in Nepal 
+(Devkota et al., 2021). Some of the main challenges include product delivery issues and the 
+quality  of  products  delivered  (Vaidya,  2019).  Convenience  is  the  most  attractive  and 
+influencing factor for online shoppers in Kathmandu Valley, followed by security and time-
+saving.  Besides  that,  website  design  and  features  are  important  concerns  among  online 
+shoppers in Nepal (Gaudel, 2019). Similarly, the service quality provided by online companies 
+has  made  Nepalese  customers  prefer  online  shopping.  Online  shopping  preferences  among 
+experienced  and  inexperienced  customers  have  been  studied,  revealing  differences  in  their 
+choices  and  behavior.  Some  of  the  problems  faced  by  customers  while  online  shopping  in 
+Nepal include the delivery of wrong products and issues with product quality (Vaidya, 2019).  
+
+Numerous research articles have examined the factors influencing decisions to make purchases 
+online. Purchase decisions are heavily influenced by brand image, pricing, word-of-mouth, and 
+advertisement, according to a Bekasi Shopee survey (Syahtidar et al., 2022). Price, promotion, 
+product design/style, product quality, brand image, information availability, seller credibility, 
+product  diversity,  simplicity  of  use,  and  service  quality  were  all  found  to  be  significant 
+
+197 
+
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+influencing  factors  in  another  study  on  online  clothes  purchases  (Purwaningtyas  &  Rahadi, 
+2021). In addition, a study on on-page search engine optimization emphasized the importance 
+of psychological variables including motivation, perception, attitude, integration, and learning 
+in  the  decision-making  process  of  online  shoppers  (Sujata  et  al.,  2016).  Businesses  and 
+marketers aiming to comprehend and enhance the online purchasing decision-making process 
+will find great insights in these studies. A study by Kidane & Sharma, (2016) acknowledged 
+factors impacting purchasing decisions in the realm of online shopping, as identified in various 
+literature, include elements like trust, satisfaction, return policy, cash on delivery, after-sale 
+service,  cash-back  warranty,  business  reputation,  and  both  social  and  individual  attitudes. 
+According to the study of Melamphaid et al., the key personal factors that influence consumers' 
+buying  behavior  via  online  media  include  product  factors,  price,  distribution  channels, 
+marketing  promotion,  and  technology  acceptance.  These  factors  affect  the  decision  to  buy 
+products  via  online  media,  such  as  Instagram,  and  can  impact  the  overall  success  of  e-
+commerce strategies, Meedanphai et al., (2023). Santhosh, (2021) study identified three key 
+determinants  shaping  online  consumers'  decision-making  processes  in  the  realm  of  men's 
+fashion  accessories.  First,  product  information  and  involvement  play  a  pivotal  role,  with 
+consumers  considering  factors  like  product  features,  quality,  and  price,  alongside  their 
+connection  or  need  for  the  item.  Second,  external  stimuli,  encompassing  advertising, 
+promotions,  and  recommendations  from  friends  or  family,  significantly  impact  consumer 
+choices. Lastly, social influence emerges as a crucial factor, with online reviews, social media 
+influencers, and celebrity endorsements wielding substantial sway over consumers' preferences 
+in men's fashion accessory purchases.  
+Kidane and Sharma  (2016) investigates the  e-commerce purchasing  behaviors of customers 
+across various locations and cultures and incorporates trust, satisfaction, return policy, cash on 
+delivery, post-sales service, refund guarantee, business reputation, and societal and personal 
+perspectives  to  be  causal  within  a  structured  framework  derived  from  research  on  online 
+purchasing behavior. The studies validate these characteristics restricts the research, making 
+their impact difficult to evaluate. 
+
+Wen (2009) highlights the significance of client trust, perception of attitude, and pleasure in 
+the design of e-commerce websites. The study elucidates how website design influences online 
+travel  purchasing  behavior. The study's  rigorous methodology  in  digital  commerce within a 
+specific  industry  guarantees  its  robustness,  making  it  particularly  beneficial  for  hotel  and 
+tourism  firms.  The  findings  may  not  be  applicable  beyond  the  travel  industry,  as  various 
+industries may be influenced by distinct factors affecting online purchasing. 
+
+Chalise (2021) analyzes the role of relationship marketing in securing banks' return on equity 
+(ROE). The identifies close connection between banks and society, positing that relationship 
+marketing is essential for financial success. Study further reflects that relationship marketing's 
+impact on financial performance, which is a significant advantage and emphasis on external 
+macroeconomic factors influencing ROE constrains its financial success potential. 
+
+The research gap in the existing findings is evident in the limited exploration of the specific 
+factors contributing to the online purchase decision in Nepal. While the study by Devkota et 
+al.,  (2021)  acknowledges  a  substantial  percentage  (66.0%)  perceiving  challenges  in  online 
+shopping, it broadly mentions issues such as product delivery problems and product quality 
+
+198 
+
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+without delving into the root causes or specific dimensions of these challenges. There is a gap 
+in  understanding  the  influencing  factors  of  online  purchase  and  its  impact  on  purchase 
+decisions. So, the major problem of this research is to identify the influencing factors of online 
+shopping  and  its  impact  on  online  purchase  decisions.    More  specifically,  this  study  is 
+concerned with answering the following questions. 
+
+1.  What are the influencing factors for consumers during online purchase decision in 
+
+Nepal? 
+
+2.  Do the demographic factors affect consumer online purchase decisions? 
+3.  Do the Convenience, Website Information, Time, Security, After Sales Service, Product 
+Quality, and Product Varieties affect the online purchasing decision among Nepalese 
+consumers? 
+
+2.  Methodology 
+
+The study is based on a quantitative research design. The descriptive research design is adopted 
+for fact-finding and searching for adequate information about factors affecting online shopping. 
+The population of this study was those people who were involved in online shopping. The study 
+selected a representative sample size from the target population. The study has calculated the 
+sample size considering the 95% confidence level, 5% margin of error, and 50% prevalence so 
+the total sample size is 384 for the questionnaire survey, but the study collected 20% additional 
+data to minimize the measurement error, among the total collected clean data became 447 so 
+the same number of respondents were considered as a final sample size. The study adopted the 
+simple random sampling technique to select the respondent who are different users of online 
+shopping,  who  has  complete  knowledge  and  experience  about  online  shopping.  Some 
+academics  have  examined  how  one  or  more  factors  affect  internet  purchases.  Data  was 
+collected via questionnaires and analyzed using factor and regression analysis  (Hong et al., 
+2020). Thus, this study uses descriptive research and regression analysis. 
+
+The major source of data was primary data. The primary data were collected through survey 
+questionnaires, which consisted of structured questions (Manandhar, 2021). In this study, the 
+primary source of data was collected from the consumers involved in online shopping. Data 
+was collected from the face-to-face interviews with respondents following the guidelines of the 
+survey  questionnaire.  The  measurement  item  of  the  selected  variables  was  adopted  from 
+Parasuraman,  Zeithaml,  and  Berry  (1988),Wei  and  Xiao  (2011).  These  instruments  were 
+modified  to  capture  the  perception  of  the  Nepalese  context.  It  took  almost  three  months  to 
+collect 447 data. The study has performed a reliability test by calculating the Cronbach’s Alpha 
+test. The statistical value of Cronbach’s Alpha is .825 (82.5%) which ensured the adequacy of 
+sample size as well as excellent internal consistency of data.  
+
+The  collected  data  is  logically  and  systematically  recorded  into  the  SPSS  and  statistically 
+analyzed  as  the  requirement  of  the  research  objective.  Statistical  models  like  frequency 
+distribution, mean calculation, and regression were done to analyze the descriptive status as 
+well  as  to  identify  the  inter-correlation  between  the  influencing  factors,  and  the  purchase 
+decision. 
+
+199 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+3.  Results 
+
+The study has measured the frequency distribution of each statement; it measures from strongly 
+disagree to agree on a point Likert scale. Each statement's mean or average score is calculated 
+based on the responses.  The mean is  a numerical  representation  of the overall sentiment or 
+perception of respondents regarding each statement. In this case, it appears to be on a scale 
+where higher values indicate a more positive perception of online shopping convenience. 
+
+3.1.Demographic Profile of the Respondents 
+
+The data presented in Table 1 gives the frequency and percentage distributions offer insights 
+
+into  the  distribution  of  individuals  across  different  categories  of  sex,  education,  and 
+
+employment  while  the  descriptive  statistics  provide  a  summary  of  the  central  tendency, 
+
+variability, and distribution of age and monthly income in the given sample. 
+
+Table 1 
+ Demographic information of respondents 
+
+Frequency 
+Percent 
+
+Male 
+223 
+49.9 
+
+Gender 
+Female 
+224 
+50.1 
+
+Frequency 
+Percent 
+
+Under 
+SEE 
+46 
+10.3 
+
+SEE/SLC 
+Pass 
+141 
+31.5 
+
+Frequency 
+Percent 
+
+Employed 
+276 
+61.7 
+
+Education 
++2 
+
+Bachelor  Master & 
+
+above 
+29 
+6.5 
+
+163 
+36.5 
+
+68 
+15.2 
+Employment 
+Unemployed 
+171 
+38.3 
+
+Total 
+447 
+100.0 
+
+Total 
+
+447 
+100. 
+
+Total 
+447 
+100.0 
+
+Age 
+Monthly Income 
+
+Descriptive Statistics of Age and Monthly Income 
+Maximum 
+66.00 
+400000 
+
+Mean 
+26.737 
+27937.722 
+
+Minimum 
+16.00 
+8000 
+
+Std. Deviation 
+8.833 
+37226.15 
+
+Source: Field Survey 2023 
+
+Table 1 shows a demographic profile of 447 persons with two numerical variables: Age and 
+Monthly Income as well as three qualitative variables: Sex, Education, and Employment. Men 
+account  for  49.9%  and  women  for  50.1%,  hence  the  sample  shows  almost  equal  gender 
+distribution. Education levels vary; SEE/SLC Pass and +2 are the main categories; 31.5% and 
+36.5%  of  the  sample  respectively.  Employment  figures  show  that  38.3%  of  people  are 
+unemployed and 61.7% of people are working. With a mean of 26.74 and a standard deviation 
+of 8.83, descriptive data for age show a range from 16 to 66 years, therefore exhibiting modest 
+variability.  
+
+200 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+Monthly  income  exhibits  considerable  variability,  with  figures  spanning  from  8,000.00  to 
+400,000.00.  The  average  income  is  27,937.72,  with  a  standard  deviation  of  37,226.15, 
+reflecting significant  economic variability within the sample. Although  speed is  significant, 
+businesses should equilibrate it with product reliability and robust customer support to improve 
+overall service quality. 
+
+3.2.Descriptive Analysis of the Study Variables 
+
+Convenience 
+Convenience is one influencing factor of online shopping, which is measured by this study. 
+Convenience plays a pivotal role in online shopping, serving as a key motivator for consumers 
+to engage in digital retail experiences. The allure of convenience lies in the ability of online 
+platforms to offer a seamless and time-efficient shopping process. Consumers appreciate the 
+freedom to browse a diverse array of products from the comfort of their homes, eliminating the 
+need  for  physical  travel  to  brick-and-mortar  stores.  The  ease  of  navigation,  user-friendly 
+interfaces,  and  swift  transaction  processes  contribute  to  the  overall  convenience  of  online 
+shopping.  Additionally,  advancements  in  technology,  such  as  mobile  apps  and  responsive 
+websites,  further  enhance  the  accessibility  of  online  retail,  allowing  consumers  to  make 
+purchases at their convenience, irrespective of time or location. The convenience factor extends 
+beyond the purchase stage, encompassing efficient delivery services, hassle-free returns, and 
+responsive after-sales support. In essence, the symbiotic relationship between convenience and 
+online shopping has reshaped consumer behavior, making digital platforms an indispensable 
+and  preferred  choice  for  modern  consumers  seeking  streamlined  and  time-saving  retail 
+experiences. 
+
+Table 2 
+Descriptive Statistics of Convenience 
+SN  Statements 
+
+1.    I get on-time delivery by 
+
+shopping online  
+
+2.    Detail information is available 
+while shopping online  
+
+D 
+
+SD 
+Convenience  
+
+N 
+
+A 
+
+SA 
+
+Mean 
+
+3.4%  19.5%  30.6%  30.0%  16.6%  3.3691 
+
+2.2%  15.4%  31.5%  27.1%  23.7%  3.5459 
+
+3.    I can buy the products anytime   1.1% 
+4.    online shopping is available 24 
+
+7.4%  20.4%  35.6%  35.6%  3.9709 
+
+4.5%  18.1%  20.8%  31.1%  25.5%  3.5503 
+
+hours a day  
+
+5.    It is easy to choose and make 
+comparisons with other 
+products while shopping 
+online  
+
+0.9%  14.1%  50.8%  23.3%  11.0%  3.2931 
+
+Source: Field Survey 2023 
+To illustrate using the first statement (I get on-time delivery by shopping online), the majority 
+of  respondents  (30.6%)  strongly  agree  that  they  get  on-time  delivery  by  shopping  online, 
+followed by 30.0% who agree, 16.6% who are neutral, 19.5% who disagree, and 3.4% who 
+strongly disagree. The mean score for this statement is 3.3691, suggesting a generally positive 
+perception of on-time delivery in online shopping. 
+
+201 
+
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+Website Design/Features 
+Table 3 provides insights into users' perceptions of website design and features, indicating their 
+preferences  and  attitudes  towards  online  shopping  experiences.  The  table  presents  survey 
+responses related to customers' perceptions of website design and features in online shopping. 
+Each  statement  (SN)  addresses  specific  aspects  of  website  functionality,  and  respondents 
+provided feedback on a five-point scale ranging from strongly disagree (SD) to strongly agree 
+(SA). In the first statement (SN 6), 3.1% of respondents strongly disagreed, 28.2% disagreed, 
+35.3% were neutral, 33.3% agreed, and the mean score was 3.9888. Similarly, the subsequent 
+statements (SN 7-10) cover topics such as safety, ease of order, website layout, familiarity with 
+the  website,  and  information  about  product  quality.  For  instance,  in  SN  9,  the  majority  of 
+respondents strongly agreed (53.9%) that familiarity with the website reduces the risk of online 
+shopping. Overall, the mean scores provide a numerical summary, indicating the average level 
+of  agreement  or  disagreement  for  each  statement.  The  findings  suggest  that  respondents 
+generally value website features that enhance product search, safety, layout, familiarity, and 
+information  provision,  offering  insights  into  key  factors  influencing  online  purchasing 
+decisions. 
+
+Table 3 
+Descriptive Statistics of Website Design/Features 
+SN  Statements 
+
+SD 
+
+D 
+
+N 
+
+A 
+
+SA 
+
+Mean 
+
+Website Design  
+
+6.    The website design helps me 
+
+search the products easily  
+7.    While shopping online, I prefer 
+to purchase from a website that 
+provides safety and ease of 
+order  
+
+8.    The website layout helps me in 
+searching and selecting the right 
+product while shopping online  
+
+9.    I believe that familiarity with 
+the website before making an 
+actual purchase reduces the risk 
+of shopping online  
+
+10.   I prefer to buy from a website 
+
+that provides me with adequate 
+information about the quality of 
+products  
+
+Source: Field Survey 2023 
+
+3.1%  28.2%  35.3%  33.3%  3.9888 
+
+0.4%  5.1%  42.5%  25.5%  26.4%  3.7226 
+
+0.2%  5.4%  36.2%  31.8%  26.4%  3.7875 
+
+1.1%  6.5%  17.9%  20.6%  53.9%  4.1969 
+
+0.9%  6.5%  34.5%  26.6%  31.5% 
+
+3.8143 
+
+The  "Mean"  column  represents  the  average  score  for  each  statement,  with  higher  values 
+indicating  stronger  agreement  with  the  statement.  For  instance,  statement  9  (I  believe  that 
+familiarity  with  the  website  before  making  an  actual  purchase  reduces  the  risk  of  shopping 
+online) has the highest mean score of 4.1969, indicating strong agreement with the belief that 
+familiarity with the website reduces the risk of online shopping. 
+
+202 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+Time-Saving 
+Time-saving was taken as one influencing factor of online shopping and asked three questions 
+under  this  variable.  Online  purchasing  saves  time  for  consumers  through  its  convenience, 
+accessibility, and efficient features. The ability to shop from anywhere at any time eliminates 
+the  need  for  physical  travel  to  stores,  and  advanced  search  options  make  finding  products 
+quicker  and  more  straightforward.  Online  platforms  enable  swift  comparisons  of  products, 
+prices, and reviews, facilitating faster decision-making. With 24/7 availability, consumers can 
+shop at their convenience, and the streamlined checkout process, along with features like virtual 
+shopping  carts  and  wish  lists,  reduces  the  overall  time  spent  on  transactions.  Additionally, 
+home delivery services eliminate the need for consumers to make separate trips to pick up their 
+purchases, further enhancing the time-saving benefits of online shopping. Overall, the online 
+shopping experience is designed to cater to the fast-paced lifestyles of consumers, offering a 
+time-efficient alternative to traditional brick-and-mortar stores. 
+
+Table 4 
+Descriptive Statistics of Time-Saving 
+SN  Statements 
+
+1.    Online shopping takes less 
+
+time to purchase  
+
+2.    Online shopping doesn’t waste 
+
+time  
+
+3.    I feel that it takes less time to 
+evaluate and select a product 
+while shopping online  
+
+Source: Field Survey 2023 
+
+D 
+
+SD 
+Time-Saving  
+
+N 
+
+A 
+
+SA 
+
+Mean 
+
+4.5%  31.3%  31.1%  33.1%  3.9284 
+
+0.2%  19.0%  29.1%  25.5%  26.2%  3.5839 
+
+1.1%  11.2%  35.6%  28.0%  24.2%  3.6286 
+
+The majority of respondents either agree or strongly agree that online shopping takes less time 
+to  purchase,  with  33.1%  strongly  agreeing.  The  mean  score  of  3.9284  suggests  an  overall 
+positive perception that online shopping is time-saving for purchasing. Similarly, the majority 
+of  respondents  either  agree  or  strongly  agree  that  online  shopping  doesn't  waste  time,  with 
+26.2% strongly agreeing. However, there is a noticeable portion (29.1%) of respondents who 
+are  neutral  on  this  statement.  The  mean  score  of  3.5839  indicates  a  generally  positive 
+perception  that  online  shopping  is  not  time-wasting.  Additionally,  A  significant  portion  of 
+respondents  (35.6%)  is  neutral  on  whether  online  shopping  takes  less  time  to  evaluate  and 
+select a product. However, there is a positive sentiment among those who agree or strongly 
+agree, with 28.0% agreeing and 24.2% strongly agreeing. The mean score of 3.6286 suggests 
+a  moderately  positive  perception  of  time-saving  in  the  process  of  evaluating  and  selecting 
+products online. 
+
+In  general,  respondents  generally  perceive  online  shopping  as  time-saving,  with  positive 
+sentiments toward various aspects of time efficiency in the online shopping process. However, 
+there are variations in the level of agreement across different statements. 
+
+Security 
+Security of life and property is one major concern of people so people try to be safe during 
+
+203 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+shopping  time.  People  may  guess  the  economic  status  of  people  evaluating  their  shopping 
+capacity so negative people may follow with a negative plan. In this concern, online shopping 
+has ensured the safety and security of people by providing door-to-door service through online 
+systems. Online shopping platforms employ various measures to ensure customers' personal 
+and  financial  information  security.  Secure  Socket  Layer  (SSL)  encryption  technology  is 
+commonly utilized to encrypt data transmitted between the user's device and the online store, 
+safeguarding sensitive information such as credit card details. Two-factor authentication adds 
+an  extra  layer  of  protection  by  requiring  users  to  verify  their  identity  through  a  secondary 
+method. Reputable online retailers also invest in robust cybersecurity systems and regularly 
+update their software to defend against evolving threats. Secure payment gateways, such as 
+those  provided  by  trusted  financial  institutions,  further  contribute  to  transaction  security. 
+Additionally, privacy policies and terms of service are in place to inform customers about how 
+their data will be handled and protected. Regular monitoring for suspicious activities, prompt 
+customer  support  for  security  concerns,  and  educating  users  about  best  practices  for  online 
+safety collectively contribute to a secure online shopping environment, instilling confidence in 
+customers and encouraging a safe and trustworthy digital shopping experience. 
+
+Table 5 
+Descriptive Statistics of Security 
+SN  Statements 
+
+1.    I feel personal safety and 
+
+security while shopping online  
+
+2.    Online Shopping protects my 
+
+financial security.  
+
+3.    Privacy is assured in online 
+
+transactions.  
+
+4.    I like to shop online from a 
+trustworthy website.  
+
+SD 
+
+D 
+
+Security  
+
+N 
+
+A 
+
+SA 
+
+Mean 
+
+0.9%  16.8%  41.4%  22.8%  18.1%  3.4049 
+
+3.8%  27.3%  32.2%  21.3%  15.4%  3.1723 
+
+0.9%  17.0%  42.3%  31.5% 
+
+8.3%  3.2931 
+
+0.9% 
+
+3.6%  18.3%  30.2%  47.0%  4.1879 
+
+Source: Field Survey 2023 
+The majority of respondents either agree or strongly agree that they feel personal safety and 
+security while shopping online, with  a higher  percentage in  the neutral  category. The mean 
+score  of  3.4049  suggests  a  generally  positive  perception  of  personal  safety  and  security  in 
+online shopping. 
+
+There  is  a  notable  portion  of  respondents  (32.2%)  in  the  neutral  category  regarding  the 
+statement that online shopping protects their financial security. However, a majority still either 
+agree or strongly agree, with a mean score of 3.1723 indicating a positive overall perception of 
+financial security in online shopping. 
+A significant portion of respondents (42.3%) is neutral about the assurance of privacy in online 
+transactions.  However,  a  majority  still  either  agree  or  strongly  agree,  with  a  mean  score  of 
+3.2931 indicating a moderately positive perception of privacy assurance in online transactions. 
+The majority of respondents strongly agree that they like to shop online from a trustworthy 
+website. The mean score of 4.1879 indicates a very positive perception of the importance of 
+trustworthiness in online shopping. 
+
+204 
+
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+After-sales service 
+Table 6 provides a detailed breakdown of respondents' opinions on various aspects of after-
+sales service, offering insights into areas where the company may be performing well or where 
+improvements  might  be needed.  After-sales  services  play  a  crucial  role  in  online  shopping, 
+contributing  significantly  to  customer  satisfaction  and  loyalty.  One  of  the  key  aspects  is 
+customer support, which addresses post-purchase inquiries, concerns, and issues. Responsive 
+and effective customer support helps build trust, ensuring that customers feel supported even 
+after  the  transaction  is  completed.  Additionally,  after-sales  services  encompass  product 
+warranties,  guarantees,  and  return  policies,  offering  consumers  a  safety  net  in  case  they 
+encounter problems with their purchases. This assurance can encourage hesitant customers to 
+make a purchase, knowing that they have options for resolution if needed. Moreover, after-
+sales services contribute to the overall customer experience, influencing a buyer's decision to 
+repeat  business  with  a  particular  online  retailer.  Positive  after-sales  experiences  can  lead  to 
+favorable  reviews  and  recommendations,  which  are  valuable  in  the  competitive  online 
+marketplace.  In  essence,  after-sales  services  not  only  address  potential  issues  but  also 
+contribute  to  the  long-term  success  of  an  online  business  by  fostering  customer  trust  and 
+loyalty. 
+
+Table 6 
+Descriptive Statistics of After-sales service 
+SD 
+SN  Statements 
+
+D 
+
+N 
+
+A 
+
+SA 
+
+Mean 
+
+After-sales service  
+
+1.    They provide the 
+
+warranty/Guarantee card for 
+purchased goods  
+
+2.    There is a facility for returns 
+
+or replacement  
+3.    There is a facility for 
+
+assistance in maintenance or 
+installation  
+
+4.    They regularly do follow up 
+to know the functional status 
+of the purchased goods  
+
+Source: Field Survey 2023 
+
+18.6%  54.6%  17.7% 
+
+6.7% 
+
+2.5%  2.1991 
+
+11.0%  25.3%  27.3%  22.8%  13.6%  3.0291 
+
+28.2%  33.8%  27.5% 
+
+8.9% 
+
+1.6%  2.2192 
+
+3.8%  22.6%  44.5%  25.3% 
+
+3.8%  3.0268 
+
+findings 
+
+include  a  majority  agreement 
+
+Table 6 presents survey data on after-sales service, with each statement assigned to define the 
+after-sales  service.  Notable 
+that 
+warranty/guarantee cards are provided for purchased goods, while there is a mixed response 
+regarding  the  availability  of  returns  or  replacement  facilities.  Assistance  in  maintenance  or 
+installation receives a relatively positive response with 33.8% agreement. The highest mean 
+value (3.0268) is associated with the statement about regular follow-ups on the functional status 
+of  purchased  goods,  suggesting  a  generally  favorable  sentiment.  Overall,  the  data  offers 
+insights into specific strengths and areas for improvement in the company's after-sales service, 
+highlighting the importance of regular follow-ups as a notable positive aspect. 
+Product Quality 
+Product quality is a paramount factor that significantly influences and motivates customers to 
+engage  in  online  shopping.  High-quality  products  not  only  meet  but  exceed  customer 
+
+(54.6%) 
+
+205 
+
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+expectations, fostering trust and confidence in the online retail platform. When customers are 
+assured of the quality of the products they are purchasing, they are more likely to feel satisfied 
+with their online shopping experience and develop a positive perception of the brand. Positive 
+word-of-mouth recommendations and online reviews from satisfied customers further enhance 
+the credibility  of the online store. Repeat business  is  also  influenced by  product  quality,  as 
+customers who receive high-quality items are more likely to become loyal patrons, returning 
+for future purchases. Conversely, poor product quality can lead to negative reviews, returns, 
+and  a  loss  of  trust,  adversely  affecting  the  reputation  and  success  of  the  online  retailer. 
+Therefore, ensuring and promoting product quality is not only essential for meeting customer 
+expectations but is also a key driver in motivating and retaining customers in the competitive 
+landscape of online shopping. In this concern, this study measured the effect of product quality 
+in online shopping. Four questions were asked about product quality, as presented in Table 7.  
+
+Table 7 
+Descriptive Statistics of Product Quality 
+SN  Statements 
+
+SD 
+
+D 
+
+N 
+
+A 
+
+SA 
+
+Mean 
+
+1.    I can get the original product  
+2.    Images of products given on 
+
+the website are the same in 
+reality  
+
+3.    Goods are durable  
+4.    Internal materials are used as 
+expected by consumers   
+
+Product Quality  
+
+4.9%  19.0%  37.6%  29.5% 
+
+8.9%  3.1857 
+
+5.8%  18.1%  25.3%  42.7% 
+
+8.1%  3.2908 
+
+0.4% 
+
+3.8%  54.4%  30.2%  11.2%  3.4787 
+
+1.3%  16.8%  52.8%  23.7% 
+
+5.4%  3.1499 
+
+Source: Field Survey 2023 
+Table  7  provides  comprehensive  outlines  of  respondents'  perspectives  on  various  facets  of 
+product quality. Notably, in terms of obtaining the original product, there is a significant neutral 
+stance (37.6%), but a notable 29.5% agree that they can indeed acquire the original product. 
+Regarding the alignment of product images on the website with reality, a substantial 42.7% of 
+respondents agree, reflecting a positive sentiment. The highest mean value is associated with 
+the  statement  on  the  durability  of  goods,  indicating  a  prevalent  positive  perception  among 
+respondents. Similarly, respondents have expressed confidence (52.8%) that internal materials 
+align  with  their  expectations.  While  confidence  in  originality  and  internal  materials  is 
+moderately  positive,  the  overall  sentiment  toward  product  quality  is  notably  favorable, 
+particularly emphasizing durability and the accuracy of product representations on the website. 
+
+Product Varieties 
+The  importance  of  product  varieties  in  online  shopping  cannot  be  overstated,  as  it  directly 
+impacts the overall customer experience, satisfaction, and competitiveness of an online store. 
+A diverse range of products provides customers with a wide selection to choose from, catering 
+to different tastes, preferences, and needs. This variety enhances the likelihood of customers 
+finding precisely what they are looking for, increasing the chances of successful conversions. 
+A broad product assortment also contributes to customer retention, as shoppers are more likely 
+to return to a platform that consistently offers new and diverse options. It helps in building a 
+loyal customer base by accommodating the diverse preferences of a broad audience. 
+
+206 
+
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+Furthermore,  product  variety  is  crucial  for  tapping  into  different  market  segments  and 
+demographics.  Online  shoppers  have  varied  interests  and  requirements,  and  a  well-curated 
+selection of products ensures that the online store can attract a diverse customer base. In terms 
+of marketing and competitiveness, a wide product range allows online retailers to differentiate 
+themselves from competitors, demonstrating their ability to meet a broad array of consumer 
+needs.  This  can  lead  to  increased  visibility,  customer  acquisition,  and  ultimately,  business 
+success. 
+
+Table 8 
+Descriptive Statistics of Product Varieties 
+SD 
+SN  Statements 
+
+D 
+
+N 
+
+A 
+
+SA 
+
+Mean 
+
+Product Varieties  
+
+1.    There are varieties of products 
+
+available in the online 
+shopping market  
+
+2.    I can choose the items based 
+
+on their shape, size, color, 
+brand, and quality in the 
+online market.  
+
+3.    There is an availability of 
+
+economical products in the 
+online market  
+
+4.    There is no difference between 
+
+an online display product and 
+an actual physically obtained 
+product.  
+
+Source: Field Survey 2023 
+
+0.7% 
+
+2.5%  16.3%  31.8%  48.8%  4.2550 
+
+0.4% 
+
+5.1%  24.8%  29.1%  40.5%  4.0403 
+
+1.8%  15.7%  43.4%  27.7%  11.4%  3.3132 
+
+2.2%  17.4%  28.9%  41.4%  10.1%  3.3960 
+
+Table  8  provides  a  comprehensive  overview  of  respondents'  perceptions  regarding  product 
+varieties in the online shopping market. According to the data, a significant majority (48.8%) 
+strongly agree that there are diverse product offerings available, as reflected in the notably high 
+mean  value  of  4.2550.  Respondents  express  a  considerable  level  of  satisfaction  with  their 
+ability to select items based on various attributes such as shape, size, color, brand, and quality, 
+with a substantial 40.5% strongly agreeing and a high mean value of 4.0403. Regarding the 
+availability  of  economical  products,  a  significant  43.4%  agree,  contributing  to  an  overall 
+positive  sentiment  with  a  mean  value  of  3.3132.  Furthermore,  respondents  are  generally 
+confident  that  there  is  a  minimal  disparity  between  the  online  display  of  products  and  the 
+physical items obtained, as indicated by the 41.4% agreement and a relatively high mean value 
+of  3.3960.  In  summary,  the  data  underscores  a  positive  perception  of  the  online  shopping 
+market, highlighting the abundance of product varieties, the ease of selection based on diverse 
+criteria, the availability of economical options, and the alignment between online displays and 
+actual products. 
+
+Overall, the importance of product varieties in online shopping lies in its ability to enhance 
+customer satisfaction, retention, market reach, and competitiveness, making it a vital aspect of 
+
+207 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+a successful online retail strategy. 
+
+Mean Value
+
+3.5459
+
+3.9020
+
+3.7136
+
+3.5146
+
+3.7511
+
+3.4746
+
+3.2763
+
+2.6186
+
+4.5000
+
+4.0000
+
+3.5000
+
+3.0000
+
+2.5000
+
+2.0000
+
+1.5000
+
+1.0000
+
+0.5000
+
+0.0000
+
+Convenience Website
+Design
+
+Time-Saving
+
+Security
+
+After-sales
+service
+
+Product
+Quality
+
+Product
+Varieties
+
+Average
+Mean
+
+Figure 1 
+Mean value of influencing factors of online shopping 
+Source: Field Survey 2023 
+The graph represents the mean scores assigned by respondents to various factors related to their 
+online shopping experience. Here is an interpretation of each factor: 
+
+Convenience  (3.5459):  Respondents,  on  average,  find  online  shopping  to  be  convenient, 
+suggesting that factors such as ease of navigation and accessibility contribute positively to their 
+experience. 
+
+Website  Design  (3.9020):  The  high  mean  score  indicates  that  respondents  perceive  online 
+shopping websites as well-designed, possibly emphasizing the importance of an intuitive and 
+visually appealing interface. 
+
+Time-Saving (3.7136): The average score suggests that respondents believe online shopping 
+saves them time, underscoring the efficiency and convenience associated with  this mode of 
+shopping. 
+Security (3.5146): The moderate score indicates a reasonably positive perception of the security 
+measures implemented in online shopping platforms, emphasizing the importance of trust and 
+safety in the online shopping experience. 
+
+After-sales service (2.6186): The lower mean score suggests that respondents, on average, are 
+less satisfied with after-sales service. This could indicate room for improvement in areas such 
+as warranty support, returns, and customer assistance. 
+
+Product Quality (3.2763): While still positive, the lower mean score compared to some other 
+factors  suggests  that  respondents  perceive  online  product  quality  slightly  less  favorably, 
+highlighting potential areas for enhancement. 
+
+208 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+Product  Varieties  (3.7511):  The  high  mean  score  indicates  that  respondents  appreciate  the 
+variety of products available online, emphasizing the importance of a diverse product selection 
+in shaping their online shopping experience. 
+Average  Mean  (3.4746):  This  is  the  overall  average  mean  score,  reflecting  the  aggregated 
+sentiment across all factors. With a score above 3, it suggests an overall positive perception of 
+the online shopping experience among respondents. 
+
+The effect influencing factors on online shopping decision 
+The  regression  analysis  presented  in  Table  8  explores  the  relationship  between  various 
+predictor  variables  (Convenience,  Website,  Time,  Security,  After  Sales,  Product  Quality, 
+Product Varieties) and the dependent variable Purchase. The model's summary indicates an R 
+Square  of  0.270,  signifying  that  the  predictor  variables  collectively  account  for  27%  of  the 
+variance in the Purchase variable. The adjusted R Square, considering the number of predictors, 
+is  0.258.  The  standard  error  of  the  estimate  is  2.33609,  representing  the  average  difference 
+between the observed and predicted values. 
+
+Table 9 
+Effect of Influencing Factors on Online Shopping Decision 
+
+Model Summary 
+
+Model 
+
+R 
+
+R Square 
+
+Adjusted R Square 
+
+Std. Error of the 
+Estimate 
+
+1 
+a. Predictors: (Constant), Product Varieties, Convenience, Product Quality, Security, After 
+Sales, Website, Time 
+
+.258 
+
+.270 
+
+2.33609 
+
+.519a 
+
+Model 
+
+1 
+
+Regression 
+Residual 
+Total 
+
+Sum of Squares 
+884.672 
+2395.771 
+3280.443 
+
+ANOVAa 
+Df 
+
+7 
+439 
+446  
+
+Mean Square 
+
+126.382 
+5.457  
+
+F 
+23.158 
+
+Sig. 
+
+.000b 
+
+a. Dependent Variable: Purchase 
+b. Predictors: (Constant), Product Variety, Convenience, Product Quality, Security, After 
+Sales, Website, Time 
+
+Model 
+
+1 
+
+Coefficientsa 
+
+Unstandardized 
+Coefficients 
+
+B 
+
+Std. Error 
+
+Standardized 
+Coefficients 
+Beta 
+
+t 
+
+Sig. 
+
+(Constant) 
+Convenience 
+Website  
+Time  
+Security  
+After Sales Service  
+Product Quality 
+Product Varieties  
+
+9.056 
+.169 
+.164 
+.114 
+.140 
+.122 
+.214 
+.139 
+
+1.356  
+.044 
+.064 
+.066 
+.057 
+.053 
+.057 
+.064 
+
+.178 
+.120 
+.085 
+.116 
+.104 
+.164 
+.097 
+
+6.680 
+3.862 
+2.574 
+1.713 
+2.447 
+2.306 
+3.769 
+2.165 
+
+.000 
+.000 
+.010 
+.087 
+.015 
+.022 
+.000 
+.031 
+
+a. Dependent Variable: Online Purchase Decision 
+Source: Field Survey 2023 
+
+209 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+The ANOVA results indicate that the regression model is statistically significant (F = 23.158, 
+p  <  0.001),  suggesting  that  the  predictor  variable  significantly  influences  the  dependent 
+variable. The regression coefficients provide insights into the strength and direction of these 
+influences. Notably, Convenience, Product Quality, and Website show statistically significant 
+positive  relationships  with  Purchase,  as  evidenced  by  their  low  p-values  (p  <  0.001).  This 
+implies  that  as  Convenience,  Product  Quality,  and  Website  satisfaction  increase,  Purchase 
+tends  to  increase  as  well.  Other  predictors,  except  Time-saving,  other  variables  such  as 
+Security, After Sales services, and Product Varieties, also show significant p-values (p < 0.005) 
+but  comparatively  smaller  standardized  coefficients,  suggesting  their  lesser  impact  on 
+Purchase. In summary, the regression analysis identifies key predictors contributing to online 
+purchase  decisions,  with  Convenience,  Product  Quality,  and  Website  satisfaction  playing 
+prominent roles in influencing consumer behavior. 
+
+4.  Discussions 
+
+This  study's  results  provide  a  comprehensive  review  of  the  factors  influencing  online 
+purchasing decisions. The regression analysis indicates that consumer purchasing behavior in 
+e-commerce is  significantly influenced by convenience, website design,  security,  after-sales 
+service, product quality, and product variety. Among the variables, convenience (β = 0.178, p 
+=  .000)  and  product  quality  (β  =  0.164,  p  =  .000)  emerged  as  the  strongest  predictors.  In 
+alignment with previous research highlighting the importance of trust and usability in online 
+purchasing, website design (β = 0.120, p = .010) and security (β = 0.116, p = .015) significantly 
+influence outcomes. Time (β = 0.085, p = 0.087) was found to be statistically insignificant, 
+suggesting that time efficiency may not be a primary concern for online shoppers. 
+
+The findings of this study can be discussed in similar previous studies. The findings indicate 
+that respondents generally have a positive perception of online shopping, particularly in terms 
+of convenience, website design, time-saving, security, after-sales services, product quality, and 
+product varieties. These findings align with a study by (Mofokeng, 2021) that highlighted the 
+impact  of  online  shopping  attributes  on  customer  satisfaction,  emphasizing  factors  such  as 
+product  delivery,  perceived  security,  and  product  information  quality.  Additionally,  the 
+importance of consumer satisfaction in the online shopping sector is underscored, with a focus 
+on factors that influence satisfaction, such as perceived risk, uncertainty, and price (Rao et al., 
+2021). Similarly, (Pandey & Parmar, 2019) identified perceived ease of use, website design, 
+and social media as factors affecting consumer's online shopping behavior. (Tamanna, 2015) 
+highlighted  the  importance  of  price,  trust,  and  security  in  influencing  customer  purchasing 
+decisions in online shopping.  
+The  findings  align  with  the  work  of  Kidane  and  Sharma  (2016),  which  identified  trust, 
+contentment,  return  policies,  and  corporate  reputation  as  key  factors  influencing  online 
+purchasing decisions. This study affirms the significance of security and after-sales service, 
+while also highlighting product quality and diversity as additional pertinent factors, which were 
+not examined in Kidane and Sharma's approach.  
+Similarly,  (Daroch  et  al.,  2021).  indicated  that  factors  such  as  availability,  low  prices, 
+promotions,  comparisons,  customer  service,  user-friendliness,  and  variety  to  choose  from 
+significantly influence online shopping behavior. Additionally, (Mofokeng, 2021) stated that 
+the impact of online shopping attributes on customer satisfaction was influenced by product 
+
+210 
+
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+delivery,  perceived  security,  information  quality,  and  product  characteristics.  (Deng  et  al., 
+2021) found that online trust, perceived benefits, and channel trust were identified as important 
+factors affecting consumers' online choice intention and purchase intention. The discussion of 
+the presented findings in the context of these related studies provides valuable insights into the 
+factors influencing consumer perception and satisfaction in the online shopping environment. 
+Wen  (2009)  emphasized  the  significance  of  consumer  trust,  website  design,  and  customer 
+satisfaction  in  influencing  online  travel  purchasing  behavior.  This  research  highlights  the 
+importance of website design and security, as a coherent and organized platform significantly 
+affects consumer perception. This study expands upon Wen's research, which focused on the 
+travel  and  tourism  sector,  by  incorporating  general  e-commerce,  thereby  enhancing  the 
+significance  of  the  findings.  This  study  corroborates  existing  research  and  provides  novel 
+insights  into  the  role  of  product-related  attributes  in  online  purchasing  decisions.  While 
+security, trust, and website design remain crucial, ease, product quality, and variety have now 
+attained equal significance. Future research may explore variations in consumer preferences 
+across other e-commerce sectors and cultural contexts. 
+
+5.  Conclusion and Recommendation 
+
+The  findings  affirm  the  overall  positive  perception  of  online  shopping  among  respondents, 
+highlighting  its  convenience,  efficient  website  design,  time-saving  attributes,  and  the 
+availability of diverse product choices. The study underscores the importance  of addressing 
+specific areas, notably after-sales service, to further enhance the online shopping experience. 
+Recognizing the positive sentiment among respondents offers valuable guidance for businesses 
+to refine their strategies and improve customer satisfaction. As online shopping continues to 
+evolve, understanding and responding to consumer preferences in areas such as service quality 
+and product assurance will be crucial for businesses aiming to thrive in the digital marketplace. 
+
+The findings of this study provide important insights for e-commerce businesses, marketers, 
+and policymakers aimed at improving online shopping experiences and influencing consumer 
+purchase decisions. Maintaining high product quality and diversity through  rigorous quality 
+control,  precise  product  descriptions,  and  consumer  feedback  is  essential  for  attracting  and 
+retaining  customers.  Furthermore,  enhancing  website  usability  and  security  through 
+investments in intuitive navigation, rapid page loading, encrypted payment systems, and fraud 
+detection  technologies  can  foster  consumer  trust.  An  integrated  shopping  experience 
+characterized  by  straightforward  checkout  processes,  effective  after-sales  support,  and 
+adaptable delivery options can enhance customer satisfaction and foster loyalty. 
+While  speed  is  important,  organizations  must  balance  it  with  product  reliability  and  strong 
+customer support to enhance overall service quality. Targeted marketing methods emphasizing 
+product quality, security, and customer service improve consumer engagement and conversion 
+rates. Fostering enduring relationships through loyalty programs, membership incentives, and 
+proactive  client  interaction  can  augment  repeat  business.  Policymakers  must  establish  clear 
+regulations concerning product quality, return policies, and data privacy to ensure customer 
+safety and enhance the adoption of e-commerce. 
+Further research could delve into the relative importance of these factors in different consumer 
+segments, allowing businesses to tailor their strategies based on the specific preferences of their 
+target audiences. Among the study variables, convenience and website are the most influencing 
+factors on online consumer buying behavior. Hence, shopping centers are suggested to focus 
+
+211 
+
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+on convenience to consumers and incorporate sufficient information on the website.  
+
+Conflict of interest: There is no conflict of interest.  
+
+Funding Source: This study does not have any funding. 
+
+References 
+Chalise, D. R. (2021). Relationship Marketing: Tools for Ensuring Return on Equity. Nepal Journal 
+
+of Multidisciplinary Research, 4(4), 81–87. https://doi.org/10.3126/njmr.v4i4.43377  
+
+Daroch, B., Nagrath, G., & Gupta, A. (2021). A study on factors limiting online shopping behaviour 
+of consumers. Rajagiri Management Journal, 15(1), 39–52. https://doi.org/10.1108/RAMJ-
+07-2020-0038 
+
+Deng,  W.,  Su,  T.,  Zhang,  Y.,  &  Tan,  C.  (2021).  Factors  Affecting  Consumers’  Online  Choice 
+in  Psychology,  12. 
+
+Intention:  A  Study  Based  on  Bayesian  Network.  Frontiers 
+https://doi.org/10.3389/fpsyg.2021.731850 
+
+Devkota, N., Dhungana, S., Parajuli, S., Bhandari, U., & Paudel, U. (2021). Nepalese consumers’ 
+perception on online shopping challenges and its managerial solution. International Research 
+Journal of Science, Technology, Education, and Management, 1(Novem 
+
+Gaudel,  D.  (2019).  Consumers’  Attitude  towards  Online  Shopping:  Factors  influencing  Nepali 
+Consumers to Shop Online. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3450062. 
+Hong, W., Yu, Z., Wu, L., & Pu, X. (2020). Influencing factors of the persuasiveness of online 
+considering  persuasion  methods. Electronic  Commerce  Research  and 
+
+reviews 
+Applications, 39, 100912. https://doi.org/10.1016/j.elerap.2019.100912 
+
+Kidane,  T.  T.,  &  Sharma,  R.  R.  K.  (2016).  Factors  affecting  consumers’  purchasing  decision 
+through e-commerce. Proceedings of the International Conference on Industrial Engineering 
+and Operations Management, 8-10 March(September), 159–165 
+
+Manandhar, R. B. (2021). Online Shopping Behavior of Students in Kathmandu. Nepal Journal of 
+
+Multidisciplinary Research, 4(4), 33–44. https://doi.org/10.3126/njmr.v4i4.43142 
+
+Manandhar, R. B., Karki, T. B., Manandhar, E., & Khadka, K. (2024). Examining the Impact of 
+Quality  Service  on  Customer  Satisfaction  in  the  Emerging  Landscape  of  Online  Clothing 
+Retail in Nepal. International Research Journal of MMC, 5(1), 13–23. https:// 
+
+Meedanphai, S., Jayasurya, T., & Swapna. (2023). Factors affecting consumers buying decision 
+behavior via online media. World Journal of Advanced Research and Reviews, 18(3), 1253–
+1259. https://doi.org/10.30574/wjarr.2023.18.3.1012 
+
+Mofokeng, T. E.  (2021). The  impact  of  online  shopping attributes  on  customer  satisfaction  and 
+loyalty: Moderating effects of e-commerce experience. Cogent Business & Management, 8(1). 
+https://doi.org/10.1080/23311975.2021.1968206 
+
+Parasuraman, A. P., Zeithaml, V.A., and Leonard, L. B. (1988) SERVQUAL: A multiple- Item 
+Scale for measuring consumer perceptions of service quality. Journal of Retailing, 62(1) 1-
+29 
+
+Pandey, A., & Parmar, J. (2019). Factors Affecting Consumers’ Online Shopping Buying Behavior. 
+
+SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3308689 
+
+Purwaningtyas, A., & Rahadi, R. A. (2021). The affecting factors on online clothing purchase: a 
+conceptual model. Advanced International Journal of Business, Entrepreneurship and SMEs, 
+3(8), 86–97. https://doi.org/10.35631/AIJBES.38006 
+
+Rao,  Y.,  Saleem,  A.,  Saeed,  W.,  &  Ul  Haq,  J.  (2021).  Online  Consumer  Satisfaction  During 
+in  Psychology,  12. 
+
+COVID-19:  Perspective  of  a  Developing  Country.  Frontiers 
+
+212 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Nepal Journal of Multidisciplinary Research (NJMR) 
+Vol. 8, No. 2, Special 1, 2025. Pages: 196-113 
+ISSN: 2645-8470 (Print), ISSN: 2705-4691 (Online) 
+DOI: https://doi.org/10.3126/njmr.v8i2.73745  
+
+https://doi.org/10.3389/fpsyg.2021.751854 
+
+Santhosh, M. (2021). Factors Affecting Online Consumer Purchase Decision : A Study concerning 
+
+Men’s Fashion Accessories. 4(7), 64–71 
+
+Sujata,  J.,  Noopur,  S.,  Neethi,  N.,  Jubin,  P.,  &  Udit,  P.  (2016).  On-Page  Search  Engine 
+Optimization: Study of Factors Affecting Online Purchase Decisions of Consumers. Indian 
+Journal of Science and Technology, 9(15). https://doi.org/10.17485/ijst/2016/v9 
+
+Syahtidar, N., Suherman, S., & Siregar, M. E. S. (2022). Analyzing Factors Affecting the Purchase 
+Decision  of  Shopee  Users  in  Bekasi.  Interdisciplinary  Social  Studies,  1(7),  860–872. 
+https://doi.org/10.55324/iss.v1i7.137 
+
+Tamanna.  M.  (2015).  A  study  of  people’s  perception  towards  online  shopping,  the  case  of 
+
+Chandigarh. February. https://www.researchgate.net/publication/280943620_ 
+
+Vaidya,  R.  (2019).  Online  Shopping  in  Nepal:  Preferences  and  Problems.  Journal  of  Nepalese 
+
+Business Studies, 12(1), 71–86. https://doi.org/10.3126/jnbs.v12i1.28184\ 
+
+Wen, I. (2009). Factors affecting the online travel buying decision: a review. International Journal 
+
+of Contemporary Hospitality Management, 21(6), 752-765 
+
+Wei, Z.T. and Xiao, H.Y. (2011) Reliability Analysis of Facility Systems Subject to Edge Failures: 
+Based  on  the  Incapacitated  Fixed-Charge  Location  Problem.  Open  Journal  of  Discrete 
+Mathematics, 1, 153-159. http://dx.doi.org/10.4236/ojdm.2011.13019 
+
+213 
+
+ 
+ 
+ 
+

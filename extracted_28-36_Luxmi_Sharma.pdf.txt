@@ -1,0 +1,687 @@
+Consumer Behavior Analysis: Factors 
+that Influence Online Buying Decisions
+
+Luxmi Sharma
+
+Abstract 
+Online shopping’s rise in popularity in Nepal is due to its multiple advantages like 24/7 availability, 
+ease  of  use,  and  extensive  product  options.  However,  this  comes  with  certain  risks  including 
+financial loss and security concerns. This study, drawing from contemporary literature and data 
+from 385 respondents from varied backgrounds, aims to identify these risks and psychological 
+factors that affect buying decisions. Key findings indicate a notable influence of financial risks, 
+while delivery and trust issues have a moderate impact, suggesting that e-retailers should focus 
+on addressing these aspects to bolster online sales.
+
+Keywords:  Apprehended  uncertainties,  Shipment  vulnerability,  Buyer  tendencies,  Internet 
+acquisition, Confidence and protection
+
+I. Introduction
+In the modern marketing landscape, grasping the nuances of consumer purchasing habits is vital 
+for  any  enterprise’s  endurance,  given  its  direct  correlation  with  consumer  choices.  Studies  on 
+consumer behavior center on the series of judgments people make when dedicating their resources, 
+such as time, finances, and effort, to acquire goods. This document reviews various scholarly pieces 
+that delve into the web-based purchasing tendencies across diverse sectors. The emergence of the 
+internet has dramatically altered the customary shopping habits, liberating buyers from the confines 
+of  store  operational  hours  and  physical  boundaries.  This  transformation  enables  individuals  to 
+engage in active buying operations at any time from any location, offering round-the-clock access 
+to a broad array of products and pertinent data. The escalating preference for online shopping is 
+attributed to its advantageous features like affordability, user-friendliness, time efficiency, and the 
+availability of a plethora of goods and brands, coupled with swift delivery services. The constraints 
+of time and locale, which once characterized conventional shopping, are obsolete in the realm of 
+online purchases. The term ‘online consumer purchasing behavior’ delineates the methodology of 
+procuring goods and services via the internet. This procedure mirrors several stages inherent in the 
+conventional buying behavior. Generally, an online purchase encompasses five phases: recognizing 
+the necessity for a specific item or service, seeking pertinent details on the web, appraising products 
+based on various alternatives, executing a transaction, and the subsequent phase of post-acquisition 
+
+28
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395contentment. The main goal of this research is to pinpoint the critical online elements that sway 
+consumer tendencies in online shopping, particularly within the bounds of Tilottama Municipality. 
+More precisely, it seeks to investigate the extent to which psychological aspects, encompassing 
+financial risk, product risk, non-delivery risk, website layout, trust, and security, exert a notable 
+influence on the buying behaviors of consumers on online platforms.
+
+II. Literature Review
+In the contemporary market landscape, dissecting the nuances of online buying behavior is vital 
+in forging successful business strategies. As the internet continues to alter conventional shopping 
+paradigms, consumers enjoy the liberty to purchase goods and services at any time and from any 
+place, unbounded by the limitations of time and physical location. These transformations, spurred 
+by  the  burgeoning  e-commerce  sector,  necessitate  an  in-depth  analysis  of  consumer  behaviors 
+in the online space. The following gives a succinct empirical review of various studies that have 
+addressed this topic over the years. Chawla, Khan, and Pandey (2016) embarked on a journey 
+to understand the influencers at different stages of the online buying process, emphasizing the 
+role  demographics  play  in  shaping  purchasing  intentions  and  the  adoption  process.  However, 
+they  fell  short  in  offering  a  detailed  analysis  on  the  trajectory  first-time  online  purchasers  are 
+likely to follow, and whether their engagement with online platforms would increase or wane, 
+particularly regarding products also available offline. A comprehensive review of literary works 
+from  1999  onwards  was  undertaken  by  (Singhal  and  Shekhawat,  2015).  This  study  offered  a 
+refreshed  perspective  on  both  online  and  offline  consumer  behavior,  revealing  that  while 
+consumers readily seek product information online, a significant portion prefer making the actual 
+purchase offline. Shahzad (2015) steered his research towards understanding the online factors, 
+such as financial risk and product performance risk that dictate consumer behavior during online 
+shopping.  The  research  delineated  that  factors  like  trust  &  security  wield  a  more  significant 
+influence on consumer behavior compared to financial and delivery risks. Mittal (2013) turned 
+the spotlight onto the ramifications of e-commerce on consumer behavior, underscoring that the 
+trust consumers place in the internet and the perceived risks significantly dictate their purchasing 
+decisions.  The  study  leaned  on  questionnaire  responses  to  gather  quantitative  data  and  build 
+upon  existing  literature  to  map  the  evolution  of  online  shopping.  Sultan  and  Uddin  (2011) 
+scrutinized  the  attitudes  harbored  by  consumers  towards  online  shopping,  noting  that  several 
+factors including website design, convenience, and pricing, were pivotal in influencing consumer 
+decisions. However, they also highlighted a reluctance among older individuals and those with 
+higher educational qualifications to embrace online shopping, largely due to security concerns. 
+Hadjiphanis and Christou (2006) explored e-commerce’s role in shaping consumer behavior, with 
+a focus on the consumer information search process and the perceived value, ultimately aiming to 
+carve out strategies that could incentivize consumers to opt for online purchases. Constantinides 
+(2004) dissected the primary components that craft an enriching online experience, focusing on 
+
+29
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395website functionality and the psychological factors that foster trust and credibility between the 
+consumer  and  online  vendors.  Finally,  Lee  and  Swaminathan  (2000)  engaged  in  a  theoretical 
+exploration based on a framework proposed by Bagozzi, finding that consumers motivated chiefly 
+by convenience were inclined towards making online purchases. In conclusion, these scholarly 
+pursuits  offer  invaluable  insights  into  the  complexities  governing  online  buying  behavior  and 
+the varying attitudes consumers harbor towards online shopping. They collectively underscore 
+the pivotal roles played by website infrastructure, perceived trust, and potential risks in shaping 
+online consumer engagements.
+
+Conceptual Framework 
+In this research, the theoretical framework delineates the correlation between various independent 
+elements such as perceived risk, psychological elements, and website design, and their cumulative 
+influence  on  the  dependent  variable  -  the  online  buying  behavior.  This  connection  has  been 
+cultivated grounded on the insights gathered from the meticulous analysis of existing literature.
+Dependent Variable 
+Independent Variable   
+
+Financial Risk
+
+Delivery Risk
+
+Trust and Security
+
+Website Design 
+
+Figure 1: Conceptual Framework
+
+Online Buying Behavior 
+
+III. Research Methodology
+
+In this investigation, this study has implemented a deductive approach characterized by a quantitative 
+
+research  design,  proceeding  logically  from  general  assertions  to  a  definitive  conclusion.  The 
+
+primary data collection was facilitated through a thoughtfully constructed questionnaire, a method 
+
+deemed fitting and effective owing to its utilization in past similar studies. The central objective of 
+
+this study was to scrutinize the external elements online that dictate the consumer behavior towards 
+
+online shopping in the vicinity of Tilottama Municipality. In an attempt to assess the ramifications 
+
+of these elements on online purchasing patterns of consumers, around 385 questionnaires were 
+
+circulated via an online medium (Google Form) to a diverse group comprising of 80 students, 185 
+
+women in service roles, and 120 men from varied professions, initiating the outreach within a 
+
+familiar community circle. The creation of the questionnaire was steered with the intent to explore 
+
+the dynamics that influence consumer behavior throughout the online purchasing process. It was 
+
+crafted to accumulate insights from participants about their engagements with online shopping, 
+
+30
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395 
+ 
+ 
+ 
+ 
+their predispositions towards it, and the external dynamics influencing their buying resolutions. 
+
+A significant emphasis was placed on formulating questions that were straightforward, succinct, 
+
+and comprehensible to the participants, facilitating the acquisition of precise and dependable data. 
+
+Essentially, the questionnaire sought to delineate the online dynamics that alter consumer buying 
+
+tendencies in the backdrop of Tilottama Municipality. In the assessment phase of the study, a 1-5 
+
+point Likert scale served as the cornerstone for data analysis. This scale presented a spectrum 
+
+of  five  responses,  oscillating  from  “Strongly  Disagree”  to  “Strongly Agree”,  encompassing  a 
+
+neutral stance at its median. This method, frequently employed in survey questionnaires, proved 
+
+advantageous  for  the  quantitative  research  domain,  facilitating  effortless  data  scrutiny  and 
+
+statistical computations. The numerical attribution to responses on the Likert scale empowered 
+
+the researchers to quantify and evaluate the attitudes and perspectives of participants in relation 
+
+to the assorted online dynamics examined in this study. Fundamentally, the adoption of the Likert 
+
+scale  in  this  study  emerged  as  a  proficient  mechanism  to  analyze  empirical  data  pertaining  to 
+
+online dynamics and their consequential effects on consumer behavior during online acquisitions.
+
+IV. Results and Discussion
+
+Beginning  with  financial  risk,  a  recognized  type  of  perceived  risk,  the  initial  three  questions 
+
+focused on potential financial issues encountered during online transactions. One such question 
+
+highlighted  the  apprehensions  surrounding  the  resolution  of  conflicts  during  online  shopping 
+
+instances, particularly during product exchanges. As delineated in Figure 2, the data reveals that 
+
+a small fraction, 6.2%, vehemently oppose the statement, and an additional 13.8% also disagree, 
+
+signifying  a  portion  of  the  sample  face  no  hindrances  in  resolving  disputes  with  e-retailers. 
+
+Conversely, a notable majority, amounting to 52.3%, concur with the sentiment, and another 6.2% 
+
+express a strong agreement, indicating a prevalent concern about potential difficulties in dispute 
+
+resolution during online shopping. A remaining 21.5% of individuals showcased indecisiveness. 
+
+Referencing data from Table 2, the cumulative mean score for this aspect stands at 3.38, denoting 
+
+a  significant  section  of  the  participants  anticipate  challenges  in  settling  disputes  in  the  digital 
+
+shopping realm.
+
+31
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395Table 1
+Analysis of Online Factors
+
+Statements
+
+1. Is there a potential for complica-
+tions when resolving issues with 
+online purchases, such as during 
+product exchanges?
+2. Are the delivery charges quite 
+steep?
+3. Is it easier to compare the prices 
+of different products when shopping 
+online?
+
+4. Is there a risk of not getting the 
+exact item I ordered when buying 
+products online?
+5. Is it likely to encounter malfunc-
+tioning products while shopping 
+online?
+6. It seems challenging to assess the 
+quality of products when shopping 
+online.
+
+7. There is a possibility of not re-
+ceiving the product ordered online.
+8. I refrain from online shopping 
+due to the scarcity of dependable 
+and properly equipped shippers.
+
+9. Shopping online gives a feeling of 
+safety and security.
+10. It seems plausible that the 
+details of a credit/debit card might 
+be compromised and misused when 
+engaging in online shopping.
+11. There remains a risk that per-
+sonal details entrusted to a website 
+may find their way into the hands of 
+third parties.
+
+32
+
+Strongly 
+disagree
+ (1)
+
+Disagree 
+(2)
+
+Uncertain
+(3)
+
+Agree 
+(4)
+
+Strong-
+ly Agree
+(5)
+
+Weighted  
+Average 
+mean
+
+Financial risk
+
+74
+
+70
+
+88
+
+69
+
+69
+
+70
+
+73
+
+75
+
+Product Risk
+
+74
+
+75
+
+75
+
+78
+
+79
+
+77
+
+76
+
+77
+
+90
+
+70
+
+91
+
+92
+
+89
+
+74
+
+73
+
+74
+
+73
+
+3.40
+
+3.20
+
+4.01
+
+3.70
+
+3.60
+
+72
+
+76
+
+ 77
+
+93
+
+67
+
+ 4.40
+
+Delivery Risk
+
+73
+
+75
+
+77
+
+75
+
+Trust & Security
+
+73
+
+75
+
+78
+
+73
+
+75
+
+80
+
+76
+
+82
+
+100
+
+90
+
+98
+
+87
+
+60
+
+65
+
+62
+
+68
+
+3.10
+
+3.30
+
+3.00
+
+3.23
+
+73
+
+75
+
+89
+
+80
+
+68
+
+3.60
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-239512. Online shopping remains a risky 
+venture, largely due to lax cyber 
+regulations that fail to properly 
+penalize frauds and hackers.
+
+13. I am inclined to buy from 
+online stores that offer a visu-
+ally pleasing and well-structured 
+layout.
+14. I restrict my online shopping 
+to stores with a user-friendly 
+navigation setup.
+15. I limit my online shopping to 
+sites where the content is easily 
+comprehensible, and the informa-
+tion is relevant.
+16. I choose to make purchases 
+from online stores exclusively 
+when their ordering and transac-
+tion process is smooth and free 
+of errors.
+
+73
+
+80
+
+74
+
+96
+
+64
+
+4
+
+Website Design
+
+75
+
+68
+
+5
+
+89
+
+150
+
+70
+
+3.74
+
+84
+
+77
+
+87
+
+69
+
+3.82
+
+70
+
+86
+
+78
+
+86
+
+69
+
+4.00
+
+73
+
+83
+
+82
+
+82
+
+65
+
+4.20
+
+As illustrated in Table 2 below, it’s evident that aspects like Website Design and Product Risk 
+have a prominent effect on the buying behaviors of online customers. Further insights from Table 
+3 reveal the relative impact of each factor, ranking them by their average scores. The Website 
+Design  takes  the  lead  with  the  highest  comparative  average  score  of  3.94,  demonstrating  a 
+strong agreement among respondents that a site’s aesthetic appeal and user-friendly navigation 
+substantially influence their purchasing decisions. It emphasizes that online shopping platforms 
+need to ensure not only an intuitive user interface but also a seamless and error-free transaction 
+process to attract buyers.
+
+Following closely is the Product Risk aspect, securing the second position with a comparative 
+average of 3.90, indicating that consumers’ buying tendencies are also significantly swayed by 
+potential risks associated with product quality and the reliability of online deliveries. It denotes 
+a prevalent fear among consumers regarding the receipt of defective products or potential non-
+delivery issues when purchasing online. The subsequent rankings are occupied by financial risk 
+and trust & security factors respectively, pointing towards their notable yet lesser influence in 
+comparison to the aforementioned factors. Notably, Delivery Risk is positioned at the fifth rank, 
+implying a lesser degree of concurrence among respondents concerning the statements pertaining 
+to this factor.
+
+33
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395Table 2
+Comparative Analysis of Online Factors
+Financial 
+Risk
+3.40
+
+Variable 1
+
+Variables
+
+Product 
+Risk
+3.70
+
+Delivery 
+Risk
+3.10
+
+Trust
+&     security
+3.00
+
+Website  
+Design
+3.74
+
+Variable 2
+
+Variable 3
+
+Variable 4
+Comparative   Average
+Rank
+
+3.20
+
+4.00
+
+0.00
+3.53
+3
+
+3.60
+
+4.40
+
+0.00
+3.90
+2
+
+3.30
+
+0.00
+
+0.00
+3.20
+5
+
+3.23
+
+3.60
+
+4.00
+3.46
+4
+
+3.82
+
+4.00
+
+4.20
+3.94
+1
+
+Delivery Fees
+The survey responses reveal mixed opinions about the perception of delivery fees associated with 
+online  purchases.  Specifically,  a  combined  total  of  42.57%  of  participants  (23.37%  agree  and 
+19.20% strongly agree) feel that the delivery charges are steep, while a contrary 18.96% deem 
+the fees to be reasonable. Interestingly, a significant portion, 20.25%, of the respondents remain 
+ambivalent on this matter, which is reflected in the mean score of 3.20 for this particular aspect. 
+Moving to the facility of price comparison in online shopping, a substantial majority (65%) concur 
+that  digital  platforms  enable  an  easier  process  of  comparing  product  prices,  assisting  them  in 
+making cost-effective choices. This viewpoint is strongly held by 23% of the survey participants. 
+However, a small fraction of respondents either disagree (4%) or are uncertain (8%) about the 
+ease of price comparison online. This trend of agreement is supported by a high average score of 
+4.01, showcasing a general consensus towards the benefits of online price comparison.
+
+Delivery Risk
+The query regarding potential delivery problems in online shopping, specifically the fear of not 
+receiving the ordered item, garnered varied responses, as depicted in Figure 2.20. A considerable 
+portion of participants, amounting to 45% (35% agree and 10% strongly agree), expressed anxiety 
+over  the  possibility  of  not  receiving  their  purchases.  Contrarily,  35%  of  those  surveyed  (30% 
+disagree and 5% strongly disagree) demonstrated confidence in the delivery process, indicating 
+they  have  no  concerns  regarding  non-receipt  of  items.  Meanwhile,  a  noteworthy  20%  remain 
+undecided on this matter. This distribution of opinions results in a mean value of 3.10 for this 
+parameter, highlighting the existing uncertainty in delivery reliability of online purchases.
+
+Website Design Factor 
+The propensity for consumers to patronize aesthetically pleasing and well-arranged online stores 
+is evaluated in this statement, the results of which are visualized in Figure 10. This data illustrates 
+
+34
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395a notable preference, with 62% of respondents agreeing and an additional 15% strongly agreeing, 
+indicating a significant inclination towards shopping from visually attractive online platforms. In 
+contrast, a minor segment of 5% opposes this notion, while a sizable 18% remain ambivalent. The 
+collective responses culminate in an average score of 3.74, signifying a prominent and affirmative 
+consensus towards this preference. Thus, it can be deduced that online purchasers have a marked 
+preference  for  engaging  with  online  retail  platforms  that  exhibit  both  visual  appeal  and  well-
+structured layouts, as evidenced by the robust positive response encapsulated by the score of 3.74.
+
+V. Conclusion
+The ease of access, perpetual availability, and vast array of products have propelled an increasing 
+number  of  individuals  towards  online  shopping.  This  research  article  delves  into  the  external 
+virtual  factors  that  sway  individuals’  purchasing  tendencies  online,  spotlighting  four  principal 
+facets:  financial  risk,  delivery  risk,  trust  &  security,  and  the  structure  of  the  website.  Here  we 
+delineate the insights acquired pertaining to the quartet of elements steering the purchasing choices 
+of  online  consumers:  At  the  forefront,  the  website’s  aesthetic  and  functionality  significantly 
+dictate  online  shopping  behaviors,  securing  the  highest  score  of  3.94  in  the  weighted  average 
+mean calculations. It’s imperative for online retailers to craft user-friendly interfaces that convey 
+essential  details  succinctly.  Following  closely  is  the  product  performance  risk,  with  a  notable 
+comparative  weighted  mean  of  3.90,  signaling  that  consumers  are  acutely  aware  of  potential 
+dissatisfaction  arising  from  subpar  products,  which  could  spawn  a  negative  perception  of 
+e-shopping. Subsequently, financial risk emerged as a considerable concern with a mean value of 
+3.53, underlining consumers’ apprehension about the feasibility of addressing grievances online 
+and  the  perceived  ease  of  price  comparisons  during  virtual  shopping.  Moreover,  the  trust  and 
+security aspect holds a pivotal role in shaping online buying behaviors, registering a comparative 
+mean score of 3.46. It advocates for the necessity of fostering a secure and trustworthy online 
+shopping environment, safeguarding users’ confidential data effectively. Lastly, the delivery risk 
+factor, with a mean of 3.20, exerts a moderate influence on consumer decisions, with a majority 
+accentuating the importance of timely product deliveries.
+
+35
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395References
+
+Chawla, M., Khan, M.N., & Pandey, A. (2016). Online Buying Behavior: A Brief Review and 
+
+Update. Journal of Management & Research, 9(4), 974-497.
+
+Constantinides,  E.  (2004).  Influencing  the  online  consumer’s  behavior:  The  Web  experience. 
+
+Internet Research, 14(2), 111-126
+
+Hadjiphanis, L., & Christou, L. (2006). The Role of E-commerce on Consumer Behavior. Journal 
+
+of Business Administration Online, 5(1), 1-8.
+
+Lee,  C.M.  and  Swaminathan,  B.  (2000)  Price  Momentum  and  Trading  Volume.  Journal  of 
+
+Finance, 55(2), 2017-2069. https://doi.org/10.1111/0022-1082.00280
+
+Li, N., & Zhang, P. (2002). Consumer online shopping attitude and behavior: An assessment of 
+
+research. Information system proceedings of English Americas Conference.
+
+Mittal, I. (2013). Consumer Purchase Decisions and Socio-Personal Aspects. Business Researcher, 
+
+1(2), 84-92.
+
+Shahzad, U. (2015) The Need for Renewable Energy Sources. International Journal of Information 
+
+Technology and Electrical Engineering, 4(1), 16-19.
+
+Singhal,  S.,  &  Shekhawat,  S.  (2015). An  Empirical  Study  of  Customer  Satisfaction  in  Online 
+
+Shopping Experience of Tourism Products in India. International Journal of Scientific 
+
+Engineering and Research, 3(6), 61 – 64.
+
+Sultan,  M.  U.,  &  Uddin,  M.  (2011).  Consumers’  Attitude  towards  Online  Shopping:  Factors 
+
+influencing Gotland consumers to shop online. Mediterranean Journal of Social Sciences, 
+
+6(1), 456-462.
+
+36
+
+Devkota Journal of Interdisciplinary StudiesDevkota Journal of Interdisciplinary StudiesVol. 5   |  Issue No. 1, 2023Mahakavi Devkota CampusDevkota Journal of Interdisciplinary StudiesISSN: 2631-2395 
+

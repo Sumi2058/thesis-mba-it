@@ -1,0 +1,1726 @@
+JURNAL LOCUS: Penelitian & Pengabdian  
+Volume 4 No. 12 December 2025 
+E-ISSN 2829-7334| P-ISSN 2829-5439 
+Hompage: https://locus.rivierapublishing.id/index.php/jl 
+
+The Impact of Perceived Product Quality, Perceived Value, and 
+Personality on Consumer Dissatisfaction and Complaint Behavior Types in 
+E-commerce 
+
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+School of Business, IPB University, Indonesia 
+Email: putikemala@apps.ipb.ac.id, sumarwan@apps.ipb.ac.id, krisnatuti@apps.ipb.ac.id 
+Abstract: 
+The rise of e-commerce in Indonesia has significantly altered consumer behavior, particularly in post-purchase 
+experiences.  Despite  increased  convenience,  online  transactions  often  result  in  dissatisfaction  due  to  service 
+failures or product mismatches,  prompting varying complaint behaviors. This study investigates the impact of 
+Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  dissatisfaction  levels  in  e-commerce,  and 
+explores how complaint type (Voicer, Irate, Passive) moderates these relationships. A cross-sectional survey was 
+conducted with 218 e-commerce consumers who had made purchases and submitted complaints, and data were 
+analyzed  using  Structural  Equation  Modeling–Partial  Least  Squares  (SEM-PLS)  and  Multi-Group  Analysis 
+(MGA).  Findings  show  that  Perceived  Value  emerged  as  the  most  significant  and  consistent  predictor  of 
+dissatisfaction across all complaint types, while Perceived Product Quality and Personality showed no significant 
+direct effect; however, Irates exhibited higher sensitivity to product quality failures. Complaint type moderated 
+the strength of relationships, highlighting behavioral differences in consumer responses. In conclusion, consumer 
+dissatisfaction in e-commerce is driven primarily by perceived value rather than product quality, and complaint 
+behavior  types  influence  how  dissatisfaction  is  expressed  but  not  necessarily  how  it  is  formed.  The  research 
+implies that e-commerce businesses should enhance post-purchase services such as delivery, customer support, 
+and  refund  systems,  while  tailoring  complaint  resolution  strategies  based  on  consumer  types  to  reduce 
+dissatisfaction and improve retention. 
+
+Keywords: complaint behavior, consumer dissatisfaction, perceived value, personality, perceived product quality 
+Corresponding: Puti Kemala Tanjung 
+E-mail: putikemala@apps.ipb.ac.id  
+
+INTRODUCTION 
+
+The rapid advancement of information and communication technologies in Indonesia has 
+significantly  reshaped  various  aspects  of  life,  particularly  in  commerce.  One  of  the  most 
+impactful  innovations  is  the  emergence  of  e-commerce,  which  enables  online  buying  and 
+selling  through  digital  platforms.  The  number  of  e-commerce  users  in  Indonesia  has 
+consistently  increased since 2020, reaching  58.63 million  in  2023. Major platforms such as 
+Shopee, Tokopedia, and Lazada dominate the market, recording billions of visits (Kemendag, 
+2023;  Databoks,  2024).  However,  this  growth  has  also  been  accompanied  by  increasing 
+challenges, particularly related to post-purchase dissatisfaction. 
+
+As  the  volume  of  online  transactions  increases,  so  does  the  likelihood  of  consumer 
+dissatisfaction,  which  often  manifests  through  complaints.  Common  issues  include  delayed 
+delivery,  product  mismatches,  damaged  goods,  and  unresponsive  customer  service.  The 
+Indonesian Consumers Foundation (YLKI) recorded 943 complaints in 2023, of which 13.1% 
+were related to e-commerce transactions (Indonesia.go.id, 2024). If these complaints are not 
+handled  effectively,  they  can  reduce  customer  satisfaction,  erode  loyalty,  and  damage  a 
+company’s reputation, potentially leading to legal and financial risks. 
+
+12087 
+
+ 
+ 
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+This study is grounded in Consumer Complaint Behavior (CCB) Theory developed by 
+Singh (1990), which categorizes consumer responses to dissatisfaction into four types: Voicer, 
+Irate, Activist, and Passive. Voicers tend to communicate complaints directly to the company 
+in hopes of resolution. In contrast, Irates express dissatisfaction emotionally, usually to their 
+social  circle  rather  than  the  company.  Activists  escalate  their  grievances  through  public 
+platforms  or  third  parties  such  as  consumer  protection  agencies.  Passive  consumers,  on  the 
+other hand, remain silent even when dissatisfied. In the context of e-commerce, this diversity 
+in  complaint  behavior  presents  a  critical  challenge  for  companies  attempting  to  maintain 
+customer relationships and brand integrity. 
+
+The research focuses on identifying the antecedent factors that influence such complaint 
+behavior,  namely  Perceived  Product  Quality,  Perceived  Value,  and  Personality.  Perceived 
+Product Quality refers to the consumer’s judgment of a product’s overall excellence, reliability, 
+and conformity to expectations (Catenazzo & Paulssen, 2023). Negative experiences, such as 
+receiving a faulty item or one that does not match its description, are among the leading causes 
+of dissatisfaction and complaints. 
+
+Perceived  Value  also  plays  a  vital  role,  particularly  in  its  emotional  and  social 
+dimensions.  Emotional  value  involves  consumers’  affective  responses,  such  as  satisfaction, 
+pride,  or  disappointment,  while  social  value  pertains  to  the  societal  recognition  or  image 
+derived from using the product (Momeñe et al., 2023; Cox et al., 2014). When these values are 
+not met—for example, when customer service is unhelpful or the product does not enhance 
+social status—consumers may feel compelled to complain or even switch platforms. 
+
+Personality  traits further shape how individuals respond to  dissatisfaction. Consumers 
+with  assertive  personalities  are  more  inclined  to  express  dissatisfaction  directly  and 
+constructively (Voicers), while passive individuals tend to suppress their reactions, leading to 
+silent  churn  or  private  word-of-mouth  (Berry  et  al.,  2014;  Prasetyo  et  al.,  2016).  As  such, 
+understanding the role of personality helps to predict not only if but how consumers will react 
+to negative experiences. 
+
+At the center of these dynamics is the Dissatisfaction Level, defined as the intensity of 
+discontent  a  consumer  feels  when  their  expectations  are  unmet  (Boadi  et  al.,  2017).  This 
+variable  serves  as  a  mediator  linking  perceived  quality,  perceived  value,  and  personality  to 
+complaint behavior. High levels of dissatisfaction are likely to trigger more vocal or public 
+forms of complaint, whereas lower levels might result in passivity or disengagement. 
+
+This  study addresses  a critical  gap between the ideal  and actual  patterns  of consumer 
+complaint  behavior  in  Indonesia.  Ideally,  companies  aim  to  channel  dissatisfied  consumers 
+toward  the  Voicer  category,  where  direct  communication  allows  for  immediate  service 
+recovery. However, evidence shows that many consumers default to Passive, Irate, or Activist 
+behaviors, which limit recovery opportunities and can lead to reputational harm (Prasetyo et 
+al., 2016; Sánchez-García & Currás-Pérez, 2011). 
+
+Therefore,  this  research  aims  to  examine  how  Perceived  Product  Quality,  Perceived 
+Value, and Personality influence the Dissatisfaction Level, and further analyzes how complaint 
+type  moderates  the  relationship  between  these  independent  variables  and  consumer 
+dissatisfaction. The study’s findings are expected to provide strategic insights for e-commerce 
+
+12088 
+
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+businesses  to  tailor  their  complaint  management  strategies,  enhance  post-purchase  service 
+experiences,  and  effectively  reduce  dissatisfaction  across  different  consumer  segments  in  a 
+competitive digital marketplace. 
+
+RESEARCH METHODS 
+Research Design 
+
+This  study  was  conducted  among  e-commerce  consumers  in  Indonesia,  with  most 
+respondents coming from the Jabodetabek area, between February and April 2025. It employed 
+a cross-sectional survey design to capture data at a single point in time without considering 
+temporal  changes  (Wang  &  Cheng,  2020).  This  design  enabled  the  researcher  to  analyze 
+current  perceptions,  personality  traits,  complaint  behaviors,  and  dissatisfaction  levels  of 
+consumers. The study also adopted an explanatory approach, aiming to investigate the causal 
+relationships  between  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on 
+Dissatisfaction Level, while examining the moderating role of Complaint Type. This approach 
+was appropriate for uncovering the strength and nature of these relationships and for providing 
+empirical validation of the proposed conceptual framework. 
+Sampling 
+
+The  study  employed  a  non-probability  purposive  sampling  technique,  selecting 
+respondents based on specific criteria to ensure alignment with the research objectives. The 
+initial  criteria  targeted  consumers  residing  in  Indonesia  who  had  purchased  through  online 
+marketplaces and had experienced dissatisfaction with a product. Further criteria required that 
+these consumers had submitted a complaint in response to their dissatisfaction, regardless of 
+whether  the  complaint  received  a  reply  or  resolution.  Respondents  were  then  classified 
+according to Consumer Complaint Behavior (CCB) Theory, particularly into the categories of 
+Voicers, Irates, and Passive. This classification ensured the inclusion of relevant behavioral 
+variations related to post-purchase responses. The sample size was determined following Hair 
+et al. (2017), who suggest a range of 100–200 respondents for SEM-PLS  analysis to ensure 
+statistical accuracy and reliability, particularly for models involving independent, intervening, 
+and  dependent  variables.  Consequently,  the  study  targeted  200  respondents,  which  was 
+sufficient for generating valid and reliable findings for a moderately complex model. 
+Measurement 
+
+The study employed a Likert scale for data collection, using a five-point range from 1 
+(strongly disagree) to 5 (strongly agree) to measure respondents’ perceptions and attitudes. The 
+research  consisted  of  five  main  variables  with  a  total  of  20  indicators:  Perceived  Product 
+Quality  (6  indicators,  adapted  from  Gligor  et  al.,  2019),  Perceived  Value  (5  indicators, 
+including emotional and social value dimensions, adapted from Carvache-Franco et al., (2020), 
+Dissatisfaction Level (5 indicators, adapted from Boadi et al., 2017), Personality (3 indicators, 
+adapted from Prasetyo et al., 2016; Berry et al., 2018), and Complaint Type (1 indicator based 
+on  the  typology  by  Singh,  1990).  Complaint  Type  was  treated  as  a  categorical  moderating 
+variable representing three behavioral responses: Voicer, Irate, and Passive. All measurement 
+items  were  designed  to  capture  the  cognitive  and  emotional  responses  of  consumers  in  the 
+context of e-commerce complaint behavior. 
+
+This  study  categorized  consumer  personality  into  two  general  types:  Assertive  and 
+Passive, based on how individuals tend to respond to dissatisfaction in e-commerce settings. 
+Assertive consumers are typically confident, expressive, and proactive in addressing problems, 
+often choosing to file complaints or seek resolutions. In contrast, passive consumers are more 
+likely to avoid confrontation, internalize dissatisfaction, and refrain from taking formal action, 
+even when dissatisfied. These personality traits are important to understand, as they influence 
+
+12089 
+
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+how consumers perceive service failures and whether or not they choose to act on them (Berry 
+et al., 2014; Prasetyo et al., 2016). 
+
+To  classify  respondents,  a  forced-choice  questionnaire  was  used,  consisting  of  three 
+paired  statements,  each  presenting  contrasting  assertive  and  passive  traits.  The  statements 
+covered aspects such as locus of control (internal vs. external), emotional regulation (calm vs. 
+anxious), and social behavior (outgoing vs. reserved). Respondents were asked to choose the 
+statement from each pair that best reflected their personality. For instance, assertive responses 
+included statements such as “I can control what I do in life” and “I enjoy interacting with others 
+in  social  situations,”  whereas  passive  responses  included  “Many  things  in  my  life  are 
+determined by external factors” or “I often feel anxious, even in minor situations.” 
+
+The  classification  process  was  straightforward:  respondents  who  chose  two  or  more 
+assertive statements were labeled as Tends to Assertive, while those who selected two or more 
+passive statements were labeled as Tends to Passive. This approach enabled a clear distinction 
+between personality types, allowing further analysis of how personality influences complaint 
+behavior. 
+
+Table 1. Operational definition and indicators  of personal care determinant factors 
+
+Variables 
+Perceived Product 
+Quality (PQ) 
+
+Operational Definition 
+Consumer’s  subjective  evaluation 
+of a product’s overall quality based 
+on 
+to 
+its  condition,  accuracy 
+description,  material,  and  price 
+fairness  in  the  context  of  online 
+purchases (Gligor et al., 2019) 
+
+Perceived Value (PV)   The consumer’s overall assessment 
+of the worth of a product or service 
+based on the trade-off between the 
+benefits  received  and  the  costs 
+incurred 
+online 
+shopping experience. In this study, 
+it reflects consumers’ evaluation of 
+the value of products purchased via 
+e-commerce platforms. (Carvache-
+Franco et al., 2020). 
+
+during 
+
+the 
+
+Personality (TK) 
+
+across 
+
+behave 
+
+The relatively stable psychological 
+characteristics  that  influence  how 
+individuals  perceive,  think,  feel, 
+and 
+various 
+situations. In this study, personality 
+refers specifically to assertive and 
+passive  traits,  as  reflected  in  how 
+respond 
+consumers 
+to 
+dissatisfaction 
+e-commerce 
+in 
+transactions.  Assertive  consumers 
+take  control,  express 
+tend 
+complaints,  and  seek  solutions, 
+while passive consumers are more 
+
+to 
+
+The  material  or  fabric  of  the  product 
+
+The  color,  size,  or  dimensions  of  the 
+
+The product I received did not match 
+
+The delivery time was relatively long 
+
+The product quality did not match the 
+
+The product I received did not provide 
+
+The product was defective or damaged 
+
+Indicators 
+1) 
+the photo/image/description. 
+2) 
+and could not be used. 
+3) 
+price I paid. 
+4) 
+product differed from what I selected. 
+5) 
+felt cheap and easily damaged. 
+6) 
+The product sold on this e-commerce 
+platform  was  not  original  or  officially 
+guaranteed. 
+1) 
+benefits or quality that met my expectations. 
+2) 
+compared to other e-commerce platforms. 
+3) 
+The e-commerce platform’s customer 
+service  was  unresponsive  or  did  not  provide 
+solutions to the problems I experienced. 
+4) 
+compared to other platforms. 
+5) 
+complicated and time-consuming 
+P1 – Locus of Control 
+1) 
+P1a  (Assertive):  I  feel  I  can  control 
+what I do in life. The outcome of my complaint 
+handling was fair. 
+2) 
+P1b (Passive): I feel that many things 
+in my life are determined by factors beyond my 
+control. 
+P2 – Social and Emotional Response 
+3) 
+with others in various social situations. 
+4) 
+tense, even when facing minor problems. 
+
+The  shipping  cost  was  too  expensive 
+
+P2b (Passive): I easily feel anxious or 
+
+P2a  (Assertive):  I  enjoy  interacting 
+
+The return or refund process was too 
+
+12090 
+
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+Variables 
+
+Operational Definition 
+to  remain  silent,  avoid 
+likely 
+confrontation, 
+internalize 
+dissatisfaction  (Berry  et  al.,  2014; 
+Prasetyo et al., 2016). 
+
+and 
+
+Dissatisfaction Level 
+(DL) 
+
+Complaint Type  
+
+to  meet 
+
+this  study, 
+
+The  degree  of  negative  feelings 
+experienced  by  consumers  when 
+the actual performance of a product 
+or  service  fails 
+their 
+expectations.  
+In 
+the 
+emotional and cognitive responses 
+of  e-commerce  consumers  when 
+they feel disappointed with product 
+quality,  price  fairness,  delivery 
+service, or customer support (Boadi 
+et al., 2017). 
+
+reflects 
+
+it 
+
+types:  Voicer 
+
+Complaint  Type  is  defined  as  the 
+consumer's  behavioral  response  to 
+dissatisfaction,  categorized 
+into 
+(formal 
+four 
+complaint 
+Irates 
+(informal  expression  to  others), 
+Activist  (escalating 
+to  external 
+parties),  and  Passive  (remaining 
+silent). 
+
+seller), 
+
+to 
+
+P3b (Passive): I prefer spending time 
+
+The price of this product or service is 
+
+P3a  (Assertive):  I  can  remain  calm 
+
+Indicators 
+P3  –  Emotional  Stability  and  Social 
+Preference 
+5) 
+even in high-pressure situations. 
+6) 
+alone rather than being around many people. 
+1) 
+I  feel  dissatisfied  with  the  quality  of 
+the product or service I received because it did 
+not meet my expectations. 
+2) 
+not worth the benefits or quality I received. 
+3) 
+I  am  disappointed  with  the  customer 
+service because it did not provide a satisfactory 
+solution to the problem I experienced. 
+4) 
+I  feel  the  shipping  cost  charged  was 
+too  expensive  compared  to  the  speed  and 
+quality of the delivery service. 
+5) 
+shopping  experience  on 
+platform. 
+1) 
+I  prefer  to  stay  silent  and  accept  the 
+situation rather than file a complaint, even when 
+dissatisfied. (Passive) 
+2) 
+I always complain directly to the seller 
+or  customer  service  when  I  feel  dissatisfied, 
+because  I  want  my  issue  resolved  quickly. 
+(Voicer) 
+3) 
+is  not  handled 
+social  media, 
+properly, 
+regulators, or consumer communities to ensure 
+action is taken. (Activist) 
+4) 
+I  often  express  my  dissatisfaction  to 
+friends  or  family  rather  than  submitting  a 
+formal complaint. (Irates) 
+
+Overall,  I  feel  disappointed  with  my 
+this  e-commerce 
+
+If  my  complaint 
+involve 
+
+I  will 
+
+Data Collection 
+
+Data for this study were collected using an online questionnaire distributed via Jotform. 
+The link was shared through digital platforms such as Instagram, WhatsApp, and TikTok to 
+reach  respondents  who  met  specific  criteria.  The  questionnaire  included  several  sections: 
+general instructions, screening questions to ensure that respondents had purchased products via 
+e-commerce  and  experienced  dissatisfaction,  demographic  information,  classification  of 
+complaint behavior (Voicer, Irate, Passive) and personality, as well as statements measuring 
+the  research  variables.  Only  respondents  who  had  experienced  dissatisfaction  and  had 
+submitted a complaint were eligible to continue. All variables were measured using a five-point 
+Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree). This self-administered 
+survey approach ensured efficient data collection and alignment with the study’s objectives. 
+
+RESULTS AND DISCUSSION  
+Analysis  
+
+This study employed Structural Equation Modeling–Partial Least Squares (SEM-PLS) 
+for data analysis using SmartPLS 4.0, consisting of two main stages: outer model evaluation 
+and inner model evaluation (Hair et al., 2017). The outer model tested validity and reliability 
+
+12091 
+
+ 
+ 
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+through  factor  loadings  (≥0.708),  Average  Variance  Extracted  (AVE  ≥0.50)  for  convergent 
+validity, and Composite Reliability (CR ≥0.70) for internal consistency. Discriminant validity 
+was confirmed using cross-loadings and the Fornell-Larcker criterion. 
+
+The inner model evaluated the structural relationships between latent variables through 
+path coefficients, t-statistics, and p-values obtained via bootstrapping (5,000 subsamples). The 
+R² values assessed the predictive power of endogenous constructs, interpreted as substantial 
+(≥0.75), moderate (≥0.50), or weak (≥0.25). A key analytical technique applied in this study 
+was  Multi-Group  Analysis  (MGA),  used  to  assess  the  moderating  effect  of  complaint  type 
+(Voicer, Irate, Passive) by comparing differences in path coefficients across subgroups. 
+
+The use of MGA provided several advantages that aligned with the study’s objectives. It 
+allowed  for  a  comparative  analysis  between  different  types  of  complainants,  uncovering 
+whether  the  strength  and  direction  of  relationships  (e.g.,  between  perceived  value  and 
+dissatisfaction) varied across consumer segments. This approach is particularly relevant given 
+the  theoretical  foundation  of  Consumer  Complaint  Behavior  (CCB),  which  assumes 
+heterogeneous post-purchase responses. MGA enabled the model to capture these behavioral 
+distinctions more accurately, providing deeper insights into how each complaint type uniquely 
+interacts with psychological and experiential factors in influencing dissatisfaction. Thus, MGA 
+enhanced the explanatory richness and practical relevance of the study’s findings. 
+
+Findings  
+
+The  study  analyzed  data  from  218  respondents.  The  majority  of  them  were  female 
+(65,14%), while males made up (34,86%) of the sample. The most dominant age group was 
+35–44 years (56,42%), followed by those aged 25–34 years (32,11%) and 17–24 years (6,88%), 
+indicating that the majority of respondents were in the productive and tech-savvy age range. 
+Geographically, most respondents resided in Jabodetabek (56,88%), then West Java (22,48%) 
+especially in urban regions, while other provinces. In terms of educational background, most 
+participants held a bachelor’s degree (69,27%) or postgraduate degree (18,81%), suggesting a 
+highly  educated  consumer  base.  Professionally,  respondents  were  largely  private-sector 
+employees  (42,66%),  unemployed  (14,22%),  and  entrepreneurs  (12,39%).  A  significant 
+proportion of them earned above IDR 10.000.000 per month (37,16%), although their monthly 
+e-commerce  expenditure  was  typically  lower,  with  53,67%  spending  under  IDR  1.000.000. 
+These characteristics indicate that the majority of respondents were young, well-educated, and 
+financially  capable,  yet  selective  in  their  online  spending—traits  that  can  influence  their 
+expectations and complaint behaviors in the e-commerce. 
+
+Table 2 Distribution table of respondents complaint types 
+
+Complaint Type 
+
+Activist 
+
+Voicer 
+
+Irates 
+
+Passive 
+
+Total 
+
+(n) 
+
+(%) 
+
+(n) 
+
+(%) 
+
+(n) 
+
+(%) 
+
+(n) 
+
+(%) 
+
+Personality 
+Assertive 
+Semi Assertive 
+Semi Pasif 
+Pasif 
+
+3 
+3 
+1 
+
+1.38 
+1.38 
+0.46 
+0.00 
+
+65 
+50 
+25 
+11 
+
+29.82 
+22.94 
+11.47 
+5.05 
+
+12 
+8 
+5 
+5 
+
+5.50 
+3.67 
+2.29 
+2.29 
+
+9 
+14 
+5 
+2 
+
+4.13 
+6.42 
+2.29 
+0.92 
+
+89 
+75 
+36 
+18 
+
+12092 
+
+ 
+ 
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+Based on the result shown in Table 2, Voicer was the most dominant complaint behavior 
+across all personality types. The Assertive group was the largest with 89 respondents. Most of 
+them chose to express complaints directly. This is consistent with previous findings. Assertive 
+individuals are confident and proactive in expressing dissatisfaction (Nasurdin et al., 2020). 
+Semi-Assertive individuals also showed similar behavior. A total of 50 out of 75 respondents 
+in  this  group  became  Voicer.  However,  some  of  them  also  showed  passive  behavior.  This 
+reflects the mixed nature of Semi-Assertive personalities (Berry et al., 2018; Kitapci & Dörtyol, 
+2015).  Interestingly,  many  Passive  and  Semi-Passive  individuals  also  preferred  to  file 
+complaints  directly.  Even  though  they  are  not  typically  expressive,  they  still  chose  formal 
+channels. This pattern reflects the modern trend. Even passive consumers are now willing to 
+complain when the process is easy and efficient (Tosun et al., 2021). These findings show one 
+important  insight.  All  personality  types  prefer  direct  complaint  channels.  That  is  why 
+companies must provide simple and responsive complaint systems, 
+
+Shopee was the most used e-commerce platform. A total of 188 respondents used Shopee. 
+Shopee was  also  the most  complained-about  platform  with  105 dissatisfaction reports. This 
+supports earlier findings. Popular platforms often receive more complaints due to higher user 
+volume  and  expectations  (Pramestiti  &  Hidayat,  2024).  Fashion  and  accessories  were  the 
+product categories with the most complaints. A total of 106 respondents reported dissatisfaction 
+in  this category. This  shows that fashion items  often create disappointment.  Consumers are 
+sensitive to mismatched visuals, size, or texture (Sari et al., 2025; Zulkifli et al., 2024). Post-
+purchase service was a major issue. Most complaints were related to delivery, return policy, 
+and  customer  service.  These  elements  strongly  influenced  how  consumers  evaluated  the 
+service. Studies confirm this. After-sales service has a strong effect on satisfaction and loyalty 
+(Wulan et al., 2024). The overall conclusion is clear. High transaction volume and sensitive 
+product  types  increase  dissatisfaction  risk.  E-commerce  platforms  must  improve  delivery, 
+complaint resolution, and product accuracy. These areas are key to improving e-satisfaction 
+and customer retention. 
+
+Descriptive Analysis  
+
+A descriptive analysis was conducted to examine respondents’ perceptions of Perceived 
+Product Quality (PQ), Perceived Value (PV), and Dissatisfaction Level (DL) in the context of 
+e-commerce  complaints.  The  analysis  includes  measures  such  as  mode,  average,  standard 
+deviation,  and  Top-Two  Box  (TTB)  scores  to  capture  the  intensity  of  negative  consumer 
+experiences. Table 3 presents the result of descriptive analysis for this study. 
+
+Indicator 
+
+Table 3. Descriptive Analysis 
+
+Modus  Average 
+
+Standard 
+Deviation 
+
+Top-Two 
+Box (%) 
+
+I 
+
+product 
+
+received 
+
+Perceived Product Quality (PQ) 
+The 
+photo/image/description. 
+The  product  was  defective  or  damaged  and  could  not  be 
+used. 
+The product quality did not match the price I paid. 
+
+not  match 
+
+did 
+
+the 
+
+4 
+
+3 
+
+4 
+
+3.50 
+
+2.98 
+
+3.34 
+
+0.93 
+
+55.50% 
+
+1.00 
+
+33.03% 
+
+0.92 
+
+49.08% 
+
+12093 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+Indicator 
+
+Modus  Average 
+
+The color, size, or dimensions of the product differed from 
+what I selected. 
+The material or fabric of the product felt cheap and easily 
+damaged 
+The  product  sold  on  this  e-commerce  platform  was  not 
+original or officially guaranteed. 
+Perceived Value (PV) 
+The product I received did not provide benefits or quality 
+that met my expectations. 
+The delivery time was relatively long compared to other e-
+commerce platforms. 
+The e-commerce platform’s customer service was 
+unresponsive or did not provide solutions to the problems I 
+experienced. 
+The shipping cost was too expensive compared to other 
+platforms. 
+The return or refund process was too complicated and 
+time-consuming 
+Dissatisfaction Level (DL) 
+I feel dissatisfied with the quality of the product or service 
+I received because it did not meet my expectations. 
+The price of this product or service is not worth the 
+benefits or quality I received. 
+I am disappointed with the customer service because it did 
+not provide a satisfactory solution to the problem I 
+experienced. 
+I feel the shipping cost charged was too expensive 
+compared to the speed and quality of the delivery service. 
+Overall, I feel disappointed with my shopping experience 
+on this e-commerce platform. 
+
+4 
+
+4 
+
+3 
+
+4 
+
+3 
+
+4 
+
+3 
+
+3 
+
+4 
+
+3 
+
+4 
+
+3 
+
+3 
+
+3.21 
+
+3.49 
+
+3.06 
+
+3.19 
+
+3.14 
+
+3.34 
+
+2.80 
+
+3.13 
+
+3.56 
+
+3.29 
+
+3.28 
+
+2.96 
+
+2.93 
+
+Standard 
+Deviation 
+1.03 
+
+Top-Two 
+Box (%) 
+45.87% 
+
+0.92 
+
+54.59% 
+
+0.91 
+
+32.11% 
+
+1.03 
+
+44.50% 
+
+0.96 
+
+33.49% 
+
+0.93 
+
+46.79% 
+
+0.87 
+
+20.18% 
+
+0.97 
+
+35.78% 
+
+0.85 
+
+58.26% 
+
+0.87 
+
+40.83% 
+
+0.89 
+
+43.58% 
+
+0.90 
+
+27.52% 
+
+0.87 
+
+27.98% 
+
+The  descriptive  analysis  reveals  several  critical  aspects  of  consumers'  negative  post-
+purchase evaluations in e-commerce transactions. Among the Perceived Product Quality (PQ) 
+items,  the  highest  Top-Two  Box  (TTB)  scores  were  observed  on  statements  related  to 
+mismatched  product  descriptions  (55.50%)  and  products  that  felt  cheap  or  easily  damaged 
+(54.59%). These suggest that visual or descriptive inaccuracies and material quality issues are 
+the most frequent triggers of dissatisfaction. On the contrary, lower TTB scores were noted for 
+complaints regarding product authenticity (32.11%) and defective items (33.03%), indicating 
+that while these issues exist, they are not as prevalent or strongly perceived across the sample. 
+Perceived  Value  (PV)  items  demonstrated  moderate  concern.  The  top  complaint 
+(46.79%) was about poor customer service responsiveness, while long delivery times (33.49%) 
+and  expensive  shipping  costs  (20.18%)  drew  less  intense  dissatisfaction.  This  implies  that 
+while  functional  aspects  like  shipping  fees  are  important,  the  emotional  or  experiential 
+dimension such as responsive service plays a stronger role in shaping perceived value. 
+
+For  Dissatisfaction  Level  (DL),  the  highest  TTB  score  (58.26%)  was  recorded  on 
+dissatisfaction with product quality, reinforcing the significance of PQ as a key dissatisfaction 
+driver. Dissatisfaction with customer service (43.58%) and product pricing (40.83%) followed 
+closely. However, general  dissatisfaction with  the overall e-commerce  experience remained 
+
+12094 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+relatively lower (27.98%), suggesting that while specific aspects fail, overall platform use may 
+still be considered acceptable by many consumers. 
+
+1)  Outer Models 
+
+The outer model refinement process in this study was conducted in multiple stages, with 
+the primary goal of achieving convergent validity, indicated by an Average Variance Extracted 
+(AVE)  value  ≥  0.50.  The  constructs  evaluated  included  Perceived  Product  Quality  (PQ), 
+Perceived  Value  (PV),  and  Dissatisfaction  Level  (DL).  Initial  AVE  values  for  all  three 
+constructs were below the threshold: PQ = 0.438, PV = 0.401, and DL = 0.428, indicating the 
+need for indicator elimination. 
+
+In the first elimination stage, the weakest indicators based on outer loading were removed 
+from each construct. From Perceived Value, PV1 (“The product did not provide benefits or 
+quality that met my expectations”) was removed due to a very low outer loading of 0.341. From 
+Perceived Product Quality, PQ4 (“Color, size, or dimensions differed from what I selected”) 
+was  eliminated  (loading  0.552),  and  from  Dissatisfaction  Level,  DL1  (“I  was  dissatisfied 
+because the product/service did not meet my expectations”) was also removed (loading 0.538). 
+After re-estimation, AVE for Perceived Value improved to 0.511, passing the threshold, 
+while PQ and DL remained insufficient. In the second stage, PQ1 (“The product I received did 
+not  match  the  photo/image/description”)  was  removed  with  loading  0.485,  as  well  as  DL2 
+(“The price of this product or service is not worth the benefits or quality I received”) with a 
+loading of 0.547. These eliminations improved AVE for DL, but PQ was still below 0.50. 
+
+During the third stage, an anomaly was observed: PQ5 (“The material or fabric felt cheap 
+and  easily  damaged”),  which  previously  had  an  acceptable  outer  loading  of  0.760,  dropped 
+significantly to 0.481 after earlier indicators were removed. This shift was likely caused by 
+interdependence  effects  among  the  remaining  indicators.  Since  PQ5  now  had  the  lowest 
+contribution to the PQ construct, it was removed in this final round. 
+
+After the three elimination phases, the final retained indicators were as follows: 
+: PQ2, PQ3, PQ6 
+
+Perceived Product Quality (PQ) 
+Perceived Value (PV)  
+Dissatisfaction Level (DL) 
+Personality Type (TK) 
+
+: PV2, PV3, PV4, PV5 
+
+: DL3, DL4, DL5 
+: P1, P2, P3 (unchanged) 
+All  constructs  now achieved acceptable  AVE values  (PQ = 0.552, PV =  0.511, DL = 
+0.554),  and  the  retained  indicators  had  outer  loadings  above  0.60,  confirming  that  the 
+measurement model met the required standards for validity and reliability. 
+
+Table 4. The value of factor loadings, Cronbach’s alpha, composite reliability, AVE, and r-square 
+
+Variables and Indicator 
+
+Factor Loading 
+
+Cronbach’s Alpha  Composite reliability (rho_c)  AVE 
+
+Perceived Product Quality (PQ) 
+
+PQ2 
+
+PQ3 
+
+PQ6 
+
+Perceived Value (PV) 
+
+PV2  
+
+0,675 
+
+0,733 
+
+0,815 
+
+0,733 
+
+0,612 
+
+0,786 
+
+0,552 
+
+0,680 
+
+0,807 
+
+0,511 
+
+12095 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+Variables and Indicator 
+
+Factor Loading 
+
+Cronbach’s Alpha  Composite reliability (rho_c)  AVE 
+
+PV3  
+
+PV4  
+
+PV5  
+
+Dissatisfaction Level (DL) 
+
+DL3  
+
+DL4  
+
+DL5  
+
+2)  Inner Models 
+
+0,722 
+
+0,717 
+
+0,687 
+
+0,733 
+
+0,734 
+
+0,764 
+
+0,597 
+
+0,788 
+
+0,554 
+
+The following Table 5 presents the results of the path coefficient analysis, specifically 
+showing  the  direct  effects  between  the  variables  in  the  research  model.  These  coefficients 
+illustrate the magnitude and significance of the direct relationships, offering insights into how 
+each independent variable directly influences the dependent variables. 
+
+0,474 
+
+Table 5. Path coefficient of direct relationship between variables 
+Hypothesis Conclusion 
+
+R-Squared 
+
+0,341 
+14,104 
+0,369 
+
+0,733  H1 rejected 
+0,000  H2 accepted 
+0,712  H3 rejected 
+
+Direct effect  Path coefficient  T-Statistics  P-values 
+Complete Model 
+0,023 
+PQ -> DL 
+0,685 
+PV -> DL 
+TK -> DL 
+-0,018 
+Passive  Complaint Type Model 
+0,090 
+PQ -> DL 
+0,643 
+PV -> DL 
+TK -> DL 
+-0,007 
+Voicer Complaint Type Model 
+0,077 
+PQ -> DL 
+0,702 
+PV -> DL 
+TK -> DL 
+-0,029 
+Irates Complaint Type Model 
+0,263 
+PQ -> DL 
+0,471 
+PV -> DL 
+0,284 
+TK -> DL 
+Note:  PQ=  Perceived  Product  Quality;  PV=Perceived  Value;  TK=Personality; 
+DL=Dissatisfaction Level. 
+
+0,634  H1 rejected 
+0,000  H2 accepted 
+0,967  H3 rejected 
+
+0,366  H1 rejected 
+0,003  H2 accepted 
+0,228  H3 rejected 
+
+0,449  H1 rejected 
+0,000  H2 accepted 
+0,563  H3 rejected 
+
+0,757 
+12,296 
+0,578 
+
+0,476 
+4,399 
+0,041 
+
+0,905 
+2,978 
+1,205 
+
+0,588 
+
+0,474 
+
+0,503 
+
+In the complete model, the path from Perceived Product Quality (PQ) to Dissatisfaction 
+Level (DL) yielded a path coefficient of 0,023, with a t-statistic of 0,341 and p-value of 0,733. 
+Since  the  p-value  >  0,05,  this  result  is  not  statistically  significant,  and  H1  is  rejected. 
+Meanwhile, the path from Perceived Value (PV) to DL showed a strong path coefficient of 
+0,685, with a t-statistic of 14,104 and p-value of 0,000, indicating high statistical significance 
+and leading to H2 being accepted. The relationship from Personality (TK) to DL had a path 
+coefficient of -0,018, t-statistic 0,369, and p-value 0,712, meaning the effect is not significant 
+and H3 is rejected. 
+
+In the Passive Complaint Type Model, the relationship between PQ and DL resulted in a 
+path  coefficient  of  0,090,  with  a  t-statistic  of  0,476  and  p-value  of  0,634.  This  path  is  not 
+significant and H1 is rejected. The PV → DL path produced a coefficient of 0,643, t-statistic 
+
+12096 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+4,399, and p-value 0,000, confirming H2 is accepted. The TK → DL path showed a very low 
+coefficient  of  -0,007,  t-statistic  0,041,  and  p-value  0,967,  which  is  far  from  significant; 
+therefore, H3 is rejected. 
+
+In the Voicer Complaint Type Model, the PQ → DL path had a coefficient of 0,077, t-
+statistic 0,757, and p-value 0,449, indicating a non-significant effect and leading to H1 being 
+rejected.  The  PV  →  DL  relationship  was  highly  significant  with  a  coefficient  of  0,702,  t-
+statistic  12,296,  and  p-value  0,000,  thus  H2  is  accepted.  The  TK  →  DL  path  resulted  in  a 
+coefficient of -0,029, t-statistic 0,578, and p-value 0,563, indicating that H3 is again rejected. 
+Lastly, in the Irates Complaint Type Model, PQ → DL yielded a coefficient of 0,263, t-
+statistic  0,905,  and  p-value  0,366,  so  H1  remains  rejected.  The  PV  →  DL  relationship  was 
+statistically  significant,  with  a  coefficient  of  0,471,  t-statistic  2,978,  and  p-value  0,003, 
+resulting in H2 being accepted. For TK → DL, the coefficient was 0,284, t-statistic 1,205, and 
+p-value 0,228, showing no significant effect and H3 is rejected. 
+
+The  R-Square  (R²)  values  in  this  study  indicate  the  proportion  of  variance  in 
+Dissatisfaction  Level  (DL)  that  can  be  explained  by  the  independent  variables:  Perceived 
+Product Quality (PQ), Perceived Value (PV), and Personality (TK). In the complete model, the 
+R² value was 0,474, meaning that 47,4% of the variance in dissatisfaction could be explained 
+by the combined effect of the three predictors. When analyzed by complaint type, the R² for 
+the Passive group has the same value with complete model with 0,474 r-square, indicating a 
+moderate explanatory power. The Irates group showed the highest R² at 0,588, suggesting that 
+dissatisfaction  among  Irates  is  more  strongly  influenced  by  the  predictors,  particularly 
+perceived value. Meanwhile, the Voicer group had an R² of 0,503, indicating a moderate model 
+fit,  but  still  higher  r-square  comparing  with  the  passive  and  complete  model.  These  results 
+imply  that  the  ability  to  explain  dissatisfaction  varies  across  complaint  types,  with  Voicers 
+being the most structured and Irates being the most complex and nuanced. 
+
+The Effect of Perceived Product Quality on Dissatisfaction Level 
+
+The  statistical  analysis  confirms  that  Perceived  Product  Quality  (PQ)  does  not 
+significantly  affect  the  Dissatisfaction  Level  (DL)  in  the  overall  model  nor  within  any 
+complaint type subgroups. This finding supports the view that, in the context of e-commerce, 
+dissatisfaction  is  less  about  the  physical  attributes  of  the  product  and  more  about  the 
+surrounding service experience. Consumers may accept minor product imperfections as long 
+as the transaction process is smooth, transparent, and responsive. 
+
+The  Irates  group,  while  showing  a  relatively  higher  coefficient,  still  presents  a  non-
+significant relationship. This suggests that emotionally expressive consumers might react more 
+strongly  to  quality  issues;  however,  such  reactions  are  likely  amplified  by  emotional 
+expectations  rather  than  the  objective  condition  of  the  product  itself.  In  this  sense,  the 
+dissatisfaction is emotionally charged and may involve elements such as perceived deception 
+or lack of justice rather than mere product flaws. 
+
+These findings are in line with those of Zhang et al. (2023), who analyzed over 32,000 
+e-commerce reviews and found that dissatisfaction was most often linked to service failures 
+such as delivery and customer support rather than product defects. Similarly, Davidavičienė et 
+
+12097 
+
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+al. (2019) reported that in Lithuania’s e-commerce landscape, logistics and service problems 
+outweighed  product  quality  concerns  as  causes  of  consumer  dissatisfaction.  Furthermore, 
+Widyastuti  et  al.  (2024)  observed  that  consumers  may  continue  using  a  platform  despite 
+dissatisfaction,  due  to  high  switching  costs  or  service  convenience,  indicating  that 
+dissatisfaction is rooted in broader emotional and contextual evaluations. 
+
+Nonetheless, a few studies offer a partially contrasting view. Taroreh et al. (2024) found 
+that  product  quality  could  significantly  affect  dissatisfaction,  but  only  when  dissatisfaction 
+serves as a mediator toward brand switching. This supports the idea that PQ may not directly 
+trigger dissatisfaction unless paired with a behavioral response like churn. Likewise, Irviandra 
+& Trinanda (2020) showed that product quality influenced brand switching decisions, implying 
+that while dissatisfaction may not be immediately triggered by quality issues, such concerns 
+can accumulate and eventually affect consumer loyalty especially among emotionally reactive 
+segments like the Irates. 
+
+The Effect of Perceived Value on Dissatisfaction Level 
+
+The  results  of  hypothesis  testing  confirm  that  Perceived  Value  (PV)  significantly 
+influences Dissatisfaction Level (DL) consistently across all models. In the complete model, 
+the  relationship  between  PV  and  DL  was  significant,  as  it  was  across  all  complaint  type 
+subgroups (Passive, Voicer, and Irates). 
+
+These findings suggest that consumers are likely to feel dissatisfied when they perceive 
+a mismatch between the benefits received and the costs incurred in terms of time, money, or 
+effort, regardless of their personality or complaint behavior. Perceived value, as evaluated in 
+this study, includes critical elements such as delivery speed, customer service responsiveness, 
+shipping costs, and ease of refunds. The consistent significance across models highlights that 
+value-based assessments play a central role in shaping consumer dissatisfaction in e-commerce 
+transactions. 
+
+These results support and extend earlier studies by Carvache-Franco et al. (2020), Sheth 
+et  al.  (1991),  and  Regalado-Pezúa  et  al.  (2023),  who  emphasized  that  perceived  value, 
+particularly emotional and functional dimensions, significantly impacts consumer satisfaction 
+and post-purchase reactions. In e-commerce environments, where consumers cannot physically 
+inspect products, the smoothness of service processes becomes essential. Dissatisfaction arises 
+notably  when  services  fail  consumer  expectations,  such  as  through  delays  in  delivery, 
+unresponsive  customer  service,  or  cumbersome  return  processes,  even  if  the  product  itself 
+meets basic standards. 
+
+Additional  support  from  recent  literature  reinforces  this  conclusion.  Prihandoko  and 
+Siwabessy  (2022)  found  perceived  value  significantly  impacts  customer  satisfaction  on 
+Shopee,  emphasizing  the  importance  of  efficient  service  aspects  like  timely  delivery  and 
+responsiveness. Similarly, Khasbulloh and Suparna (2022) demonstrated that perceived value 
+notably influences satisfaction and loyalty among Bukalapak users, confirming that reduced 
+perceived value results in increased dissatisfaction. Abdella and Indradewa (2024) indicated 
+that perceived value mediates the relationship  between service quality,  product  quality,  and 
+low  perceived  value  significantly  elevates 
+customer  satisfaction,  suggesting 
+
+that 
+
+12098 
+
+ 
+  
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+dissatisfaction,  particularly  in  e-commerce  contexts.  Sebastián-Morillas  et  al.  (2023)  also 
+confirmed perceived value as a universal determinant of customer satisfaction across various 
+brands, highlighting the broad applicability of these findings. Furthermore, Luo, Li, and Sun 
+(2022) showed that different dimensions of perceived value, including emotional, functional, 
+and green values, positively affect consumer satisfaction, further reinforcing that unmet value 
+expectations strongly contribute to dissatisfaction in digital consumer experiences. 
+
+The Effect of Personality on Dissatisfaction Level 
+
+The  hypothesis  testing  results  indicate  that  Personality  (TK)  does  not  significantly 
+influence the Dissatisfaction Level (DL) in any tested models. The findings were consistently 
+non-significant across all subgroups: Passive, Voicer, and Irates. Due to these consistently non-
+significant results, hypothesis H3 is rejected in all models. 
+
+This suggests that personality traits such as assertiveness or passiveness may influence 
+how  consumers  express  dissatisfaction,  but  they  do  not  directly  affect  the  intensity  of 
+dissatisfaction.  In  other  words,  personality  type  does  not  significantly  determine  whether 
+consumers  feel  disappointed,  but  rather  how  they  behave  after  experiencing  dissatisfaction. 
+These  results  align  with  previous  findings  indicating  personality  traits  are  more  relevant  as 
+moderators  or  predictors  of  complaint  behavior  rather  than  direct  determinants  of 
+dissatisfaction (Aisyiyah et al., 2019; Janjua, 2017; Prasetyo et al., 2016) 
+
+Interestingly,  the  Irates  group  showed  a  relatively  higher,  yet  still  non-significant, 
+relationship.  This  might  suggest  a  tendency  among  emotionally  expressive  consumers,  like 
+Irates, to experience stronger dissatisfaction when their expectations are unmet. However, due 
+to group variation and limited sample size, this pattern was not statistically confirmed. 
+
+Prasetyo et al. (2016) categorized consumers into four complaint types (Passive, Voicers, 
+Irates, Activists), highlighting that complaint behavior patterns are influenced by personality 
+and demographic factors such as gender, education, and income. Nonetheless, personality did 
+not significantly predict how dissatisfied consumers felt, only how they reacted. Sharma and 
+Marshall  (2015)  showed  that  individual  traits  such  as  impulsivity  and  self-monitoring 
+significantly  affect  complaint  behavior,  reinforcing  that  personality  drives  the  type  of 
+complaint response rather than dissatisfaction intensity. 
+
+Differences in Variable Effects Across Complaint Types and Their Implications 
+
+This study found that the influence of perceived product quality, perceived value, and 
+personality  on  dissatisfaction  varies  across  different  types  of  complaint  behavior  (Passive, 
+Voicer, and Irates). Although the general patterns of influence were similar, the strength of the 
+relationships differed, indicating that each consumer type processes dissatisfaction differently. 
+Across all complaint types, perceived value consistently emerged as the most influential 
+factor driving dissatisfaction. Consumers are more likely to feel dissatisfied when they perceive 
+a  mismatch  between  what  they  paid  and  what  they  received.  This  mismatch  may  relate  to 
+aspects such as delivery, customer service, or overall convenience. However, this effect was 
+felt  more  strongly  among  Voicers,  who  are  typically  proactive  and  solution-seeking.  This 
+
+12099 
+
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+suggests that Voicers are particularly responsive to the fairness and efficiency of the service 
+process. 
+
+An interesting anomaly appears in the Irates consumer group. In this study, the group 
+includes both Irates and Activists, who are known for their emotional, assertive, and sometimes 
+aggressive complaint behavior. Within this segment, both Perceived Product Quality (PQ) and 
+Personality  Traits  (TK)  show  relatively  high  path  coefficients  toward  Dissatisfaction  Level 
+(DL), even though the relationships are not statistically significant. This pattern suggests that 
+beyond  statistical  output,  there  is  a  consistent  behavioral  tendency  that  contributes 
+meaningfully to consumer dissatisfaction. Such patterns are especially relevant for Irates. They 
+are highly sensitive to negative experiences and often respond with intense emotional reactions. 
+The relationship between PQ and DL in this group is reflected in a coefficient of 0,263. 
+This value, considerably higher than those observed in the Voicer (0,077) and Passive (0,090) 
+groups,  implies  that  negative  perceptions  about  product  quality  tend  to  provoke  stronger 
+dissatisfaction among Irates consumers. These negative perceptions can include damage, lack 
+of authenticity, or a mismatch with product descriptions. This finding aligns with Grace et al. 
+(2021),  who  argue  that  perceived  product  quality  plays  a  direct  role  in  shaping  customer 
+satisfaction and loyalty. Similarly, Irviandra and Trinanda (2020) emphasize that poor product 
+quality  often  leads  to  brand  switching,  especially  among  dissatisfied  consumers,  a  trait 
+commonly associated with Irates. 
+
+Product quality holds particular significance for this group due to their low tolerance for 
+technical flaws and unmet expectations. Irates do not evaluate products solely based on surface 
+appearance but on the extent to which the product fulfills emotional, symbolic, and functional 
+expectations.  When  such  expectations  are  violated,  dissatisfaction  becomes  personal.  Many 
+Irates feel deceived or disrespected, which often results in externalized frustration in the form 
+of public complaints, negative reviews, or involvement of third parties. 
+
+The influence of personality traits is also pronounced in this group, with a path coefficient 
+of  0.284,  slightly  higher  than  that  of  PQ.  Consumers  who  are  assertive,  perfectionistic,  or 
+emotionally reactive are more likely to experience dissatisfaction when they encounter service 
+failures or product-related issues. This observation is supported by Ekinci et al. (2016), who 
+found  that  traits  such  as  conscientiousness  and  openness  predict  a  stronger  tendency  to 
+complain.  In  addition,  Thøgersen  et  al  suggest  that  complaint  behavior  is  shaped  by  both 
+personality  and  contextual 
+to 
+dissatisfaction. 
+
+factors,  particularly  among  consumers  predisposed 
+
+Further reinforcement comes from John (2023) that demonstrated how traits such as self-
+monitoring  and  internal  locus  of  control  affect  consumers’  reactions  to  service  or  technical 
+quality. Individuals with such traits tend to engage deeply with their consumption experiences, 
+making them more prone to dissatisfaction when things go wrong. These findings are consistent 
+with the behavioral tendencies observed among Irates, who frequently exhibit strong internal 
+standards and high emotional involvement. 
+
+When  PQ  and  TK  are  viewed  together,  they  reveal  a  critical  behavioral  dynamic. 
+Consumers with strong personalities and high expectations tend to respond more severely when 
+product  quality  does  not  meet  their standards. While these relationships  are not  statistically 
+
+12100 
+
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+significant,  which  could  be  due  to  the  small  sample  size  or  heterogeneity  within  the  Irates 
+group,  their  practical  implications  are  well  supported  by  theory  and  prior  research.  For 
+example, Dewanti and Tjandra (2014) as well as Mutsikiwa and Eniola (2024) highlight the 
+central role of product quality in shaping satisfaction and loyalty, and how its failure can lead 
+to intense emotional dissatisfaction. 
+
+Given  these  findings,  e-commerce  providers  must  take  the  influence  of  PQ  and  TK 
+seriously, particularly when dealing with Irates consumers. Although these variables may not 
+always  show  significance  in  every  statistical  test,  their  real-world  impact  is  substantial.  A 
+dissatisfied Irates consumer may not only disengage from the brand but also influence public 
+perception  through  viral  complaints  or  reputational  attacks.  Preventive  strategies  should 
+therefore  include  robust  product  quality  control  and  customer  service  approaches  that  are 
+emotionally  responsive.  For  this  segment,  generic  service  protocols  are  insufficient.  Irates 
+consumers  require  quicker,  more  empathetic,  and  personalized  interventions  to  prevent 
+dissatisfaction from escalating into a reputational crisis. 
+
+This  study  addresses  the  identified  gap  by  demonstrating  that  while  consumers  may 
+default  to  Irate  or  Passive  behaviors,  their  underlying  dissatisfaction  is  primarily  driven  by 
+unmet  perceived  value  particularly  in  service-related  aspects.  By  highlighting  that  Voicer 
+consumers are more responsive to  fair and efficient  complaint handling, and that Irates and 
+Passives  exhibit  distinct  emotional  and  behavioral  patterns,  the  findings  offer  actionable 
+insights for redirecting dissatisfaction toward more constructive channels. This suggests that 
+with the right service design and targeted complaint handling strategies, businesses can shift 
+complaint  behaviors  closer  to  the  ideal  Voicer  pathway,  thus  enabling  earlier  recovery  and 
+reducing long-term reputational risk. 
+
+Limitations 
+
+This  study, while providing  valuable insights,  has several  limitations. First,  the cross-
+sectional design limits the ability to observe changes in dissatisfaction and complaint behavior 
+over  time  or  across  various  purchase  experiences.  However,  in  this  study,  48.64%  of 
+respondents  were  from  the  fashion  and  accessories  product  category,  which  limits  the 
+generalizability  of  the  findings,  as  consumer  expectations  and  reactions  may  differ  in  other 
+product categories such as electronics or groceries. Furthermore, consumer classification into 
+complaint types was based on self-reported behavior, which may be influenced by recall bias 
+or social desirability. The model also did not include other potentially influential variables such 
+as brand image,  emotional attachment,  or trust  in  the platform, which could  further explain 
+dissatisfaction.  Lastly,  since  the  sample  was  concentrated  in  the  Jabodetabek  area  and  its 
+surroundings,  the  findings  may  not  fully  capture  the  diversity  of  online  consumer  behavior 
+across different regions in Indonesia with varying logistical conditions and digital access. 
+
+CONCLUSION 
+
+This study concludes that Perceived Value plays the most central and consistent role in 
+shaping  consumer  dissatisfaction  in  e-commerce,  exerting  a  stronger  influence  than  both 
+Perceived Product Quality and Personality. Only Perceived Value showed a significant direct 
+
+12101 
+
+ 
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+effect  across all  complaint  types—Voicers,  Passives, and  Irates—indicating that consumers 
+respond more to post-purchase service factors such as delivery, refunds, and customer support 
+rather than product features alone. Complaint type also moderates the relationship: Voicers are 
+more  sensitive  to  value  but  prefer  formal  channels  for  resolution,  Irates  respond  more 
+emotionally and publicly, while Passives remain silent but may disengage if issues persist. The 
+findings highlight the need for e-commerce firms to shift focus from product quality to service 
+quality and complaint-handling strategies, tailoring responses to different complaint behaviors 
+through responsive communication, emotional engagement, and proactive monitoring of silent 
+churn. Future research should broaden sectoral and geographic coverage, employ longitudinal 
+designs, and integrate multiple data sources such as transaction records and customer reviews. 
+Adding variables such as digital literacy or shopping frequency, and exploring emerging tools 
+such as AI-based complaint resolution, may further deepen understanding and guide innovation 
+in e-commerce service management. 
+
+REFERENCES 
+Abdella, R. A., &  Indradewa, R. (2024). Customer satisfaction in  e commerce:  The role of 
+service  quality,  product  quality,  and  e  servicescape  influences  via  perceived  value. 
+Journal 
+368–382. 
+of  Management 
+https://doi.org/10.53088/jmdb.v4i2.1004  
+
+Business, 
+
+Digital 
+
+4(2), 
+
+and 
+
+Aisyiyah,  N.,  Hartoyo,  H.,  &  Krisnatuti,  D.  (2019).  Analisis  perilaku  komplain  konsumen 
+
+online shopping. Jurnal Ilmu Keluarga dan Konsumen, 12(1), 53–64. 
+
+Bergel, M., & Brock, C. (2018). The impact of switching costs on customer complaint behavior 
+and service recovery evaluation. Journal of Service Theory and Practice, 28(5), 570–595. 
+https://doi.org/10.1108/JSTP-07-2017-0115 
+
+Berry, M. S., Sweeney, M. M., Morath, J., Odum, A. L., & Jordan, K. E. (2014). The nature of 
+impulsivity:  Visual  exposure  to  natural  environments  decreases  impulsive  decision-
+e97915. 
+delay 
+making 
+https://doi.org/10.1371/journal.pone.0097915  
+
+PLoS  ONE, 
+
+discounting 
+
+9(5), 
+
+task. 
+
+in 
+
+a 
+
+Berry  R,  Tanford  S,  Montgomery  R,  Green  AJ.  2018.  How  we  complain:  the  effect  of 
+
+personality on consumer complaint channels. J Hosp Tour Res. 42(1):74–101. 
+
+Bilici, F., & Özdemir, E. (2024). Consumer perception of planned obsolescence: A research on 
+Journal  of  Business  Research-Turk,  16(1),  244–261. 
+
+smartphone  owners. 
+https://doi.org/10.20491/isarder.2024.1788  
+
+Carvache-Franco, W., Carvache-Franco, M., Carvache-Franco, O., & Hernández-Lara, A. B. 
+(2020). Motivation and segmentation of the demand for coastal and marine destinations. 
+Tourism 
+100661. 
+https://doi.org/10.1016/j.tmp.2020.100661 
+
+Perspectives, 
+
+Management 
+
+34, 
+
+Catenazzo, G., & Paulssen, M. (2023). Experiencing defects: The moderating role of severity 
+and  warranty  coverage  on  quality  perceptions.  International  Journal  of  Quality  & 
+Reliability  Management,  40(9),  2205–2221.  https://doi.org/10.1108/IJQRM-10-2021-
+0352 
+
+Cox, E., Bachkirova, T., & Clutterbuck, D. (2014). Theoretical traditions and coaching genres: 
+Mapping  the  territory.  Advances  in  Developing  Human  Resources,  16(2),  139–160. 
+https://doi.org/10.1177/1523422313520194  
+
+Databoks. (2024, Oktober 10). Jumlah pengguna e-commerce di Indonesia meningkat 2020–
+https://databoks.katadata.co.id/teknologi-
+
+2024. 
+
+12102 
+
+ 
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+telekomunikasi/statistik/6707a52f50651/jumlah-pengguna-e-commerce-di-indonesia-
+meningkat-2020-2024 
+
+Davidavičienė, V., Davidavičius, S., & Kaušinis, J. (2019). Consumer dissatisfaction structure 
+– e logistic perspective: Lithuania case. International Journal of Learning and Change, 
+11(3), 237–251.  
+
+Dewanti, R., & Tjandra, H. (2014). Peran mediator kepuasan pelanggan dalam menciptakan 
+438–446. 
+
+loyal.  Binus  Business  Review, 
+
+5(1), 
+
+dan 
+
+perilaku 
+sikap 
+https://doi.org/10.21512/BBR.V5I1.1190 
+
+Djekic, I., Dimitrijević, B., & Smigic, N. (2022). Consumer complaints associated with food 
+quality.  Journal  of  Consumer  Protection  and  Food  Safety,  18(1),  57–69. 
+https://doi.org/10.1007/s00003-021-01352-0 
+
+Donnellan,  M.  B.,  &  Robins,  R.  W.  (2010).  Resilient,  overcontrolled,  and  undercontrolled 
+personality types: Issues and controversies. Social and Personality Psychology Compass, 
+4(11), 1070–1083. https://doi.org/10.1111/j.1751-9004.2010.00313.x 
+
+Ekinci,  Y.,  Calderon,  J.,  &  Siala,  H.  (2016).  Do  personality  traits  predict  'complaining' 
+International  Journal  of  Business  Environment,  8(2),  123–140. 
+
+consumers? 
+https://doi.org/10.1504/IJBE.2016.074793 
+
+Grace, T. R., Chia-Chi, S., & Chia-Hsiu, L. (2021). Impact of Product Quality on Customer 
+Satisfaction  and  Loyalty.  International  Journal  of  Social  Science,  1(1),  69–78. 
+https://doi.org/10.36349/EASJEBM.2020.v03i04.001 
+
+Gligor, D., Bozkurt, S., & Russo, I. (2019). Achieving customer engagement with social media: 
+A qualitative comparative analysis approach. Journal of Business Research, 101, 59–69. 
+https://doi.org/10.1016/j.jbusres.2019.04.006  
+
+Gruber, M., Leon, N., Thompson, P., & George, G. (2015). Managing by design. Academy of 
+
+Management Journal, 58(1), 1–7. https://doi.org/10.5465/amj.2015.4001  
+
+Habel, J., Alavi, S., Schmitz, C., Schneider, J.-V., & Wieseke, J. (2016). When do customers 
+get  what  they  expect?  Understanding  the  ambivalent  effects  of  customers’  service 
+expectations 
+19(4). 
+Journal 
+https://doi.org/10.1177/1094670516662350  
+
+satisfaction. 
+
+Research, 
+
+Service 
+
+on 
+
+of 
+
+Hair, J.  F., Hult,  G. T.  M., Ringle, C. M., &  Sarstedt,  M. (2017).  A primer on partial  least 
+
+squares structural equation modeling (PLS-SEM) (2nd ed.). Sage Publications. 
+
+Indonesia.go.id. 
+
+(2024, 
+
+perlindungan 
+https://indonesia.go.id/kategori/editorial/8157/menguatkan-perlindungan-
+konsumen?lang=1 
+
+25).  Menguatkan 
+
+April 
+
+konsumen. 
+
+Irviandra, R. D., & Trinanda, O. (2020). The influence of consumer dissatisfaction, product 
+quality, and competitor advertisement toward brand switching. Jurnal Kajian Manajemen 
+dan Wirausaha, 2(1), 36–42. 
+
+Jarrar, Y., Awobamise, A. O., & Nweke, G. E. (2022). The mediating effect of social anxiety 
+on the relationship between social media use and body dissatisfaction among university 
+students. 
+900257. 
+Frontiers 
+https://doi.org/10.3389/fcomm.2022.900257 
+
+Communication, 
+
+in 
+
+7, 
+
+Javeed, A., Aljuaid, M., Khan, Z., Mahmood, Z., & Shahid, D. (2022). Role of extrinsic cues 
+in  the  formation  of  quality  perceptions.  Frontiers  in  Psychology,  13,  913836. 
+https://doi.org/10.3389/fpsyg.2022.913836  
+
+John. (2023). The effects of employee service quality provision and customer personality traits 
+on customer participation, satisfaction, and repurchase intentions (Doctoral dissertation, 
+Louisiana State University). https://doi.org/10.31390/gradschool_dissertations.3975 
+
+12103 
+
+ 
+Puti Kemala Tanjung, Ujang Sumarwan, Diah Krisnatuti 
+The  Impact  of  Perceived  Product  Quality,  Perceived  Value,  and  Personality  on  Consumer 
+Dissatisfaction and Complaint Behavior Types in E-commerce 
+
+Kemendag. 
+
+(2023).  Perdagangan  digital 
+
+(e-commerce) 
+
+Indonesia  periode  2023. 
+
+https://satudata.kemendag.go.id/ringkasan/produk/perdagangan-digital-e-commerce-
+indonesia-periode-2023 
+
+Khasbulloh, A. H. K., & Suparna, G. (2022). Effect of perceived risk and perceived value on 
+customer  loyalty  through  customer  satisfaction  as  intervening  variables  on  Bukalapak 
+users.  European  Journal  of  Business  and  Management  Research,  7(4),  22–28. 
+https://doi.org/10.24018/ejbmr.2022.7.4.1472 
+
+Kitapci, O., & Dortyol, I. T. (2015). Do personality types make consumers exhibit different 
+complaint  behaviors?  Journal  of  Marketing  and  Consumer  Behaviour  in  Emerging 
+Markets, 2(2), 4–14. https://doi.org/10.7172/2449-6634.jmcbem.2015.2.1  
+
+Lee, J. E., & Chen-Yu, J. H. (2018). Effects of price discount on consumers’ perceptions of 
+savings, quality, and value for apparel products: Mediating effect of price discount affect. 
+Fashion and Textiles, 5, 13. https://doi.org/10.1186/s40691-018-0128-2  
+
+Luo, B., Li, L., & Sun, Y. (2022). Understanding the influence of consumers’ perceived value 
+on  energy  saving  products  purchase  intention.  Frontiers  in  Psychology,  12,  640376. 
+https://doi.org/10.3389/fpsyg.2021.640376 
+
+Mikulić, J. (2024). Choosing the right fit: A practical guide to selecting measurement models 
+104917. 
+Tourism 
+
+Management, 
+
+constructs. 
+
+tourism 
+
+103, 
+
+for 
+https://doi.org/10.1016/j.tourman.2024.104917  
+
+12104 
+
+ 
+ 
+

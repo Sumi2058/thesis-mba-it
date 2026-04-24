@@ -1,0 +1,1150 @@
+Consumer Acceptance of Electronic Commerce:
+Integrating Trust and Risk with the
+Technology Acceptance Model
+
+Paul A. Pavlou
+
+ABSTRACT: This paper aims to predict consumer acceptance of e-commerce by propos-
+ing a set of key drivers for engaging consumers in on-line transactions. The primary con-
+structs for capturing consumer acceptance of e-commerce are intention to transact and
+on-line transaction behavior. Following the theory of reasoned action (TRA) as applied to
+a technology-driven environment, technology acceptance model (TAM) variables (per-
+ceived usefulness and ease of use) are posited as key drivers of e-commerce acceptance.
+The practical utilit y of TAM stems from the fact that e-commerce is technology-driven. The
+proposed model integrates trust and perceived risk, which are incorporated given the
+implicit uncertainty of the e-commerce environment. The proposed integration of the hy-
+pothesized independent variables is justified by placing all the variables under the nomo-
+logical TRA structure and proposing their interrelationships. The resulting research model
+is  tested using data from t wo empirical studies. The first, exploratory study comprises
+three experiential scenarios with 103 students. The second, confirmatory study uses a
+sample of 155 on-line consumers. Both studies strongly support the e-commerce accep-
+tance model by validating the proposed hypotheses. The paper discusses the implications
+for e-commerce theory, research, and practice, and makes several suggestions for future
+research.
+
+KEY WORDS  AND PHRASES: Consumer behavior, perceived  ease of use, perceived
+risk, perceived usefulness, technology acceptance, transaction intentions, trust.
+
+The outlook for business-to-consumer (B2C) electronic commerce depends not
+only on consumer acceptance of Internet technologies as viable transaction
+means, but on consumer recognition of Web retailers as reliable merchants. In
+light  of  this, a comprehensive model  describing  the factors that drive  con-
+sumers to accept e-commerce and on-line  transactions would be  useful  for
+both academicians and practitioners, in that it would help them to better un-
+derstand consumer on-line behavior in the emerging B2C e-commerce envi-
+ronment. In order to provide a solid theoretical basis for selecting influential
+driving factors, this paper integrates two important streams of literature un-
+der the nomological structure of the theory of reasoned action (TRA) [3, 33,
+71]: (a) the technology acceptance model (TAM ) [24, 25, 26], and (b) the litera-
+ture on trust and risk [7, 29, 30, 47, 53, 58, 59]. TAM’s value in technology-
+driven contexts has been consistently important [11, 41, 65, 77], so employing
+it in the technology-driven context of e-commerce is a rational undertaking.
+Similarly, employing trust and risk perceptions in the uncertain context of e-
+commerce is also reasonable. Drawing upon these literatures, this paper theo-
+retically develops and empirically  validates a research model  that predicts
+consumer acceptance of e-commerce.
+
+The spatial and temporal separation between consumers and Web retailers
+and  the  unpredictability  of  the  Internet  infrastructure generate  an  implicit
+
+International Journal of Electronic Commerce / Spring 2003, Vol. 7, No. 3, pp. 101–134.
+Copyright © 2003 M.E. Sharpe, Inc. All rights reserved.
+1086-4415/2003 $9.50 + 0.00.
+
+ Electronic copy available at: http://ssrn.com/abstract=2742286 Downloaded by [Temple University Libraries] at 08:47 04 March 2016 102     PAUL A. PAVLOU
+
+uncertainty around on-line transactions [14]. First, there is the risk of mon-
+etary loss, since consumers have to rely on electronic information and thus
+become vulnerable to incomplete or distorted information provided by Web
+retailers and third parties [56]. Second, there is the risk of loss of privacy asso-
+ciated with providing (whether intentionally or involuntarily) personal infor-
+mation to Web retailers [23, 32]. Hence, B2C e-commerce is associated with an
+important delegation of authority that consumers surrender during on-line
+transactions. In sum, the open nature of the Internet as a transaction infra-
+structure and its global nature create uncertainty around on-line transactions,
+and this makes trust and risk crucial elements of e-commerce [46]. Stewart,
+Pavlou, and Ward argue that the notion of trust is perhaps the most important
+component of consumer-marketer transactions [73]. Therefore, perceptions of
+trust and risk are likely to be important factors in predicting B2C e-commerce
+acceptance.
+
+Trust has long been regarded as a catalyst for buyer-seller transactions that
+can provide consumers with high  expectations of satisfying exchange  rela-
+tionships. Many researchers maintain that trust is essential for understanding
+interpersonal behavior and economic exchanges [e.g., 29, 58, 60, 67]. The im-
+portance of trust is elevated in e-commerce because of the high degree of un-
+certainty and risk present in most on-line transactions [9, 35]. Jarvenpaa et al.
+empirically showed the favorable effect of trust on consumer purchase inten-
+tions [49,  50].  Thus,  the  role  of  trust is  of  fundamental  importance for  ad-
+equately capturing consumer behavior in e-commerce. Perceived risk is also
+an  important element  of  B2C  e-commerce  that is  likely  to affect  consumer
+behavior [50, 65]. Since trust and perceived risk are essential constructs when
+uncertainty is present [58, 59], these beliefs are integrated in the proposed e-
+commerce acceptance model.
+
+Business-to-business e-commerce is the ability of consumers to purchase
+products and services on-line using Internet technologies and associated in-
+frastructure [63]. As with most information systems, Internet technology ac-
+ceptance  and  use  can  be  partially explained  by  the  technology  acceptance
+model. While this model initially focused on system usage in the workplace,
+recent research has applied it to understand Web site use [45, 62]. Therefore,
+intentions to use the Internet for on-line transactions should consider the major
+TAM constructs, which theorize that perceived usefulness and perceived ease
+of use determine actual system use [24]. The research presented in this paper
+aims to predict consumer acceptance of e-commerce by integrating TAM with
+the constructs of trust and risk, both of which are essential when uncertainty
+is present in the technology-driven environment of e-commerce.
+
+The proposed e-commerce acceptance model draws from the theory of rea-
+soned action, which has been extensively validated on consumer intentions
+[3, 33, 71]. The  major building  blocks of the TRA model are salient beliefs,
+which are used to ascertain attitudes, consequently determining  intentions
+and behavior. TRA has been successfully applied in consumer behavior, tech-
+nology acceptance and system use, and a variety of instances of human be-
+havior. By closely adhering to the nomological structure of TAR, the proposed
+model integrates a set of salient beliefs, drawing upon TAM and the trust and
+risk  literatures, which are jointly proposed  to influence  on-line  transaction
+
+ Electronic copy available at: http://ssrn.com/abstract=2742286 Downloaded by [Temple University Libraries] at 08:47 04 March 2016 INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE     103
+
+intentions and behavior. In addition, the proposed model describes the com-
+plex set of interrelationships among the key e-commerce drivers—trust, per-
+ceived risk, usefulness, and ease of use.
+
+In short, this research aims to provide a basic model that predicts consum-
+ers’  acceptance  of  e-commerce  by  explaining  their  intentions  when  using
+Internet technology for transactions. The main research issues are:
+
+(cid:149) Predicting the drivers of consumer intentions to accept e-commerce
+
+and engage in on-line transaction behavior.
+
+(cid:149) Deciding whether and how to integrate TAM with the trust and risk
+literature under the nomological structure of TAR to jointly predict
+consumer on-line behavior.
+
+Figure 1 presents the proposed model, referred to as the e-commerce accep-
+tance model. The dependent variables—intention to transact and actual trans-
+action behavior—are posited as the primary constructs to determine consumer
+acceptance of e-commerce. Following the application of TRA to a technology-
+driven environment, the TAM variables (perceived usefulness and perceived
+ease of use) are posited as key drivers of e-commerce acceptance. Under the
+aegis of TRA, the proposed model integrates additional key drivers of e-com-
+merce acceptance, such as trust and perceived risk. All four key drivers are
+defined and explained, and their relationship with transaction intentions and
+acceptance of  e-commerce  is  proposed.  The  practical utility  of  considering
+TAM stems from the fact that e-commerce is heavily technology-driven. Trust
+and perceived  risk are considered because of the uncertainty of the e-com-
+merce environment. Placing these variables under the nomological structure
+of TRA and precisely describing their interrelationships justify the proposed
+integration of the hypothesized key e-commerce drivers into a coherent and
+parsimonious research model.
+
+Electronic commerce acceptance is broadly described as the consumer’s en-
+gagement in electronic exchange relationships with Web retailers. Hence, on-
+line  transactions  can  be  viewed  as  instances  of  interactive  marketing
+communications [66, 73]. Drawing both from the marketing and consumer
+behavior literature and from B2C e-commerce empiricism, consumer-retailer
+exchange relationships typically involve several activities along the process
+shown in Figure 2 [66].
+
+Consumer-retailer exchange relationships typically involve several activi-
+ties. The first step often involves basic data exchange from the retailer to the
+consumer, such as browsing, gathering information, and making product and
+price  comparisons. The  next step usually involves the consumer providing
+some personal information by registering an e-mail address, describing prod-
+uct preferences, and providing feedback. This step is often supplemented by
+
+ Electronic copy available at: http://ssrn.com/abstract=2742286 Downloaded by [Temple University Libraries] at 08:47 04 March 2016 C
+o
+n
+c
+e
+p
+t
+u
+a
+l
+ 
+D
+e
+v
+e
+l
+o
+p
+m
+e
+n
+t
+E
+l
+e
+c
+t
+r
+o
+n
+i
+c
+ 
+C
+o
+m
+m
+e
+r
+c
+e
+ 
+A
+c
+c
+e
+p
+t
+a
+n
+c
+e
+104     PAUL A. PAVLOU
+
+automatic information exchange that is intentionally or involuntarily captured
+through cookies, log-data, and data-mining tools. The final step involves pro-
+vision of private and monetary information, such as credit card information,
+actual purchase preferences, and payment and address information, in order
+to complete the purchase of a product or service.
+
+Following Zwass [82], intention to transact is defined as the consumer’s in-
+tent to engage in an on-line exchange relationship with a Web retailer, such as
+sharing business information, maintaining business relationships, and con-
+ducting business transactions. Based upon the description of the on-line trans-
+action process (see Figure 2), B2C e-commerce acceptance necessitates that the
+consumer intend to use a retailer’s Web site to obtain and provide informa-
+tion and then complete a transaction by purchasing a product or service. Al-
+
+Downloaded by [Temple University Libraries] at 08:47 04 March 2016 I
+n
+t
+e
+n
+t
+i
+o
+n
+ 
+t
+o
+ 
+T
+r
+a
+n
+s
+a
+c
+t
+F
+i
+g
+u
+r
+e
+ 
+1
+.
+ 
+C
+o
+n
+c
+e
+p
+t
+u
+a
+l
+ 
+M
+o
+d
+e
+l
+ 
+a
+n
+d
+ 
+R
+e
+s
+e
+a
+r
+c
+h
+ 
+H
+y
+p
+o
+t
+h
+e
+s
+e
+s
+F
+i
+g
+u
+r
+e
+ 
+2
+.
+ 
+T
+h
+e
+ 
+C
+o
+n
+s
+u
+m
+e
+r
+ 
+O
+n
+l
+i
+n
+e
+ 
+T
+r
+a
+n
+s
+a
+c
+t
+i
+o
+n
+ 
+P
+r
+o
+c
+e
+s
+s
+INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE     105
+
+though  the number  of  Internet  users  is  constantly increasing  [22],  a  recent
+study found that more than 75 percent of on-line consumers abandoned their
+shopping  carts before  purchase  [13]. This poses a tremendous problem  for
+Web retailers, since they prefer buyers and not just browsers. However, as is
+true of traditional shopping, even if consumers finally decide not to purchase,
+their initial intentions when engaging in information exchange are typically
+to complete the ongoing transaction process if everything occurs according to
+their confident expectations [48]. The “intention to transact” construct aims to
+encompass intentions  regarding  the entire  on-line  transaction process, and
+proposes that intentions span the entire process, whereas actual activities may
+often  cease  during  the  process. Even  if  information exchange  and  product
+purchase may be  theoretically distinct intentions, they are posited, without
+loss of generality, as practically indistinguishable in on-line transactions.
+
+The positive relationship between behavioral intentions and actions is ex-
+tensively described by the theory of reasoned action [3, 31] and the theory of
+planned behavior [1, 2]. Research following TRA and TAM consistently showed
+a high correlation between intentions and actual use [11]. Drawing upon TRA’s
+theoretical rationale and abundant empirical evidence, this paper  proposes
+that there is a positive relationship between transaction intentions and actual
+on-line transaction behavior.
+
+H1: Consumer transaction intentions positively influence actual transaction
+behavior.
+
+In contrast to traditional consumer behavior, on-line transactions have cer-
+tain unique dimensions, such as (a) the extensive use of technology for trans-
+actions, (b) the distant and impersonal nature of the on-line environment, and
+(c) the implicit uncertainty of using open technological infrastructures for trans-
+actions. More specifically, (a) consumers must actively engage in technology
+use by interacting with the retailer’s Web sites, (b) the spatial and temporal
+separation between consumers and marketers increases fears of Web retailer
+opportunism arising from  product and identity uncertainty [6,  56], and  (c )
+there is concern about the reliability of the Internet itself and the related infra-
+structure that Web retailers employ to interface with consumers (e.g., the open
+infrastructure raises the fear that third parties or hackers may threaten con-
+sumer privacy and monetary information). Overall, these three unique differ-
+ences reduce consumer perceptions of control over on-line transactions, thereby
+increasing their apprehension about acceptance of B2C e-commerce. In terms
+of Web  retailer opportunism and related risks, theories regarding trust and
+risk in B2C e-commerce are employed. In terms of technology use for on-line
+transactions, TAM is employed to describe and predict system use.
+
+There is a broad consensus that both traditional merchants and Web-exclu-
+sive  retailers have  widely  embraced  the low-cost Internet  infrastructure to
+increase their consumer reach. However, consumers have not adopted B2C e-
+commerce to the same degree, primarily because of risk concerns and trust-
+related  issues  [13,  15,  46,  64].  Therefore,  uncertainty  around  consumer
+transaction intentions is fundamental in predicting acceptance of B2C e-com-
+merce. In order to understand better the role of uncertainty in the proposed
+
+Downloaded by [Temple University Libraries] at 08:47 04 March 2016 106     PAUL A. PAVLOU
+
+e-commerce acceptance model, the constructs of trust and perceived risk are
+put forward as fundamental in predicting B2C e-commerce acceptance. The
+practical utility of proposing trust and perceived risk as salient beliefs stems
+from  the fact that Web  retailers have  considerable  influence  on  these  vari-
+ables, mainly through their trustworthiness and ability to mitigate risk.
+
+Trust is a defining feature of most economic and social interactions in which
+uncertainty is present. Practically all interactions require an element of trust,
+especially those conducted in the uncertain environment of e-commerce [6, 56].
+Trust has long been regarded as a catalyst in consumer-marketer relationships
+because it provides expectations of successful transactions [70]. For instance,
+trust has always been an important element in influencing consumer behavior
+and has been shown to be of high significance in uncertain environments, such
+as the Internet-based e-commerce context [41, 49, 50, 62]. Lack of trust has been
+touted as one of the main reasons for consumers not engaging in e-commerce
+[52]. Thus one may reasonably argue that the importance of trust has been el-
+evated in e-commerce because of the high degree of uncertainty present in most
+on-line transactions [35]. Several researchers, in fact, have proposed trust as an
+important element of B2C e-commerce. For instance, Palmer, Bailey, and Faraj
+argue that building consumer trust in Web retailers is essential for the growth
+of  B2C  e-commerce  [64].  Jarvenpaa and Tractinsky empirically showed  that
+trust has a direct effect on consumer purchase intentions in multiple cultures
+[49]. Gefen showed that trust is instrumental in the acceptance of Internet tech-
+nologies [39]. Stewart et al. argued that trust is fundamental in consumer-mar-
+keter communications [73]. Finally, Keen argued that trust is the foundation of
+e-commerce, focusing on the strategic implications of trust for consumer-mar-
+keter relationships [52]. All this shows that developing consumer trust in Web
+retailers is critical for the continued growth of B2C e-commerce.
+
+Trust can be described as the belief  that the other party will behave in a
+socially responsible manner, and, by so doing, will fulfill the trusting party’s
+expectations without taking advantage of its vulnerabilities [39, 59]. Follow-
+ing  the  work of  McKnight  and  his  colleagues [60, 61], trust in  B2C  e-com-
+merce is defined here as the belief that allows consumers to willingly become
+vulnerable to Web retailers after having taken the retailers’ characteristics into
+consideration. This definition is consistent with the construct of trust as a sa-
+lient belief  that which includes goodwill trust (benevolence ) and credibility
+(honesty, reliability, and integrity). This definition captures two distinct but
+nonseparable facets of trust in e-commerce. First, it involves the traditional
+view of trust in a specific party (the Web retailer), and second, it implicitly
+encompasses trust in the integrity of the transaction medium (trust in the in-
+frastructure). This view of trust is consistent with the generic model of trust
+[74], which also conjectures two targets of trust, party trust (trust in another
+party) and control trust (trust in the control mechanisms). Since a certain level
+of  uncertainty  is  a  prerequisite  for  trust  to  exist  [53],  the  proposed
+conceptualization of trust suggests that when consumers willingly  become
+
+Downloaded by [Temple University Libraries] at 08:47 04 March 2016 T
+r
+u
+s
+t
+INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE     107
+
+vulnerable to a Web retailer, they consider both the characteristics of the Web
+retailer (due to behavioral uncertainty) and the characteristics of the related
+technological infrastructure (due to environmental uncertainty).
+
+Whereas trust has essentially two targets in e-commerce [74], Web retailers
+can substantively affect trust in the infrastructure by  facilitating encrypted
+transactions, installing  firewalls,  utilizing  authentication mechanisms, and
+ensuring privacy seals and disclosures [9, 12, 16]. Therefore, environmental
+uncertainty is strongly influenced by behavioral actions of Web retailers that
+aim to reduce infrastructure-related concerns and increase trust in e-commerce.
+Subsequently, trust in the Web retailer encompasses a substantial portion of
+trust in the focal transaction, even if the retailer has no absolute control over
+the Internet infrastructure. Without loss of generality, the research described
+in this paper focuses on the Web retailer, rather than the Internet infrastruc-
+ture, as the major target of trust, arguing that consumer trust perceptions are
+heavily influenced by the actions of Web retailers. However, this focus is not
+meant to discount the role of trust in the infrastructure (interface), which has
+been extensively described elsewhere [16].
+
+Hoffman et al. argued that lack of trust prevents consumers from engaging
+in on-line transactions because they  are unlikely  to transact with a Web re-
+tailer  that fails  to convey  a sense  of  its trustworthiness, mainly  because of
+fears of seller opportunism and concerns about the utilization of the associ-
+ated Internet infrastructure [46]. Following the theory of reasoned action, trust
+creates positive attitudes toward Web retailers that are likely to reduce fears
+of retailer opportunism and attenuate infrastructure concerns. As a result, trust
+in a Web retailer is viewed as a salient behavioral belief that, by influencing
+positive consumer attitudes, has an effect on behavioral intentions for on-line
+transactions with  Web  retailers. There  is  a  consensus,  in  the  large  body  of
+literature on the subject, that trust is related to positive attitudes [38, 49, 50,
+72]. Therefore, through attitude, trust is likely to influence favorably transac-
+tion intentions. Moreover, trust reduces behavioral uncertainty related to the
+actions of the Web retailer, giving a consumer a perception of some control
+over  a  potentially  uncertain  transaction. This  sense  of  overall control over
+their on-line transactions positively influences consumers’ purchase intentions.
+In general, the proposed relationship between trust and attitude is justified by
+placing party trust in the context of TRA as a behavioral belief [3, 33, 71]. Trust
+creates positive attitudes and perceived behavioral control toward transac-
+tions with Web retailers, reducing uncertainty and providing expectations for
+a  satisfactory transaction, thus  positively influencing  consumer  behavioral
+intentions to transact.
+
+H2: Consumer intentions to transact on-line are positively related to trust in
+e-commerce.
+
+Virtually every step in the proposed on-line transaction process requires con-
+sumers to interact with Web sites and use Internet technologies. Since inten-
+tions to transact entail technology use, it is justifiable to consider the variables
+
+Downloaded by [Temple University Libraries] at 08:47 04 March 2016 T
+e
+c
+h
+n
+o
+l
+o
+g
+y
+ 
+U
+s
+e
+ 
+a
+n
+d
+ 
+I
+n
+t
+e
+n
+t
+i
+o
+n
+ 
+t
+o
+ 
+T
+r
+a
+n
+s
+a
+c
+t
+108     PAUL A. PAVLOU
+
+of the technology acceptance model in predicting intentions to use Internet
+technology for on-line transactions. TAM has received substantial attention in
+the information systems literature because it focuses on system use, has reli-
+able instruments with excellent measurement properties, is parsimonious, and
+is empirically sound. It has been shown to apply to a wide range of informa-
+tion technologies, including e-commerce. For example, Gefen and Straub ex-
+amined the effect  of  perceived  ease  of  use on e-commerce  acceptance [40],
+and Moon and Kim investigated the impact of perceived usefulness and ease
+of use on consumer use of the Internet [62]. Therefore, even if TAM was origi-
+nally intended to predict technology use in the workplace, the TAM variables
+can also be employed to predict consumer behavior in e-commerce.
+
+The technology acceptance model would argue that two external variables
+(i.e., perceived usefulness and perceived ease of use) influence the acceptance
+of Internet technology. Following Davis, perceived usefulness will be defined
+as the degree to which consumers believe  that a particular technology will
+facilitate the  transaction process [25,  p.  320]. Perceived  ease  of  use  will  be
+defined  as the degree to which a consumer believes that using a particular
+technology will be  effortless. Applied to on-line  consumer behavior, a Web
+interface that is perceived as facilitating the transaction process and easy to
+operate is likely to be accepted by consumers. Previous research has consis-
+tently argued that there is a positive relationship between perceived useful-
+ness and perceived  ease  of use  with acceptance of  information technology
+[e.g., 28, 40, 77], and this finding has also been validated in Internet technol-
+ogy  use  [e.g.,  55, 41, 62]. The  general  premise  is  that perceived  usefulness
+directly influences intention, but perceived ease of use acts indirectly through
+usefulness [24]. Gefen and Straub extensively discuss this relationship, show-
+ing that in most cases perceived ease of use should affect use intentions through
+perceived  usefulness  [40]. Given the wide variety of  technologies,  applica-
+tions, and information systems for which TAM has been validated, Internet
+technology and Web interfaces, even if they are being used mainly for trans-
+actions, should also adhere to the major TAM predictions. Therefore, it is hy-
+pothesized that perceived usefulness and perceived ease of use have a positive
+influence  on intentions to transact with Web retailers, suggesting that these
+variables contribute to consumer acceptance of e-commerce. The practical rel-
+evance of the TAM variables stems from the fact that they can be influenced
+by the Web retailer’s actions through external variables. A Web interface that
+is perceived as facilitating the on-line transaction process and easy to use is
+likely to influence consumer behavioral intentions. The previous arguments
+lead to the following hypotheses:
+
+H3: Consumer intention to transact is positively related to the perceived
+usefulness of the Web interface.
+
+H4: Consumer intention to transact is positively related to the perceived ease
+of use of the Web interface.
+
+H5: The perceived usefulness of a Web interface is positively related to its
+perceived ease of use.
+
+Downloaded by [Temple University Libraries] at 08:47 04 March 2016 INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE     109
+
+The  distant and impersonal nature of the on-line  environment and the im-
+plicit uncertainty of using a global open infrastructure for transactions have
+rendered risk an inevitable element of e-commerce. Two forms of uncertainty
+are naturally present in on-line transactions: behavioral uncertainty and envi-
+ronmental uncertainty [10]. Similarly, in Ring and Van de Ven’s classification,
+risks are either technology-driven, and thus derived from the underlying in-
+frastructure (environmental  risks),  or  relational, resulting from  the  trading
+partner (behavioral risks) [67]. Behavioral uncertainty arises because Web re-
+tailers have the chance to behave in an opportunistic manner by taking ad-
+vantage  of  the  distant  and  impersonal  nature  of  e-commerce  and  the
+government’s inability to monitor adequately all transactions. Examples of
+opportunistic behavior by Web retailers include product misrepresentations,
+false identity demonstrations, private information leaks, misleading adver-
+tising,  and  denunciations  of  warranties. Therefore,  behavioral uncertainty
+primarily creates
+
+1. economic risk, because of the possibility of monetary losses
+2. personal risk, because of potentially unsafe products and services
+3. seller performance risk, because of imperfect monitoring
+4. privacy risk, because of the opportunity to disclose private con-
+
+sumer information
+
+Environmental uncertainty exists mainly because of the unpredictable na-
+ture of the Internet, which is beyond the full control of the Web retailer or the
+consumer. Although retailers have an important influence on the security of
+the transaction medium (e.g., encryption, authentication, firewalls), there is
+still the possibility of third parties compromising the transaction process. Ex-
+amples of environmental uncertainty include theft of credit card information,
+breaches of private information, and stealing of personal information by hack-
+ers. Hence, environmental uncertainty mainly includes
+
+1. economic risk, because of the opportunity for monetary losses
+2. privacy risk, because of the possibility of theft of private information
+
+or illegal disclosure
+
+The behavioral and environmental forms of uncertainty are typically inter-
+twined because the actions of Web retailers have an important bearing on the
+extent of third-party risk, through encryption, firewalls, and authentication [12].
+When  engaging  in an on-line  transaction process, consumers are rightly
+alarmed about the different types of risks that confront them. However, since
+risk is difficult to capture as an objective reality, the literature predominantly
+has  addressed  the  notion of  perceived  risk,  which  will  be  defined  as  the
+consumer’s subjective  belief  of suffering  a loss in pursuit of a desired out-
+come [7]. Thus, consumers have personal beliefs regarding the inherent risks
+involved in every transaction based on the limited information available to
+them [30]. Without loss of generality, the proposed forms of behavioral and
+
+Downloaded by [Temple University Libraries] at 08:47 04 March 2016 P
+e
+r
+c
+e
+i
+v
+e
+d
+ 
+R
+i
+s
+k
+6
+4
+9
+0
+
+.
+
+7
+5
+9
+0
+
+.
+
+5
+9
+8
+0
+
+.
+
+3
+9
+8
+0
+
+.
+
+2
+3
+8
+0
+
+.
+
+3
+7
+7
+0
+
+.
+
+5
+6
+8
+0
+
+.
+
+5
+7
+8
+0
+
+.
+
+0
+0
+6
+0
+
+.
+
+8
+7
+7
+0
+
+.
+
+4
+8
+4
+0
+
+.
+
+.
+)
+
+%
+8
+8
+d
+e
+n
+a
+p
+x
+e
+
+i
+
+l
+
+e
+c
+n
+a
+i
+r
+a
+V
+(
+
+y
+
+t
+i
+r
+a
+c
+
+l
+
+r
+o
+
+f
+
+n
+w
+o
+h
+s
+
+.
+
+e
+r
+a
+5
+4
+0
+e
+v
+o
+b
+a
+s
+e
+u
+a
+v
+
+l
+
+9
+8
+8
+0
+–
+
+.
+
+9
+2
+8
+0
+–
+
+.
+
+2
+9
+7
+0
+–
+
+.
+
+9
+5
+7
+0
+
+.
+
+2
+2
+7
+0
+
+.
+
+1
+5
+7
+0
+
+.
+
+4
+8
+6
+0
+
+.
+
+5
+0
+7
+0
+
+.
+
+1
+7
+7
+
+.
+
+1
+T
+N
+E
+T
+N
+
+I
+
+2
+T
+N
+E
+T
+N
+
+I
+
+S
+N
+A
+R
+T
+
+1
+T
+S
+U
+R
+T
+
+2
+T
+S
+U
+R
+T
+
+3
+T
+S
+U
+R
+T
+
+1
+K
+S
+R
+
+I
+
+2
+K
+S
+R
+
+I
+
+3
+K
+S
+R
+
+I
+
+1
+F
+E
+S
+U
+
+2
+F
+E
+S
+U
+
+3
+F
+E
+S
+U
+
+1
+U
+O
+E
+
+2
+U
+O
+E
+
+3
+U
+O
+E
+
+1
+P
+E
+R
+
+2
+P
+E
+R
+
+3
+P
+E
+R
+
+1
+T
+A
+S
+
+2
+T
+A
+S
+
+l
+
+y
+n
+O
+
+Downloaded by [Temple University Libraries] at 08:47 04 March 2016 A
+p
+p
+e
+n
+d
+i
+x
+ 
+C
+.
+ 
+F
+a
+c
+t
+o
+r
+ 
+A
+n
+a
+l
+y
+s
+i
+s
+ 
+w
+i
+t
+h
+ 
+V
+a
+r
+i
+m
+a
+x
+ 
+R
+o
+t
+a
+t
+i
+o
+n
+ 
+f
+o
+r
+ 
+M
+u
+l
+t
+i
+-
+i
+t
+e
+m
+ 
+P
+r
+i
+n
+c
+i
+p
+a
+l
+ 
+C
+o
+n
+s
+t
+r
+u
+c
+t
+s
+(
+S
+t
+u
+d
+y
+ 
+2
+)
+I
+t
+e
+m
+T
+R
+A
+N
+S
+I
+N
+T
+E
+N
+T
+T
+R
+U
+S
+T
+R
+I
+S
+K
+U
+S
+E
+F
+E
+O
+U
+R
+E
+P
+S
+A
+T
+N
+o
+t
+e
+:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
