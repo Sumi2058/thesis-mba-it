@@ -1,0 +1,735 @@
+Butwal Campus Journal, Vol. 7, No. 2: 1-14, December 2024 
+Research Management Cell, Butwal Multiple Campus, Tribhuvan University, Nepal 
+DOI: https://doi.org/10.3126/bcj.v7i2.73169 
+
+Raising Good Governance through Digital Payment Systems: Insights from 
+Nepal and India's UPI 
+
+Nurjang KC  
+Orcid Id -0009-0004-6481-457X 
+nurjangkc25@gmail.com  
+Professor  
+Butwal Multiple Campus 
+
+       Ankit K C 
+Orcid  Id  -  0009-0006-8755-0081 
+ ankitkc908@gmail.com 
+C.V Raman Global University 
+
+Abstract 
+
+In  the  digital  age,  integrating  technology  into  governance  is  essential  for  improving 
+transparency, accountability, and efficiency. Digital payment systems have emerged as 
+a key tool, enabling secure and traceable financial transactions while reducing reliance 
+on  cash.  Nepal,  with  platforms  like  ConnectIPS  and  mobile  wallets,  is  witnessing  a 
+rapid shift in how financial transactions are conducted, even in its  most remote areas. 
+Meanwhile, India’s Unified Payments Interface (UPI) has become a global example of 
+how  digital  payments  can  promote  financial  inclusion,  streamline  public  services,  and 
+reduce  corruption.  This  study  uses  a  comparative  case  study  approach  to  examine  the 
+role of digital payments in enhancing good governance in Nepal. It draws insights from 
+India’s UPI to analyze the potential benefits and challenges of adopting similar systems 
+in Nepal. Challenges such as the digital divide,  low digital literacy, and  cybersecurity 
+risks  remain  significant  barriers.  By  addressing  these  obstacles,  Nepal  can  utilize  the 
+transformative  power  of  digital  payments  to  create  a  more  transparent  and  inclusive 
+governance  framework.  This  research  highlights  key  findings  and  provides  actionable 
+recommendations for policymakers to maximize the impact of digital payment systems 
+on governance. 
+
+Keywords: Transparency, Accountability, Efficiency, Financial Inclusion, Framework, 
+Digital divide 
+
+Introduction 
+
+In today’s rapidly evolving world, the success of any state depends on the principles of 
+good governance. Effective governance is not just a matter of policy but a critical driver 
+of  sustainable  development,  social  equity,  and  public  trust.  As  countries  face  the 
+challenges  of  the  digital  age,  the  need  for  transparent,  accountable,  and  efficient 
+governance  has  become  more  important  than  ever.  In  this  context,  digital  payments 
+have  emerged  as  a  cornerstone  of  the  modern  economy,  revolutionizing  how 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Raising Good Governance …   
+
+                                                                  2 
+
+transactions are conducted across the globe. By enabling instant, secure, and convenient 
+financial exchanges, digital payment systems have significantly reduced the reliance on 
+cash,  facilitated  global  commerce,  and  expanded  access  to  financial  services.  From 
+mobile  wallets  to  online  banking,  these  technologies  have  not  only  streamlined 
+everyday  transactions  but  also  played  a  pivotal  role  in  driving  economic  growth, 
+fostering  financial  inclusion,  and  enhancing  the  efficiency  of  both  private  and  public 
+sector  operations.  The  World  Bank's  Global  Findex  Database  shows  that  digital 
+payments have indeed played a significant role in financial inclusion, with the number 
+of adults owning a bank account or using a mobile money provider growing from 51% 
+in 2011 to 76% in 2021. This 50% increase represents 1.2 billion adults gaining access 
+to  financial  services. In  developing  countries,  the  jump  was  even  greater,  rising  from 
+42% in 2011 to 71% in 2021, largely due to digitalization (Demirgüç-Kunt et al., n.d.).  
+The COVID-19 pandemic further accelerated the adoption of digital payments as people 
+worked from home, banks and stores closed temporarily, and some merchants refused 
+cash. In  2021,  20%  of  adults  in  developing  economies  made  a  digital  merchant 
+payment,  with  8%  doing  so  for  the  first  time  since  the  pandemic  began  (Covid-19 
+Accelerated  the  Digitalisation  of  Payments,  2021)  .As  digital  payments  become 
+increasingly integrated into the fabric of the  global  economy, their impact extends far 
+beyond convenience, shaping the future of governance and public administration. 
+
+In Nepal, where the landscape is as diverse as its people, the pursuit of good governance 
+has  always  been  a  central  goal.  As  the  nation  embraces  the  digital  revolution,  a  quiet 
+transformation is  underway—one that  is  reshaping how  the  government  interacts  with 
+its  citizens  and  manages  public  resources.   Digital  payments  were  first  introduced  in 
+Nepal  by  Kumari  Bank  in  2002,  marking  the  beginning  of  the  country’s  journey  into 
+digital  financial  services.  Today,  more  than  five  digital  payment  platforms  operate  in 
+Nepal, alongside e-banking services provided by the majority of banks. This digital shift 
+has  been  met  with  rapid  adoption,  as  evidenced  by  the  significant  growth  in  digital 
+transactions  reported  by  Nepal  Rastra  Bank  (NRB).  For  instance,  Nepal's  payment 
+system includes two types of instant payment systems: high-value and retail payments. 
+Currently,  three  major  networks  facilitate  retail  instant  payments  in  the  country.  The 
+Nepal  Clearing  House  Limited  (NCHL)  operates  the  connectIPS  and  corporatePAY 
+systems, providing instant payment services. Fonepay Payment Service Ltd. offers real-
+time  payments  through  its  Fonepay  Direct  and  Inter-Bank  Fund  Transfer  (IBFT) 
+systems.  Similarly,  Nepal  Payment  Solution  Ltd.  provides  instant  payment  services 
+through its InstaFund system. These three networks enable seamless, real-time transfers 
+between bank customers across different financial institutions. 
+
+ 
+BUTWAL CAMPUS JOURNAL, VOL. 7, NO. 2, December 2024                                                                      3 
+
+ConnectIPS,  operated  by  Nepal  Clearing  House  Limited  (NCHL),  has  become  one  of 
+Nepal's  most  popular  instant  payment  systems,  especially  following  the  COVID-19 
+pandemic, with growth rates of 1432.3% in FY 2019/20 and 566% in FY 2020/21. In 
+FY 2022/23, connectIPS transactions grew by 27.7%, reaching 50.58 million. Fonepay 
+Payment  Service  Ltd.  also  introduced  QR  code-based  payments  in  Nepal,  with  the 
+number of transactions increasing by 189.53% and their value rising by 159.67% in FY 
+2022/23  compared  to  the  previous  year.  Banks  and  Financial  Institutions  (BFIs)  have 
+expanded  mobile  and  internet  banking  services,  allowing  users  to  perform  digital 
+financial  transactions  like  fund  transfers,  QR  payments,  and  utility  payments.  By  FY 
+2022/23, mobile banking users  grew by  16.7%, reaching 21.36  million,  while internet 
+banking users increased by 10.2%, totaling 1.86 million. Additionally, mobile wallet (e-
+money)  usage  provided  by  Payment  Service  Providers  (PSPs)  has  significantly 
+increased, with 18.94 million  users conducting transactions worth NPR 219.81 billion 
+by mid-July 2023. These trends reflect the rapid growth of digital payments in Nepal. 
+Digital payments once a novel concept, have now become central to addressing some of 
+the most persistent challenges in governance. From the bustling markets of Kathmandu 
+to  the  remote  villages  in  the  Himalayas,  digital  payments  are  empowering  people  and 
+making  government  operations,  trade,  and  service  delivery  more  efficient.  As  Nepal 
+stands  on  the  brink  of  this  digital  transformation,  the  role  of  digital  payments  in 
+fostering good governance cannot be overstated. 
+
+Digital  payment  systems  have  emerged  as  transformative  tools  in  governance, 
+significantly enhancing transparency, accountability, and efficiency. In Nepal, platforms 
+such as ConnectIPS and mobile wallets have started bridging financial inclusion gaps, 
+while  India’s  Unified  Payments  Interface  (UPI)  has  become  a  global  benchmark  for 
+leveraging digital payments to streamline public services and reduce corruption. These 
+developments  underscore  the  potential  of  digital  payments  in  addressing  persistent 
+governance  challenges.  Despite  this,  Nepal  faces  considerable  barriers,  including  the 
+digital  divide,  low  digital  literacy,  and  cybersecurity  risks,  which  hinder  the  effective 
+implementation  of  digital  payment  systems.  While  extensive  research  has  highlighted 
+the  benefits  of  digital  payments,  a  comparative  analysis  of  Nepal’s  digital  payment 
+landscape  and  India’s  successful  UPI  model  remains  underexplored.  Addressing  this 
+gap  is  critical  to  deriving  actionable  insights  that  can  guide  the  development  of  a 
+transparent, inclusive, and efficient governance framework in Nepal. 
+
+Statement of the problem 
+The  use  of  cash-based  transactions  in  Nepal  creates  significant  challenges  for  good 
+governance,  particularly  by  increasing  the  risk  of  corruption  and  inefficiency.  Cash 
+payments  are  difficult  to  trace,  making  it  easier  for  bribery  and  financial 
+mismanagement to occur, which weakens transparency and accountability in both the 
+
+ 
+Raising Good Governance …   
+
+                                                                  4 
+
+public  and  private  sectors.  Without  a  formal  and  traceable  payment  system,  it  is 
+harder to monitor how government funds are used, leading to waste and misuse. This 
+reliance on cash has contributed to rising corruption levels, making it difficult for the 
+government to enforce proper oversight. As a result, cash transactions remain a major 
+barrier  to  good  governance,  reducing  public  trust  in  government  institutions  and 
+slowing down overall progress. 
+
+To address these issues, this study answers the following research questions 
+
+a)   How  do  digital  payment  systems  influence  core  governance  principles  such  as 
+
+transparency, accountability, efficiency, and responsiveness? 
+
+b)   How  do  digital  payment  systems  specifically  contribute  to  reducing  corruption 
+and  enhancing  the  traceability  of  government  transactions,  particularly  in  the 
+distribution of public funds and benefits? 
+
+c)   What  are  the  challenges  and  barriers  to  implementing  digital  payments  in 
+governance, and what recommendations can be made to maximize their benefits? 
+Objective of the study 
+
+The primary objective of this study are as follows 
+a)  To  explore  the  role  of  digital  payments  in  enhancing  good  governance  by 
+examining  their  impact  on  key  governance  principles  such  as  transparency, 
+accountability, efficiency, and responsiveness. 
+
+b)   To  assess  how  digital  payment  systems  contribute  to  reducing  corruption  and 
+improving transparency in government transactions, particularly in the distribution 
+of public funds and benefits.  
+
+c)  To  identify  the  challenges  and  barriers  to  implementing  digital  payments  in 
+governance  and  propose  recommendations  for  policymakers  and  government  to 
+maximize the benefits of digital payments in promoting good governance. 
+
+The limitations of this study are primarily as follows:  
+
+Limitation of the study 
+
+a)  This  study  focuses  on  only  five  of  the  eight  principles  of  good  governance  as 
+outlined  by  the  UNDP,  specifically  transparency,  accountability,  efficiency, 
+responsiveness, and inclusiveness, leaving out participation, consensus orientation, 
+rule of law, and equity. 
+
+b)  The  study  focuses  on  Nepal,  and  as  a  result,  the  findings  may  not  be  fully 
+applicable  to  other  countries  with  different  economic,  technological,  and  social 
+contexts. 
+
+c)  The  analysis  includes  only  one  case  study:  India’s  Unified  Payments  Interface 
+(UPI)  to  demonstrate  the  impact  of  digital  payments  on  good  governance.  While 
+UPI serves as a strong example, its success in India may not be entirely replicable 
+
+ 
+ 
+BUTWAL CAMPUS JOURNAL, VOL. 7, NO. 2, December 2024                                                                      5 
+
+in  Nepal  due  to  differences  in  infrastructure,  regulatory  frameworks,  and  user 
+adoption rates. 
+
+d)  The  study may be  constrained by the  availability of data  due  to limited  time and 
+resources,  focusing  on  the  period  from  2016  to  2023  AD.  Data  will  be  sourced 
+primarily  from  Nepal  Rastra  Bank  and  other  relevant  sources,  which  might  limit 
+the depth of the analysis. 
+
+Methodology 
+
+This study employs a comparative and exploratory research design to investigate the 
+role of digital payment systems in enhancing good governance. By examining Nepal's 
+digital payment platforms, such as ConnectIPS and mobile  wallets, alongside  India's 
+Unified Payments Interface (UPI), the study aims to provide insights into how digital 
+payments can address governance challenges, including transparency, accountability, 
+and efficiency. 
+
+The research relies on secondary data obtained from credible sources, including: 
+a)  Reports published by Nepal Rastra  Bank and the  National Payments Corporation 
+
+of India (NPCI). 
+
+b)  Scholarly articles and case studies on digital payments and governance. 
+c)  Global  databases,  such  as  the  World  Bank  and  other  financial  institutions,  for 
+comparative  metrics  and  contextual  data.  Quantitative  data  on  transaction 
+volumes, user adoption rates, and growth trends from 2016 to 2023 were analyzed 
+to assess the impact of digital payments on governance principles. 
+
+d)   
+
+Result and Discussion 
+
+This  section  presents  a  detailed  analysis  of  the  role  of  digital  payment  systems  in 
+fostering  good  governance,  focusing  on  key  governance  principles:  inclusion, 
+transparency,  accountability,  efficiency,  and  responsiveness.  Using  data  and  insights 
+from Nepal’s digital payment platforms and India’s Unified Payments Interface (UPI), 
+the  discussion  highlights  how  digital  payments  transform  governance  by  reducing 
+corruption, enhancing service delivery, and improving citizen trust. 
+
+Role of Digital Payment in Good governance 
+The  UNDP  has  identified  eight  core  principles  of  good  governance,  including 
+participation,  inclusion,  transparency,  accountability,  efficiency,  responsiveness, 
+consensus  orientation,  and  the  rule  of  law  (8  Governance  Principles,  Institutional 
+Capacity  and  Quality,  2011).  Among  these,  five  principles:  inclusion,  transparency, 
+accountability,  efficiency,  and  responsivenessare  particularly  influenced  by  the 
+adoption of  digital payment  systems.  This  subsection  examines  the  impact  of  digital 
+
+ 
+ 
+ 
+Raising Good Governance …   
+
+                                                                  6 
+
+payment systems on the five  governance principles, demonstrating their contribution 
+to creating a more transparent and inclusive framework. 
+Inclusion 
+Digital  payments  are  a  powerful  tool  for  fostering  inclusion,  particularly  in  regions 
+where access to traditional banking services is limited. In many developing countries, 
+including Nepal, a significant portion of the population remains unbanked, often due 
+to  geographical  barriers,  lack  of  infrastructure,  or  socioeconomic  challenges.  Digital 
+payment  systems  help  bridge  this  gap  by  offering  a  more  accessible  and  convenient 
+alternative  to  traditional  banking.  Mobile  payment  platforms,  for  instance,  allow 
+individuals in remote areas to send and receive money, pay bills, and access financial 
+services  using  just  a  mobile  phone.  This  not  only  brings  financial  services  to  the 
+doorstep  of  those  previously  excluded  from  the  formal  economy  but  also  empowers 
+them to participate more fully in economic activities, improving their quality of life. 
+According  to  Nepal  Rastra  Bank,  mobile  banking  users  in  Nepal  experienced  a 
+staggering 1117.32% increase from 2016 to 2023, while internet banking users saw a 
+substantial 260.58% growth during the same period. 
+Moreover,  digital  payments  promote  financial  inclusion  by  supporting  government 
+initiatives  aimed  at  reaching  the  most  vulnerable  populations.  Social  welfare 
+programs,  subsidies,  and  financial  aid  can  be  delivered  directly  to  beneficiaries 
+through digital channels, ensuring that funds reach those  in need without the  delays, 
+inefficiencies, or leakages associated with cash-based distribution methods 
+
+Transparency 
+Digital  payments  significantly  enhance  transparency  in  financial  transactions,  a  key 
+component  of  good  governance.  By  digitizing  payments,  governments,  businesses, 
+and  individuals  can  create  an  auditable  record  of  every  transaction,  which  is  easily 
+traceable and verifiable. This digital trail minimizes the opportunities for corruption, 
+fraud,  and  financial  mismanagement  that  often  accompany  cash-based  transactions 
+The  study  byTenace  et  al.  ,  which  analyzed  data  from  111  developing  countries 
+between  2010  and  2018,  showed  that  increased  digital  transactions  were  associated 
+with  lower  levels  of  corruption  (Setor  et  al.,  2021).  For  example,  when  government 
+payments,  such  as  salaries,  pensions,  or  social  welfare  benefits,  are  made  digitally, 
+there  is  a  clear  record  of  who  received  the  payment,  when  it  was  received,  and  the 
+exact amount. This transparency ensures that funds are used as intended and that any 
+discrepancies can be quickly identified and addressed. 
+Moreover,  digital  payments  enable  real-time  monitoring  and  reporting,  further 
+strengthening  transparency.  Governments  can  use  data  from  digital  transactions  to 
+generate  accurate  and  timely  reports  on  financial  flows,  making  it  easier  to  oversee 
+
+ 
+ 
+BUTWAL CAMPUS JOURNAL, VOL. 7, NO. 2, December 2024                                                                      7 
+
+public  spending  and  detect  irregularities.  For  instance,  in  procurement  processes, 
+where corruption has historically been a significant issue, digital payment systems can 
+ensure  that  payments  are  made  directly  to  contractors  or  suppliers  without 
+intermediaries,  reducing  the  risk  of  kickbacks  or  bribes.  Additionally,  by  making 
+transaction  data  publicly  accessible  or  sharing  it  with  relevant  oversight  bodies, 
+governments can enhance public trust and accountability. This increased transparency 
+not  only  builds  confidence  in  government  institutions  but  also  encourages  more 
+ethical behavior among officials and service providers. 
+Accountability 
+Digital  payments  significantly  enhance  accountability  by  creating  a  transparent  and 
+traceable  record  of  financial  transactions,  reducing  opportunities  for  corruption  and 
+mismanagement.  Unlike  cash  payments,  which  are  difficult  to  monitor,  digital 
+transactions leave a clear audit trail that allows for easy tracking and verification. This 
+ensures  that  every  payment  is  accounted  for,  making  it  harder  for  unauthorized  or 
+under-the-table  dealings to occur. Additionally,  digital payment systems enable  real-
+time  oversight  of  the  flow  of  funds,  allowing  governments  and  organizations  to 
+monitor  public  spending  more  effectively.  The  automated  nature  of  digital 
+transactions also generates detailed records that can be easily audited, minimizing the 
+chances  of  human  error  or  manipulation.  In  public  programs,  such  as  welfare  and 
+subsidies,  digital  payments  ensure  that  funds  reach  the  intended  recipients  directly, 
+reducing  leakages  and  increasing  the  proper  use  of  resources.  Through  these 
+mechanisms,  digital  payments  foster  a  higher  level  of  accountability,  which  is 
+essential  for  promoting  good  governance.  McKinsey  &  Company has  conducted 
+research  indicating  that  digital  payments  can  provide  a  clear  audit  trail,  making  it 
+easier  to  track  and  verify  transactions,  which  in  turn  can  improve  accountability 
+(’Anan et al., 2022). 
+
+Efficiency 
+Digital payments significantly boost efficiency in both government operations and the 
+broader  economy  by  streamlining  financial  transactions  and  reducing  the  time  and 
+resources  required  to  manage  them.  Unlike  traditional  cash-based  systems,  which 
+involve manual handling, counting, and transportation of money, digital payments are 
+processed instantly and electronically. This immediacy eliminates the delays typically 
+associated with physical transactions, enabling governments to disburse funds quickly 
+and  accurately.  For  instance,  in  Nepal,  government  disbursements  such  as  social 
+security payments, pensions, and salaries can be transferred directly into beneficiaries' 
+accounts  through  digital  platforms,  ensuring  that  funds  are  delivered  promptly,  even 
+in remote  areas. This not only saves time  but  also reduces the  administrative  burden 
+on  government  offices,  freeing  up  resources  for  other  critical  tasks.  The  UK 
+
+ 
+ 
+Raising Good Governance …   
+
+                                                                  8 
+
+Government  Digital  Efficiency  Report  highlights  significant  savings  and  efficiency 
+gains  from  digitizing  government  services.  According  to  the  report,  moving 
+transactional  services  online  could  save  the  government  and  service  users  between 
+£1.7 billion and £1.8 billion annually. The report also emphasizes that digital services 
+can  improve  efficiency  by  providing  faster  and  more  reliable  service  delivery, 
+reducing  the  time  required  to  process  transactions,  and  enhancing  overall  service 
+quality (Digital Efficiency Report, 2012).  
+
+Moreover, digital payments reduce the costs associated with handling and distributing 
+cash.  The  logistical  challenges  of  managing  cash,  such  as  storage,  security,  and 
+transportation,  can  be  substantial,  especially  in  rural  or  hard-to-reach  areas.  By 
+adopting digital payments, these costs are minimized, leading to more efficient use of 
+public  resources.  Additionally,  digital  payment  systems  often  come  with  automated 
+features  such  as  direct  debits,  recurring  payments,  and  electronic  invoicing,  which 
+further streamline financial processes and reduce the likelihood of human error. This 
+automation  not  only  speeds  up  transactions  but  also  improves  the  accuracy  of 
+financial  records,  making  it  easier  for  governments  to  manage  budgets,  track 
+spending,  and  plan  for  future  expenditures.  Overall,  by  enhancing  the  efficiency  of 
+financial  transactions,  digital  payments  contribute  to  more  effective  governance  and 
+better service delivery, ultimately benefiting citizens and the economy as a whole. 
+
+Responsiveness 
+Digital payments play a pivotal role in enhancing the responsiveness of governments 
+and organizations, particularly in how quickly and effectively they can respond to the 
+needs of citizens. In times of crisis or when rapid action is required, digital payment 
+systems  enable  governments  to  disburse  funds  swiftly  and  directly  to  those  in  need. 
+For  example,  during  natural  disasters  or  public  health  emergencies,  such  as  the 
+COVID-19  pandemic,  governments  can  use  digital  payment  platforms  to  quickly 
+deliver  financial  aid,  subsidies,  or  emergency  funds  to  affected  individuals  and 
+businesses.  This  speed  in  financial  response  is  crucial  for  minimizing  the  impact  of 
+such crises, ensuring that citizens receive timely support when they need it most. 
+Moreover, digital payments facilitate a more responsive and citizen-centered approach 
+to  public  service  delivery.  When  payments  for  public  services  such  as  utility  bills, 
+taxes, social security or fines are made digitally, the entire process becomes faster and 
+more convenient for both the government and the public. Citizens can make payments 
+at any time, from anywhere, without the need to visit government offices or deal with 
+lengthy  queues.  This  immediacy  not  only  improves  the  user  experience  but  also 
+allows  governments  to  respond  more  quickly  to  the  collection  and  management  of 
+funds, enabling them to allocate resources more effectively. According to the United 
+
+ 
+ 
+ 
+BUTWAL CAMPUS JOURNAL, VOL. 7, NO. 2, December 2024                                                                      9 
+
+States Digital Service (USDS) 2024 Impact Report, the integration of digital services 
+at  the  SSA  has  significantly  improved  the  responsiveness  and  efficiency  of  its 
+operations.  This  digital  transformation  has  led  to  a  53%  increase  in  customer 
+satisfaction  due  to  enhanced  service  delivery  and  easier  access  to  benefits  (U.S. 
+Digital Service Impact Report 2024, 2024). 
+
+Case Study of India's Unified Payments Interface (UPI)  
+India's  Unified  Payments  Interface  (UPI)  has  revolutionized  the  country's  digital 
+payment  landscape  and  has  had  a  significant  impact  on  good  governance  by 
+promoting transparency, efficiency, and financial inclusion. UPI was launched by the 
+National Payments Corporation of India (NPCI) in 2016, which is a real-time payment 
+system  that  allows  instant  money  transfers  between  bank  accounts  through  mobile 
+devices.  It  has  rapidly  become  one  of  the  most  popular  payment  methods  in  India, 
+transforming  the  way  people  and  businesses  conduct  transactions.  This  subsection 
+dicusses how UPI has impacted on key good governance principles. 
+
+Growth and Adoption 
+Since  its  launch  in  2016,  UPI  has  seen  remarkable  growth.  Initially,  it  processed  a 
+modest  number  of  transactions,  but  its  user-friendly  interface  and  the  widespread 
+adoption  of  smartphones  have  driven  its  exponential  rise.  By  2023,  UPI  was 
+processing  over  8  billion  transactions monthly  (A.  &  Bhat.,  2021).  This  growth  was 
+further  fueled  by  the  Indian  government’s  push  towards  a  cashless  economy, 
+especially after the demonetization in 2016, which encouraged people to adopt digital 
+payment  methods.  The  introduction  of  UPI  2.0  brought  several  new  features  that 
+enhanced its functionality. These include overdraft facilities, one-time mandates, and 
+the ability to view and pay invoices directly from the app (World Bank Fast Payments 
+Toolkit  Case  Study:  India,  2021).  These  features  have  made  UPI  more  versatile  and 
+appealing to a broader range of users, including businesses and individuals. 
+
+Impact on Financial Inclusion 
+UPI has been instrumental in promoting financial inclusion by providing easy access 
+to banking services. In a country where a significant portion of the population remains 
+unbanked, UPI has made it possible for people to conduct financial transactions using 
+just  a  mobile  phone.  This  has  been  particularly  transformative  in  rural  areas,  where 
+traditional  banking  infrastructure  is  often  lacking.  UPI’s  integration  with  various 
+government  schemes  has  ensured  that  subsidies  and  welfare  payments  reach 
+beneficiaries directly, reducing leakages and ensuring timely disbursements (Baliyan 
+et al., 2023). 
+
+Promoting Transparency and Accountability 
+
+ 
+ 
+ 
+ 
+ 
+Raising Good Governance …   
+
+                                                                  10 
+
+The transparency and traceability of transactions facilitated by UPI have significantly 
+curbed  corruption  and  financial  mismanagement.  Every  transaction  on  the  UPI 
+platform  leaves  a  digital  footprint,  making  it  easier  to  audit  and  monitor  financial 
+flows.  This  has  been  instrumental  in  enhancing  accountability  within  government 
+programs and public financial management. (A. & Bhat., 2021) 
+Enhancing Efficiency and Responsiveness 
+UPI has streamlined various financial processes, reducing the time and cost associated 
+with  traditional  payment  methods.  Its  real-time  transaction  capability  ensures  that 
+payments  are  processed  instantly,  which  is  particularly  beneficial  for  both  personal 
+and business transactions During the COVID-19 pandemic, UPI played a crucial role 
+in the  government’s emergency  response, enabling the  swift distribution of financial 
+aid  to  affected  populations  (A.  &  Bhat.,  2021).  The  platform  enabled  the  swift 
+distribution  of  financial  aid  to  affected  populations,  ensuring  that  support  reached 
+those  in  need  without  delays.  This  responsiveness  is  vital  in  times  of  crisis,  where 
+timely financial assistance can make a significant difference. 
+
+The success of UPI in India underscores the transformative potential of digital payment 
+systems  in  fostering  good  governance.  By  promoting  financial  inclusion,  enhancing 
+transparency,  and  improving  efficiency,  UPI  has  set  a  benchmark  for  digital  payment 
+solutions globally. As other countries look to replicate this  model, the lessons learned 
+from India’s UPI journey will be invaluable in shaping the future of digital economies 
+worldwide. 
+
+Challenges and Recommendations 
+
+This  section  identifies  key  challenges  faced  by  Nepal  in  adopting  digital  payments, 
+including  the  digital  divide,  cybersecurity  risks,  and  lack  of  interoperability.  Drawing 
+lessons  from  successful  models  like  India’s  Unified  Payments  Interface  (UPI), 
+actionable  recommendations  are  proposed  for  the  government  and  institutions.  These 
+strategies  aim  to  bridge  existing  gaps,  enhance  the  effectiveness  of  digital  payment 
+systems, and pave the way for  a more transparent, inclusive, and efficient governance 
+framework. 
+
+Challenges 
+Implementing  digital  payments  as  a  tool  for  good  governance  comes  with  several 
+challenges.  While  digital  payments  offer  numerous  benefits,  these  challenges  can 
+hinder  their  effectiveness  and  need  to  be  addressed  to  fully  realize  their  potential. 
+Here are some of the key challenges: 
+
+ 
+ 
+ 
+ 
+BUTWAL CAMPUS JOURNAL, VOL. 7, NO. 2, December 2024                                                                      11 
+
+a)  In  many  developing  countries,  including  Nepal,  large  portions  of  the  population 
+still  lack  access  to  reliable  internet  connections,  especially  in  rural  and  remote 
+areas.According  to  World  bak  data  of  2021,  52%  of  population  in  Nepal  have 
+access  to  internet  (Individuals  Using  the  Internet  (%  of  Population)  -  Nepal, 
+2021). This digital divide can exclude significant segments of the population from 
+benefiting from digital payment systems. 
+
+b)  Even where internet access is available, low levels of digital literacy can prevent 
+people  from  effectively  using  digital  payment  platforms.  Many  individuals, 
+particularly  in  older  age  groups  or  low-income  communities,  may  find  it 
+challenging to adopt and trust these new technologies The general literacy rate of 
+Nepal stands at 76.3 percent. As per the survey carried out by NRB, the financial 
+literacy  rate  is  57.9  percent  and  research  showed  that  the  digital  literacy  rate  is 
+staggering around 31 percent (Rudra Prasad Adhikari, 2024).  
+
+c)  As  digital  payments  involve  sensitive  financial  and  personal  data,  they  are 
+
+vulnerable to cyberattacks and data breaches. 
+
+d)   The rise of digital payments has also led to an increase in fraud, such as phishing 
+attacks, fake payment apps, and identity theft. Governments and service providers 
+must  work  to  educate  users  and  implement  strong  security  measures  to  mitigate 
+these risks. 
+
+e)  Many countries lack comprehensive regulations governing digital payments. This 
+can lead to inconsistencies in how these payments are handled, gaps in consumer 
+protection,  and  challenges  in  enforcing  rules  across  different  platforms  and 
+providers. 
+
+f)  For  countries  like  Nepal  with  significant  remittance  flows,  ensuring  that  digital 
+payment systems are  compatible  with international standards and regulations can 
+be complex. 
+
+g)  Implementing  digital  payment  systems  requires  significant 
+
+investment 
+technology,  and  education.  For  governments,  especially 
+
+infrastructure, 
+developing countries, the initial costs can be a significant barrier. 
+
+in 
+in 
+
+h)  For  small  businesses  and  vendors,  the  costs  associated  with  setting  up  digital 
+payment systems, such as acquiring POS terminals or paying transaction fees, can 
+be prohibitive, slowing down the adoption process. 
+
+i)  In  Nepal,  multiple  digital  payment  platforms  exist,  but  they  are  not  fully 
+interoperable.  This  fragmentation  can  lead  to  confusion  among  users,  increased 
+transaction  costs,  and  inefficiencies,  reducing  the  overall  impact  of  digital 
+payments on governance. 
+
+Recommendation to Government and Institutions 
+The recommendation to the policy makers are as follows: 
+
+ 
+ 
+Raising Good Governance …   
+
+                                                                  12 
+
+a)  Invest  in  expanding  digital  infrastructure,  especially  in  rural  and  underserved 
+areas,  to  ensure  that  all  citizens  have  access  to  reliable  internet  and  digital 
+payment  services.  This  includes  improving  mobile  network  coverage,  increasing 
+the availability of Point-of-Sale (POS) terminals, and supporting the development 
+of digital payment platforms. 
+
+b)  Launch  nationwide  digital  literacy  campaigns  to  educate  citizens  on  how  to  use 
+digital payment systems safely and effectively. Focusing on reaching marginalized 
+and  older  populations  who  may  be  less  familiar  with  digital  technology. 
+Additionally,  create  awareness  programs  to  build  trust  in  digital  payments  by 
+highlighting  their  benefits  and  addressing  common  concerns  about  security  and 
+privacy. 
+
+c)  Strengthen cybersecurity measures to protect digital payment systems from fraud, 
+data  breaches,  and  other  cyber  threats.  Implementing  robust  data  protection 
+regulations  to  safeguard  users'  personal  and  financial  information,  ensuring  that 
+digital payments are secure and trustworthy. 
+
+d)  By  establishing  a  clear  and  comprehensive  regulatory  framework  for  digital 
+payments  that  promotes  innovation  while  ensuring  consumer  protection.  This 
+framework  should  include  guidelines  for  interoperability  between  different 
+payment  platforms,  standardization  of  payment  processes,  and  clear  rules  for 
+handling disputes and grievances. 
+
+e)  Encourage  interoperability  between  various  digital  payment  platforms  and 
+financial  institutions  to  create  a  seamless  payment  ecosystem.  This  will  reduce 
+fragmentation, lower transaction costs, and make it easier for citizens to use digital 
+payments across different services and platforms 
+
+f)  Accelerate  the  integration  of  digital  payments  into  government  services,  such  as 
+tax  payments,  social  welfare  distribution,  and  public  utility  payments.  This  will 
+increase  transparency, reduce leakages, and make  it easier for citizens to interact 
+with the government. 
+
+g)  Engage  in  regional  cooperation  with  neighboring  countries  and  international 
+organizations  to  share  best  practices,  experiences,  and  innovations  in  digital 
+payments. This can help Nepal learn from successful models like India’s UPI and 
+adapt similar strategies to its context. 
+
+Conclusion 
+
+Digital  payment  systems  hold  immense  potential  to  advance  good  governance  by 
+enhancing transparency, accountability, efficiency, and inclusivity within governmental 
+operations. The case study of India’s Unified Payments Interface (UPI) illustrates how 
+strategic implementation of digital payment systems can transform governance. UPI has 
+
+ 
+ 
+BUTWAL CAMPUS JOURNAL, VOL. 7, NO. 2, December 2024                                                                      13 
+
+demonstrated tangible outcomes, such as improved efficiency in public service delivery 
+through real-time transactions, enhanced transparency with digital audit trails reducing 
+corruption,  and  greater  financial  inclusion  by  enabling  access  to  banking  services  in 
+underserved  areas.  These  achievements  underscore  the  critical  role  of  government 
+support,  robust  infrastructure,  and  user-centric  design  in  realizing  the  full  potential  of 
+digital  payments.  For  Nepal,  these  lessons  are  particularly  relevant.  While  platforms 
+like ConnectIPS and mobile wallets have shown promising growth, challenges such as 
+the  digital  divide,  limited  infrastructure,  and  regulatory  gaps  continue  to  hinder 
+widespread adoption and impact. By learning from UPI’s success, Nepal can prioritize 
+investments  in  digital  infrastructure,  strengthen  cybersecurity  measures,  and  adopt 
+policies  that  promote  interoperability  and  financial  literacy.  Ultimately,  for  digital 
+payments  to  play  a  transformative  role  in  governance,  Nepal  must  address  its  unique 
+challenges while leveraging proven strategies from India’s UPI. A collaborative effort 
+among  policymakers,  financial  institutions,  and  technology  providers  is  essential  to 
+build  a  trusted  and  accessible  digital  payment  ecosystem  that  drives  transparency, 
+inclusivity, and accountability in governance. 
+
+References 
+
+8  Governance 
+
+Principles,  
+
+Institutional  Capacity  
+
+and  Quality. 
+
+(2011). 
+
+https://www.undp.org/sites/g/files/zskgke326/files/publications/Towards_SustainingM
+DGProgress_Ch8.pdf 
+
+A.,  M.,  &  Bhat.,  G.  (2021).  Digital  Payment  Service  in  India  -  A  Case  Study  of  Unified 
+Payment  Interface.  India.  International  Journal  of  Case  Studies  in  Business,  5(1), 
+2581–6942. https://doi.org/10.5281/zenodo.5091207 
+
+’Anan, L., ’Chen, J., ’Mahajan, D., & ’Nadeau, M.-C. (2022, October 21). Consumer trends 
+Company. 
+
+in 
+https://www.mckinsey.com/industries/financial-services/our-insights/banking-
+matters/consumer-trends-in-digital-payments 
+
+McKinsey 
+
+payments. 
+
+digital 
+
+& 
+
+Baliyan, D., Singh, N., & Professor, A. (2023). UNIFIED PAYMENTS INTERFACE (UPI): 
+A  DIGITAL  TRANSFORMATION  IN  INDIA.  In  International  Journal  of  Creative 
+Research Thoughts (Vol. 11). www.ijcrt.org 
+
+Covid-19 
+
+accelerated 
+
+the 
+
+digitalisation 
+
+of 
+
+payments. 
+
+(2021). 
+
+https://www.bis.org/statistics/payment_stats/commentary2112.htm 
+
+Demirgüç-Kunt, A., Klapper, L., Singer, D., & Ansar, S. (n.d.). Financial Inclusion, Digital 
+
+Payments, and Resilience in the Age of COVID-19. 
+
+Digital  Efficiency  Report.  (2012).  https://www.gov.uk/government/publications/digital-
+
+efficiency-report/digital-efficiency-report 
+
+Individuals  using  the  Internet  (%  of  population)  -  Nepal.  (2021).  World  Bank  Group. 
+
+https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NP 
+
+ 
+Raising Good Governance …   
+
+                                                                  14 
+
+Rudra  Prasad  Adhikari.  (2024).  Digital  Divide  threatens  Nepal’s  vision  for  a  tech-driven 
+https://english.onlinekhabar.com/digital-divide-challenge-
+
+Onlinekhabar. 
+
+future. 
+nepal.html 
+
+Setor,  T.  K.,  Senyo,  P.  K.,  &  Addo,  A.  (2021).  Do  digital  payment  transactions  reduce 
+corruption?  Evidence  from  developing  countries.  Telematics  and  Informatics,  60. 
+https://doi.org/10.1016/j.tele.2021.101577 
+
+U.S.  Digital  Service  Impact  Report  2024.  (2024).  https://www.usds.gov/resources/USDS-
+
+2024-Impact-Report.pdf 
+
+World 
+
+Fast 
+
+Bank 
+
+Payments 
+https://fastpayments.worldbank.org/sites/default/files/2021- 
+10/World_Bank_FPS_India_IMPS_and_UPI_Case_Study.pdf 
+
+Toolkit 
+
+Case 
+
+Study: 
+
+India. 
+
+(2021). 
+
+ 
+  
+

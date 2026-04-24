@@ -1,0 +1,2139 @@
+Impact of digital payment on consumer be-
+
+haviour in Nepal   
+
+LAB University of Applied Sciences 
+
+Bachelor of Business Administration (International Business)  
+
+2025 
+
+Nirmala Chand
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+
+Publication type  
+
+Completion year 
+
+Thesis, UAS 
+Number of pages 
+
+2025 
+
+43 
+
+Author(s)  
+
+Nirmala Chand 
+
+Title of Thesis 
+
+Impact of Digital Payment on Consumer behavior in Nepal  
+Degree, Field of Study 
+
+Bachelor of International Business 
+Name, title, and organisation of the client. 
+
+Abstract 
+
+This study aims to explore the impact of digital payment on consumer behavior in Ne-
+pal. Following the Technology Acceptance Model (TAM), the study investigates the 
+impact of perceived ease of use, perceived usefulness, and security concerns on pay-
+ment selection.  
+
+The study collected data utilizing a quantitative research strategy and surveyed urban 
+and rural consumers. Findings indicate wide utilization of digital payment, with mobile 
+wallets being the most popular. Key drivers to usage include convenience, ease, and 
+security. However, low internet connectivity and fear of fraud remain issues in rural ar-
+eas.  
+
+The results show huge differences in the rates of adoption of digital payments, with 
+the most frequent users being youth, urban, and educated consumers. Most of them 
+intended to use digital payments in the future, indicating growing familiarity despite 
+existing challenges. The results are of specific importance to policymakers and finan-
+cial institutions aiming to promote digital payments in Nepal’s emerging payment eco-
+system. 
+
+Keywords 
+
+Digital Payment, Consumer Behaviour, Technology Acceptance Model (TAM), Mobile 
+Wallets 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+1 
+
+Introduction ................................................................................................................ 1 
+
+1.1 
+
+1.2 
+
+1.3 
+
+1.4 
+
+1.5 
+
+Research Background ....................................................................................... 1 
+
+Thesis Objectives, Research Question, and Limitations .................................... 2 
+
+Theoretical Framework ...................................................................................... 3 
+
+Research Methodology ...................................................................................... 3 
+
+Thesis Structure ................................................................................................ 5 
+
+2  Technology acceptance model .................................................................................. 7 
+
+2.1 
+
+2.2 
+
+2.3 
+
+2.4 
+
+Perceived Usefulness ........................................................................................ 7 
+
+Perceived ease of use ....................................................................................... 9 
+
+Intention of use .................................................................................................10 
+
+Actual use ........................................................................................................11 
+
+3  Empirical research and data analysis ........................................................................13 
+
+3.1 
+
+3.2 
+
+3.3 
+
+Empirical Research ..........................................................................................13 
+
+Data Collection .................................................................................................13 
+
+Data Analysis ...................................................................................................14 
+
+3.3.1  Demographic factors ....................................................................................14 
+
+3.3.2  Uses and preferences...................................................................................16 
+
+3.3.3  Perception of Efficiency and Security ............................................................18 
+
+3.3.4  Future Outlook ..............................................................................................19 
+
+3.3.5  Key Insights ..................................................................................................20 
+
+4  Conclusion ................................................................................................................23 
+
+4.1 
+
+4.2 
+
+Answers to Research Questions.......................................................................23 
+
+Validity and Reliability .......................................................................................24 
+
+5  Summary ..................................................................................................................26 
+
+References ......................................................................................................................27 
+
+APPENDIX ......................................................................................................................34 
+
+Appendix 1. Appendix title 
+
+Appendix 2. Appendix title  
+
+ 
+ 
+ 
+ 
+ 
+Abbreviations 
+
+NRB   Nepal Rastriya Bank 
+
+NPS National payment system  
+
+ICT Information and communication technology 
+
+NPR Nepalese rupees  
+
+TAM Technology acceptance model  
+
+PU Perceived Usefulness  
+
+PEOU Perceived ease of use  
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+1 
+
+Introduction 
+
+1.1  Research Background 
+
+The  rise  of  digital  payments  has  fundamentally  transformed  how  consumers  and  busi-
+
+nesses engage with each other globally. Digital payments are defined as transactions com-
+
+pleted for products or services that are either ordered online or offline and initiated via the 
+
+Net. Gaining insights into how digital economic facilities influence buyer choices is becom-
+
+ing increasingly important, particularly in developing countries such as Nepal. In Nepal, the 
+
+Nepal Rastra Bank (NRB) is committed to ensuring the safekeeping and efficiency of the 
+
+country's National Payments System (NPS), acknowledging that payment functions are a 
+
+vital part of a state's financial framework and are critical for its stability, the implementation 
+
+of monetary policy, and the development of capital markets (Rijal 2024). 
+
+As digital payment systems become more popular, they are changing the way consumers 
+
+make transactions, which in turn affects their buying choices, preferences, and overall fi-
+
+nancial habits. The rapid acceptance of digital payment options has been largely driven by 
+
+developments  in  information  and  communication  technology  (ICT),  leading  to  the  rise  of 
+
+various  methods  such  as  digital  wallets,  internet  banking,  and  mobile  banking  in  Nepal 
+
+(Poudel et al. 2023; Magar et al. 2023a). This transition is illustrated by a significant rise in 
+
+digital transactions, which increased to NPR 1,559 billion in 2019 from NPR 712 billion in 
+
+2018. indicating an increasing acceptance and dependence on these systems by consum-
+
+ers (Poudel et al. 2023). 
+
+Demographic  factors  also  significantly  influence  consumer  perceptions  regarding  digital 
+
+payment methods. Lohana and Roy (2023) noted that aspects such as age, gender, school-
+
+ing, and revenue greatly impact the usage and fulfillment associated with digital payment 
+
+systems. For example, younger users, who are generally more adept with technology, tend 
+
+to have a greater inclination to embrace digital payment options compared to older individ-
+
+uals, who may lean toward conventional cash transactions (Goetze et al. 2023). This gen-
+
+erational gap highlights the necessity of comprehending consumer behavior to digital pay-
+
+ment adoption, as it can guide efforts to improve user engagement and satisfaction (Magar 
+
+et al. 2023). 
+
+Furthermore, the COVID-19 pandemic also fast-tracked the transition to digital payments, 
+
+as individuals aimed to reduce physical interactions and improve transaction safety (Daqar 
+
+et al. 2021). The pandemic not only sped up the acceptance of digital payment systems but 
+
+also shaped consumer attitudes and behaviors, resulting in a greater dependence on these 
+
+technologies for routine transactions (Zhou 2022). As digital payments become increasingly 
+
+2 
+
+woven into daily routines, it is vital to comprehend their effects on consumer behavior in 
+
+Nepal for both businesses and policymakers, as this knowledge can inform the creation of 
+
+more effective financial services and consumer education programs (Bhattarai et al. 2023). 
+
+1.2  Thesis Objectives, Research Question, and Limitations 
+
+The research objective serves as a foundational element in the research process, guiding 
+
+the direction and scope of the study. A well-defined study objective is crucial for ensuring 
+
+clarity  and  focus,  facilitating  the  replication  of  studies,  and  enabling  effective  analysis. 
+
+(Marken  and  Morrison  2013).  emphasize  the  importance  of  precise  definitions  and  con-
+
+sistent terminology in educational research objectives, noting that this precision is essential 
+
+for replicating studies and conducting comprehensive analyses over time.  
+
+This thesis aims to determine changing consumer attitudes toward digital payments. The 
+
+aim is to recognize the role of demographic factors such as gender, age, education, and 
+
+income in shaping consumer views of digital payments. There is a lack of studies on how 
+
+digital  payment  impacts  consumer  behavior  in  Nepal.  This  is  intended  to  deliver  deeper 
+
+insights  into  the  acceptance  of  digital  payment  approaches  while  shopping,  based  on  a 
+
+literature review and research. 
+
+Formulating a clear and focused research question is essential, as it not only defines the 
+
+scope of the investigation but also influences the design, data collection, and analysis pro-
+
+cess (Aslam & Emmanuel 2010; Jain et al. 2023). 
+
+The main research question of this thesis is: 
+
+•  How do people use and perceive digital payments in Nepal? 
+
+Sub-questions provide clarity and direction to the research process, facilitating a compre-
+
+hensive exploration of the major research question. The facts and knowledge obtained are 
+
+divided into a comprehensive response to the primary research question via the sub-ques-
+
+tions listed below 
+
+The sub-questions of the thesis are: 
+
+•  How do consumer perceptions of efficiency influence their attitudes towards digital 
+
+payments? 
+
+•  How do demographic factors like age, gender, education, and income impact digital 
+
+payment adoption and usage patterns? 
+
+ 
+3 
+
+Research is usually subject to several limits. The purpose of this thesis is to understand the 
+
+impact of digital payments on consumer purchasing intentions. The research is so hard to 
+
+include every technique that could be used in consumer buying intentions. Raising the num-
+
+ber of respondents about consumers who use digital payment methods may present certain 
+
+difficulties. The participants may provide inaccurate information about digital payment meth-
+
+ods. Mainly, the findings are done specifically for Nepal and may not be applicable to other 
+
+regions. 
+
+1.3  Theoretical Framework 
+
+The consumer decision-making process is a critical area of study, particularly in emerging 
+
+markets like Nepal, where understanding the motivations behind consumer behavior can 
+
+significantly  influence  marketing  strategies,  policymaking,  and  business  practices.  The 
+
+Technology Acceptance Model (TAM) provides a comprehensive framework to explore the 
+
+impact of digital payments on consumer behavior in Nepal. This analysis will delve into the 
+
+economic, psychological, and technological factors that shape consumer decisions in the 
+
+context of digital payment approval. 
+
+Research shows that how consumers view the practicality of digital payment systems has 
+
+a  great  influence  on  their  adoption  of  technology.  For  example,  it  has  been  proven  that 
+
+individuals will approve mobile payment systems if they feel that the technologies will make 
+
+transactions easier and faster (Su et al. 2018; Li et al. 2019). In addition to that, the usability 
+
+of a digital payment system is important; when the system is easy to use for the customers, 
+
+they will accept it (Leang et al. 2023; Li et al. 2019). Furthermore, Tang et al. (2021) high-
+
+lighted that customers’ perception of how the system must work and their privacy in terms 
+
+of ensuring the security of the information also come out as a major determinant of using 
+
+payments.  
+
+1.4  Research Methodology 
+
+A research methodology describes the techniques and steps taken to collect and analyse 
+
+information on a particular study topic. It is an organized, logical strategy that researchers 
+
+employ to direct a study problem and achieve their objectives (Bahishti 2022). A methodol-
+
+ogy outlines how an investigator will carry out their investigation to obtain precise and reli-
+
+able data. It includes the types of data the researcher will gather, the sources of that data, 
+
+and the methods for gathering and analysing it (Bahishti 2023). A research design behaves 
+
+as  the  framework  for  the  study,  guiding  the  data  collection  and  analysis  processes,  the 
+
+selection of research tools, and the sampling strategies to be employed (Tobi & Kampen 
+
+4 
+
+2018). This study adopts a deductive research approach, which starts with a theory or hy-
+
+pothesis and seeks solutions through data collection and analysis. This approach is partic-
+
+ularly suitable as the research focuses on quantitative data to examine the impact of digital 
+
+payment systems on purchasing actions. The researcher will draw on existing theories and 
+
+studies conducted on similar topics to identify the key factors influencing consumer behav-
+
+iour in Nepal regarding the acceptance of digital payments. 
+
+Digital payment serves as the focal subject of this research. The study incorporates both 
+
+qualitative and quantitative sources of data. Qualitative data offers a deeper understanding 
+
+of the underlying motivations and contextual factors, while quantitative data provides meas-
+
+urable insights into patterns and trends (Arendt et al.2012). 
+
+The research  utilizes  both  primary  and  secondary  data  collection methods.  Primary  data 
+
+will be collected through a structured questionnaire distributed among individuals who ac-
+
+tively use digital payment systems in Nepal. Secondary data will be gathered from newspa-
+
+pers, articles, journals, and websites to gain insights from prior studies and reports on the 
+
+adoption and impact of digital payments. The study aims to answer critical questions about 
+
+how digital payment systems influence consumer purchasing behaviour in Nepal. The ques-
+
+tionnaire includes a five-point Likert scale, ranking, multiple-choice, single-choice, and de-
+
+mographic items. 
+
+According  to  Magar  et  al  (2023b)  Nepal's  population  in  2024  is  projected  to  be  approxi-
+
+mately 31.07 million, and the target population for this research comprises individuals who 
+
+use digital payment methods, such as mobile wallets and online banking. The researcher 
+
+collaborates  with  digital  payment  service  users  and  disseminates  the  survey.  Given  the 
+
+challenge of reaching all users of digital payment systems, the researcher also leverages 
+
+personal networks, including friends, family, and colleagues. The study seeks responses 
+
+from at least 100 participants, including businesspersons, private and government employ-
+
+ees,  students,  and  unemployed  individuals.  Respondents  must  be  at  least  18  years  old, 
+
+reflecting the legal age for conducting financial transactions in Nepal. 
+
+The initial focus of the research is to utilize surveys to store and analyse data on consumer 
+
+behaviour. The validity and reliability of findings are ensured through careful questionnaire 
+
+design and systematic data analysis. This method enables the study to remain concentrated 
+
+on data clearly obtained from participants, providing a pure insight into how digital payment 
+
+systems influence consumer behaviour in Nepal. 
+
+ 
+ 
+5 
+
+Deductive 
+research 
+approach
+
+Primary and 
+secondary 
+source
+
+Quantitative 
+research
+
+Figure 1. Research Methodology 
+
+The  above  figure  shows that  the  study  applies  the  quantitative  research  method. 
+
+Researchers frequently use the inductive approach associated with qualitative re-
+
+search and the deductive approach associated with quantitative research. Since the 
+
+objective  of  the  study  is  to  identify  the  impact  of  digital payments  on  consumers’ 
+
+behaviour and to generalize the findings to larger populations, the study utilizes a 
+
+deductive approach. The primary data are stored from participants through a survey 
+
+and secondary data are collected through the existing literature. 
+
+1.5  Thesis Structure 
+
+The  study  is  separated  into  five  sections:  introduction,  technology  acceptance 
+
+model, empirical research, conclusion, and summary. 
+
+6 
+
+• Introduction
+
+Chapter 1
+
+• Technology acceptance model
+
+• Empirical research
+
+Chapter 2
+
+Chapter 3
+
+• Conclusion
+
+Chapter 4
+
+• Summary
+
+Chapter 5
+
+Figure 2. Thesis Structure 
+
+The research background, goals, and questions, as well as the thesis's limits, are presented 
+
+in the first chapter. Additionally, it offers the data collection, research methodology, theoret-
+
+ical framework, and, finally, the thesis structure. The sections that are covered have been 
+
+defined in the thesis framework. 
+
+The second chapter covers the technology acceptance model and includes some insight 
+
+into the factors that impact digital payment on consumer behaviour. 
+
+The empirical research, including data collection and methodology, as well as certain details 
+
+regarding research participants and sample outcomes, is covered in the third chapter. 
+
+The conclusion, including the material that was being re-examined and its findings, is cov-
+
+ered in the fourth chapter. The research questions have been solved in this section.  
+
+The last chapter summarizes the thesis. It covers every stage of the study process, an-
+
+swers a research question, and includes suggestions for further research in the conclu-
+
+sion.  
+
+ 
+ 
+ 
+ 
+7 
+
+2  Technology acceptance model 
+
+Davis’s Technology Acceptance Model (TAM) (1989) is the most widely used model to ex-
+
+plain how users adopt and use new technology. The most prevalent determinants that de-
+
+cide an individual’s use decision for a technology, as proposed by this model, are Perceived 
+
+Usefulness (PU) is the extent to which an individual believes that the use of a specific sys-
+
+tem will improve his or her performance (Davis 1989). In mobile payments is the extent to 
+
+which consumers believe that the use of electronic payment systems such as online bank-
+
+ing or mobile wallets facilitates transactions in a more convenient, quicker, and easier way. 
+
+Furthermore, Teker et al. (2022) note that convenience is the key driver of the growing use 
+
+of digital payments by business customers as well as end consumers. In summary, TAM 
+
+can explain why digital payment systems are being utilized in Nepal by their users. If they 
+
+are  convenient  and  helpful  enough  to  the  users,  then  they  will  be  able  to  embrace  and 
+
+continue to utilize these systems, influencing their overall behavior toward digital transac-
+
+tions.  
+
+Figure 3: Technology Acceptance Model (TAM) 
+
+2.1  Perceived Usefulness 
+
+According to Davis (1989)  Perceived Usefulness (PU) is the extent to which an individual 
+
+thinks that utilizing a specific system will increase his/her work performance. In the context 
+
+of digital payments, perceived usefulness means how much consumers believe that using 
+
+digital payment systems (e.g., mobile wallets, online banks, etc.) is a better way of dealing 
+
+with money, saving time, and making them more comfortable shopping. Therefore, the key 
+
+success indicator of digital payment systems is perceived utility. Many studies illustrate how 
+
+security, convenience, and speed influence digital payment users’ satisfaction and under-
+
+standing of digital payments. When digital payment functionalities meet users’ expectations, 
+
+(Beura  et  al.  2023).  the  claim  that  satisfaction  is  lifted  and  usage  continues  (Sholihah  & 
+
+ 
+8 
+
+Ariyani 2023.) In this regard, (Aditya & Ekyawan 2021.) also, establish a solid positive con-
+
+nection between user gratification and digital payment adoption, namely, users engaging in 
+
+digital payment will more likely stay engaged. (Teker et al. 2022). Also, back up this point 
+
+by arguing that ease is one of the key reasons digital payments are becoming increasingly 
+
+popular among consumers and businesses. 
+
+Another consideration regards security, which has a primordial role in forming perceptions 
+
+of usefulness. Both as it relates to digital security awareness and because it highlights the 
+
+importance of trust in security measures, Jusman and Fauziah (2024) claim that it is the 
+
+lack of awareness of digital security that deters users from fully using cashless payment 
+
+methods. Muhtasim et al. (2022) also point out that perceived security strongly determines 
+
+customer satisfaction, which leads to the additional fact that perceived safety substantially 
+
+affects digital payment adoption. The study by (Yaokumah, Kumah, & Okai 2017). shows 
+
+how  demographic  factors  shape  the  usage  of  e-payment  services  using  the  lens  of  the 
+
+Technology Acceptance Model (TAM). Perceived usefulness can also be improved by im-
+
+proving educational initiatives, as Behera et al. (2023) note that higher levels of financial 
+
+education help increase awareness and adoption rates due to a lowering of technological 
+
+apprehension. 
+
+However, the acceptance of digital payment techniques in Nepal depends on demographic, 
+
+economic, and technological factors. From NPR 712 billion in 2018 to NPR 1,559 billion in 
+
+2019, digital payments had spread throughout the country with the use of digital payment 
+
+platforms like ConnetIPS, Mowobil wallets, QR codes, etc. (Poudel et al. 2023). As Lohana 
+
+& Roy (2021) state, the satisfaction of the consumer and the adoption rate of the product 
+
+are  variables  —  i.e.,  it  depends  on  the  consumer’s  age,  gender,  education,  and  income 
+
+level. Moreover, the impact of the integration of digital payment systems in governance has 
+
+enhanced their perceived usefulness by promoting transparency, efficiency, and especially 
+
+in remote areas, as Kc and Kc (2024) argue. Likewise, supervision by the regulatory au-
+
+thorities of Nepal Rastra Bank is necessary for security and consumer confidence (Rijal and 
+
+Thapa, 2024). Nevertheless, security risks and lack of awareness persist, which is why tar-
+
+geted educational initiatives are still extremely important to grow trust and increase adoption 
+
+(Meher et al. 2021). 
+
+In addition, digital payments cannot be overlooked in how they impact consumer behaviour. 
+
+Recent studies have found that the convenience and efficiency that digital payment system 
+
+provides to consumers are very important and affect the consumers' choice and purchase 
+
+decisions  (Bhattarai  et  al.  2023;  Rijal  &  Thapa,  2024).  So,  the  consumption  of  Nepalese 
+
+products has been in sync with the rise of e-commerce and mobile commerce, together with 
+
+the  surge  in digital  payments,  since customers want  to  have the  essential  experience  of 
+
+seamless transactions (Rijal & Thapa, 2024). These perceived risks, such as the security 
+
+risk or the fact that consumers are not familiar with it, slow the approval of digital payments 
+
+9 
+
+(Meher et al. 2021). 
+
+2.2  Perceived ease of use  
+
+The perception users have about how easy it will be to use digital payment systems influ-
+
+ences their adoption of these systems in developing nations, including Nepal. Different sys-
+
+tem components and accessibility levels determine users' judgment of how effortless their 
+
+interaction with the system will be. Research indicates that ease of use perception stands 
+
+as the foundation for how users accept technology based on their attitudes toward adoption 
+
+(Özkan  et  al.  2010).  The  Simplicity,  along  with  ease  of  use  on  digital  payment  systems 
+
+including PayPal, helps platforms achieve success by using intuitive designs according to 
+
+Teoh et al. (2013). Nepalese citizens who are less familiar with technology require inter-
+
+faces that are easy to use for adopting new platforms. 
+
+Research from Nepal provides complete evidence of how users decide about digital pay-
+
+ments based on security measures and privacy protection. The security-related concerns 
+
+perceived  by  young  Pokhara Metropolitan  City  residents  surpassed  the advantages  they 
+
+felt digital payments would provide, according to Poudel et al. (2023). Users require better 
+
+security safeguards as they also value easy interfaces for payment platforms since these 
+
+mechanisms provide peace of mind about the safety of their funds. The evaluation of plat-
+
+form ease during use acts as an essential condition for perceived usefulness since users 
+
+find  effective  platforms through  convenient  interfaces,  according to Lai  &  Ahmad (2015). 
+
+The development of digital payment adoption among Nepalese users demands a user-ori-
+
+ented interface since they must transition from cash to electronic transaction systems. Dig-
+
+ital payment education, along with awareness programs, allows users to view digital pay-
+
+ment  systems  as  user-friendly.  Knowledge  lessons  about  digital  system  features  enable 
+
+users to grasp the technology better for increased acceptance rates (Sivathanu, 2019). Dig-
+
+ital payment systems have become simpler to operate using modern financial sector tech-
+
+nology to prevent risks associated with traditional cash payments, as reported by Budiarti 
+
+et al. (2021). Digital payments in Nepal will thrive through developer improvements in plat-
+
+form user experience, coupled with sustained customer education about systems that cre-
+
+ate trustworthy user relationships (Khan et al. 2023; Sholihah & Ariyani, 2023). 
+
+10 
+
+2.3 
+
+Intention of use 
+
+The Digital payment system usage research has gained importance because modern tech-
+
+nology  norms  are  changing  along  with  consumer  conduct.  The  concept  depends  on  the 
+
+Technology Acceptance Model (TAM), which shows that users' technology adoption inten-
+
+tions  depend  strongly  on  how  much  they  perceive  the  system  aids  them  (PU)  and  how 
+
+straightforward its operation is (PEOU). User intention toward digital payment systems de-
+
+pends mainly on performance expectancy, combined with social influence together with fa-
+
+cilitating conditions, and security and privacy concerns, as shown by continued research. 
+
+The factors that form user perceptions serve as essential drivers for mobile wallet adoption 
+
+alongside e-payment system implementation and other digital payment alternatives (Linge 
+
+et al. 2023; Patil et al. 2020; Gupta & Arora, 2019). 
+
+Users choose to adopt digital payment solutions because they view technological tools as 
+
+useful according to performance expectancy definitions. User adoption of digital payment 
+
+solutions increases based on their perception of these solutions being beneficial and effi-
+
+cient,  according  to  Linge  et  al.  (2023)  and  Patil  et  al.  (2020).  Users'  adoption  decisions 
+
+regarding technology are greatly influenced by the impact important others have on such 
+
+decisions through social influence. Beura et al. (2023), alongside Simatupang et al. (2022) 
+
+stress  that  peer  conduct  and  social  guidelines  drive  adoption  choices  according  to  their 
+
+research, while Tian et al. (2023) examine the mutual effects of trust strength with service 
+
+quality and social influence for digital payment system use. 
+
+Necessary resources, together with modern infrastructure, serve as important enabling fac-
+
+tors  when  implementing  successful  digital  payment  systems.  According  to  Poudel  et  al. 
+
+(2023) and Nurdin et al. (2023) reliable technology access with strong internet connectivity 
+
+enables users to make effective use of digital payment systems. Consumers refrain from 
+
+adopting  digital  payments  because  of  their  strong  concerns  about  security  and  privacy. 
+
+Adoption of digital payments heavily depends on perceived trustworthiness, together with 
+
+security measures, according to Nguyen et al. (2016), along with Flavián et al. (2020) and 
+
+Ariffin et al. (2021) in their research. The digital payment acceptance process in Nepal pro-
+
+vides isolated views into consumer conduct due to socioeconomic factors combined with 
+
+technological elements and cultural components. Digital payment systems continue to ex-
+
+pand  rapidly  because  mobile  technology  penetration  extends  beyond  traditional  banking 
+
+systems  toward  digital  methods  of  payment  (Poudel  et  al.  2023).  The  adoption  of  digital 
+
+payment platforms for daily financial transactions occurs because these systems provide 
+
+convenience, security, and seamless integration into daily activities (Shrestha, 2024). The 
+
+COVID-19 pandemic escalated adoption through digital infrastructure requirements despite 
+
+11 
+
+issues  with  digital  literacy  and  limited  infrastructure  (Kurian  2021).  The  government,  to-
+
+gether with regulatory institutions and the Nepal Rastra Bank, must play essential roles to 
+
+guarantee a secure digital payment system that will boost consumer trust and promote na-
+
+tionwide economic development (Rijal & Thapa, 2024; Bhattarai et al.2023). 
+
+2.4  Actual use 
+
+Digital payment utilization (AU) describes consumer interaction with online banking and mo-
+
+bile wallet systems where transactions take place. Users generally adopt digital payments 
+
+because these systems offer both easy usability and enhanced convenience. The Indian 
+
+adoption of these systems during demonetization times mainly depended on user conven-
+
+ience because that element matched the Unified Theory of Acceptance and Use of Tech-
+
+nology (UTAUT) as Sivathanu (2019) explains. The research by Poudel et al. (2023) states 
+
+that students in Nepal need technology access coupled with sufficient knowledge to suc-
+
+cessfully adapt new practices. Ummasyroh et al. (2024) establish that consumers choose 
+
+to maintain digital payment practices when these systems prove easy to operate and ben-
+
+eficial for their needs. 
+
+The evaluation of subjective risks between customers plays an extremely important role in 
+
+forming AU. Chaveesuk et al. (2021) showed that perceived risk functions as a main obsta-
+
+cle towards digital payment acceptance in Thailand, whereas Nasiketha et al. (2023) pro-
+
+vided similar evidence for Sri Lanka, as perceived risk levels directly influence digital pay-
+
+ment  adoption.  Consumers  who  understand  the  benefits  of  digital  payments  will  choose 
+
+adoption  based  on  how  well  they  manage  associated  risks,  which  is  influenced  by  their 
+
+access to facilitating conditions like technology. AU's adoption is influenced by social influ-
+
+ence along with financial literacy levels, although these come from external sources. Social 
+
+status influences purchasing behaviour according to Rifa'Ie and Chan (2024), and Oktafian 
+
+(2022) makes clear that financial education determines effective digital payment usage. 
+
+Different regions of the world have distinguished contexts for digital payments, which makes 
+
+AU more difficult to achieve. The growth of digital transactions in India was propelled by 
+
+technological  advancements  and  cashless  commerce  developments,  according  to  Khan 
+
+(2021), although Ligon et al. (2019) explain that Jaipur shows low digital payment adoption 
+
+because of poor infrastructure and low awareness levels. Population statistics such as age 
+
+level, educational attainment, and income affect digital payment behaviour in Nepal based 
+
+on Lohana and Roy (2021). Customer satisfaction rates explored by Aditya and Ekyawan 
+
+(2021), along with the advanced services of Khalti and IME Pay secure remote transactions 
+
+ 
+12 
+
+(Shrestha 2024.) drive users to continue their usage according to research. The digital di-
+
+vide remains active throughout Nepal because it creates different internet accessibility lev-
+
+els between urban regions and rural territories (Karki et al. 2021). The COVID-19 pandemic 
+
+caused  a faster  acceptance  of  digital  payment systems  because customers  now choose 
+
+contactless  payments  to  protect  their  safety  (Aryal  2021.)  Strong  governance  systems 
+
+backed by the Nepal Rastra Bank create essential components for building trust and pro-
+
+tecting digital transaction security (KC & KC, 2024; Rijal & Thapa, 2024.) 
+
+3  Empirical research and data analysis 
+
+13 
+
+3.1  Empirical Research 
+
+ This  research  examines  the  effect  of  digital  payments  on  Nepalese  consumer  behavior 
+
+using a quantitative approach. It is based on the Technology Acceptance Model (TAM) (Da-
+
+vis 1989.) where the concepts of perceived usefulness, ease of use, intention to use, and 
+
+actual use exist. The study tests these variables to find out the attitude of consumers toward 
+
+digital payment systems. The investigation finds out how people perceive the efficacy and 
+
+security of digital payments, and how demographic factors such as age, gender, education, 
+
+and income affect the payment systems. The study's main question is: “How do people use 
+
+and perceive digital payments in Nepal?” Data was gathered using Microsoft Forms through 
+
+a closed-ended questionnaire to better understand the trends and issues related to digital 
+
+payment  adoption.  The  findings  can  help businesses and  policymakers by offering infor-
+
+mation about how digital payments are being accepted and used in Nepal. 
+
+3.2  Data Collection 
+
+The information was collected by using Microsoft Forms through a closed-ended question-
+
+naire on people in Nepal who use or can use digital payment systems like mobile wallets 
+
+(eSewa, Khalti, Fonepay), internet or mobile banking, and debit/credit cards. The  partici-
+
+pants  were  a  mix  of  businesspersons,  employed  individuals,  students,  and  unemployed 
+
+persons aged 18 years and above, the legal age for financial transactions in Nepal. Multiple-
+
+choice, single-choice, and demographic questions were employed in the survey to identify 
+
+users’ habits, preferences, and perceptions of effectiveness, security, and problems. 
+
+To attain a high response rate of participants, the survey was shared through personal net-
+
+works (family, friends, and colleagues) and social media. The survey took place from April 
+
+28 to May 1, 2025, and received 151 responses, out of which 139 complete responses were 
+
+used for the study. The respondents were from urban (91 from cities) and rural (60 from 
+
+towns/villages) areas. There were 98 men and 53 women in the group. Most of the respond-
+
+ents  were  aged  25-34  years  (78)  followed  by  18-24  (44),  35-50  (23),  and  under  18  (6). 
+
+Education  levels  ranged  from  school  (71)  to  graduate  (46)  and  postgraduate  and  above 
+
+(34). Income levels ranged widely, and 37 did not wish to reveal their income. Anonymity 
+
+was maintained to obtain honest responses. The final sample size surpassed the target of 
+
+100, which contributed to additional strength to the study findings. 
+
+ 
+14 
+
+3.3  Data Analysis 
+
+ The results of the survey were analysed with basic statistical analysis to see how people 
+
+in Nepal are using digital payments, how they feel about them, and what might be discour-
+
+aging others from using them. The focus was the frequency of usage of digital payments, 
+
+where they are utilized, why they are utilized, how convenient and secure they are perceived 
+
+to be, and how demographic characteristics like age or income affect usage. The findings 
+
+below are based on 139 complete questionnaires. 
+
+3.3.1  Demographic factors  
+
+Individual  demographic characteristics  like  age, education,  income,  and place  all  had an 
+
+impact on how much people used digital payments. The young people, i.e., 18–24 and 25–
+
+34 years, were the most frequent users, with over 60% using digital payments daily. This 
+
+shows that the young people are more technologically oriented. 
+
+  Figure 4 Age of the respondents 
+
+Men  also  used  digital  payments  more  (74.20%)  compared  to  women  (25.80%),  possibly 
+
+because they had easier access to digital instruments. 
+
+ 
+ 
+ 
+15 
+
+ Figure 5 Gender of the respondents  
+
+Education  was  also  a  determining  factor.  Those  possessing  postgraduate  degrees  used 
+
+digital payments daily less (24.50%) than school-goers alone (47%). 
+
+ Figure 6 Education level  
+
+Income  levels  were  also  a  determining  factor—those  who  possessed  an  income  of  Rs. 
+
+50,001-100,000 (11.9%) and more than Rs. 100,000 (8.6%) utilized digital payments less 
+
+than those who possessed an income of less than Rs. 20,000 (21.9%). 
+
+    Figure 7 Monthly Income of the respondents 
+
+ 
+ 
+ 
+ 
+ 
+16 
+
+3.3.2  Uses and preferences  
+
+ Out of 151 complete respondents, 139 (about 92%) said they use digital payment, which 
+
+shows that most individuals in Nepal are utilizing the technology. This is evidenced by a 
+
+growth  in  digital  transactions  from  NPR  712  billion  in  2018  to  NPR  1,559  billion  in  2019 
+
+(Poudel et al., 2023). Out of these, 65.9% of respondents reported using digital payment 
+
+daily, 21.5% weekly, 10.4% every month, and 1.6% reported that they “never” use them, 
+
+which can most likely mean that they use them in special needs as well. 
+
+Figure 8 How often do you use digital payments (e.g., mobile wallets, online banking)? 
+
+Mobile wallets like eSewa, Khalti, and Fonepay were the most used ones, 56.3% of people 
+
+use  them,  then  internet  or  mobile  banking  (32.6%),  and  debit/credit  cards  (11.1%).  This 
+
+reveals that mobile-based options are the trendiest in Nepal.  
+
+Figure 9 Which type of digital payment platforms do you use most often? 
+
+Over half (71.9%) of the participants reported using digital payments as the first option over 
+
+cash for everyday goods. 
+
+ 
+ 
+ 
+ 
+17 
+
+Figure 10 Do you prefer digital payments over cash for everyday purchases? 
+
+Quick processing (64), convenience (34), security (30), cashback or discount (3), and rela-
+
+tives/friends’ recommendations (4) were their key reasons mentioned.  
+
+Figure 11 What is the main reason you use digital payments? 
+
+People  mostly  used  digital  payments  for  bill  payments  (28.9%),  paying  money  to  others 
+
+(25.9%), online purchases (21.3%), and restaurant or shop payments (50.8%). This shows 
+
+that digital payments are widely used in daily life. 
+
+     Figure 12 What do you use digital payments for? 
+
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+
+3.3.3  Perception of Efficiency and Security  
+
+ Most of the participants considered the use of digital payment to be convenient. Approxi-
+
+mately 54.8% of them stated that it was “very easy” to use digital payment services, and 
+
+37.8% stated it was “easy,” which means that digital wallets such as Khalti and eSewa are 
+
+simple to use. Some users were neutral (5.9%) or stated it as “not so easy” (2.4%), and 
+
+none stated it as difficult. This supports the fact that people are likely to use systems that 
+
+are simple and easy to use. 
+
+Figure 13 How fast and easy do you find digital payments compared to cash? 
+
+People  also  had  very  high  trust  that  digital  payment  is  secure.  Nearly  77  respondents 
+
+strongly believe that digital payment is secure. Nearly 19 of them were neutral, while nobody 
+
+disagreed. This trust is per the efforts Nepal Rastra Bank has undertaken to ensure security 
+
+for digital transactions. 
+
+Figure 14 Do you trust digital payment systems to complete transactions securely? 
+
+There  are  still  some  issues  standing  in  the  way  of  individuals  applying  digital  payments 
+
+more widely. Those issues are too limited internet reach (50.0%), fear of fraud or hacking 
+
+(46.8%),  stronger  affinity  toward  cash  (21.0%),  slow  processes  (2.4%),  and  added  fees 
+
+ 
+ 
+ 
+ 
+(0.8%). Those are issues associated with a need for higher-quality infrastructure as well as 
+
+further awareness of the security risks involved. 
+
+19 
+
+Figure 15 What stops you from using digital payments more often? 
+
+3.3.4  Future Outlook  
+
+ Most of the respondents (71.1%) indicated that they would use online payments more next 
+
+year,  reflecting  very  high  confidence  towards  more  digital  transactions  in  Nepal.  Around 
+
+2.2% did not know, and merely 26.7% replied that they would not use them more. 
+
+Figure 16 Do you plan to increase your usage of digital payments in the next year. 
+
+To answer if their local businesses and service providers now take digital payments, 68.7% 
+
+said yes, 24.6% didn't know, and 6.7% said no, indicating a scenario whereby even if digital 
+
+payments are widespread, there is also potential to expand merchant acceptance. 
+
+ 
+ 
+20 
+
+Figure 17 Do you think digital payments are widely accepted by retailers in your area? 
+
+To answer if digital payments would entirely replace cash, 50% said yes, 44% didn't know, 
+
+and 6% disagreed, indicating mixed feelings towards total cashlessness. 
+
+Figure 18 Do you think Nepal's digital payments system will replace cash in the future? 
+
+3.3.5  Key Insights  
+
+The  information  points  out  that  payments  through  electronic  media  are  slowly  but  surely 
+
+becoming the order of the day in Nepal. They are quick, secure, and easy, especially if they 
+
+are being paid via mobile wallets, since they are readily available and very popular to boot. 
+
+Not everyone does that as much, though. Youths, males, urban residents, and those who 
+
+are better educated and richer are likely to make use of electronic payment. Problems such 
+
+as  unreliable  internet  connectivity  and  the  fear  of  online  scams  keep  others,  particularly 
+
+rural residents, away from using digital methods. These results confirm the Technology Ac-
+
+ceptance Model (TAM), that is, that the ease and convenience that a technology is seen as 
+
+are the factors that can be employed to predict the likelihood that individuals will adopt it. 
+
+Trust and user history are also important in adoption. 
+
+ 
+ 
+ 
+21 
+
+High-Level Adoption of Digital Payments: Most of the respondents (around 92%) indi-
+
+cated the usage of digital payments, and around 66% of them utilize it daily. It suggests that 
+
+the digital payment means are well-adopted in Nepal. Among the options available, mobile 
+
+wallets like eSewa, Khalti, and Fonepay were most widely utilized (56.3%), followed by in-
+
+ternet  or  mobile  banking  (32.6%),  and  debit/credit  cards  (11.1%).  This  kind  of  popularity 
+
+must  be  credited  to  mobile  wallets  being  more  convenient  and  easily  accessible  to  use 
+
+(Shrestha, 2024). This finding confirms to previous evidence of the rise of online transac-
+
+tions in Nepal, from NPR 712 billion in 2018 to NPR 1,229 billion in 2019 (Poudel et al., 
+
+2023). 
+
+Role of Speed and Ease of Use: Individuals like making payments online most because 
+
+they  are  convenient  (46%),  easy  (24.5%),  and  safe  (21.6%).  These  are  the  factors  that 
+
+justify the Technology Acceptance Model (TAM) that individuals will use technology if they 
+
+experience it as useful (Beura et al., 2023). Most of the respondents also said that electronic 
+
+payments  are  easy  to  use,  where  (54.8%)  said  they  were  “very  easy”  and  (37.8%)  said 
+
+“easy”.  This  shows  how  ease  of  use  is  important  in  encouraging  the  use  of  these  tools, 
+
+especially applications like Khalti, which is designed to be easy to use (Teoh et al., 2013). 
+
+Demographic Differences in Usage: Demographic factors significantly affected the adop-
+
+tion of digital payments. Younger age groups (18-24 and 25-34) indicated higher daily usage 
+
+(over 60%), as well as males (74.2% versus 25.8% of females), urban residents (58.9%), 
+
+and those with higher incomes (e.g., 8.6% for over Rs. 100,000). However, rural residents 
+
+(41.1%) and less educated (47% for school level) indicated lower adoption. 
+
+Barriers to More Extensive Use: The Most substantial barriers to more regular usage of 
+
+digital payments included lack of internet connectivity (50%), fear of fraud/hacking (46.8%), 
+
+and preference for cash (21%). All these barriers were larger in rural areas, indicating trust 
+
+problems hindering adoption (Meher et al. 2021). 
+
+Strong Belief in Security: Approximately 77 respondents (55.4%) strongly agreed that e-
+
+payment systems are secure, which shows trust in regulatory interventions by the Nepal 
+
+Rastra Bank (Rijal & Thapa, 2024). However, 19 respondents (13.7%) were neutral, sug-
+
+gesting  a  need  for  more  trust-building  measures,  particularly  for  less-educated  and  rural 
+
+consumers (Jusman & Fauziah 2024.) 
+
+Retailer Acceptance and Accessibility: About 68.7% of the participants confirmed that 
+
+digital payments are widely acceptable by retailers, particularly in urban areas, and hence 
+
+they can easily be used in day-to-day transactions. However, 24.6% were uncertain, while 
+
+6.7% disagreed, pointing to gaps in rural merchant adoption that compromise accessibility 
+
+(Aryal, 2021). 
+
+Positive Future Outlook: An incredible 71.1% of the respondents planned to use digital 
+
+payments more in the next year, and 50% believed digital payments could replace cash, 
+
+though 44% were uncertain. This suggests that there is high growth potential, conditional 
+
+on eliminating awareness limitations (Bhattarai et al.2023). 
+
+22 
+
+ 
+ 
+ 
+ 
+23 
+
+4  Conclusion 
+
+ The study analyzed the effect of digital payment via online mediums on consumer behavior 
+
+in  Nepal,  i.e.,  on  mobile  wallet  (eSewa,  Khalti,  Fonepay),  internet/mobile  banking,  and 
+
+debit/credit cards. Following the Technology Acceptance Model (TAM) of (Davis 1989), the 
+
+study analysed how perceived usefulness (PU), perceived ease of use (PEOU), intention 
+
+to use, and actual use affect adoption. The survey was organized and collected feedback 
+
+from 151 respondents from rural and urban areas. The survey revealed a high usage rate, 
+
+with most customers considering digital payments safe and convenient. But there is still a 
+
+problem regarding poor internet connectivity and  fear of cyber fraud (Poudel et al.2023). 
+
+Demographic characteristics like age, educational level, gender, and income also affected 
+
+the usage behavior among the youth, educated, and city residents, with increased adoption 
+
+observed  among  them  (Bhattarai  et  al.2023).  Results  present  pragmatic  implications  to 
+
+companies, policymakers, and providers of digital services for enhancing digital payment 
+
+systems and access to finance in Nepal. 
+
+4.1  Answers to Research Questions 
+
+This thesis aims to examine how Digital payments are affecting consumer behavior in Ne-
+
+pal. It focuses on understanding how people use digital payment methods and what they 
+
+think about them. The main question of research is: “How do people use and perceive digital 
+
+payments in Nepal?” To help answer this, the study also explores two sub-questions: “How 
+
+do consumer perceptions of efficiency influence their attitudes towards digital payments?” 
+
+And “How do demographic factors like age, gender, education, and income shape adoption 
+
+and usage  patterns  of  digital  payments?”  The  goal  is  to  understand the current  situation 
+
+and how different people in Nepal are adapting to digital payments.  
+
+The first sub-questions were: How do consumers’ perceptions of efficiency influence their 
+
+attitudes towards digital payments?  
+
+Most users view digital payments as convenient, quick, and safe. These positive attitudes 
+
+lead them to choose digital payments over the traditional payment mode (cash). The Tech-
+
+nology Acceptance Model assumes that people will adopt technology if it is seen to save 
+
+time and is not difficult to use. This can be found from the feedback because most of the 
+
+respondents  thought  that  digital  payment  systems  are  easy  to  use.  Khalti  services  were 
+
+much appreciated for ease of use. Most of the users also felt secure about digital payments, 
+
+perhaps because of government regulation. But issues surrounding the security of these 
+
+systems continued to exist, and so there is more education and awareness needed, espe-
+
+cially among rural residents or lower literacy. 
+
+24 
+
+The second sub-question was: How do demographic factors like age, gender, education, 
+
+and income shape adoption and usage patterns of digital payments? 
+
+Young adults were found to be more than likely to have greater use of digital payment in-
+
+struments. Men proved to be more frequent users than women, and this might have been 
+
+due to levels of access to technology or computer skills. Urban residents were also making 
+
+higher payments online than rural residents, perhaps due to higher availability of internet 
+
+and infrastructure. Levels of education and income also impact digital payment adoption—
+
+higher educated, higher income individuals were more actively using digital payments daily, 
+
+and less educated or less income individuals were less likely to do so. All these trends show 
+
+that young, urban, educated, and better-off segments were increasingly embracing digital 
+
+payments 
+
+The  main  research  question  of  the  thesis  was:  How  do  people  use  and  perceive  digital 
+
+payments in Nepal?  
+
+Overall, internet payments have become a widespread and accepted way of life. People 
+
+use digital wallets like eSewa, Khalti, and Fonepay as a daily habit, followed by mobile and 
+
+internet banking. Convenience in using apps and the prevalence of smartphones have en-
+
+couraged this trend. But there are some issues. Such as low internet penetration in some 
+
+areas, fraud concerns, and cash requirements, especially in rural areas. Although electronic 
+
+payment facilities are among the options for acceptance by most merchants, there aren't so 
+
+many  individuals  who  are  aware  of  where  to  seek  such  facilities,  and  hence,  coverage 
+
+among merchants needs to be widened. To their credit, however, most of them believe in 
+
+the viability of electronic payments. They all aim to make more use of them in the short term 
+
+and anticipate these systems finally substituting or even doing away with cash usage. That 
+
+has  enormous  growth  potential  as  awareness,  confidence,  and  facilities  increase 
+
+across the country. 
+
+4.2  Validity and Reliability  
+
+It is crucial to know validity and reliability because they help researchers ensure the findings 
+
+are  accurate, reliable,  and  concerning the  rights  of the  participants.  These are  crucial  to 
+
+ensuring the overall quality and integrity of a study. Validity is the research that measures 
+
+what  it  is  supposed  to  and  that  the  findings  are  correct  and  credible.  This  study  used  a 
+
+structured questionnaire based on the Technology Acceptance Model (TAM), focusing on 
+
+four  main  areas:  perceived  usefulness (PU),  perceived  ease  of  use (PEOU),  intention to 
+
+use, and actual use (Davis, 1989). There was a mix of question types in the survey: a five-
+
+point Likert scale (e.g., from “Strongly Disagree” to “Strongly Agree” for trust in security, and 
+
+25 
+
+“Very Difficult” to “Very Easy” for ease of use), multiple-choice, single-choice, and demo-
+
+graphic questions. This was required to capture information about people's behavior and 
+
+attitudes towards digital payments (Tobi & Kampen, 2018). 
+
+To ensure content validity, refine questions to avoid uncertainty, and the scale’s ability to 
+
+measure intended variables like perceived ease (54.8% said “very easy”) and security trust 
+
+(55.4% agreed or strongly agreed) was enhanced. Moreover, external validity was assisted 
+
+by the heterogeneous sample of 151, including urban (91) and rural (60) residents, male 
+
+(98) and female (53), and mixed age, education, and income levels, though generalizability 
+
+is limited only in Nepal’s unique context. Reliability was maintained through a systematic 
+
+data collection process on Microsoft Forms from April 28 to May 1, 2025, with anonymity to 
+
+minimize response bias. The sample size (139) was over the target of 100, improving sta-
+
+tistical reliability (Tobi & Kampen 2018.) 
+
+4.3  Suggestion for future research  
+
+ Future work could use a qualitative or mixed-method approach, with a survey supported by 
+
+interviews to provide a fuller reason why some are frightened of fraud or still wish to use 
+
+cash.  This  would  provide more  valuable  information  regarding  consumer  attitudes  to  the 
+
+convenience and safety of digital payments. Larger and more rural representative samples 
+
+from research could bridge the gap in knowledge between rural and urban users. A com-
+
+parison  of  Nepal  with  other  developing  countries  can  perhaps  illustrate  how  cultural  and 
+
+economic variations impact the use of digital payments. 
+
+ 
+ 
+ 
+ 
+26 
+
+5  Summary 
+
+The study examines the impact of digital payment on consumer behavior in Nepal, such as 
+
+adoption trends, users’ perception, and key concerns. Based on the TAM, the study inves-
+
+tigates  how  perceived  usefulness,  ease  of  use,  intended  behavior,  and  actual  use  drive 
+
+digital payment adoption. A survey of 151(139 valid responses) consumers sowed that 92% 
+
+use  online  payments,  of  which  mobile  wallets  (eSews,  Khalti,  Fonepay)  (56.3%),  inter-
+
+net/mobile banking (32.6%), and credit/debit cards (11.1%) are the most widely used. The 
+
+research concludes that young (18-34), urban, and educated individuals are the most fre-
+
+quent consumers, while rural individuals and less technologically oriented people of Nepal 
+
+are facing challenges such as the absence of proper internet connectivity as well as safety-
+
+related issues. Convenience (46%), easy (24.5%), and security (21.6%) were the leading 
+
+reasons for acceptance, and 92.6% of them support that digital payments are easy to use. 
+
+Although 55.4% strongly believe that digital payments are secure, 46.8% remain concerned 
+
+about fraud or hacking, particularly in rural areas. Digital payments will be more widely used 
+
+in the future, as 71.1% of the participants mentioned, and 50% believe digital payments can 
+
+replace cash one day, and 44% are not sure.  
+
+The study confirms that perceived ease of use and perceived usefulness are the key factors 
+
+that  facilitate  adoption,  according  to  TAM  principles.  However,  infrastructural  issues  and 
+
+trust  gaps  must  be  addressed  to  enhance  digital  payment  adoption  by  enhancing  digital 
+
+literacy, cybersecurity, and better connectivity in rural areas. Future research could utilize 
+
+qualitative information for more deeper understanding or cross-country comparisons to en-
+
+sure  cultural  and  economic  effects.  Overall,  the  digital  payment  in  Nepal  has  enormous 
+
+growth potential if accessibility and security concerns are addressed appropriately. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+
+References 
+
+ Arendt, Susan W., Kevin R. Roberts, Catherine Strohbehn, Jason Ellis, Paola Paez, and 
+
+Janell Meyer. 2012. “Use of Qualitative Research in Foodservice Organizations: A Review 
+
+of Challenges, Strategies, and Applications.” Edited by Amit Sharma. International Journal 
+
+of  Contemporary  Hospitality  Management  24  (6):  820–37.  Retrieved  on 7 January  2025. 
+
+available at https://doi.org/10.1108/09596111211247182. 
+
+Aditya,  R.  and  Ekyawan,  F.  (2021).  Consumer  behaviour  analysis  in  using  the  digital 
+
+payment 
+
+application. 
+
+Retrieved 
+
+on 
+
+20  March 
+
+2025. 
+
+available 
+
+at 
+
+https://doi.org/10.2991/aebmr.k.210831.102 
+
+Ariffin, S., Rahman, M., Muhammad, A., & Zhang, Q. (2021). Understanding the consumer’s 
+
+intention to use the e-wallet services. Spanish Journal of Marketing - Esic, 25(3), 446-461. 
+
+Retrieved on 7 March 2025. available at https://doi.org/10.1108/sjme-07-2021-0138 
+
+Aryal, S. (2021). Factors affecting consumers' perception of electronic payment systems. 
+
+The  Lumbini  Journal  of  Business  and  Economics,  9(1-2),  86-99.  Retrieved  on  7  March 
+
+2025. available at https://doi.org/10.3126/ljbe.v9i1-2.45991 
+
+Aseng, A. (2020). Factors influencing Generation Z's intention to use fintech digital payment 
+
+services.  Cogito  Smart  Journal,  6(2),  155-166.Retrieved  on  8  March  2025.    available  at 
+
+https://doi.org/10.31154/cogito.v6i2.260.155-166 
+
+Aslam,  Sadaf,  and  Patricia  Emmanuel.  2010.  “Formulating  a  Researchable  Question:  A 
+
+Critical Step for Facilitating Good Clinical Research.” Indian Journal of Sexually Transmitted 
+
+Diseases  and  AIDS  31  (1):  47.    Retrieved  on  7  February  2025.  available  at 
+
+https://doi.org/10.4103/0253-7184.69003. 
+
+Bahishti,  Adam  A.  2022.  “The  Vital  Role  of  Research  Methodology  in  Addressing  the 
+
+Research  Questions.”  International  Journal  of  Methodology  1  (1):  1–1.  Retrieved  on  5 
+
+January 2025. available at https://doi.org/10.21467/ijm.1.1.2016.29. 
+
+Behera, R., Saroy, R., & Dhal, S. (2023). Digital payments in urban odisha: insights from a 
+
+primary survey. Review of Development and Change, 28(2), 141-165. Retrieved on 8 March 
+
+2025. available at https://doi.org/10.1177/09722661231205657 
+
+Beura,  D.,  Naveen,  L.,  Prusty,  S.,  Nanda,  A.,  &  Rout,  C.  (2023).  Digital  payment 
+
+continuance intention using mecm: the role of perceived experience. International Journal 
+
+of Professional Business Review, 8(6), e02145.Retrieved on 10 March 2025. available at 
+
+https://doi.org/10.26668/businessreview/2023.v8i6.2145 
+
+28 
+
+Bhattarai,  Birat,  Riya  Shrestha,  Sejal  Maharjan,  Shristina  Malla,  and  Saksham  Shakya. 
+
+2023. “Effectiveness of Digital Payments in the Performance of Nepalese Micro, Small and 
+
+Medium Enterprises (MSME).” New Perspective: Journal of Business and Economics 6 (1): 
+
+9–22. Retrieved on 5 January 2025. available at https://doi.org/10.3126/npjbe.v6i1.58868.  
+
+Budiarti, I., Hibatulloh, F., & Salman, M. (2021). Financial technology as a payment method 
+
+in  the  digital  era.  International  Journal  of  Research  and  Applied  Technology,  1(1),  9-16. 
+
+Retrieved on 11 March 2025. available at https://doi.org/10.34010/injuratech.v1i1.5454  
+
+Chaveesuk,  S.,  Khalid,  B.,  &  Chaiyasoonthorn,  W.  (2021).  Digital  payment  system 
+
+innovations:  a  marketing  perspective  on  intention  and  actual  use  in  the  retail  sector. 
+
+Innovative  Marketing,  17(3),  109-123.  Retrieved  on  11  March  2025.  available  at 
+
+https://doi.org/10.21511/im.17(3).2021.09 
+
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of 
+
+information  technology.  MIS  Quarterly,  13(3),  319-340.  Retrieved  on  13  March  2025. 
+
+available at https://doi.org/10.2307/249008 
+
+Daqar, Mohannad Abu, Milan Constantinovits, Samer Arqawi, and Ahmad Daragmeh. 2021. 
+
+“The Role of Fintech in Predicting the Spread of COVID-19.” Banks and Bank Systems 16 
+
+(1): 
+
+1–16. 
+
+Retrieved 
+
+on 
+
+8 
+
+February 
+
+2025. 
+
+available 
+
+at 
+
+https://doi.org/10.21511/bbs.16(1).2021.01. 
+
+Ernawati,  E.,  Putri,  S.,  &  Azzahra,  T.  (2023).  Analysis  of  the  impact  of  digital  payment 
+
+platforms  on  financial  management  during  the  COVID-19  pandemic  (a  case  study  of  its 
+
+students). Economic Education and Entrepreneurship Journal, 6(1), 50-55. Retrieved on 15 
+
+March 2025.  Available at  https://doi.org/10.23960/e3j/v6i1.50-55 
+
+Flavián,  C.,  Guinalíu,  M.,  &  Lu,  Y.  (2020).  Mobile  payments  adoption  –  introducing 
+
+mindfulness  to  better  understand  consumer  behavior.  The  International  Journal  of  Bank 
+
+Marketing,  38(7),  1575-1599.  Retrieved  on  13  March  2025.  available  at  
+
+https://doi.org/10.1108/ijbm-01-2020-0039 
+
+Goetze, Minou, Christina Herdt, Ricarda Conrad, and Stephan Stricker. 2023. “Preferences 
+
+and  Attitudes  towards  Debt  Collection:  A  Cross-Generational  Investigation.”  arXiv. 
+
+Retrieved on 5 February 2025. available at https://doi.org/10.48550/ARXIV.2303.05380. 
+
+Jain, Divya, Aloka Samantaray, and S Parathasarathy. 2023. “A Well-Formulated Research 
+
+Question: The Foundation Stone of Good Research.” Indian Journal of Anaesthesia 67 (4): 
+
+326–27. Retrieved on 5 February 2025. available at https://doi.org/10.4103/ija.ija_226_23. 
+
+29 
+
+Jusman, J. and Fauziah, I. (2024). The receptiveness of qris as a digital payment among 
+
+msme  in  Palopo  City.  Interdisciplinary  Journal  and  Humanity  (Injurity),  3(10),  718-728. 
+
+Retrieved on 14 March 2025. available at https://doi.org/10.58631/injurity.v3i10.1234 
+
+Karki,  D.,  Magar,  S.,  Devkota,  N.,  Parajuli,  S.,  &  Paudel,  U.  (2021).  Online  shopping  in 
+
+Kathmandu valley: users’ knowledge, challenges and a way forward. The Journal of Social 
+
+Sciences  Research,  (73),  135-144.  Retrieved  on  17  March  2025.  available  at 
+
+https://doi.org/10.32861/jssr.73.135.144 
+
+Khan, M. (2021).  Netizens’  perspective  towards electronic money  and  its  essence  in  the 
+
+virtual economy: an empirical analysis with special reference to delhi‐ncr, india. Complexity, 
+
+2021(1). Retrieved on 22 March 2025. available at https://doi.org/10.1155/2021/7772929 
+
+Kurian,  A.  (2021).  A  study  on  the  digital  payment  adoption  in  millennials  amid  covid-19. 
+
+International Journal for Research in Applied Science and Engineering Technology, 9(VII), 
+
+240-246. 
+
+Retrieved 
+
+on 
+
+25. 
+
+March 
+
+2025. 
+
+available 
+
+at 
+
+https://doi.org/10.22214/ijraset.2021.36225 
+
+Lai, P. and Ahmad, Z. (2015). Perceived enjoyment and malaysian consumers’ intention to 
+
+use a single platform e-payment. SHS Web of Conferences, 18, 01009.  Retrieved on 25 
+
+March 2025. available at https://doi.org/10.1051/shsconf/20151801009 
+
+Ligon,  E.,  Malick,  B.,  Sheth,  K.,  &  Trachtman,  C.  (2019).  What  explains  low  adoption  of 
+
+digital  payment technologies?  evidence  from  small-scale merchants  in jaipur,  india.  Plos 
+
+One, 
+
+14(7), 
+
+e0219450.  Retrieved 
+
+on 
+
+25  March 
+
+2025. 
+
+available 
+
+at:  
+
+https://doi.org/10.1371/journal.pone.0219450 
+
+Linge, A., Chaudhari, T., Kakde, B., & Singh, M. (2023). Analysis of factors affecting use 
+
+behavior towards mobile payment apps: a sem approach. Human Behavior and Emerging 
+
+Technologies,  2023,  1-13.  Retrieved  on  25  March  2025.  available  at 
+
+https://doi.org/10.1155/2023/3327994 
+
+Leang,  Pisey,  Siva  Shankar  Ramsamy,  Aniwat  Phaphuangwittayakul,  and  Piang-or 
+
+Loahavilai.  2023.  “Consumer  Perceptions  and  Behaviors  on  Digital  Payment  Adoption 
+
+Among  Older  Generation  Z  and  Younger  Millennials  in  Phnom  Penh,  Cambodia.” 
+
+International  Journal  of  Professional  Business  Review  8  (8):  e03647.  Retrieved  on  8 
+
+February 2025. available at https://doi.org/10.26668/businessreview/2023.v8i8.3647. 
+
+Li, Jun, Jing Wang, Shanyong Wangh, and Yu Zhou. 2019. “Mobile Payment with Alipay: 
+
+An  Application  of  Extended  Technology  Acceptance  Model.”  IEEE  Access  7:50380–87. 
+
+Retrieved 
+
+on 
+
+10 
+
+January 
+
+2025. 
+
+available 
+
+https://doi.org/10.1109/ACCESS.2019.2902905. 
+
+30 
+
+at 
+
+Lohana,  Sarika,  and  Deepankar  Roy.  2023.  “Impact  of  Demographic  Factors  on 
+
+Consumers’ Usage of Digital Payments.” FIIB Business Review 12 (4): 459–73. Retrieved 
+
+on 10 February 2025. available at https://doi.org/10.1177/23197145211049586. 
+
+Magar,  Sashi  Rana,  Kabita  Adhikari,  Niranjan  Devkota,  Surendra  Mahato,  Sushanta 
+
+Mahapatra,  Seeprata  Parajuli,  Sushmita  Upreti,  and  Udaya  Raj  Paudel.  2023.  “Users’ 
+
+Behavioral Intention to Use E-Payment Service in Nepal: Based on SEM Analysis.” Journal 
+
+of Business and Management 7 (02): 140–60. Retrieved on 19 January 2025. available at 
+
+https://doi.org/10.3126/jbm.v7i02.62592. 
+
+Marken, James, and Gary Morrison. 2013. “Objectives over Time: A Look at Four Decades 
+
+of  Objectives  in  the  Educational  Research  Literature.”  Contemporary  Educational 
+
+Technology 
+
+4 
+
+(1).  Retrieved 
+
+on 
+
+January 
+
+20, 
+
+2025. 
+
+available 
+
+at 
+
+https://doi.org/10.30935/cedtech/6088. 
+
+Meher, B., Hawaldar, I., Mohapatra, L., Spulbăr, C., Birău, R., & Rebegea, C. (2021). The 
+
+impact of digital banking on the growth of micro, small, and medium enterprises (msmes) in 
+
+india:  a  case  study.  Verslas  Teorija  Ir  Praktika,  22(1),  18-28.  Retrieved  on  7  April  2025. 
+
+available at  https://doi.org/10.3846/btp.2021.12856 
+
+Muhtasim, D., Tan, S., Hassan, M., Pavel, M., & Susmit, S. (2022). Customer satisfaction 
+
+with digital wallet services: an analysis of security factors. International Journal of Advanced 
+
+Computer  Science  and  Applications,  13(1).  Retrieved  on  5  April  2025.  available  at 
+
+https://doi.org/10.14569/ijacsa.2022.0130124 
+
+Najib,  M.  and  Karima,  V.  (2022).  Factors  affecting  the  adoption  of  electronic  payment 
+
+technology in service applications online transportation in Indonesia. Retrieved on 28 March 
+
+2025. available at  https://doi.org/10.2991/assehr.k.220301.005 
+
+Nasiketha,  S.,  Tham,  J.,  &  Khatibi,  A.  (2023).  The  factors  influencing  youngsters’ 
+
+acceptance of digital payments in Sri Lanka. International Journal of Professional Business 
+
+Review, 
+
+8(10), 
+
+e02943.  Retrieved 
+
+on 
+
+28  March 
+
+2025. 
+
+available 
+
+at 
+
+https://doi.org/10.26668/businessreview/2023.v8i10.2943 
+
+Nguyen, N., Cao, T., Dang, P., & Nguyen, H. (2016). Predicting consumer intention to use 
+
+mobile  payment  services:  empirical  evidence  from  Vietnam.  International  Journal  of 
+
+Marketing  Studies,  8(1),  117.  Retrieved  on  27  March  2025.  available  at 
+
+https://doi.org/10.5539/ijms.v8n1p117 
+
+31 
+
+Nurdin, A., Pamungkas, A., & Kholifah, A. (2023). Factors that influence the use of digital 
+
+payments  as  ease  of  transactions  in  the  digital  era.  Matrix  Jurnal  Manajemen  Teknologi 
+
+Dan 
+
+Informatika,  13(1),  25-32.  Retrieved  on  March  2025.  available  at  
+
+https://doi.org/10.31940/matrix.v13i1.25-32 
+
+Opoku, M. and Enu‐Kwesi, F. (2020). Relevance of the technology acceptance model (tam) 
+
+in 
+
+information  management  research:  a  review  of  selected  empirical  evidence. 
+
+Pressacademia,  7(1),  34-44.  Retrieved  on  28  March  2025.  available  at 
+
+https://doi.org/10.17261/pressacademia.2020.1186 
+
+Özkan,  S.,  Bindusara,  G.,  &  Hackney,  R.  (2010).  Facilitating  the  adoption  of  e‐payment 
+
+systems:  theoretical  constructs  and  empirical  analysis.  Journal  of  Enterprise  Information 
+
+Management,  23(3),  305-325.  Retrieved  on  30  March  2025  available  at 
+
+https://doi.org/10.1108/17410391011036085 
+
+Patil,  P.,  Tamilmani,  K.,  Rana,  N.,  &  Raghavan,  V.  (2020).  Understanding  consumer 
+
+adoption  of  mobile  payment  in  India:  extending  meta-utaut  model  with  personal 
+
+innovativeness, anxiety, trust, and grievance redressal. International Journal of Information 
+
+Management,  54,  102144.  Retrieved  on  31  March  2025.  available  at 
+
+https://doi.org/10.1016/j.ijinfomgt.2020.102144 
+
+Poudel,  Hem  Kanta,  Deepesh  Ranabhat,  Pradeep  Sapkota,  and  Mala  Ranabhat.  2023. 
+
+“Adoption  of  Digital  Payment  System  among  the  Youths  in  Pokhara  Metropolitan  City.” 
+
+Interdisciplinary Journal of Innovation in Nepalese Academia 2 (2): 160–72. Retrieved on 
+
+13 January 2025. available at https://doi.org/10.3126/idjina.v2i2.59495. 
+
+Ramli, A., Mazlan, N., Harun, Z., & Yusof, Y. (2024). Factors influencing customers on the 
+
+use  of  e-payment  in  Klang  Valley.  Information  Management  and  Business  Review, 
+
+16(2(I)S), 
+
+18-23. 
+
+Retrieved 
+
+on 
+
+31 
+
+March 
+
+2025. 
+
+available 
+
+at 
+
+https://doi.org/10.22610/imbr.v16i2(i)s.3765 
+
+Rifa'ie, R. and Chan, S. (2024). Analysis of the influence of social status, lifestyle, and prices 
+
+on  purchasing  decisions  mediated  by  digital  payment  digitalization.  Formosa  Journal  of 
+
+Multidisciplinary  Research,  3(9),  3377-3396.  Retrieved  on  29  March  2025.  available  at 
+
+https://doi.org/10.55927/fjmr.v3i9.11160 
+
+Rijal, Dharmaraj. 2024. “Exploring the Impact of Online Payment on Consumer Behaviour: 
+
+A  Case  Study  of  Nepal.”  INTERNATIONAL  JOURNAL  OF  SCIENTIFIC  RESEARCH  IN 
+
+ENGINEERING  AND  MANAGEMENT  08  (07):  1–14.  Retrieved  on  3  February  2025. 
+
+available at https://doi.org/10.55041/IJSREM36846. 
+
+32 
+
+Su,  Peiran,  Le  Wang,  and  Jie  Yan.  2018.  “How  Users’  Internet  Experience  Affects  the 
+
+Adoption  of  Mobile  Payment:  A  Mediation  Model.”  Technology  Analysis  &  Strategic 
+
+Management  30 
+
+(2):  186–97.  Retrieved  on  10  February  2025  available  at 
+
+https://doi.org/10.1080/09537325.2017.1297788. 
+
+S., O. (2022). Financial literacy, social influence and the use of digital payments: a literature 
+
+review. Proceeding of the International Conference on Economics and Business, 1(2), 206-
+
+220. Retrieved on 21 March 2025. available at https://doi.org/10.55606/iceb.v1i2.124 
+
+Saputra, I.,  Yusuf,  A.,  Hakim,  L.,  &  Rohayati,  S.  (2023).  Determination  of  Generation  z's 
+
+intention  in  using  e-wallet  for  payment  transactions.  E-Jurnal  Akuntansi,  33(1),  73. 
+
+Retrieved on 21 March 2025. available at https://doi.org/10.24843/eja.2023.v33.i01.p06 
+
+Setor, T., Senyo, P., & Addo, A. (2021). Do digital payment transactions reduce corruption? 
+
+evidence from developing countries. Telematics and Informatics, 60, 101577. Retrieved on  
+
+21 March 2025. available at https://doi.org/10.1016/j.tele.2021.101577 
+
+Sholihah, E. and Ariyani, D. (2023). Generation z cashless preferences in the post-COVID-
+
+19 pandemic era: identifying the continuity of digital payment usage. Business Management 
+
+Analysis  Journal  (Bmaj),  6(2),  203-225.  Retrieved  on  25  March  2025.  available  at 
+
+https://doi.org/10.24176/bmaj.v6i2.11046 
+
+Shrestha, S. (2024). Moving from cash to cashless economy: factors affecting digitalization 
+
+in  nepal.  Nep.  J.  Mgt.,  11(2),  56-73.  Retrieved  on  7  March  2025.  available  at   
+
+https://doi.org/10.3126/njm.v11i2.68830 
+
+Simatupang, R., Sabarofek, M., & Bajari, M. (2022). A study on  behavioural intentions: a 
+
+theory  planned  behaviour  perspectives.  Retrieved  on  25  March  2025.  available  at 
+
+https://doi.org/10.4108/eai.10-8-2022.2320837 
+
+Sivathanu, B. (2019). Adoption of digital payment systems in the era of demonetization in 
+
+india. Journal of Science and Technology Policy Management, 10(1), 143-171. Retrieved 
+
+on 21 March 2025. available at https://doi.org/10.1108/jstpm-07-2017-0033 
+
+Teker,  S.,  Teker,  D.,  &  Orman,  I.  (2022).  Evolution  of  digital  payment  systems  and  a 
+
+breakthrough.  Journal  of  Economics  Management  and  Trade,  100-108.  Retrieved  on  21 
+
+March 2025. available at https://doi.org/10.9734/jemt/2022/v28i1030452 
+
+Teoh, W., Chong, S., Lin, B., & Chua, J. (2013). Factors affecting consumers’ perception of 
+
+electronic payment: an empirical analysis. Internet Research, 23(4), 465-485. Retrieved on 
+
+10 March 2025. available at https://doi.org/10.1108/intr-09-2012-0199 
+
+33 
+
+Tian,  Y.,  Chan,  T.,  Suki,  N.,  &  Kasim, M. (2023).  Moderating role of  perceived  trust  and 
+
+perceived  service  quality  on  consumers’  use  behavior  of  alipay  e-wallet  system:  the 
+
+perspectives  of  technology  acceptance  model  and  theory  of  planned  behavior.  Human 
+
+Behavior and Emerging Technologies, 2023, 1-14. Retrieved on 7 March 2025. available at 
+
+https://doi.org/10.1155/2023/5276406 
+
+Tobi,  Hilde,  and  Jarl  K.  Kampen.  2018.  “Research  Design:  The  Methodology  for 
+
+Interdisciplinary Research Framework.” Quality & Quantity 52 (3): 1209–25. Retrieved on  
+
+10 February 2025. available at https://doi.org/10.1007/s11135-017-0513-8. 
+
+Tang, Yuk Ming, Ka Yin Chau, Luchen Hong, Yun Kit Ip, and Wan Yan. 2021. “Financial 
+
+Innovation in Digital Payment with WeChat Towards Electronic Business Success.” Journal 
+
+of Theoretical and Applied Electronic Commerce Research 16 (5): 1844–61. Retrieved on 
+
+10 February 2025. available at https://doi.org/10.3390/jtaer16050103. 
+
+Ummasyroh, U., Astarina, Y., Muharramah, U., Riana, D., Ananda, G., Ramadhanty, T., & 
+
+Rosihan,  R.  (2024).  Introduction  of  digital  payments  to  buying  interest  in  msmes  rumah 
+
+bumn  south  sumatra.,  Retrieved  on  7  March  2025.  available  at  109-116. 
+
+https://doi.org/10.2991/978-2-38476-220-0_13 
+
+Tobi,  Hilde,  and  Jarl  K.  Kampen.  2018.  “Research  Design:  The  Methodology  for 
+
+Interdisciplinary Research Framework.” Quality & Quantity 52 (3): 1209–25. Retrieved on 
+
+10 February 2025. available at https://doi.org/10.1007/s11135-017-0513-8. 
+
+Yaokumah,  W.,  Kumah,  P.,  &  Okai,  E.  (2017).  Demographic  influences  on  e-payment 
+
+services.  International  Journal  of  E-Business  Research,  13(1),  44-65.  Retrieved  on  21 
+
+March 2025. available at https://doi.org/10.4018/ijebr.2017010103. 
+
+Zhou,  Rui.  2022.  “Sustainable  Economic  Development,  Digital  Payment,  and  Consumer 
+
+Demand:  Evidence  from  China.”  International  Journal  of  Environmental  Research  and 
+
+Public  Health  19 
+
+(14):  8819.  Retrieved  on  5  January  2025.  available  at 
+
+https://doi.org/10.3390/ijerph19148819. 
+
+ 
+ 
+ 
+ 
+APPENDIX 
+
+34 
+
+ 
+ 
+ 
+35 
+
+ 
+ 
+ 
+ 
+36 
+
+ 
+ 
+ 
+37 
+
+ 
+ 
+ 
+38 
+
+ 
+ 
+ 
+39 
+
+ 
+ 
+

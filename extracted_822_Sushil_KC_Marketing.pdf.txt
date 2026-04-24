@@ -1,0 +1,6006 @@
+FACTOR AFFECTING SELECTION OF MOBILE 
+
+BANKING FOR ONLINE SHOPPING PAYMENT IN 
+
+NEPAL 
+
+A Dissertation submitted to the Office of the Dean, Faculty of Management in partial 
+
+fulfillment of the requirements for the Master’s Degree 
+
+By 
+
+Sushil K.C. 
+
+Shanker Dev Campus 
+
+Campus Roll No.: 3410/75 
+
+Exam Symbol No.: 14216/19 
+
+T.U. Regd. No.: 7-3-39-1893-2018 
+             Group: Marketing 
+
+Kathmandu, Nepal 
+
+December 2024 
+
+i 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CERTIFICATION OF AUTHORSHIP 
+
+I  hereby  corroborate  that  I  have  researched  and  submitted  the  final  draft  of  dissertation 
+
+entitled "Factor Affecting Selection of Mobile Banking for Online Shopping Payment 
+
+in Nepal" The work of this dissertation has not been submitted previously for the purpose 
+
+of conferral of any degrees nor it has been proposed and presented as part of requirements 
+
+for any other academic purposes. 
+
+The  assistance  and  cooperation  that  I  have  received  during  this  research  work  has  been 
+
+acknowledged. In addition, I declare that all information sources and literature used are cited 
+
+in the reference section of this dissertation. 
+
+Sushil K.C. 
+
+Signature: 
+
+Date of Submission: 
+
+ii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT OF RESEARCH COMMITTEE 
+
+Mr. Sushil K.C. has defended research proposal  entitled "Factor Affecting Selection of 
+
+Mobile  Banking  for  Online  Shopping  Payment  in  Nepal"  successfully.  The  research 
+
+committee has registered the dissertation for further progress. It is recommended to carry 
+
+out the work as per the suggestions and guidelines of supervisor Asso. Prof. Dr. Suman K. 
+
+Parajuli and submit the dissertation for evaluation and viva-voce examination. 
+
+Asso. Prof. Dr. Suman K. Parajuli 
+
+Dissertation Supervisor 
+
+Signature........................................... 
+
+Dissertation Proposal Defended Date: 
+
+............................................................. 
+
+Dissertation Submitted Date: 
+
+............................................................. 
+
+Asso. Prof. Dr. Sajeeb Kumar Shrestha 
+
+Head, Research Department 
+
+Dissertation Viva-voce Date: 
+
+Signature ............................................. 
+
+................................................... 
+............................................................. 
+
+iii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPROVAL  SHEET 
+
+We,  the  undersigned,  have  examined  the  thesis  entitled  "Factor  Affecting  Selection  of 
+
+Mobile Banking for Online Shopping Payment in Nepal" presented by Sushil K.C., a 
+
+candidate for the degree of Master of Business Studies (MBS Semester). We hereby certify 
+
+that the dissertation is acceptable for the award of degree. 
+
+........................................................ 
+Asso. Prof. Dr. Suman K. Parajuli 
+Dissertation supervisor 
+
+..................................... 
+Internal Examiner 
+Signature 
+
+.......................................... 
+External Examiner 
+Signature 
+
+............................................................... 
+Asso. Prof. Dr. Sajeeb Kumar Shrestha 
+Chairperson, Research Committee 
+
+.............................................................. 
+Mr. Joginder Goet 
+Acting Campus Chief 
+
+Date: 
+
+iv 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACKNOWLEDGMENTS 
+
+The Graduate Research Project entitled "Factor Affecting Selection of Mobile Banking 
+
+for  Online  Shopping  Payment  in  Nepal”  has  been  prepared  to  fulfill  the  partial 
+
+requirement for MBS degree of Tribhuvan University. My deepest acknowledgement goes 
+
+to all those people who have helped and contributed for timely completion of this project. 
+
+Firstly, I would like to offer my sincere gratitude to my respected supervisor Lecturer Asso. 
+
+Prof.  Dr.  Suman  K.  Parajuli  of  Shankar  Dev  Campus,  Putalisadak  for  his  constant 
+
+encouragement, guidance, and valuable supervision at every step of my work. This study 
+
+would not have been materialized in the present form without his incisive observations and 
+
+intellectual direction in the course of completion. 
+
+I am totally grateful to Research Head Asso. Prof. Dr. Sajeeb Kumar Shrestha and Acting 
+
+Campus Chief Mr. Joginder Goet for their help and support while preparing the thesis. I 
+
+would also like to extend my thanks to all my faculty members and colleagues at Shankar 
+
+Dev Campus for their support. I would remember the contribution of Shankar Dev Campus 
+
+towards  me  and  especially  in  encouraging  and  providing  me  with  these  valuable 
+
+opportunities for conducting this research. 
+
+Lastly but not least I would like to thank my family and friends, senior graduates who gave 
+
+suggestions about this task and for their kind support for achieving the goal. 
+
+Sushil K.C. 
+
+v 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+Cover Page ........................................................................................................................... i 
+
+Certificate of Authorship ...................................................................................................... ii 
+
+Report of Research Committee ............................................................................................ iii 
+
+Approval Sheet .................................................................................................................... iv 
+
+Acknowledgements ............................................................................................................... v 
+
+Table of Contents ................................................................................................................ vi 
+
+List of Tables ..................................................................................................................... viii 
+
+List of Figures ..................................................................................................................... ix 
+
+Abbreviations........................................................................................................................ x 
+
+Abstract ............................................................................................................................... xi 
+
+CHAPTER I ......................................................................................................................... 1 
+
+INTRODUCTION ................................................................................................................ 1 
+
+1.1 Background of the Study ................................................................................................ 1 
+
+1.2 Problem Statement ......................................................................................................... 3 
+
+1.3 Objectives of the Study .................................................................................................. 4 
+
+1.4 Research Hypothesis ...................................................................................................... 5 
+
+1.5 Rationale of the Study .................................................................................................... 6 
+
+1.6 Limitations of the Study ................................................................................................. 7 
+
+CHAPTER II ........................................................................................................................ 8 
+
+LITERATURE REVIEW ..................................................................................................... 8 
+
+2.1 Conceptual Review ........................................................................................................ 8 
+
+2.1.1 Mobile Banking ........................................................................................................... 8 
+
+2.1.2 Online Shopping .......................................................................................................... 9 
+
+2.1.3 Theories of Selection Criteria of Mobile Banking .................................................... 11 
+
+2.1.4 Determinants of Consumer Behavior ........................................................................ 13 
+
+2.1.5 Mobile Banking in Nepal .......................................................................................... 14 
+
+2.1.6 Online Shopping in Nepal ......................................................................................... 17 
+
+2.1.7 Factors Affecting Adoption of Mobile Banking ....................................................... 19 
+
+2.2 Empirical Review ......................................................................................................... 20 
+
+2.2.1 Review of International Empirical Studies ............................................................... 20 
+
+vi 
+
+2.2.2 Review of Nepalese Empirical Studies ..................................................................... 25 
+
+2.3 Research Gap ............................................................................................................... 28 
+
+CHAPTER III..................................................................................................................... 30 
+
+RESEARCH METHODOLOGY ....................................................................................... 30 
+
+3.1 Research Design ........................................................................................................... 30 
+
+3.2 Population and Sample ................................................................................................. 31 
+
+3.3 Nature and Source of Data ........................................................................................... 31 
+
+3.4 Instrumentation of Data ................................................................................................ 31 
+
+3.5 Data collection Procedure ............................................................................................. 32 
+
+3.6 Methods of Analysis .................................................................................................... 33 
+
+3.7 Theoretical Framework and Definition of Variables ................................................... 35 
+
+CHAPTER IV .................................................................................................................... 38 
+
+RESULTS AND DISCUSSION ........................................................................................ 38 
+
+4.1 Respondents Demographic Profile ............................................................................... 38 
+
+4.2 Descriptive Analysis ..................................................................................................... 42 
+
+4.3 Correlation Analysis ..................................................................................................... 47 
+
+4.4 Regression Analysis ..................................................................................................... 49 
+
+4.5 Discussion .................................................................................................................... 53 
+
+CHAPTER V ...................................................................................................................... 56 
+
+SUMMARY AND CONCLUSION ................................................................................... 56 
+
+5.1 Summary ...................................................................................................................... 56 
+
+5.2 Conclusion .................................................................................................................... 57 
+
+5.3 Implications .................................................................................................................. 59 
+
+REFERENCES 
+
+APPENDIX 
+
+vii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIST OF TABLES 
+
+Table 1: Access on Payment Systems ................................................................................ 15 
+
+Table 2: Usages of Payment Systems ................................................................................ 16 
+
+Table 3: Summary of International Empirical Studies ....................................................... 21 
+
+Table 4: Summary of Nepalese Empirical Studies ............................................................. 25 
+
+Table 5: Reliability Test ..................................................................................................... 33 
+
+Table 6: Respondents' Profile Analysis .............................................................................. 39 
+
+Table 7: Propose of Mobile Banking Usages ..................................................................... 40 
+
+Table 8: Selection of Website/Application Used ............................................................... 41 
+
+Table 9: Perception towards Online Shopping ................................................................... 42 
+
+Table 10: Perception towards Transaction Convenience ................................................... 43 
+
+Table 11: Perception towards User Experience ................................................................. 44 
+
+Table 12: Perception towards Users Friendly Application Design and Layout ................. 45 
+
+Table 13: Perception towards Perceived Risk .................................................................... 45 
+
+Table 14: Perception towards Perceived Benefit ............................................................... 46 
+
+Table 15: Correlation Analysis .......................................................................................... 47 
+
+Table 16: Model Summary ................................................................................................. 49 
+
+Table 17: Model Summary ................................................................................................. 50 
+
+Table 18: Regression Coefficients Analysis ...................................................................... 51 
+
+Table 19: Summary of Hypotheses Test ............................................................................ 53 
+
+viii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIST OF FIGURES 
+
+Figure 1. Technical Acceptance Model (Davis, 1986) ....................................................... 12 
+
+Figure 2. Technical Acceptance Model (Davis, Bogozzi and Warshaw, 1989 .................. 12 
+
+Figure 3. Theoretical Framework ....................................................................................... 35 
+
+ix 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABBREVIATIONS 
+
+ADSL 
+
+ATM 
+
+B2B 
+
+B2C 
+
+BFI 
+
+Asymmetric Digital Subscriber Line 
+
+Automated Teller Machine 
+
+Business To Business 
+
+Business To Consumer 
+
+Bank And Financial Institution 
+
+CAGR 
+
+Compounded Annual Growth Rate 
+
+DOI 
+
+PDA 
+
+PEU 
+
+PSO 
+
+PSP 
+
+PU 
+
+QR 
+
+SMS 
+
+SPSS 
+
+TAM 
+
+Diffusion of Innovation 
+
+Personal Digital Assistance 
+
+Perceived Ease of Use 
+
+Payment Service Operators 
+
+Payment Service Providers 
+
+Perceived Usefulness 
+
+Quick Response 
+
+Short Message Service 
+
+Statistical Package for Social Service 
+
+Technical Adaptation Model 
+
+x 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT 
+
+This  study  explores  the  factors  influencing  mobile  banking  selection  criteria  for  online 
+
+shopping in Nepal, focusing on how transaction convenience, user experience, application 
+
+design, perceived risk, and perceived benefit impact consumer behavior. The research is 
+
+grounded in well-established models such as the Technology Acceptance Model (TAM) and 
+
+the  Theory  of  Planned  Behavior  (TPB),  with  the  aim  of  providing  insights  into  online 
+
+shopping behaviors, specifically within the context of mobile banking. Through a structured 
+
+questionnaire,  data  were  collected  from  227  respondents  who  are  mobile  banking  users 
+
+involved in online shopping. The results show that transaction convenience, user-friendly 
+
+design,  and  perceived  benefits  significantly  influence  users'  decisions  to  adopt  mobile 
+
+banking  as  a  payment  method.  However,  perceived  risk  did  not  emerge  as  a  strong 
+
+determinant. 
+
+The  study  also  highlights  the  potential  of  mobile  banking  to  drive  e-commerce  growth, 
+
+especially in developing regions like Nepal, where online shopping is still emerging. Based 
+
+on  these  findings,  the  study  offers  practical  implications  for  banks  and  online  retailers 
+
+aiming  to  enhance  customer  satisfaction  by  improving  mobile  banking  features  and 
+
+addressing  potential  user  concerns.  Moreover,  it  provides  directions  for  future  research, 
+
+including exploring factors affecting non-users of mobile banking and the expansion of the 
+
+study to include offline behaviors. The research contributes to the understanding of mobile 
+
+banking adoption and offers recommendations for enhancing user experience and trust in 
+
+mobile payment systems. 
+
+Keywords:  mobile  banking,  online  shopping,  transaction  convenience,  perceived  risk, 
+
+Technology Acceptance Model 
+
+xi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+CHAPTER I 
+
+INTRODUCTION 
+
+1.1 Background of the Study 
+
+Shopping is the act of a consumer buying a desired item or service from the market. The 
+
+customer  chooses  the  best  product  or  service  from  the  market  after  looking  through  the 
+
+others. During the purchasing process, consumers prioritize their essentials or, if something 
+
+strikes their attention, buy it with the intention of utilizing it soon. Additionally, individuals 
+
+buy to take advantage of steep discounts, to elevate and preserve their status, to feel good, 
+
+and to relieve stress. 
+
+Online  shopping  is  the  process  by  which  a  consumer  uses  a  web  browser  or  a  mobile 
+
+application to buy a service or product via the internet.  In other words, a customer may 
+
+acquire goods and services from an online business whenever they want, from the comfort 
+
+of  their  own  home.  Online  purchases  of  groceries,  consumables,  movie  tickets,  airline 
+
+tickets, ready-to-eat meals, utilities, and other items are examples of online shopping (Jusoh 
+
+& Ling, 2019). 
+
+Online  shopping  is  one  result  of  the  significant  paradigm  change  in  business  practices 
+
+brought about by the internet. Online shopping was not as common a few years ago as it is 
+
+now, mostly due to the difficulty in obtaining internet service and online payment gateways. 
+
+Business-to-business (B2B) online purchasing is the process of setting up an online store 
+
+that  allows  companies  to  purchase  from  other  companies.  Similar  to  this,  business-to- 
+
+consumer (B2C) processes have made it simple for customers to choose any product from a 
+
+retailer's website and have it delivered quickly. 
+
+Compared  to  in-person  buying,  online  shopping  offers  the  advantages  of  time  and  cost 
+
+savings,  delivery  capabilities,  comprehensive  product  and  pricing  information,  and  the 
+
+ability to avoid needless crowds. These days, people purchase without physically visiting 
+
+the market by using devices like computers, smartphones, tablets, etc. Daraz, Hamrobazar, 
+
+Sastodeal, Muncha, Foodmandu, KhetiFood, Nepbay, Gazabko.com, and others are some of 
+
+the online retailers in Nepal. The internet buying trend in Nepal has grown rapidly due to 
+
+recent  technological  advancements.  Additionally,  the  present  global  pandemic  setting, 
+
+mobile banking, and the increasing awareness of the internet Online purchasing has become 
+
+ 
+2 
+
+more popular in Nepal as a result of COVID-19. Nepal has witnessed a transition to digital 
+
+banking in recent years. Mobile phones are being used by more and more people to access 
+
+financial  services.  More  than  nine  million  individuals  in  Nepal  use  mobile  banking, 
+
+according to the latest data from Nepal Rastra Bank. because mobile banking applications 
+
+have made the majority of financial transactions easier. Thanks to digital banking, banks 
+
+now have a greater grasp of the constantly shifting tastes and preferences of their customers. 
+
+Understanding consumer behavior has made it possible to create digital media strategies that 
+
+are more focused, pertinent, and well-informed. 
+
+However, Customers of banks and other financial institutions can utilize mobile banking, a 
+
+service that enables users to do financial transactions remotely using a mobile device such 
+
+a smartphone or tablet. In recent years, mobile banking has emerged as the most practical 
+
+and safe way to conduct financial transactions, both banking and non-banking. Only one 
+
+particular device (smart phone or tablet) with a SIM card—the phone number of which is 
+
+already linked to the bank account—can be used for mobile banking. 
+
+In Nepal, mobile banking was first restricted to simple SMS-based inquiry services. The 
+
+introduction of bill payment and cash transfer via mobile phones by Laxmi Bank in 2009 
+
+marked  the  beginning  of  the  real  growth  of  mobile  banking  for  carrying  out  financial 
+
+operations (Laxmi Bank Limited, 2009). 
+
+Nearly all banks and financial institutions in Nepal now provide mobile banking services, 
+
+and as the internet and smartphones have grown in popularity, the number of people using 
+
+mobile banking in Nepal has increased significantly. These services allow users to pay for 
+
+products and services, pay for merchant payments, bank and wallet fund transfers, traverse 
+
+bank branches and ATMs, pay for bills (credit card, utilities, school fees), pay for insurance 
+
+premiums, and obtain account information (credit and deposit). Additionally, the usage of 
+
+mobile banking to buy everyday necessities has increased due to the implementation of QR- 
+
+based payment systems. Additionally, there is a function that allows users to receive rapid 
+
+smartphone alerts of any changes made to their bank accounts. Users find mobile banking 
+
+to be more convenient. In the past, a lot of customers just used mobile banking to keep track 
+
+of their transactions and were unaware of its other functions. However, the increased use of 
+
+mobile banking in Nepal in recent years may be attributed to the  smart features and the 
+
+customer's  understanding  of  banking.  To  far,  more  than  9.8  million  individuals  have 
+
+ 
+3 
+
+registered for mobile banking. Mobile banking is a little less common in Nepal than in other 
+
+Asian countries, although it is growing quickly. Nearly every bank in Nepal provides its 
+
+clients with mobile banking services, and several of the country's commercial banks (Class 
+
+A banks) have over 100,000 subscribers. 
+
+Mobile banking services provide the majority of the well-known online shopping options 
+
+for purchasing movie tickets, various clothing and accessory brands, ordering snacks and 
+
+drinks online, purchasing airline tickets, and purchasing hospitality, among other things. 
+
+Depending on a number of variables, such as the customer's attitude, the kind of goods and 
+
+services being bought, convenience, and how they are handled, the shopping experience can 
+
+be either enjoyable or awful. The maximum daily and monthly transaction limits for mobile 
+
+banking (including QR-based payments) are Rupees 3 Lakh and 10 Lakh, respectively, in 
+
+accordance  with  the  most  recent  provision  of  Directive  Number  5  of  Payment  System 
+
+Related Unified Directives, 2079, which was issued by Nepal Rastra Bank. In contrast, the 
+
+daily and monthly maximum limits for Internet banking are Rupees Ten Lakh and Rupees 
+
+Thirty Lakh, respectively, for both merchant payments and account transfers. 
+
+This study attempts to determine the impact of variables such as transaction convenience, 
+
+user experience, user-friendly application & design, perceived risk, and perceived benefit as 
+
+the  mobile  banking  selection  criteria  for  online  shopping  in  Nepal.  There  are  numerous 
+
+factors that influence the choice of mobile banking for online shopping. 
+
+1.2 Problem Statement 
+
+The number of people using mobile banking in Nepal has significantly increased as a result 
+
+of  the  development  of  the  internet  and  the  usage  of  smartphones.  Nepalese  banks  are 
+
+encouraging customers to utilize mobile banking through marketing initiatives. Even though 
+
+internet  banking  offers  several  benefits,  such  faster  transaction  speeds  and  reduced 
+
+processing  costs,  many  consumers  are  still  reluctant  to  utilize  these  services  because  of 
+
+security and uncertainty issues (Pokhrel, Adhikari, & Mishra, 2020). Because consumers 
+
+are  still  hesitant  to  accept  online  payments,  the  Nepalese  market  is  yet  unfamiliar  with 
+
+mobile banking (Khatri & Dhungel, 2019). People may feel uneasy throughout the mobile 
+
+banking payment process due to the lack of certainty, user ease, and fundamental experience. 
+
+The recent rise in the number of mobile banking users indicates that Nepalese consumers 
+
+are growing more trusting and confident in transactions conducted through mobile banking 
+
+ 
+4 
+
+these days. 
+
+In Nepal, internet shopping has grown in popularity in recent years. Numerous retailers are 
+
+attempting to sell their goods via their applications and online portals, which offer a pleasant 
+
+shopping experience. The digital payment mechanism is not widely used, despite the large 
+
+market  and  prospective  clientele.  Mobile  banking  is  crucial  for  drawing  users  inside  an 
+
+application and motivating them to make purchases. Numerous features of mobile banking 
+
+applications facilitate online buying for customers. As the number of internet users rises, 
+
+Nepal is heading toward a digital revolution. 
+
+Online shopping is replacing conventional shopping among the current generation. Rapid 
+
+technological advancements, particularly the rise in smartphones, tablets, smart watches, 
+
+and  other  portable  gadgets,  as  well  as  3G  and  4G  connections  and  instantaneous  online 
+
+conversations  and  texts,  have  created  enormous  opportunities  for  online  commerce  and 
+
+mobile banking in Nepal. Social media platforms like Facebook, Instagram, and others have 
+
+pushed conventional stores to post images online in an effort to draw in more clients. Online 
+
+retailers such as Kaymu, SastoDeal, HamroBazar, UG Bazar, Kheti Food, Jeevee, and others 
+
+are attempting to alter Nepalese consumers' purchasing habits. Since consumers don't have 
+
+much time for in-person buying, electronic shopping makes sure that online shopping is 
+
+enjoyable, engaging, simple, and takes less time. It makes it possible to purchase a wide 
+
+range of goods at the best prices from various vendors around Nepal, including electronics, 
+
+clothing,  watches,  accessories,  shoes,  furniture,  food,  and  much  more.  Online  shopping 
+
+platforms enable the posting of items for people worldwide and the selection of payment 
+
+and delivery options. All it takes to start an online company is to register on the platform, 
+
+list the items for direct sale to customers around Nepal, and get ready for a ton of fresh 
+
+orders. 
+
+Customers use mobile banking for non-cash transactions and shopping based on a number 
+
+of  variables.  In  light  of  this  situation,  a  lot  of  concerns  remain  about  the  factors  that 
+
+consumers use to choose mobile banking as a payment method for online purchases. These 
+
+inquiries are associated with: 
+
+i) 
+
+What is the perception of user towards transaction convenience, user experience, 
+
+user friendly application design and layout, perceived risk, perceived benefit and 
+
+ 
+ 
+5 
+
+online shopping? 
+
+ii) 
+
+Is there relationship between transaction convenience, user experience, user friendly 
+
+application  design  and  layout,  perceived  risk,  perceived  benefit  and  online 
+
+shopping? 
+
+iii) 
+
+Do transaction convenience, user experience, user friendly application design and 
+
+layout, perceived risk and perceived benefit have impact on online shopping? 
+
+1.3 Objectives of the Study 
+
+The main objective of this research is to find out the factors that influence the customers to 
+
+select mobile banking for online shopping. However, the specific objectives of the studyare 
+
+as follows: 
+
+i) 
+
+To  assess  the  impact  of  transaction  convenience,  user  experience,  user  friendly 
+
+application  design  and  layout,  perceived  risk  and  perceived  benefit  on  online 
+
+shopping. 
+
+ii) 
+
+To  analyze  perception  of  user  towards  transaction  convenience,  user  experience, 
+
+user friendly application design and layout, perceived risk, perceived benefit and 
+
+online shopping. 
+
+iii) 
+
+To examine the relationship between transaction convenience, user experience, user 
+
+friendly application design and layout, perceived risk, perceived benefit and online 
+
+shopping. 
+
+1.4 Research Hypothesis 
+
+The research is basically conducted to find the consumers selection criteria for electronic 
+
+shopping.  Moreover,  how  the  factors  impact  an  online  shopping  decision  of  customers. 
+
+Following alternative hypothesis is developed to measure the association between different 
+
+variables to fulfill the objective. The research hypotheses are: 
+
+H1: There is significant relationship between transaction convenience and online shopping. 
+
+H2: There is significant relationship between user experience and online shopping. 
+
+H3: There is significant relationship between user friendly application design and layout and 
+
+online shopping. 
+
+ 
+ 
+6 
+
+H4: There is significant relationship between perceived risk and online shopping 
+
+H5: There is significant relationship between perceived benefit and online shopping 
+
+1.5 Rationale of the Study 
+
+Every previous study on online shopping, mobile banking, and the factors used to choose a 
+
+payment method produced fresh findings that benefited both online shoppers and mobile 
+
+banking  users,  and  this  one  is  no  different.  This  study  aims  to  provide  some  fresh 
+
+perspectives on the selection criteria that consumers use when they purchase online using 
+
+mobile  banking.  We  can  clearly  see  the  significance  of  these  aspects  in  influencing 
+
+consumers'  choice  of  mobile  banking  once  the  selection  criteria  have  been  established. 
+
+Numerous variables, including transaction ease, user experience, user-friendly application 
+
+and  design,  perceived  risk,  and  perceived  reward,  might  impact  the  choice  of  mobile 
+
+banking. Understanding the factors that influence people to purchase online rather than in 
+
+person and to use mobile banking to pay instead of using cash is crucial. 
+
+The primary goal of this study is to educate the banking sector, online communities, and 
+
+online  consumers  about  the  elements  that  are  crucial  when  choosing  a  mobile  banking 
+
+provider. The study's findings will assist key users, such as bankers, academics, start-up 
+
+businesses, and online shoppers, in understanding what draws users to mobile applications 
+
+and  non-cash  payment  systems  and  in  segmenting  them  according  to  their  purchasing 
+
+patterns. They will also find it helpful to know what aspects internet buyers consider when 
+
+choosing  a  mobile  banking  platform.  It  may  serve  as  a  guide  for  the  creation  of  a 
+
+multifaceted  strategy  framework  for  startups,  online  retailers,  and  even  established 
+
+organizations that now employ traditional payment methods. Secondary users like students, 
+
+website owners, designers, and other interested individuals will also benefit from it. 
+
+Finding  out  whether  or  not  there  is  a  link  between  mobile  banking  and  consumer 
+
+engagement on the mobile application,  as  well as how  an organization may improve its 
+
+mobile banking application to draw in customers in the near future, are other implications 
+
+of this study. Other academics, bankers, and researchers who study the same subject will 
+
+also benefit from the study, which will serve as a source of reference information for future 
+
+researchers  on  similar  themes.  It  will  be  possible  to  better  evaluate  how  factors  such 
+
+transaction ease, user experience, user-friendly applications, perceived risk, and perceived 
+
+reward impact the criteria used to choose mobile banking for online purchasing. 
+
+ 
+7 
+
+1.6 Limitations of the Study 
+
+The study attempts to determine the criteria of consumer’s mobile banking selection for 
+
+online  shopping.  However,  there  are  some  research  limitations  in  this  study  which  are 
+
+presented below: 
+
+i) 
+
+Due to time and financial limitation, the research had only 227 sample respondents 
+
+and restricted to Kathmandu. 
+
+ii) 
+
+Data  is collected  through self-administered questionnaire. Data collected  from the 
+
+individual  understanding  of  the  respondents.  Respondents  may  provide  wrong 
+
+information. 
+
+iii) 
+
+The  researcher  has  limited  himself  to  available  literature  and  observations  for 
+
+theoretical and general part of this study. 
+
+ 
+8 
+
+CHAPTER II 
+
+LITERATURE REVIEW 
+
+The  study's  operational  structure  and  conceptual  review  are  presented  in  this  chapter.  It 
+
+covers a review of empirical research on online shopping, mobile banking, and the selection 
+
+criteria for online buying using mobile banking. It is a crucial and required step in research 
+
+projects that include evaluating previous studies and other pertinent claims in the field of 
+
+study in order to gather all necessary data, draw conclusions, and carry out more research. 
+
+The  operational  architecture  and  empirical  data  on  mobile  banking  payment  selection 
+
+criteria for online purchasing are presented in this chapter. 
+
+2.1 Conceptual Review 
+
+This section deals with the conceptual development of mobile banking and online shopping 
+
+based on scholars’ definition and various studies on the related matter. 
+
+2.1.1 Mobile Banking 
+
+Mobile banking is the process via which a consumer communicates with a bank using a 
+
+portable electronic device, like a smartphone or PDA. With its distinct characteristics, it may 
+
+also be viewed as an extension of online banking and a subset of electronic banking. More 
+
+than ten years ago, mobile banking was initially implemented in Finland, where users could 
+
+use SMS services to check account balances and make payments (Pasanen & Laukkanen, 
+
+2018). 
+
+Mobile solutions are now usable for a wide range of financial services due to the widespread 
+
+use  and  personal  character  of  mobile  phones,  the  general  dependability  of  mobile 
+
+communication  technology,  and  the  favorable  experiences  with  m-commerce  payments. 
+
+Numerous micropayment options and mobile banking are examples of contemporary mobile 
+
+financial  applications.  Due  to  the  lack  of  viable  alternative  payment  methods,  mobile 
+
+payments are now mostly utilized to cover the cost of popular mobile content and services. 
+
+Other effective uses include vending and ticketing. Users of mobile banking services can 
+
+also get account information by SMS. For mobile content offerings and apps, mobile carriers 
+
+want greater traffic and wider markets. Mobile content sales are made easier by effective 
+
+mobile  payment  options,  which  significantly  increase  network  traffic.  The  goal  of 
+
+technology suppliers is  to  establish standards that  will serve  as  the foundation for  more 
+
+ 
+9 
+
+sophisticated  applications.  For  instance,  an  open  framework  for  standardized  mobile 
+
+payments  using  credit  cards  is  offered  by  the  Mobile  credit  Forum.  Standard  APIs  for 
+
+establishing m-commerce apps are proposed by Pay Circle, a more technical forum (Mallat, 
+
+Rossi, & Tuunainen, 2020). A consumer interacting with a bank using a mobile device, like 
+
+a  smartphone  or  personal  digital  assistant  (PDA),  is  known  as  m-banking.  In  its  most 
+
+stringent version, m-banking  excludes telephone  banking,  both  in  its conventional  voice 
+
+dial-up form and through dial-up to a service based on touch tone phones. The focus is on 
+
+data transmission (Barnes & Corbitt, 2018). 
+
+2.1.2 Online Shopping 
+
+Online shopping is the practice of a consumer utilizing the internet as a channel to buy goods 
+
+and services straight from the vendor. A kind of electronic commerce known as "online 
+
+shopping"  allows  customers  to  purchase  things  without  the  need  of  middlemen.  Online 
+
+shopping is a cutting-edge type of commerce where buyers browse many websites with a 
+
+variety of goods for sale, choose what they want, submit their orders, pay using credit cards, 
+
+and then have the goods delivered in person by the seller. People are more likely to purchase 
+
+online since it saves them time and allows them to do tasks that would otherwise take hours 
+
+at the workplace or at home in a matter of minutes. 
+
+The  dependent  variable  of  online  purchasing  intention  is  impacted  by  the  independent 
+
+variables of attitude, perceived utility, perceived ease of use, perceived risk, and previous 
+
+online shopping experience. The way people behave when they shop online is measured by 
+
+their  attitude.  Traditional  consumer  literature  has  examined  and  recorded  the  factors 
+
+influencing people's views about internet shopping. The Acceptance Model (Davis F. D., 
+
+1989) and the theories of logical action (Fishbein & Ajzen, 1975) are two of the most widely 
+
+used  theories  to  explain  the  behavior  of  online  purchasing,  according  to  a  survey  of 
+
+experimental research in this area. 
+
+Globally,  online  buying  is  still  expanding  significantly.  Growing  confidence  in  online 
+
+properties and the number of people buying online for the first time are to blame for the rise. 
+
+However, the anticipated surge in online buying has not materialized. Online purchasing 
+
+still only accounts for a little less than 2% of all retail sales (Spiwak, 2019). Few would 
+
+contest that it has a bright future, yet most customers have been sluggish to embrace it. 
+
+ 
+10 
+
+In essence, online shopping is the practice of purchasing and selling products and services 
+
+via the World Wide Web. "Internet shopping has become the fastest growing use of the 
+
+internet," as explained by Forsythe and Bo (2020). However, the majority of online shoppers 
+
+utilize the information they obtain online to make offline purchases. However, e-commerce 
+
+has expanded rapidly due to the numerous benefits of online purchasing, including reduced 
+
+transaction and search costs than conventional forms of shopping. Customers may order 
+
+goods and services at the lowest possible price and purchase more quickly and with a wider 
+
+range  of  options  when  they  shop  online  (Koyuncu  &  Bhattacharya,  2020).  As  a  result, 
+
+marketers  have  thoroughly  examined  customer  attitudes  and  behaviors  around  online 
+
+purchasing and have invested billions of dollars to support all online buyer demographics. 
+
+The fact that online stores do not have to pay the same prices as traditional ones is one of 
+
+the obvious benefits of purchasing online. For an internet business, then, expenses such as 
+
+labor, outfitting, rent, and utilities are no longer significant. This allows for lower prices for 
+
+goods and services offered online (Corbitt, Tidwell, Fisher, & Lawrence, 2020). 
+
+Globally, online purchasing has been rapidly expanding. It was projected that US online 
+
+retail sales will reach $262 billion in 2014 and $370 billion in 2017. According to Mulpuru 
+
+(2019), revenues in Europe were predicted to reach $160 billion in 2014 and $240 billion by 
+
+2017. India's thriving middle class and energetic young have contributed to the country's 
+
+rising consumption levels, making internet shopping one of the most popular methods of 
+
+purchasing. By 2020, the internet industry, now valued at around $4 billion, is expected to 
+
+reach $45 billion at a 50% compound annual growth rate (CAGR) (Business, 2014). All of 
+
+the major companies currently involved in the Indian internet retail business have made a 
+
+flurry of investments due to the market's enormous development potential. To strengthen its 
+
+position in the Indian market, Amazon has declared a $2 billion investment. 
+
+The largest online retailer in India, Flipkart, has also announced plans to raise $1 billion in 
+
+order to expand its business (Pasricha, 2014). Due to investors' confidence in the Indian 
+
+internet sector, several other online businesses, such as Snap Deal, Jabong, and others, have 
+
+also  raised  millions  of  dollars.  In  the  context  of  e-retailing,  the  study  by  JiangNan  and 
+
+JiangShixiong 
+
+(2018) 
+
+identified  six 
+
+important  underlying  service  convenience 
+
+characteristics and associated measurement items. Access, search, evaluation, transaction, 
+
+possession, and post-purchase convenience are the six e-service convenience aspects that 
+
+were determined. To maintain high levels of clients' happiness and perceptions of total e- 
+
+ 
+11 
+
+service ease, online businesses should concentrate on these six components. Flexibility in 
+
+terms  of  time  and  location  for  accessing  online  retailers,  website  accessibility,  and 
+
+psychological aspects of accessibility (e.g., comfort) are all included in the concept of access 
+
+convenience.  Search  engine  performance,  website  design,  logical,  user-friendly  product 
+
+sorting  and  classification  systems,  and  site  navigation  speed  are  all  considered  to  affect 
+
+search convenience. Convenient pricing comparisons, clear product descriptions, and easy- 
+
+to-measure quality are all components of evaluation convenience. Easy checkout, a variety 
+
+of flexible payment options, and simple payment at the time of order delivery all contribute 
+
+to  transaction  convenience.  On-time  delivery,  precise  order  fulfillment,  and  convenient 
+
+order delivery time are the three major components of possession convenience. Convenience 
+
+after purchasing refers to the simplicity of enjoying the result without having to deal with 
+
+annoyances  like  spam  emails.  Appropriate  merchandising,  marketing,  and  operations 
+
+strategies, such as thoughtful product selection for online sales, clever Web store design and 
+
+layout, trained online service representatives, customer interactive systems, and customer 
+
+review systems, can be implemented to improve e-service based on customer feedback on 
+
+the six e-service convenience dimensions mentioned above and associated specific aspects. 
+
+E-retailers  must  coordinate  with  external  third-party  trading  partners  and  integrate  all 
+
+activities across internal functional units when putting the chosen strategies into practice. 
+
+This  includes  redesigning  websites  and  service  delivery  procedures  to  accommodate 
+
+customers' ever-evolving needs and preferences. 
+
+2.1.3 Theories of Selection Criteria of Mobile Banking 
+
+Numerous models pertaining to the selection and adoption of new technologies have been 
+
+created; these models also apply to mobile banking. In a similar vein, the selection criteria 
+
+for using mobile banking for online buying are heavily influenced by theories of consumer 
+
+behavior. The models created by different academics that are pertinent to the field of study 
+
+are covered in this section. 
+
+Technical Adaptation Model 
+
+A hypothesis called the Technical Adaptation Model (TAM) simulates how people adopt 
+
+and utilize new technologies. One of the most often used frameworks for analyzing how 
+
+people accept and use technology is TAM. 
+
+ 
+Fred Davis created TAM in 1986 with the express purpose of simulating users' adoption of 
+
+technology or information systems. He identified perceived usefulness and perceived ease 
+
+of use as the two main characteristics that motivate users and shape their attitudes toward 
+
+utilizing computer systems, which in turn influence actual system use. Davis (1986) 
+
+12 
+
+Figure 1. Technical Acceptance Model (Davis, 1986) 
+
+In 1989, Davis, Bogozzi, and Warsaw collaborated to create the first expansion of the Davis 
+
+in the paper "User Acceptance of Computer Technology: A Comparison of Two Theoretical 
+
+Models."  In order to  determine the elements  that influence managers' and professionals' 
+
+reluctance to adopt computer systems, the study was primarily undertaken. In addition to 
+
+explaining people's intents in terms of their attitudes, subjective norms, perceived utility, 
+
+perceived ease of use, and associated factors, the study sought to predict people's adoption 
+
+of computers based on a measure of their intentions. 
+
+Figure 2. Technical Acceptance Model (Davis, Bogozzi and Warshaw, 1989 
+
+ 
+ 
+ 
+ 
+ 
+13 
+
+Two particular beliefs—Perceived Usefulness (PU) and Perceived Ease of Use (PEU)— 
+
+were included in and evaluated by the basic TAM model. A potential user's subjective belief 
+
+that  using  a  particular  system  would  enhance  his  or  her  activity  is  known  as  perceived 
+
+usefulness, and the degree to which the potential user anticipates the target system to be 
+
+simple to use is known as perceived ease of use. In TAM, additional elements known as 
+
+external  variables may have an impact  on an individual's  belief in  a system.  (Davis  and 
+
+others, 1989). 
+
+2.1.4 Determinants of Consumer Behavior 
+
+The  selection  criteria  for  using  mobile  banking  for  online  purchasing  are  also  heavily 
+
+influenced by theories of consumer behavior. 
+
+Cultural, social, personal, and psychological aspects are the four types of influences that 
+
+influence consumer behavior. Terms like culture, subculture, and social class are included 
+
+in  the  first  category  of  cultural  variables.  Knowledge,  ideas,  the  arts,  rules,  ethics, 
+
+conventions, and many  other skills  and behaviors  that a person acquires  just by being  a 
+
+member of a community are all included in the complicated concept of culture. Each culture 
+
+is  made  up  of  smaller  subcultures  that  give  their  people  a  more  distinct  identity. 
+
+Nationalities,  religious  groupings,  tribes,  and  geographic  places  are  the  four  types  of 
+
+subcultures.  Social classes are hierarchically organized, largely  uniform,  and continuous 
+
+divisions of a society whose members share similar beliefs, passions, and ways of acting. 
+
+(Wong, Armstrong, Saunders, & Kotler, 2005). 
+
+Reference  groups,  families,  social  roles,  and  social  status  are  all  included  in  the  second 
+
+category, which is about social variables. Any group that directly or indirectly influences a 
+
+person's attitude or conduct is considered a reference group. Family has been extensively 
+
+studied and is regarded as the most important social component. Families can be divided 
+
+into two categories. the orientation family, which includes one's parents and any family one 
+
+establishes  for  themselves.  Social  role  and  social  status  are  two  ways  to  characterize  a 
+
+person's place in a group. The acts a person must perform in respect to others around him or 
+
+her are referred to as roles. Every position has a status that reflects the societal esteem that 
+
+goes  along  with  it  (Kotler,  Wong,  Saunders,  &  Armstrong,  2005).  Age  and  life  stage, 
+
+employment, financial status, lifestyle, personality, and self-concept are all included in the 
+
+third category, personal aspects. People's tastes in goods and services vary depending on 
+
+ 
+14 
+
+their age. Additionally, their purchases are shaped by the stages of their life cycle, which are 
+
+the stages that families go through as they grow and change over time. Another element 
+
+influencing  a  person's  purchasing  decisions  is  their  line  of  work.  People  in  different 
+
+professions buy different goods and services because they have distinct demands (Kotler, 
+
+Wong,  Saunders,  &  Armstrong,  2005).  Many  purchase  behaviors  rely  on  the  economic 
+
+position of an individual. An individual's income, savings, disposable capital, borrowing 
+
+capacity, and attitude toward saving money for spending are all included in their economic 
+
+statistics. A person's lifestyle is defined as all of their habits that are demonstrated by their 
+
+behavior,  passions,  convictions,  and  little  indulgences.  Personality  recognizes  the 
+
+psychological  traits  of  a  person  that  motivate  him  to  reasonable  and  steady  behaviors 
+
+towards  one’s  surroundings.  Finally,  a  person's  perceived  self-image  is  complicated.  It 
+
+includes  a  person's  self-perception,  desired  self-perception,  and  how  other  people  view 
+
+them. A person's conduct is influenced by their general perception of themselves (Kotler, 
+
+Wong, Saunders, & Armstrong, 2005). 
+
+According to Kotler, Wong, Saunders, and Armstrong (2005), psychological elements such 
+
+as  motivation,  perception,  learning,  beliefs,  and  attitudes  make  up  the  fourth  category. 
+
+Specific  reasons  including  hunger,  thirst,  recognition,  and  dedication  are  the  causes  of 
+
+motivation,  an  internal  and  intricate  process  that  shapes  people's  behavior.  Perceptions 
+
+influence  how  consumers  behave  and  respond.  A  motivated  person's  assessment  of  the 
+
+circumstance affects how they behave. The majority of human behavior is acquired through 
+
+learning. Motives, stimuli,  and responses  are said to  combine to  generate learning in an 
+
+individual.  People  develop  attitudes  and  ideas  that  influence  their  purchase  behavior  by 
+
+behaving and learning. While attitude refers to a person's ongoing assessment, feelings, and 
+
+inclinations toward an item or concept, beliefs are the descriptive way a person thinks about 
+
+something and are based on information, opinion, or faith. They may also carry sentimental 
+
+charges. 
+
+2.1.5 Mobile Banking in Nepal 
+
+Customers may access banking services quickly and conveniently from their mobile devices 
+
+using mobile banking. Although mobile banking services are mostly operated via mobile 
+
+devices, several banking sectors now provide the most recent iteration of advanced mobile 
+
+banking, known as BankSmart/BankSwitch, that can be accessed from a desktop or browser. 
+
+ 
+15 
+
+This is a result of technological advancements. As a result, mobile banking is no longer only 
+
+dependent on mobile devices. Balance inquiries, recent transaction details, e-recharges, QR 
+
+code payment services, and bill payment for utilities such as Ncell postpaid, Ncell prepaid, 
+
+Top up, NTC ADSL, NTC landline, and NTC postpaid mobile phone bills are among the 
+
+most common services offered by financial institutions in Nepal. Customers benefit from 
+
+more advanced services like interbank fund transfers and merchant payments when mobile 
+
+banking  is  integrated  with  various  Payment  System  Operators  (PSOs),  such  as  Nepal 
+
+Clearing House, Nepal Electronic Payment System Ltd, Union Pay International Company 
+
+Ltd, Nepal Payment Solution Pvt. Ltd., Fonepay Payment Service Ltd., etc. Along with the 
+
+extra benefit of saving consumers from the headache of traditional SMS banking, which 
+
+requires them to commit the SMS syntax to memory, mobile banking also supports GPRS 
+
+and SMS (Global IME Bank, 2021). 
+
+Table 1 
+
+Access on Payment Systems 
+
+S.N.  Particulars 
+
+1 
+
+2 
+
+3 
+
+Payment System Operators (PSO) * 
+
+Payment Service Providers (PSP) * 
+
+PSP Agents 
+
+4  Wallet Users 
+
+5 
+
+6 
+
+7 
+
+8 
+
+ATM Machines (Terminals) 
+
+Debit Cards 
+
+Credit Cards 
+
+Prepaid Cards** 
+
+9  Mobile Banking Customers 
+
+10 
+
+Internet Banking Customers 
+
+11  Branch Less Banking Centers 
+
+12  RTGS Participants 
+
+13  Connect IPS Users 
+
+14 
+
+15 
+
+ECC Members 
+
+IPS Members 
+
+(Source: Nepal Rastra Bank) 
+
+Numbers 
+
+2079 Ashwin 
+
+2079 Kartik 
+
+10 
+
+28 
+
+9153 
+
+10 
+
+28 
+
+9210 
+
+7925833 
+
+8297852 
+
+4300 
+
+4302 
+
+8573382 
+
+8677662 
+
+188507 
+
+62256 
+
+187311 
+
+64891 
+
+13591375 
+
+13825814 
+
+1122888 
+
+1141783 
+
+1739 
+
+37 
+
+1735 
+
+38 
+
+404757 
+
+438180 
+
+63 
+
+96 
+
+63 
+
+99 
+
+ 
+ 
+ 
+ 
+16 
+
+In Nepal, mobile banking applications have advanced in sophistication, including a range of 
+
+features intended to improve users' ease and accessibility to financial services. In order to 
+
+give  a  thorough  picture  of  a  customer's  financial  situation,  these  apps  usually  have  an 
+
+Account  Dashboard  that  compiles  data  from  many  accounts,  including  credit  card 
+
+information, loan accounts, savings accounts, and overdrafts. Additionally, these apps are 
+
+frequently available via mobile apps as well as desktop/browser-based login, guaranteeing 
+
+continuous access to services across platforms. 
+
+Table 2 
+
+Usages of Payment Systems 
+
+S.N  Particulars 
+
+No. of Transaction 
+
+Total Amount (NPR in 
+
+2079 
+
+Ashwin 
+
+62859 
+
+2079 
+
+Kartik 
+
+49343 
+
+Million) 
+
+2079 Ashwin  2079 Kartik 
+
+2,177,812 
+
+1,980,870 
+
+RTGS 
+
+ATM-CashWithdrawal 
+
+8356061 
+
+6664179 
+
+70,604 
+
+58,065 
+
+ECC 
+
+IPS 
+
+Connect IPS 
+
+Debit Cards 
+
+Credit Cards 
+
+1396795 
+
+945609 
+
+997255 
+
+762332 
+
+2038465 
+
+1843551 
+
+9199716 
+
+7249824 
+
+191946 
+
+123558 
+
+Prepaid Cards** 
+
+13378 
+
+13181 
+
+Internet Banking 
+
+303844 
+
+268144 
+
+10  Mobile Banking 
+
+11047474 
+
+11616566 
+
+11 
+
+Branchless Banking 
+
+68157 
+
+50792 
+
+12  Wallet 
+
+11465257 
+
+10743511 
+
+13  QR-Based Payments 
+
+14 
+
+15 
+
+Point of Sales (POS) 
+
+E-Commerce*** 
+
+782471 
+
+871488 
+
+173657 
+
+672689 
+
+608704 
+
+113680 
+
+(Source: Nepal Rastra Bank) 
+
+930,789 
+
+211,432 
+
+141,802 
+
+74,146 
+
+1,131 
+
+77 
+
+10,215 
+
+48,652 
+
+1,453 
+
+11,021 
+
+2,722 
+
+3,691 
+
+1,058 
+
+657,311 
+
+173,879 
+
+141,270 
+
+60,699 
+
+690 
+
+61 
+
+10,080 
+
+48,887 
+
+1,092 
+
+10,106 
+
+2,529 
+
+2,617 
+
+768 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+According to Ashwin and Kartik's statistics on the use of payment systems, both the amount 
+
+of transactions and the number of mobile banking transactions have grown over the course 
+
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+
+of the month. Comparing mobile banking to other digital payment methods reveals that, 
+
+despite the fact that 2079 Ashwin saw the most transactions on mobile banking, the amount 
+
+of transactions is still rather small. This shows that for small-scale transactions, individuals 
+
+prefer to utilize mobile banking. In a similar vein, we may observe that in 2079 Kartik, the 
+
+amount paid using cards for online purchases was around Rs. 768 million. 
+
+2.1.6 Online Shopping in Nepal 
+
+While developing nations like Nepal are lagging behind developed nations, the latter have 
+
+embraced the exponential rise of e-commerce. The usage and expansion of e-commerce in 
+
+Nepal has been accelerated by the significant influence and introduction of new technology 
+
+from  China  and  India,  two  nearby  nations.  A  thorough  overview  of  the  Nepalese  e- 
+
+commerce market and current online buyers may be found in the paragraph below: 
+
+Nepalese E-Commerce Market 
+
+E-commerce in Nepal began in 1999, when it was used only by non-resident Nepalese to 
+
+send  presents  to  their  friends  and  relatives  who  lived  in  Nepal.  When  Nepal  Telecom 
+
+introduced ADSL (Asymmetric Digital Subscriber Line) broadband internet, internet usage 
+
+began to gain popularity because it was before expensive and limited. 
+
+In 2014, there were 30,198 commercial websites out of 42,748 registered websites in Nepal, 
+
+demonstrating the slow rate of e-commerce. The vast majority of e-commerce websites that 
+
+offer credit card verification were created and deployed outside of Nepal. These e-commerce 
+
+sites  allow  credit  card  and  e-banking  transfers,  however  their  availability  was  restricted 
+
+because dollar cards were not available in Nepal. 
+
+Nonetheless, a lot of businesses now spend a lot of money on digital marketing because they 
+
+understand how important e-commerce is. Some of the top businesses have already begun 
+
+operating digitally and have begun to provide online shopping via their official websites. In 
+
+order  to  further  encourage  the  flourishing  online  buying  culture,  businesses  are  also 
+
+immediately collecting client feedback through various digital channels, including social 
+
+media. However, developing Nepal still has a lot of work to do to expand and grow the e- 
+
+commerce business, unlike developed nations where it is already mature (Malla, 2018). 
+
+During the COVID-19 pandemic, when physical purchasing might potentially spread the 
+
+ 
+ 
+18 
+
+disease, online shopping has become more popular. "The e-commerce potential for Nepal 
+
+looks more promising than ever, and the Covid-19 crisis with the spread of the Internet has 
+
+opened up new arenas, including outside Kathmandu Valley," said Mr. Amun Thapa, co- 
+
+founder of Sasto Deal. Based on this, we can definitely predict the growth of e-commerce. 
+
+Nepalese Online Shoppers 
+
+In Nepal, the e-commerce sector is still in its infancy. main e-commerce companies now 
+
+only serve a small number of Nepal's main cities. The rapid expansion of internet usage and 
+
+increased knowledge of connected topics have encouraged residents to purchase online for 
+
+a variety of goods and services. As consumers get more tech-savvy, there is less of a desire 
+
+to touch the object when they are purchasing. In a similar vein, Nepalese consumers are 
+
+increasingly considering brand information when making purchasing decisions (Gautham, 
+
+2018).  16.67  million  individuals,  or  63%  of  the  population,  have  internet  access  as  of 
+
+October 2017, an increase of almost 15.60% from October 2016. Although less than 30% of 
+
+Nepalese accessed the internet in 2010, the number of internet users nearly quadrupled in 
+
+only five years. Since 95.62% of the population in Nepal have access to mobile towers in 
+
+2018, mobile phones are the primary factor driving the country's internet adoption (Neupane, 
+
+2018). 
+
+According  to  research  conducted  by  Kaymu,  one  of  the  top  e-commerce  sites  in  Nepal, 
+
+younger  people  between  the  ages  of  18  and  34  are  the  most  active  participants  in  e- 
+
+commerce  transactions  as  compared  to  the  comparatively  older  generation.  It  was 
+
+discovered that the percentage of respondents who were users by gender was 72% for men 
+
+and 28% for women. The Kathmandu Valley accounts for 53 percent of all e-commerce 
+
+activity,  followed  by  Biratnagar  at  23  percent  and  Pokhara  at  8  percent,  according  to  a 
+
+geographic distribution study of responding users. 54 percent of visitors were new, and 46 
+
+percent were returning, and the average session time for a new visitor is 5 minutes, while 
+
+the average session time for a returning visitor is about 8 minutes (Ghimire, 2018). 
+
+Additionally, the findings showed that 56 percent of all online consumers in Nepal visited 
+
+e-commerce websites using Google Chrome, with Mozilla Firefox coming in second with 
+
+16 percent. Google Chrome is the most widely used internet browser in Nepal. With 65% of 
+
+all yearly traffic, desktop and laptop computers continue to lead the list of access devices. 
+
+ 
+ 
+19 
+
+Mobile devices come in second with 30% and tablets fifth. Cash on delivery is still the most 
+
+popular option, with 85% of online shoppers choosing it over digital payment methods, bank 
+
+transfers, Ipay, and credit cards, which account for 10%, 2%, 2%, and 1% of all purchases, 
+
+respectively, even though the use of credit and debit cards in addition to online banking is 
+
+increasing in Nepal. Compared to other typical days, the trade volume is much larger during 
+
+festivals, when consumers purchase online more often. Ghimire (2018). 
+
+2.1.7 Factors Affecting Adoption of Mobile Banking 
+
+This study looks at a number of independent factors that affect how widely mobile banking 
+
+is used. These factors include perceived risk, perceived gain, user experience, transaction 
+
+ease,  and  user-friendly  application  design.  The  operational  definitions  of  each  of  these 
+
+parameters as they relate to the study are described below. 
+
+Transaction Convenience 
+
+The flexibility and ease of use of payment systems that enable consumers to finish activities 
+
+quickly and with little effort are referred to as transaction convenience. According to this 
+
+study, transaction convenience includes a number of important factors, such as how simple 
+
+it is to use mobile banking for online shopping, how quickly transactions are completed, 
+
+how simple it is to keep track of past transactions, how simple it is to access the mobile 
+
+banking platform, and how little work it takes to complete a transaction. A user's experience 
+
+and propensity to utilize mobile banking services are greatly influenced by these variables. 
+
+User Experience 
+
+The  general  impression  that  consumers  receive  of  utilizing  mobile  banking  for  online 
+
+shopping  is  known  as  the  user  experience.  It  encompasses  a  number  of  interactional 
+
+characteristics,  including  engagement,  which  describes  how  involved  users  are  with  the 
+
+mobile banking platform. Furthermore, the whole experience is improved when the service 
+
+provider processes grievances and comments effectively. Another important consideration 
+
+is price and merchant openness, as consumers are more inclined to interact with and trust 
+
+platforms that provide accurate and transparent information. The quality of the information 
+
+and advertisements as well as the speed at which services are rendered are other factors that 
+
+affect the user experience. These factors collectively influence the user's level of happiness 
+
+and probability of using the service again. 
+
+ 
+20 
+
+User-Friendly Application & Design 
+
+The effective implementation of mobile banking depends on an application and design that 
+
+are easy to use. This element relates to how user-friendly, dependable, and useful the mobile 
+
+application  interface  is.  According  to  this  study,  an  eye-catching  layout  that  encourages 
+
+people to interact with the platform is what defines a user-friendly design. Important features 
+
+of the design are the application's straightforward language and the ease with which users 
+
+may learn and utilize the system. The program must also be dependable, guaranteeing that 
+
+the platform continuously fulfills user expectations without frequent faults or malfunctions, 
+
+and multifunctional, providing a broad range of services. 
+
+Perceived Risk 
+
+When  utilizing  mobile  banking,  customers'  perceptions  of  risk  include  those  related  to 
+
+social, psychological, privacy, and financial performance. This study focuses on a number 
+
+of important aspects of perceived risk. These include trust, which is crucial for fostering a 
+
+connection  between  service  providers  and  users,  and  security,  which  has  to  do  with  the 
+
+protection of financial transactions and personal information. The total perceived risk is also 
+
+influenced by financial transaction risks, such as the fear of fraud or money loss, and privacy 
+
+concerns,  especially  with  relation  to  sensitive  personal  and  financial  information.  If 
+
+consumers believe their security is jeopardized, these considerations may prevent them from 
+
+using mobile banking services. 
+
+Perceived Benefit 
+
+The term "perceived benefit" describes the favorable results that consumers anticipate from 
+
+using mobile banking, which increase its allure. Cost-effectiveness, which includes reduced 
+
+transaction costs and the possibility of savings, and the availability of exclusive deals or 
+
+promotions  that  enhance  the  service's  appeal  are  the  main  determinants  of  perceived 
+
+advantage  for  this  study.  Another  apparent  advantage  is  the  increased  flexibility  and 
+
+convenience  that  comes  with  using  mobile  banking  anywhere,  at  any  time.  Lastly,  the 
+
+perceived value of utilizing mobile banking services is increased by time-saving features 
+
+like quicker transaction processing and fewer in-person bank visits. 
+
+2.2 Empirical Review 
+
+2.2.1 Review of International Empirical Studies 
+
+ 
+Numerous  research  have  been  conducted  worldwide  in  the  area  of  online  shopping  and 
+
+mobile  banking  selection  criteria.  This  section  examines  relevant  research  conducted 
+
+21 
+
+globally in the study's field. 
+
+Table 3 
+
+Summary of International Empirical Studies 
+
+Author(s) 
+
+Findings 
+
+Bland et al. (2024) 
+
+The study identified that performance and psychological risks 
+
+are  significant  barriers 
+
+to  adopting  mobile  payments. 
+
+Addressing security concerns is crucial to encourage adoption. 
+
+Benoit et al. (2023) 
+
+Perceived  benefits, 
+
+such  as  convenience  and  cost- 
+
+effectiveness,  play  a  crucial  role  in  the  adoption  of  mobile 
+
+banking services, encouraging users to engage more with these 
+
+services. 
+
+Shankar et al. (2021) 
+
+Convenience  factors  such  as  ease  of  access  and  fast 
+
+transactions  significantly  influence  the  adoption  of  mobile 
+
+banking, particularly in developing countries. 
+
+Barnes and Corbitt 
+
+Mobile banking adoption is influenced by market conditions, 
+
+(2018) 
+
+banking  infrastructure,  and  customer  perceptions.  TAM 
+
+highlights the technological aspects that influence adoption. 
+
+Sinthia and Darma 
+
+Perceived  ease  of  use  and  usefulness  positively  influence 
+
+(2019) 
+
+attitudes  toward  mobile  banking,  with  frontline  employees 
+
+playing an important role in facilitating adoption. 
+
+Shanmugam, 
+
+Perceived  usefulness,  benefits,  and  credibility  affect  users' 
+
+Savarimuthu, and 
+
+intentions  to  adopt  mobile  banking,  with  attitude  playing  a 
+
+Wen (2018) 
+
+mediating role between these factors and adoption. 
+
+ 
+ 
+22 
+
+Kim, Shin, and Lee 
+
+Trust  is  a  critical  factor  in  the  adoption  of  mobile  banking, 
+
+(2019) 
+
+especially in the initial stages, influencing users’ intentions to 
+
+use mobile banking services in South Korea. 
+
+Malaquias and Hwang 
+
+Trust  and  perceived  ease  of  use  were  key  determinants  of 
+
+(2019) 
+
+mobile  banking  use,  with  cultural  and  economic  factors 
+
+playing a significant role across countries like Brazil and the 
+
+U.S. 
+
+Chitungo and 
+
+TAM extension shows that perceived usefulness, ease of use, 
+
+Munongo (2018) 
+
+and social norms significantly affect mobile banking adoption 
+
+in rural Zimbabwe, while perceived risks hinder adoption. 
+
+Aboelmaged and 
+
+Subjective norms and attitudes are critical in mobile banking 
+
+Gebba (2020) 
+
+adoption among university students, more than perceived ease 
+
+of use or usefulness, especially in Dubai. 
+
+Jusoh and Ling (2021)  Experience,  income  group,  and  product  perception  strongly 
+
+correlate  with  positive  attitudes  toward  online  shopping, 
+
+similar to mobile banking adoption behaviors. 
+
+Bland et al. (2024) evaluated the perceived risks associated with mobile payment adoption, 
+
+stressing  the  performance,  financial,  time,  psychological,  and  social  concerns  that 
+
+consumers experience. The research found that performance and psychological concerns 
+
+were important hurdles to using mobile payments. These findings imply that consumers' 
+
+worries regarding the security and effectiveness of mobile payment systems might inhibit 
+
+adoption. Therefore, mobile payment providers must handle these concerns by developing 
+
+effective risk management rules to reassure consumers and create good views toward mobile 
+
+payment systems. 
+
+Benoit et al. (2023) evaluated the significance of perceived advantages in mobile banking 
+
+adoption, specifically the importance of cost-effectiveness and convenience. Their research 
+
+indicated that the perceived benefits, such as the flexibility to make transactions anywhere 
+
+and anytime, play a vital role in motivating customers to use mobile banking services. The 
+
+study revealed that customers who consider mobile banking as a quick and cost-effective 
+
+ 
+ 
+ 
+23 
+
+tool for managing funds are more inclined to participate with these services. 
+
+Shankar et al. (2021) studied the influence of convenience in encouraging mobile banking 
+
+uptake. The study underlined the importance of transaction convenience, including access 
+
+convenience, search convenience, and assessment convenience. These variables, all linked 
+
+to the convenience and speed of accessing and utilizing financial services, were found to 
+
+have a considerable positive influence on users’ intentions to use mobile banking. The study 
+
+revealed that  when mobile banking  services offer easy  and rapid  access,  it considerably 
+
+boosts the possibility of adoption, particularly in developing nations where customers have 
+
+limited past experience with such technology. 
+
+Barnes and Corbitt (2018) evaluated the idea and possibility of mobile banking as a viable 
+
+consumer  banking  channel.  The  rising  amount  of  empirical  research  on  mobile  banking 
+
+adoption emphasizes many aspects impacting customer behavior and the adoption process 
+
+across distinct markets. The research concluded that mobile banking services are still at an 
+
+embryonic stage, with their performance depending on variables such as existing banking 
+
+infrastructure,  market  conditions,  and  client  perceptions.  Through  the  perspective  of  the 
+
+Technology  Acceptance  Model  (TAM),  the  study  highlighted  critical  technological 
+
+characteristics and human behaviors that would greatly affect the future adoption of mobile 
+
+banking. It stated that while mobile banking offers great promise for extending electronic 
+
+banking services, its success would primarily depend on current market circumstances over 
+
+the next five years. 
+
+Sinthia and Darma (2019) evaluated  consumer satisfaction and attitudes towards mobile 
+
+banking  by  concentrating  on  the  perceived  ease  of  use  and  perceived  utility  of  mobile 
+
+banking services. Their findings reveal that customer views towards mobile banking are 
+
+favorably impacted by the perceived simplicity of use and perceived utility of the services. 
+
+They stressed the significance of frontline personnel in communicating the advantages and 
+
+benefits of mobile banking to clients, therefore promoting uptake. The study indicated that 
+
+these characteristics have a major impact in affecting customer views regarding utilizing 
+
+mobile banking services. 
+
+Shanmugam, Savarimuthu, and Wen (2018) evaluated the factors impacting the behavioral 
+
+ 
+ 
+ 
+ 
+ 
+24 
+
+intention to utilize mobile banking. The study showed the relevance of perceived utility, 
+
+perceived advantage, and perceived trustworthiness in changing users’ willingness to use 
+
+mobile banking. The research indicated that while perceived ease of use was not a major 
+
+predictor, attitude played a mediating function between the perceived usefulness, perceived 
+
+benefit, and behavioral intention to use mobile banking. This shows that if mobile banking 
+
+is seen as advantageous and useful, clients are more likely to use the service, with attitude 
+
+acting as a significant influencer in this process. 
+
+Kim, Shin, and Lee (2019) studied the relationships between initial trust and usage intentions 
+
+of mobile banking in South Korea. Their study, which focused on integrated mobile banking 
+
+solutions introduced by Korean telecom operators, indicated that early trust strongly affected 
+
+the inclination to utilize mobile banking services. This research, the first empirical study on 
+
+this issue, underlined the relevance of trust and the creative character of mobile banking in 
+
+boosting adoption. The study stressed the relevance of trust in the earliest phases of mobile 
+
+banking adoption and emphasized the possibility for future research on this key element. 
+
+Malaquias and Hwang (2019) evaluated mobile banking usage comparing individuals from 
+
+Brazil and the United States, two nations with distinct degrees of development. The study 
+
+indicated that confidence and perceived ease of use were major drivers of mobile banking 
+
+adoption in both nations. However, the social effect was more substantial in Brazil, whereas 
+
+in the U.S., individuals with higher levels of adoption rated mobile banking as easier to use. 
+
+This implies that cultural and economic variables play a role in defining mobile banking 
+
+adoption practices across nations. 
+
+Chitungo  and  Munongo  (2018)  expanded  the  Technology  Acceptance  Model  (TAM)  to 
+
+analyze mobile banking uptake in rural Zimbabwe. The study indicated that characteristics 
+
+such  as  perceived  utility,  perceived  simplicity  of  use,  relative  benefits,  personal 
+
+innovativeness, and societal norms had substantial influence on consumers' attitudes and 
+
+intentions to embrace mobile banking services. However, perceived risks and costs were 
+
+found to negatively affect adoption. This underscores the need of knowing both the enabling 
+
+and hindering variables in mobile banking uptake, particularly in rural regions with limited 
+
+access to financial services. 
+
+Aboelmaged  and  Gebba  (2020)  explored  the  use  of  the  TAM  and  Theory  of  Planned 
+
+ 
+25 
+
+Behavior (TPB) in understanding mobile banking usage among university students in Dubai. 
+
+Their studies demonstrated a considerable influence of attitude toward mobile banking and 
+
+subjective norms on adoption. However, perceived utility and reported simplicity of use did 
+
+not  substantially  affect  adoption,  showing  that  subjective  norms  and  attitude  are  more 
+
+essential  drivers  for  this  particular  cohort.  The  study  highlighted  the  effect  of  social 
+
+influence and individual attitudes in affecting adoption behavior, rather than the perceived 
+
+technical qualities of mobile banking services. 
+
+Jusoh and Ling (2021) studied the elements influencing customers' attitudes regarding e- 
+
+commerce purchases through online purchasing, including socio-demographic indicators, 
+
+online buying behaviors, and purchase perceptions. The study indicated that while there was 
+
+no significant difference in sentiments based on age, employment, or categories of items, 
+
+income group and e-commerce experience were important variables in molding attitudes. 
+
+Additionally, product impression and customer service were substantially connected with a 
+
+good attitude toward online buying. These findings mirror larger consumer behavior patterns 
+
+that might potentially apply to mobile banking uptake, where experience and perceptions of 
+
+service quality are major factors. 
+
+2.2.2 Review of Nepalese Empirical Studies 
+
+This section reviews the related articles performed in the study's subject area nationally. The 
+
+Summary of major national empirical studies is shown in Table 4. 
+
+Table 4 
+
+Summary of Nepalese Empirical Studies 
+
+Author(s) 
+
+Findings 
+
+Subba (2024) 
+
+Identified  growing  potential  for  mobile  banking  adoption  in 
+
+Nepal    but    highlighted    the    lack    of    interoperability    and 
+
+inadequate regulatory frameworks as significant challenges. 
+
+Pokharel, Adhikari, 
+
+Found  that  perceived  usefulness  and  attitude  significantly 
+
+and Mishra (2024) 
+
+impacted behavioral intentions toward mobile banking adoption 
+
+in Kathmandu Valley, supporting the Technology Acceptance 
+
+Model (TAM). 
+
+ 
+ 
+26 
+
+Shrestha et al. (2023) 
+
+Identified  perceived  ease  of  use,  perceived  usefulness,  and 
+
+perceived  risk  as  key  factors  affecting  internet  banking 
+
+adoption.  Highlighted  that  addressing  security  risks  would 
+
+increase adoption. 
+
+Timilsina (2022) 
+
+Found that security concerns and trust issues were significant 
+
+barriers 
+
+to  electronic  payment  adoption 
+
+in  Kathmandu. 
+
+Emphasized  the  need  for  improved  security  protocols  and 
+
+transparency. 
+
+Pokhrel, Adhikari, 
+
+Found that perceived usefulness, attitude, and perceived ease of 
+
+and Mishra (2020) 
+
+use  significantly  influenced  mobile  banking  adoption  in 
+
+Kathmandu.  Suggested  increasing  awareness  to  drive  greater 
+
+adoption. 
+
+Timilsina (2020) 
+
+Identified perceived ease of use, usefulness, security, and trust 
+
+as  key  factors  for  adopting  electronic  payment  systems. 
+
+Emphasized  that  ease  of  use  and  usefulness  had  a  stronger 
+
+influence than security and trust. 
+
+Malla (2018) 
+
+Found  that  price,  product  quality,  recommendations,  and 
+
+delivery  speed  were  crucial  in  shaping  online  shopping 
+
+behavior,  which  indirectly  affects  the  adoption  of  mobile 
+
+banking for payments. 
+
+Shrestha, Wenan, 
+
+Found that perceived usefulness, perceived risk, and perceived 
+
+Rajkarnikar, and 
+
+ease of use were critical factors in adopting internet banking in 
+
+Jeong (2020) 
+
+Pokhara, consistent with the TAM framework. 
+
+Dangol and Kautish 
+
+Found that lack of robust security protocols and concerns about 
+
+(2019) 
+
+cyber fraud hindered the adoption of e-commerce and electronic 
+
+payments  in  Nepal,  emphasizing  the  need  for  improved 
+
+security. 
+
+Subba (2024) investigated the role of fintech and mobile banking in Nepal’s digital economy 
+
+and recognized the significant potential for mobile banking adoption. However, the report 
+
+also pointed out that the lack of interoperability across different payment systems and weak 
+
+regulatory frameworks remained key obstacles. These limitations continue to impede the 
+
+broader use of mobile banking for online retail payments, despite its rising popularity in 
+
+other countries (Subba, 2024). 
+
+ 
+ 
+27 
+
+Pokharel, Adhikari, and Mishra (2024) discovered that perceived utility and attitude towards 
+
+mobile banking strongly affected behavioral intention in the Kathmandu Valley. According 
+
+to their research, both perceived ease of use and perceived usefulness were major drivers in 
+
+determining users’ views towards mobile banking, and these attitudes greatly affected their 
+
+intentions to embrace mobile banking for online transactions. This conclusion is consistent 
+
+with the Technology Acceptance Model (TAM), which implies that user attitudes are crucial 
+
+in the adoption process. 
+
+Shrestha et al. (2023) performed in Pokhara found perceived ease of use, perceived utility, 
+
+and perceived danger as the key variables impacting online banking adoption. The study 
+
+indicated  that  addressing  these  variables,  notably  decreasing  perceived  security  threats, 
+
+would enhance the possibility of customers embracing internet banking for transactions. It 
+
+also noted that the simplicity of use and the perceived benefits of mobile banking have a key 
+
+impact in determining consumers' inclinations to utilize online banking services. 
+
+Timilsina  (2022)  studied  the  hurdles  to  electronic  payment  acceptance  in  Kathmandu, 
+
+specifically focused on security concerns and trust difficulties. The survey indicated that 
+
+many consumers were hesitant to accept digital payment methods owing to worries about 
+
+privacy  and  financial  security.  This  underlines  a  fundamental  hurdle  in  the  adoption  of 
+
+mobile banking, where trust and security are crucial elements affecting customer behavior. 
+
+Timilsina’s findings imply that overcoming these hurdles needs addressing user concerns 
+
+linked to security and trust through enhanced procedures and increased openness. 
+
+Pokhrel, Adhikari, and Mishra (2020) performed a research in Kathmandu Valley to assess 
+
+the use of mobile banking. Using Davis’ Technology Acceptance Model (TAM), the study 
+
+demonstrated that perceived utility and attitude towards mobile banking strongly affected 
+
+users’ behavioral intention to utilize mobile banking. Additionally, perceived simplicity of 
+
+use favorably influenced attitude towards mobile banking. The study implies that boosting 
+
+knowledge about the value of mobile banking might drive higher adoption among Nepali 
+
+customers, prompting lenders to invest in awareness initiatives to increase user engagement. 
+
+Timilsina (2020) evaluated user views of electronic payment systems in Kathmandu Valley. 
+
+The study indicated that perceived ease of use, perceived utility, perceived security, and 
+
+perceived trust were key variables affecting the adoption of electronic payment systems. The 
+
+ 
+28 
+
+research  revealed  a  hesitation  towards  digital  payments,  attributing  this  to  limited 
+
+accessibility,  security  concerns,  and  trust  difficulties.  The  survey  also  indicated  that 
+
+simplicity of use and usefulness were bigger variables than security and trust in influencing 
+
+users’ propensity to participate with digital payments. 
+
+Malla (2018) focuses on the online purchasing behavior of young customers in Kathmandu, 
+
+exploring  factors  that  impact  online  shopping  decisions.  The  study  revealed  numerous 
+
+significant elements impacting online buying behavior, including pricing, product quality, 
+
+referrals  from  friends  and  family,  ratings,  corporate  reputation,  customer  service,  and 
+
+delivery speed. The research also stressed that the accuracy of product descriptions, fast 
+
+delivery,  and  diversity  of  payment  choices  were  significant  in  determining  consumer 
+
+happiness and their desire to engage in online buying. 
+
+Shrestha, Wenan, Rajkarnikar, and Jeong (2020) studied consumers’ views towards online 
+
+banking  in  Pokhara,  utilizing  the  TAM  framework  to  measure  characteristics  including 
+
+perceived  ease  of  use,  perceived  utility,  and  perceived  risk.  The  study  indicated  that 
+
+perceived utility, perceived danger, and perceived ease of use directly affected customers' 
+
+adoption of online banking. These findings correspond with the wider TAM framework, 
+
+which  implies  that  these  factors  are  key  in  determining  the  viability  of  online  banking 
+
+services in undeveloped nations like Nepal. 
+
+Dangol and Kautish (2019) evaluated IT security-related concerns and difficulties in Nepal’s 
+
+electronic payment system. The study indicated that consumers’ perceptions of vulnerability 
+
+were severely  influenced by a lack of adequate security mechanisms, and worries about 
+
+cyber fraud hampered the broad adoption of e-commerce and electronic payments in Nepal. 
+
+This  underscores  the  necessity  of  addressing  security  concerns  to  create  confidence  and 
+
+encourage broader involvement in digital payment systems. 
+
+2.3 Research Gap 
+
+The financial industry in Nepal has considerable issues due to increased competition from 
+
+both  banks  and  non-banking  firms,  driving  a  high  desire  for  enhanced  services  via 
+
+globalization.  While  financial  institutions  are  aggressively  attempting  to  deploy  mobile 
+
+banking services, major gaps exist in the effective and efficient delivery of digital payments 
+
+via  mobile  banking  (Subba,  2024).  Existing  research  has  not  effectively  addressed  the 
+
+ 
+29 
+
+fundamental  difficulties  that  prevent  the  broad  adoption  of  mobile  banking  for  online 
+
+payments, notably the factors that impact users' desire to utilize these services. This gap in 
+
+knowledge  is  crucial  since  mobile  banking,  despite  being  available,  is  not  completely 
+
+adopted by all prospective users in Nepal due to concerns about security, convenience of 
+
+use, and perceived advantages (Pokharel et al., 2024; Timilsina, 2022). 
+
+Several  studies  have  studied  the  impact  of  perceived  risk,  convenience,  and  perceived 
+
+rewards in mobile banking adoption (Shrestha et al., 2023; Shrestha et al., 2020), but little 
+
+attention  has  been  devoted  to  the  integration  of  these  factors  in  the  context  of  Nepal’s 
+
+distinctive mobile banking environment. For instance, whereas perceived ease of use and 
+
+perceived  utility  have  been  found  to  influence  mobile  banking  adoption  internationally, 
+
+these  characteristics  have  not  been  properly  explored  in  Nepal,  where  cultural  and 
+
+infrastructural issues may effect user behavior differently (Pokhrel et al., 2020). Moreover, 
+
+although  mobile  banking  services  are  becoming  available,  the  lack  of  knowledge  and 
+
+comprehension of these services remains a significant obstacle (Timilsina, 2020). 
+
+This study intends to fill these gaps by investigating the essential factors impacting mobile 
+
+banking adoption for online payments in Nepal. It will explore how characteristics such as 
+
+transaction  ease,  user  experience,  user-friendly  design,  perceived  risk,  and  perceived 
+
+rewards effect customers' propensity to utilize mobile banking (Shanmugam et al., 2018; 
+
+Benoit et al., 2023). The research will also give insights into the challenges to adoption, 
+
+concentrating on trust, security, and system interoperability concerns (Dangol & Kautish, 
+
+2019).  By  doing  so,  this  study  intends  to  bridge  the  existing  information  vacuum  in 
+
+electronic banking adoption in Nepal and give practical recommendations to enhance mobile 
+
+banking services and encourage their broader usage for digital payments. 
+
+ 
+30 
+
+CHAPTER III 
+
+RESEARCH METHODOLOGY 
+
+This chapter primarily explains the research approach and technique utilized in the current 
+
+research study, especially in regard to the research design and the data gathering processes. 
+
+Research  methodology  refers  to  the  many  techniques  and  practices  employed  by  the 
+
+researcher in the complete aspect of the investigation. A research technique helps to tackle 
+
+research issues in a methodical fashion. It provides up an overarching plan related with a 
+
+research.  It  gives  a  fundamental  foundation  on  which  the  investigation  is  built.  Before 
+
+providing the analysis and interpretation of data, it is vital that study technique be stated 
+
+first.  In  the  lack  of  technique,  it  is  conceivable  that  the  findings  reached  may  be 
+
+misconstrued. This chapter has been established and constructed as a guideline or a strategy 
+
+for the attainment of target which is outlined in the first chapter. The fundamental purpose 
+
+of this chapter is to lead chapter four for data presentation, descriptive and empirical analysis 
+
+of mobile banking selection criteria for online purchasing. 
+
+3.1 Research Design 
+
+The research adopts a descriptive research approach to examine the factors impacting mobile 
+
+banking choices for online retail payments in Nepal. This design gives an in-depth insight 
+
+of numerous factors, such as transaction convenience, user experience, perceived risk, and 
+
+perceived rewards, by documenting their present state and connection without modifying 
+
+them. The technique is suitable for describing the predominant elements that impact mobile 
+
+banking uptake in the context of online buying. Additionally, a causal-comparative study 
+
+methodology  is  utilized  to  evaluate  potential  cause-and-effect  links  between  distinct 
+
+elements. For example, it analyzes how perceptions of ease of use or security issues effect 
+
+the choice to use mobile banking. 
+
+A quantitative method is utilized in the study, with data collected using a self-administered 
+
+survey  disseminated  via  Google  Forms.  The  study  contains  questions  aimed  to  measure 
+
+important  aspects  impacting  mobile  banking  usage,  such  as  ease  and  security.  A 
+
+convenience sampling strategy is used to pick respondents, guaranteeing that data may be 
+
+acquired easily from a large sample. The research will employ statistical analysis to analyze 
+
+the links between independent  and dependent  variables, offering useful insights  into the 
+
+factors that drive mobile banking uptake in Nepal. This technique coincides with the study’s 
+
+ 
+aims of studying and evaluating the factors that influence the adoption of mobile banking 
+
+31 
+
+for online retail payments. 
+
+3.2 Population and Sample 
+
+The demographic for this study encompasses all mobile banking users in Nepal who utilize 
+
+mobile banking platforms for online purchasing. The research focuses on those who engage 
+
+in  online  transactions  utilizing  mobile  banking  services.  For  the  sample,  a  total  of  227 
+
+respondents were recruited, representing mobile banking users who undertake purchasing 
+
+through online platforms. Convenience sampling, a non-probabilistic sampling approach, 
+
+was chosen owing to time and resource constraints. This method allows for the effective 
+
+collecting of data from varied age groups of mobile banking customers. The surveys were 
+
+delivered  through  several  social  media  sites,  such  as  Facebook,  Viber,  and  Instagram, 
+
+targeting individuals whose email addresses were known to the researcher. 
+
+3.3 Nature and Source of Data 
+
+All Nepali mobile banking users who utilize mobile banking platforms for online buying 
+
+make up the study's population. The study focuses on those who use mobile banking services 
+
+to conduct online transactions. A total of 227 respondents—representing mobile banking 
+
+users  who  purchase  online—were  chosen  for  the  sample.  Due  to  time  and  resource 
+
+limitations, convenience sampling—a non-probabilistic sample technique—was used. This 
+
+method made it possible to gather data from mobile banking customers of all ages in an 
+
+effective manner. Targeting those whose email addresses the researcher knew, the questions 
+
+were disseminated via a variety of social media sites, including Facebook, Instagram, and 
+
+Viber. 
+
+3.4 Instrumentation of Data 
+
+A  questionnaire,  created  by  the  researcher  based  on  the  identification  of  demographic 
+
+features and the pertinent dependent and independent variables acquired from the literature 
+
+review,  served  as  the  main  instrument  for  collecting  data  in  this  study.  The  survey  was 
+
+broken up into two portions and included 26 opinion statements. Demographic information 
+
+such as gender, age, occupation, income level,  degree of  education, frequency of use of 
+
+mobile banking, and online shopping apps were gathered in the first section. A five-point 
+
+Likert  scale  was  used  in  the  second  section  to  quantify  the  dependent  and  independent 
+
+ 
+32 
+
+variables. Respondents were asked to rate their agreement or disagreement with a variety of 
+
+statements, ranging from "Strongly Disagree" to "Strongly Agree." The goal of the research 
+
+was outlined in detail on the questionnaire page, which was sent by email using Google 
+
+Forms. Descriptive and analytical statistical methods were used to evaluate the data, and 
+
+Microsoft Excel and SPSS were used to interpret the results. In order to verify the scale's 
+
+internal consistency, reliability was evaluated using Cronbach's alpha, a commonly used 
+
+technique for assessing numerous scale components. 
+
+3.5 Data collection Procedure 
+
+This study used the survey approach, which is best suited for descriptive research, to gather 
+
+primary data. Respondents received self-administered surveys over email, minimizing in- 
+
+person interaction because of pandemic-related worries. Five important characteristics were 
+
+measured by the closed-ended questions in the questionnaire, which used straightforward 
+
+language to guarantee clear comprehension. Respondents were asked to offer answers based 
+
+on their experiences using mobile banking for online purchasing throughout the two-week 
+
+data collecting period. To guarantee the accuracy of the answers, care was taken to steer 
+
+clear of unclear or biased questions. Several sources were used for secondary data collecting 
+
+in  order  to  bolster  the  research's  theoretical  foundation  and  backdrop.  These  included 
+
+scientific publications and study reports from both domestic and foreign studies, websites 
+
+providing  pertinent  data,  and  textbooks  about  online  buying  behavior.  These  secondary 
+
+sources  served  to  provide  the  context  for  the  primary  data  analysis  and  gave  a  basic 
+
+comprehension of the study issue. 
+
+Reliability Test 
+
+Before the whole data gathering  procedure,  a pilot  test was  carried out  to guarantee the 
+
+validity and reliability of the measuring tool. Cronbach's Alpha, which is frequently used to 
+
+check internal consistency and make sure the scales measure what they are supposed to, was 
+
+used to evaluate the instrument's dependability. The reliability of the instrument was ensured 
+
+by using a threshold of 0.01 for the P-value to evaluate statistical significance (Tavakol & 
+
+Dennick, 2011). The dependability of the instrument was further confirmed by comparing 
+
+the  mean  values  of  the  replies;  scores  more  than  three  indicated  a  favorable  reaction 
+
+(Nunnally  &  Bernstein,  1994).  This  method  made  it  possible  to  guarantee  that  the 
+
+information gathered would be authentic and trustworthy for the research. 
+
+ 
+ 
+Table 5 
+
+Reliability Test 
+
+Variable 
+
+Transaction Convenience 
+
+User Experience 
+
+User Friendly application design and layout 
+
+Perceived Risk 
+
+Perceived Benefit 
+
+33 
+
+Cronbach's Alpha  No. of Items 
+
+0.925 
+
+0.841 
+
+0.907 
+
+0.892 
+
+0.790 
+
+5 
+
+4 
+
+5 
+
+4 
+
+3 
+
+The reliability test findings for the study's variables, as determined by Cronbach's Alpha, 
+
+are shown in Table 5. Higher Cronbach's Alpha ratings indicate more reliability and reflect 
+
+the scales' internal consistency. With five questions and the greatest reliability of 0.925, the 
+
+measure "Transaction Convenience" indicates that participants' perceptions of transaction 
+
+convenience are very consistent. With five items, "User Friendly Application Design and 
+
+Layout"  likewise  demonstrates  excellent  reliability  (0.907),  suggesting  that  respondents 
+
+often assess the mobile banking application's usability and layout. With four items and a 
+
+Cronbach's Alpha of 0.892, the "Perceived Risk" variable likewise exhibits high reliability, 
+
+capturing the steady impression of danger related to mobile banking. With four components, 
+
+"User Experience" has a much lower score of 0.841, but it is still within a respectable range 
+
+for reliability. Lastly, even though "Perceived Benefit" only includes three items and the 
+
+lowest  reliability  (0.790),  it  is  nonetheless  deemed  appropriate  for  social  science  study 
+
+(Nunnally & Bernstein, 1994). These numbers show that the measuring scales are accurate 
+
+for examining the variables in the research. 
+
+3.6 Methods of Analysis 
+
+Investigating the element that determines the mobile banking selection criterion for online 
+
+buying in Nepal is the primary goal of the data analysis in this study. The methods used to 
+
+conduct the analysis in chapter four are covered in this section. To comprehend the results 
+
+and  extrapolate  the  conclusions,  specific  stages  and  procedures  must  be  followed  while 
+
+evaluating data. Only legitimate replies were taken into consideration for the study when all 
+
+of the questionnaires from the respondents were properly collected. Data gathering forms 
+
+will contain the information. The data must be arranged to make some sense so that it may 
+
+be used in the project work later on. 
+
+ 
+ 
+34 
+
+Descriptive Analysis 
+
+Descriptive statistics were used in the first stage of data analysis to provide an overview of 
+
+the  respondents'  attributes  and  the  distribution  of  important  variables.  A  comprehensive 
+
+summary of the sample population, including demographic information like age, gender, 
+
+income  level,  and  frequency  of  mobile  banking  usage,  may  be  presented  thanks  to  this 
+
+method. Frequencies, percentages,  and measures of central  tendency were used to  assist 
+
+categorize the data, which was crucial for comprehending general trends and patterns in 
+
+online purchasing preferences and mobile banking activities. 
+
+Correlation Analysis 
+
+The associations between the independent factors (such as transaction convenience, user 
+
+experience,  and  perceived  risk)  and  the  dependent  variable  (mobile  banking  selection 
+
+criterion for online purchasing) were then determined using correlation analysis. Insights 
+
+into how several elements including convenience, user experience, and risk perception affect 
+
+the  uptake  of  mobile  banking  were  provided  by  this  analysis,  which  also  assisted  in 
+
+determining the direction and strength of relationships. The correlation analysis's findings 
+
+provided a basis for additional hypothesis testing by illuminating the characteristics most 
+
+strongly associated with preferences for mobile banking. 
+
+Regression Analysis 
+
+Multiple regression analysis was used to examine the connections between the variables in 
+
+greater detail. The combined impact of many independent factors on the dependent variable 
+
+of  mobile  banking  selection  criteria  was  evaluated  using  this  methodology.  Taking  into 
+
+account all the variables at once, regression analysis made it possible to identify the elements 
+
+that  significantly  influenced  customers'  decisions  to  utilize  mobile  banking  for  online 
+
+purchasing. The results of the regression analysis provide a thorough understanding of the 
+
+variables impacting the uptake of mobile banking and assisted in validating the hypothesis. 
+
+Multiple Regression Model; 
+
+User Experience= β0 +β1(Transaction Convenience)+ β2(User Friendly Application Design 
+
+& Layout)+ β3(Perceived Risk)+ β4(Perceived Benefit)+ β5(User Experience) + ε 
+
+ 
+ 
+ 
+ 
+35 
+
+Where, 
+
+β0 
+
+= Intercept of the dependent variable 
+
+β1, β2, β3, β4, β5 
+
+= Coefficient of the variables 
+
+ε 
+
+= Error term 
+
+3.7 Theoretical Framework and Definition of Variables 
+
+The previous studies conducted on finding the determinants which helps in an adoption of 
+
+mobile  banking  and  the  factors  influencing  online  shopping  has  helped  to  design  an 
+
+operational framework for the study of mobile banking selection criteria for onlineshopping 
+
+in Nepal. The framework is an adaptive version of Technology Acceptance Model (TAM) 
+
+introduced by Fred Davis in (1986). 
+
+Transaction Convenience 
+
+User Friendly Application 
+Design & Layout 
+
+Perceived Risk 
+
+Perceived Benefit 
+
+User Experience 
+
+Online Shopping 
+
+Source: Davis (1986) and Shrestha et al. (2020) 
+
+Figure 3. Theoretical Framework 
+
+Transaction Convenience 
+
+The  ease  with  which  consumers  may  utilize  mobile  banking  apps  to  execute  their 
+
+transactions  is  reflected  in  transaction  convenience.  It  has  components  like  speed, 
+
+accessibility, and ease of use for actions like payments or money transfers. According to 
+
+research, customers choose systems that save time and effort during payment procedures, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+36 
+
+making transaction convenience one of the most important elements driving the adoption of 
+
+online payments and mobile banking (Shrestha et al., 2023; Timilsina, 2020). Users are more 
+
+likely to embrace and have faith in mobile banking for online buying when the transaction 
+
+procedure is well-optimized. 
+
+User-Friendly Application Design and Layout 
+
+The usability and visual appeal of mobile banking apps are the subjects of this variable. User 
+
+involvement and enjoyment are enhanced by an intuitive layout with simple navigation, eye- 
+
+catching graphics, and little complexity. Studies show that an application's design quality 
+
+has a big influence on user acceptability since better designs are seen as more practical and 
+
+easy to use (Pokharel et al., 2024; Shrestha et al., 2020). Users are more inclined to utilize 
+
+mobile banking for transactions when the UI is both aesthetically pleasant and useful. 
+
+Perceived Risk 
+
+The user's assessment of the possible drawbacks of utilizing mobile banking technologies is 
+
+known  as  perceived  risk.  These  dangers  include  system  instability,  financial  fraud,  and 
+
+illegal data access. Adoption is hampered by high perceived risk since digital transactions 
+
+depend on user confidence in the platform's security and privacy. According to research, 
+
+lowering perceived risk with strong security measures and transparent information can boost 
+
+user confidence and make it easier for people to accept using mobile banking for online 
+
+purchases (Timilsina, 2022; Dangol & Kautish, 2019). 
+
+Perceived Benefit 
+
+The term "perceived benefit" describes the benefits that consumers attach to mobile banking, 
+
+including  increased  accessibility,  cost  effectiveness,  and  convenience.  People  are  more 
+
+likely to embrace innovations that they believe will improve their transaction experiences or 
+
+save them time and effort. As consumers balance the benefits against possible hazards, prior 
+
+research indicates that greater perceived benefits have a beneficial impact on the decision to 
+
+use mobile banking (Pokhrel et al., 2020; Subba, 2024). Providing certain advantages can 
+
+promote broader use of mobile banking services. 
+
+ 
+ 
+ 
+ 
+37 
+
+User Experience 
+
+All  facets  of  the  user's  contact  with  the  mobile  banking  app  are  included  in  the  user 
+
+experience, including functioning, emotional reactions, and satisfaction. Building trust and 
+
+ensuring sustained platform participation requires a satisfying user experience. According 
+
+to studies, user views and intents to use mobile banking for online payments are significantly 
+
+influenced by elements like dependability, smooth operation, and pleasurable interactions 
+
+(Pokharel et al., 2024; Shrestha et al., 2023). User loyalty and happiness are increased by an 
+
+effective and well-designed user experience. 
+
+ 
+ 
+38 
+
+CHAPTER IV 
+
+RESULTS AND DISCUSSION 
+
+The  statistical  findings  produced  by  the  examination  of  the  gathered  data  and  their 
+
+interpretation in order to meet the goals of the study are presented in this chapter. It starts 
+
+with  a  summary  of  the  demographic  characteristics  of  the  respondents,  which  gives 
+
+information on the participants. After that, descriptive analysis is carried out to look at the 
+
+associations  between  dependent  and  independent  variables.  This  includes  frequency 
+
+distribution, means, standard deviations, and correlations. Bivariate correlation is used to 
+
+evaluate hypotheses in inferential analysis. Regression analysis is then used to assess the 
+
+model's  validity,  and  the  results  are  used  to  inform  discussions  and  conclusions.  The 
+
+combined goal of these sections is to investigate the variables affecting Nepal's adoption of 
+
+mobile banking for online purchasing. 
+
+4.1 Respondents Demographic Profile 
+
+The  demographic  analysis  and  interpretation  of  primary  data  gathered  via  surveys  are 
+
+covered in this section. This aids in gaining understanding of the respondents' demographic 
+
+profile.  Gender,  age  group,  occupation,  income,  and  other  details  are  included  in  the 
+
+responder  profile.  There  were  227  genuine  responders  gathered.  The  response  rate  was 
+
+100% as a result. Students, workers, business owners, and other independent contractors 
+
+made  up  the  respondents.  With  the  use  of  tables,  statistics,  and  descriptions,  the  survey 
+
+responses are shown below. 
+
+There is a notable gender gap in the respondents' demographic profile, with 60.8% of them 
+
+being men and 39.2% being women. This suggests that in Nepal, men use mobile banking 
+
+for online buying more frequently. In order to foster inclusion, measures aimed at increasing 
+
+female usage of mobile banking services are necessary, as the gender gap may affect how 
+
+these services are perceived and used. 
+
+The majority of responders (61.2%) are between the ages of 26 and 35, with those between 
+
+the ages of 15 and 25 coming in second (24.2%). This indicates that younger and middle- 
+
+aged  people  are  the  ones  that  use  mobile  banking  the  most,  maybe  as  a  result  of  their 
+
+increased  comfort  level  with  technology  and  online  platforms.  With  just  3.5%  of 
+
+respondents being  between  the  ages of  46  and 55, there may be  a use gap among  older 
+
+ 
+generations, necessitating efforts to raise their level of digital literacy. 
+
+39 
+
+Table 6 
+
+Respondents' Profile Analysis 
+
+Category 
+Gender 
+
+Age (in years) 
+
+Profession 
+
+Income Level of Family 
+(Monthly Income in Rs.) 
+
+Mobile Banking Usage 
+
+Mobile Banking Users 
+
+Subcategory 
+Male 
+Female 
+15-25 
+26-35 
+36-45 
+46-55 
+Employee 
+Self-Employed (Business) 
+Student 
+Unemployed 
+25,000 and below 
+
+Frequency 
+138 
+89 
+55 
+139 
+25 
+8 
+139 
+28 
+56 
+4 
+17 
+
+Percentage 
+60.8 
+39.2 
+24.2 
+61.2 
+11.0 
+3.5 
+61.2 
+12.3 
+24.7 
+1.8 
+7.5 
+
+26,000-50,000 
+51,000-75,000 
+76,000-100,000 
+Above 100,000 
+Always 
+Never 
+Rarely 
+Sometimes 
+Very Often 
+Always 
+Never 
+Rarely 
+Sometimes 
+Very Often 
+Total 
+
+50 
+85 
+34 
+41 
+85 
+3 
+10 
+36 
+93 
+26 
+10 
+31 
+80 
+80 
+227 
+
+22.0 
+37.4 
+15.0 
+18.1 
+37.4 
+1.3 
+4.4 
+15.9 
+41.0 
+11.5 
+4.4 
+13.7 
+35.2 
+35.2 
+100.0 
+
+Source: Survey, 2024 
+
+According to the occupational profile, 61.2% of respondents are employed, indicating that 
+
+working people are more likely to use mobile banking since they have access to resources 
+
+and  are  financially  independent.  24.7%  of  respondents  are  students,  which  reflects  their 
+
+increasing convenience-driven dependence on digital payment methods. However, the low 
+
+percentage of respondents who were self-employed (12.3%) and jobless (1.8%) may point 
+
+to  obstacles  including  a  lack  of  faith  in  digital  payment  systems  or  restricted  access  to 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+
+technology. According to family income levels, the majority of respondents (37.4%) make 
+
+between Rs. 51,000 and Rs. 75,000 per month, with 22% earning between Rs. 26,000 and 
+
+Rs. 50,000. This  distribution suggests that middle-income groups are more likely  to  use 
+
+mobile banking, maybe as a result of affordability and the demand for effective payment 
+
+options. The fact that just 7.5% of people earn less than Rs. 25,000 suggests that adoption is 
+
+limited among lower-income groups, which might be due to a lack of funds or restricted 
+
+access to digital infrastructure. 
+
+The majority of respondents are highly engaged with mobile banking, as seen by the fact 
+
+that 41% use it very frequently and 37.4% use it constantly. Nonetheless, 1.3% never use it 
+
+and  4.4%  use  it  seldom,  indicating  a  tiny  percentage  that  is  still  not  able  to  use  mobile 
+
+banking services. This emphasizes how crucial it is to solve usability and awareness issues 
+
+in order to increase adoption even further. Finally, 35.2% of respondents said they used 
+
+mobile  banking  "sometimes"  or  "very  often,"  showing  a  balanced  usage  pattern,  when 
+
+questioned about their overall mobile banking user experience. But 4.4% never use mobile 
+
+banking, and 13.7% use it infrequently. According to these figures, even if mobile banking 
+
+is  becoming  more  popular,  some  customers  continue  to  have  difficulties,  necessitating 
+
+customized solutions to improve system dependability and user happiness. 
+
+Table 7 
+
+Propose of Mobile Banking Usages 
+
+Mobile Banking Usage Purpose 
+For Online Statement 
+Utilities Payment 
+Account Transfer 
+Online Purchase 
+Purchase Groceries 
+Book Flight Tickets 
+Book Movie Tickets 
+Demat 
+Mero Share 
+Pay Government Revenue 
+Pay School Fees 
+Pay EMI 
+Fast Foods 
+Source: Survey, 2024 
+
+Frequency 
+117 
+160 
+188 
+154 
+86 
+120 
+81 
+127 
+136 
+46 
+33 
+41 
+97 
+
+Percentage 
+52 
+71.1 
+83.6 
+68.4 
+38.2 
+53.3 
+36 
+56.4 
+60.4 
+20.4 
+14.7 
+18.2 
+43.1 
+
+Out of the 25 sample, 117 respondents, or 52%, use mobile banking for online statements; 
+
+ 
+ 
+41 
+
+160, or 71.1%, use it for utility payments; 188, or 83.6%, use it for account transfers; 154, 
+
+or 68.4%, use it for online purchases; 86, or 38.2%, use it for grocery purchases; and 120, 
+
+or  53.3%,  use  it  to  book  airline  tickets,  according  to  Table  4.7  above.  Additionally,  81 
+
+people, or 36%, use mobile banking to book movie tickets, 127 people, or 56.4%, use it for 
+
+Demat, 136 people, or 60.4%, use it for Mero Share, 46 people, or 20.4%, use it to pay 
+
+government revenue, 33 people, or 14.7%, use it to pay for school fees, 41 people, or 18.2%, 
+
+use it to pay for EMIs, and 97 respondents, or 3.1%, use it to buy fast food. 
+
+Table 8 
+
+Selection of Website/Application Used 
+
+Website/Application Used 
+
+Frequency 
+
+Percentage 
+
+Daraz 
+
+Sastodeal 
+
+Muncha 
+
+Nepbay 
+
+Shopmandu 
+
+Bahtbhateni Online 
+
+Urbangirl 
+
+Gogazzab 
+
+Hamrobazar 
+
+Kheti 
+
+182 
+
+68 
+
+21 
+
+11 
+
+8 
+
+55 
+
+17 
+
+11 
+
+58 
+
+18 
+
+86.3 
+
+32.2 
+
+10 
+
+5.2 
+
+3.8 
+
+26.1 
+
+8.1 
+
+5.2 
+
+27.5 
+
+8.5 
+
+The frequency and proportion of websites and applications utilized for online purchasing 
+
+are displayed in Table 8. 211 of the 225 responders responded to the question. In this case, 
+
+182 respondents, or 86.30% of the respondents, use Daraz more often than any other website 
+
+or  application.  32.2%  of  people  use  Sastodeal,  27.50%  use  Hamrobazar,  26.10%  use 
+
+Bhatbhateni Online, 10% use Muncha, 5.2% use Nepbay, 3.8 use Shopmandu, 8.1% use 
+
+Urbangirl,  5.2%  use  Gogazzab,  and  8.5%  use  Kheti.  Because  there  were  more  options 
+
+accessible to the responder, allowing them to select more options, the overall percentage of 
+
+the website used is higher than 100%. Respondents often shop on the Daraz, Hamrobazar, 
+
+Sastodeal, and Bhatbhateni Online applications. As a result, these websites are growing in 
+
+popularity and meeting the needs of online buyers. 
+
+ 
+ 
+42 
+
+4.2 Descriptive Analysis 
+
+This section of the study describes the descriptive analysis of the information gathered from 
+
+the participants via the questionnaires used in the investigation. The field of quantitatively 
+
+characterizing  the  primary  aspects  of  data  collecting  is  known  as  descriptive  statistics. 
+
+Simply said, descriptive statistics provide an overview of the sample and the observations 
+
+that have been made. Descriptive analysis uses statistical metrics and methods to interpret 
+
+the data. The mean, frequency, and standard deviation are those statistical measurements. 
+
+The researcher can determine which way the typical response falls on the Likert scale by 
+
+looking at the mean value. The average difference from the mean is shown by the standard 
+
+deviation. The majority of data would cluster around the mean if the standard deviation was 
+
+low. A large standard deviation would suggest that there was a lot of diversity in the replies. 
+
+The tabular form is used to display this mean and standard deviation. The respondents were 
+
+given "Likert Scale" questions for this purpose, which ranged from 1 to 5 in order of the 
+
+following  responses:  1  =  Strongly  Disagree  2  =  Disagree  3  =  Indecisive  4  =  Consent 
+
+5=Strongly Agree for all factors in survey study. There were 227 responders (N) to each 
+
+question.  The  descriptive  statistics  and  questions  pertaining  to  each  determinant  are 
+
+displayed below, indicating the respondents' degree of agreement. 
+
+Table 9 
+
+Perception towards Online Shopping 
+
+Code  Statement 
+
+Mean 
+
+SD 
+
+OS1 
+
+I generally tend to purchase online which offers wide variety of 
+
+3.78 
+
+0.893 
+
+products and services. 
+
+OS2 
+
+I generally prefer the online shopping which saves my time and 
+
+3.97 
+
+0.982 
+
+effort. 
+
+OS3 
+
+I like to buy online with convenient transaction process. 
+
+4.04 
+
+1.015 
+
+OS4 
+
+I prefer the website and applications with higher customer ratings.  3.93 
+
+0.977 
+
+OS5  Due to the prompt payment procedure, my intention for mobile 
+
+3.87 
+
+0.955 
+
+banking selection gets highly influenced. 
+
+Weighted Average Online Shopping 
+
+3.918  0.9644 
+
+The descriptive analysis of online purchasing is displayed in the result above. The standard 
+
+deviation is 0.9644 and the overall mean is 3.918. The average respondents agree on the 
+
+ 
+ 
+ 
+43 
+
+following views on internet purchasing, as indicated by Table 4.3.1, where the mean of all 
+
+variables is greater than 3. Online shopping saves me time and effort, and I prefer websites 
+
+and applications with  higher customer ratings.  I also  prefer online shopping because it's 
+
+convenient  and  offers  a  wide  variety  of  products  and  services.  Finally,  my  intention  to 
+
+choose mobile banking is greatly influenced by the quick payment process. 
+
+The  most  often  accepted  statement,  "I  like  to  buy  online  with  convenient  transaction 
+
+process," is shown by the highest mean of 4.04. The statement, "I generally tend to purchase 
+
+online,  which  offers  wide  variety  of  products  and  services,"  was  less  agreed  upon  by 
+
+respondents, as seen by the lowest mean of 3.78. Respondents' responses, such as "I like to 
+
+buy online with convenient transaction process," deviate more from the norm. 
+
+Table 10 
+
+Perception towards Transaction Convenience 
+
+Code 
+
+Statement 
+
+Mean 
+
+SD 
+
+TC1 
+
+It is easy to use mobile banking for online shopping. 
+
+4.07 
+
+0.987 
+
+TC2 
+
+The payment transaction process of mobile banking for 
+
+4.01 
+
+0.941 
+
+online shopping is quick. 
+
+TC3 
+
+It  is  easy  to  monitor  transaction  history  of  online 
+
+4.03 
+
+0.924 
+
+shopping in mobile applications. 
+
+TC4 
+
+It is easy to access the mobile banking payment option 
+
+3.73 
+
+0.988 
+
+in online shopping sites. 
+
+TC5 
+
+It takes less effort to perform payment transaction using 
+
+3.98 
+
+0.892 
+
+mobile banking applications for online shopping. 
+
+Weighted Average Transaction Convenience 
+
+3.964 
+
+0.9464 
+
+The descriptive statistics of shoppers' transaction convenience concerns during a transaction 
+
+are displayed in the research of transaction convenience descriptive statistics. Transaction 
+
+convenience  has  an  overall  mean  of  3.964  and  a  standard  deviation  of  0.9464.  This 
+
+demonstrates the necessity for mobile banking to facilitate transactions for Nepali internet 
+
+shoppers. In Table 4.10, the mean of all variables is greater than 3, indicating that all of the 
+
+ 
+ 
+ 
+ 
+ 
+44 
+
+statements were accepted by the respondents. The majority of respondents concur that "it is 
+
+easy to use mobile banking for online shopping," as indicated by the highest mean of 4.07. 
+
+Respondents' agreement with the statement "It is easy to access the mobile banking payment 
+
+option  in  online  shopping  sites"  is  lower,  as  indicated  by  the  lowest  mean  of  3.73.  The 
+
+statement "It is easy to access the mobile banking payment option in online shopping sites" 
+
+is where respondents deviate the most, though. 
+
+Table 11 
+
+Perception towards User Experience 
+
+Code 
+
+Statement 
+
+Mean 
+
+SD 
+
+The  mobile  banking  application  I  use  is  interactivewith 
+
+UE1 
+
+high engagement rate. 
+
+3.58 
+
+0.925 
+
+UE2 
+
+UE3 
+
+UE4 
+
+I  feel  the  mobile  banking  application  provide effective 
+
+grievances  and  feedback  processing  for issues  related  to 
+
+online shopping. 
+
+3.46 
+
+1.010 
+
+Transaction  using    mobile  banking    application  gives 
+
+information on merchants and product/service price. 
+
+3.55 
+
+0.960 
+
+The information and advertisement in mobile bankingsites 
+
+are adequate to facilitate online shopping. 
+
+Weighted Average User Experience 
+
+3.39 
+
+1.044 
+
+3.495 
+
+0.98475 
+
+Table 4.11, where the mean of all variables is  greater than 3, indicates that respondents 
+
+concurred that user experience plays a significant role in encouraging online consumers to 
+
+utilize mobile banking for their purchases. All of the statements have received agreement 
+
+from the responders. With the highest mean of 3.58, the statement "The mobile  banking 
+
+application I use is interactive with high engagement rate" indicates that the majority of 
+
+respondents concur with it. 
+
+With the lowest mean of 3.39, the statement "The information and advertisement in mobile 
+
+banking  sites  are  adequate  to  facilitate  online  shopping"  indicates  a  larger  degree  of 
+
+disagreement among respondents. The statement, "The information and advertisement in 
+
+mobile banking sites are adequate to facilitate online shopping," is also more likely to be 
+
+deviated from by respondents. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+
+Table 12 
+
+Perception towards Users Friendly Application Design and Layout 
+
+Code 
+UF1 
+
+UF2 
+
+UF3 
+UF4 
+UF5 
+
+Statement 
+
+The mobile  banking  application  is  attractive  and 
+looks appealing. 
+The language use in the mobile banking applications 
+is simple. 
+The application is easy to learn for using. 
+The mobile application is multifunctional. 
+I can  rely  on  using  mobile  banking  for  payment 
+option for online shopping. 
+Weighted  Average  User  Friendly  Application 
+Design and Layout 
+
+Mean 
+3.67 
+
+3.88 
+
+3.87 
+3.81 
+3.85 
+
+SD 
+0.969 
+
+0.940 
+
+0.941 
+0.970 
+0.981 
+
+3.816 
+
+0.9602 
+
+According to the analysis of descriptive data on user-friendly application design and layout, 
+
+the standard deviation is 0.9602 and the aggregate mean is 3.816. Table 4.12's mean of all 
+
+variables is greater than 3, indicating that respondents agreed with every assertion regarding 
+
+user-friendly application design and layout. The statement that respondents agree with the 
+
+most, "The language use in the mobile banking applications is simple," has the highest mean 
+
+(3.88), while the statement that respondents disagree with the most, "The mobile banking 
+
+application is attractive and looks appealing," has the lowest mean (3.67). The respondents' 
+
+remark,  "I  can  rely  on  using  mobile  banking  for  payment  option  for  online  shopping," 
+
+deviates significantly from the norm, though. 
+
+Table 13 
+
+Perception towards Perceived Risk 
+
+Code 
+
+Statement 
+
+Mean 
+
+PR1 
+
+I  feel  it  is  secured  to  use  mobile  banking  for  online 
+
+3.70 
+
+shopping. 
+
+SD 
+
+0.971 
+
+PR2 
+
+I  trust  mobile  banking  as  payment  option  for  online 
+
+3.82 
+
+0.859 
+
+shopping. 
+
+PR3 
+
+Privacy  is  maintained  for  all  of  my  online  purchase 
+
+3.65 
+
+0.954 
+
+transaction. 
+
+PR4 
+
+I feel there is no financial transaction risk present while 
+
+3.42 
+
+1.034 
+
+using mobile banking for online shopping. 
+
+Weighted Average Perceived Risk 
+
+3.6475 
+
+0.9545 
+
+ 
+ 
+ 
+ 
+ 
+46 
+
+Descriptive statistics of perceived risk are studied to determine the effects of risk, privacy, 
+
+payment options, and security. With a standard deviation of 0.9545, the overall mean for 
+
+individualized assurance is 3.6475. According to Table 4.13, where the mean of all variables 
+
+is  more  than  3,  respondents  felt  that  perceived  risk  is  a  significant  consideration  when 
+
+purchasing online. 
+
+All of the statements have received agreement from the responders. With the highest mean 
+
+of  3.82,  the  statement  "I  trust  mobile  banking  as  payment  option  for  online  shopping" 
+
+indicates that the majority of respondents concur with it. Additionally, the answer with the 
+
+lowest mean (3.42), "I feel there is no financial transaction risk present while using mobile 
+
+banking  for  online  shopping,"  indicates  that  respondents  are  more  disagreeing.  The 
+
+statement, "I feel there is no financial transaction risk present while using mobile banking 
+
+for online shopping," is where respondents deviate the most, though. 
+
+Table 14 
+
+Perception towards Perceived Benefit 
+
+Code 
+
+Statement 
+
+Mean 
+
+PB1 
+
+Online shopping is cost effective while using mobile 
+
+3.56 
+
+SD 
+
+1.009 
+
+banking. 
+
+PB2 
+
+Online  shopping  using  the  mobile  banking provides 
+
+3.55 
+
+0.969 
+
+various offers. 
+
+PB3 
+
+I can shop anytime anywhere at my own convenience. 
+
+3.91 
+
+0.948 
+
+Weighted Average Perceived Benefit 
+
+3.67333 
+
+0.97533 
+
+When using mobile banking for online purchasing, the findings display descriptive statistics 
+
+of perceived advantage that explain cost effectiveness, a variety of offers, and simplicity. 
+
+Perceived  benefit  has  an  overall  mean  of  3.673  and  a  standard  deviation  of  0.975.  The 
+
+majority  of  respondents  concur  with  the  statement  because  the  mean  value  of  all  the 
+
+statements is greater than 3. Nonetheless, the respondents' acceptance of the statement "I 
+
+can shop anytime, anywhere, at my own convenience" is shown by the highest mean value 
+
+of 3.91. Additionally, the statement "Online shopping using the mobile banking provides 
+
+various offers" has the lowest mean (3.55), indicating a larger degree of disagreement among 
+
+respondents. The statement "Online shopping is cost effective while using mobile banking" 
+
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+
+is where answers deviate the most, though. 
+
+4.3 Correlation Analysis 
+
+The statistical analysis conducted to confirm the assumptions and determine the importance 
+
+of using mobile banking for online purchasing is covered in this portion of the investigation. 
+
+To  determine  if  the  independent  and  dependent  variables  were  correlated,  the  Pearson 
+
+correlation  test  was  used.  The  hypotheses  were  tested  using  online  shopping  as  the 
+
+dependent  variable  and  Transaction  Convenience,  User  Experience,  User  Friendly 
+
+Application Design and Layout, Perceived Risk, and Perceived Benefit as the independent 
+
+variables. A straightforward bivariate analysis was also performed in addition to the Pearson 
+
+correlation  test  to  ascertain  the  relative  significance  of  each  factor  influencing  online 
+
+shopping  through  mobile  banking.  To  determine  the  link  between  the  dependent  and 
+
+independent variables in this research, five hypotheses were developed. In a similar vein, 
+
+this section also addresses the degree of correlation between the variables being studied. To 
+
+find the positive association, Pearson's correlation analysis was used. A positive correlation 
+
+shows that the connection is going in the right direction, with one growing in response to 
+
+the other's growth. The opposite of the aforementioned is shown by a negative correlation, 
+
+which occurs when one falls while the other rises. 
+
+Table 15 
+
+Correlation Analysis 
+
+Independent 
+
+Dependent 
+
+Pearson 
+
+Sig. 
+
+N 
+
+Remarks 
+
+Variables 
+
+Variable 
+
+Correlation 
+
+(2-tailed) 
+
+Transaction 
+
+Online 
+
+0.731 
+
+0.000 
+
+227 
+
+Positive 
+
+Convenience 
+
+Shopping 
+
+Significant 
+
+User Experience 
+
+Online 
+
+0.548 
+
+0.000 
+
+227 
+
+Positive 
+
+Shopping 
+
+Significant 
+
+User Friendly 
+
+Online 
+
+0.621 
+
+0.000 
+
+227 
+
+Positive 
+
+Application Design 
+
+Shopping 
+
+Significant 
+
+Perceived Risk 
+
+Online 
+
+0.534 
+
+0.000 
+
+227 
+
+Positive 
+
+Shopping 
+
+Significant 
+
+Perceived Benefit 
+
+Online 
+
+0.589 
+
+0.000 
+
+227 
+
+Positive 
+
+Shopping 
+
+Significant 
+
+ 
+ 
+ 
+48 
+
+The  findings  of  a  correlation  study  that  was  done  to  evaluate  the  connections  between 
+
+various independent factors and online buying behavior are shown in the table. Pearson's 
+
+correlation coefficient, which measures the direction and strength of the association, is used 
+
+to measure each variable. In order to be sure that the observed links are not the result of 
+
+chance, the significance values show if these relationships are statistically significant. 
+
+Online purchasing and transaction convenience have a substantial positive link, as seen by 
+
+the  Pearson  correlation  value  of  0.731.  This  implies  that  online  buying  tends  to  rise  in 
+
+tandem with improvements in transaction convenience, or how simple it is for customers to 
+
+finish their transactions. More frequent or probable online buying is correlated with a higher 
+
+transaction convenience score. This association is statistically significant, as shown by the 
+
+significance  value  of  0.000,  which  supports  the  idea  that  one  of  the  main  reasons  why 
+
+customers pick online shopping platforms is the ease of financial transactions. 
+
+Online buying and user experience have a somewhat favorable link, as seen by the Pearson 
+
+correlation of 0.548. This suggests that improved user experiences—like simple navigation, 
+
+quick  loading  times,  and  unambiguous  interfaces—improve  online  buying  habits.  This 
+
+association is also statistically significant, as seen by the p-value of 0.000, indicating that 
+
+user experience is a key factor in determining consumers' choices to purchase online. Users 
+
+are more likely to keep using a mobile banking or shopping app for their buying needs if 
+
+they have a good experience with it. 
+
+Online buying and user-friendly application style and design have a moderately to strongly 
+
+favorable connection (0.621). This implies that customers are more inclined to purchase 
+
+online  when  a  mobile  banking  or  shopping  app  has  an  intuitive,  user-friendly,  and 
+
+aesthetically pleasing design. The value of a well-designed app in promoting online buying 
+
+habits is further supported by the statistical significance of 0.000. In this case, customer trust 
+
+and  happiness  are  directly  impacted  by  the  design  of  the  user  interface  (UI)  and  user 
+
+experience (UX), which in turn influences use. 
+
+Online  buying  and  perceived  risk  have  a  somewhat  favorable  correlation  (0.534).  This 
+
+positive  correlation  implies  that  consumers  are  more  likely  to  continue  online  shopping 
+
+when they believe the perceived risk is effectively managed (for example, through secure 
+
+payment systems or return policies), even though perceived risk is frequently associated 
+
+ 
+49 
+
+with the fear of fraud, data theft, or product dissatisfaction. Reducing perceived risk (via 
+
+trust-building  strategies  like  secure  payment  gateways)  may  increase  online  purchasing 
+
+participation, as seen by the significance value of 0.000, which shows that perceived risk 
+
+has a statistically significant impact on consumer buying behavior. 
+
+Online purchasing and perceived benefit have a somewhat favorable association, as shown 
+
+by the Pearson correlation of 0.589. The advantages that customers believe they get from 
+
+shopping online, such as ease, lower costs, or access to a greater selection of goods, are 
+
+referred to as perceived benefits. Online buying is more likely when the perceived advantage 
+
+is bigger. The statistical significance of 0.000 emphasizes how crucial it is to highlight the 
+
+alleged advantages—like savings, ease, or special deals—in order to encourage customers 
+
+to  make  purchases  online.  Overall,  there  is  a  positive  and  statistically  significant  link 
+
+between online buying behavior and all of the independent variables: transaction ease, user 
+
+experience, user-friendly application design, perceived risk, and perceived reward. These 
+
+results imply that enhancing these elements may greatly raise the probability that customers 
+
+would purchase online. These variables are significant factors in determining the decision 
+
+to purchase online since the associations are supported by statistically significant p-values 
+
+(all 0.000). 
+
+4.4 Regression Analysis 
+
+One  statistical  method  for  determining  the  associations  between  variables  is  regression 
+
+analysis.  This  section  ascertains  which  independent  variables  account  for  outcome 
+
+variability, the extent to which independent variables and the dependent variable account 
+
+for dependent  variable variability, and which variables are significant  (in comparison  to 
+
+other variables) in explaining the dependent variable's variability. The effects of independent 
+
+factors  (transaction  convenience,  user  experience,  user-friendly  application  design  and 
+
+layout, perceived risk, and perceived benefit) on the dependent variable (online shopping) 
+
+were investigated using linear regressions. 
+
+Table 16 
+
+Model Summary 
+
+Model 
+
+R 
+
+R Square 
+
+Adjusted R Square 
+
+Std. Error of the Estimate 
+
+1 
+
+.750 
+
+.563 
+
+.553 
+
+.53778 
+
+ 
+ 
+50 
+
+Predictors:  (Constant),  Transaction  Convenience,  User  Experience,  User  Friendly 
+
+Application Design and Layout, Perceived Risk and Perceived Benefit. 
+
+The statistical measure of the data's proximity to the fitted regression line is called R-square. 
+
+For multiple regressions, it is sometimes referred to as the coefficient of determination or 
+
+the coefficient of multiple determinations. 
+
+R-squared is simply defined as the proportion of the response variable fluctuation that can 
+
+be  explained  by  a  linear  model.  R-squared  is  consistently  in  the  range  between  0%  and 
+
+100%. Generally speaking, the better the model matches the data, the greater the R-square. 
+
+Table  4.20  shows  that  the  independent  factors  of  Transaction  Convenience,  User 
+
+Experience, User Friendly Application Design and Layout, Perceived Risk, and Perceived 
+
+Benefit account for 56.30% of the variance in the dependent variable of online buying. 
+
+The selection  criteria for mobile banking  and online shopping also  have  a high  positive 
+
+correlation, as shown by the R-value of 0.750. The standard error of the estimate shows that 
+
+there  is  0.53778  units  of  variability  in  the  observed  value  of  online  shopping  from  the 
+
+regression line. 
+
+Table 17 
+
+Model Summary 
+
+Model 
+
+Sum of Squares 
+
+Regression 
+
+Residual 
+
+Total 
+
+82.200 
+
+63.915 
+
+146.116 
+
+df 
+
+5 
+
+221 
+
+226 
+
+Mean Square 
+
+F 
+
+Sig. 
+
+16.440 
+
+56.845 
+
+0.000 
+
+.289 
+
+Predictors:  (Constant),  Transaction  Convenience,  User  Experience,  User  Friendly 
+
+Application Design and Layout, Perceived Risk and Perceived Benefit. 
+
+Dependent Variable: Online shopping 
+
+At the 1% level of significance, the model is significant since the p-value is smaller than 
+
+alpha,  or  0.000<  0.01.  Therefore,  because  the  multiple  linear  model  is  effective  in 
+
+elucidating the cause-and-effect connection, it may be utilized to evaluate data. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+51 
+
+Table 18 
+
+Regression Coefficients Analysis 
+
+Model 
+
+Unstandardized 
+
+Collinearity Statistics 
+
+(Constant) 
+
+Transaction 
+
+convenience 
+
+User experience 
+
+User friendly 
+
+application design and 
+
+layout 
+
+Perceived risk 
+
+Perceived benefit 
+
+Coefficients 
+
+T 
+
+Sig. 
+
+B 
+
+Std. Error 
+
+Tolerance 
+
+VIF 
+
+.841 
+
+.555 
+
+-.025 
+
+.077 
+
+.192 
+
+.073 
+
+.071 
+
+.076 
+
+4.372 
+
+.000 
+
+7.630 
+
+.000 
+
+.353 
+
+2.835 
+
+-.354 
+
+.724 
+
+1.005 
+
+.316 
+
+.388 
+
+.326 
+
+2.575 
+
+3.070 
+
+.002 
+
+.183 
+
+.066 
+
+.066 
+
+-.003 
+
+.998 
+
+2.758 
+
+.006 
+
+.421 
+
+.433 
+
+2.374 
+
+2.307 
+
+Dependent Variable: Online shopping 
+
+The  regression  analysis  table  shows  the  effects  of  many  independent  factors  on  online 
+
+buying behavior. The coefficients, t-values, and p-values are used to evaluate the statistical 
+
+significance  and  influence  of  each  variable.  "Transaction  Convenience"  has  a  favorable 
+
+correlation with online buying, as seen by its coefficient of 0.555. The p-value of 0.000 and 
+
+the t-value of 7.630 indicate that this variable significantly influences customers' decisions 
+
+to  purchase  online.  This  finding  suggests  that  consumers  are  more  inclined  to  purchase 
+
+online when transaction procedures are seen as easy. The tolerance of 0.353 and the VIF 
+
+(Variance Inflation Factor) value of 2.835, which is well below the threshold of 10, show 
+
+that multicollinearity is not a problem, guaranteeing the dependability of the coefficient for 
+
+transaction convenience. 
+
+Online buying behavior is not significantly impacted by the "User Experience" variable, 
+
+even if its coefficient is positive at -0.025. The strong p-value of 0.724 and the t-value of - 
+
+0.354 indicate that user experience, as this model defines it, has no discernible impact on 
+
+consumers' decisions to purchase online. This finding would suggest that customer behavior 
+
+is  more  influenced  by  variables  other  than  user  experience  or  how  user  experience  is 
+
+assessed. Additionally, the VIF of 2.575 and tolerance value of 0.388 confirm the lack of 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+
+multicollinearity, guaranteeing that inter-correlations with other variables won't skew the 
+
+findings. 
+
+Despite  having  a  positive  coefficient  of  0.077,  the  variable  "User  Friendly  Application 
+
+Design and Layout" is not statistically significant, as shown by its t-value of 1.005 and p- 
+
+value of 0.316. This implies that consumers' perceptions of a mobile application's style and 
+
+appearance have no impact on their propensity to purchase online. In the context of this 
+
+research, these results may suggest that, while a user-friendly design is crucial, it may not 
+
+be a deciding factor in customers' purchasing decisions. With a VIF of 3.070 and a tolerance 
+
+of 0.326, the model likewise shows no multicollinearity problems. 
+
+With a coefficient of 0.002, a very low t-value of -0.003, and an exceptionally high p-value 
+
+of  0.998,  the  "Perceived  Risk"  variable  has  no  discernible  influence  on  online  buying 
+
+behavior. In this instance, perceived risk seems to have little to no impact on people's choice 
+
+to purchase online, despite being a prevalent consideration in consumer decision-making. 
+
+This result can indicate that the study's sample of customers either views risk as insignificant 
+
+or that other considerations outweigh it. Furthermore, the VIF of 2.374 and tolerance of 
+
+0.421 show that multicollinearity has no effect on this variable. 
+
+With a significant t-value of 2.758 and a p-value of 0.006, "Perceived Benefit" has a positive 
+
+coefficient of 0.183 and falls below the significance level of 0.05. This implies that people 
+
+are more inclined to purchase online when they believe that there are more advantages to 
+
+doing  so,  such  as  convenience,  cost  savings,  or  a  bigger  selection  of  goods.  This  result 
+
+highlights how crucial perceived value is when making decisions. Further confirming that 
+
+multicollinearity is not an issue for this variable are the tolerance value of 0.433 and VIF of 
+
+2.307. 
+
+In conclusion, the regression analysis shows that perceived advantage and transaction ease 
+
+significantly influence online shoppers' decisions. When consumers believe that transactions 
+
+are  more  convenient  and  provide  more  advantages,  they  are  more  inclined  to  purchase 
+
+online. However, in this specific model, it does not seem that perceived risk, user experience, 
+
+or user-friendly application design have a substantial impact on online purchase choices. 
+
+The validity of the regression findings is guaranteed by the lack of multicollinearity among 
+
+the independent variables. 
+
+ 
+ 
+53 
+
+Table 19 
+
+Summary of Hypotheses Test 
+
+S.N 
+
+H1 
+
+Alternative Hypothesis (Based on Correlation Analysis) 
+
+Remarks 
+
+There is significant relationship between transaction convenience 
+
+Accepted 
+
+and online shopping. 
+
+H2 
+
+There  is significant  relationship  between  user experience  and 
+
+Accepted 
+
+online shopping. 
+
+H3 
+
+There is significant relationship between user friendly application 
+
+Accepted 
+
+design and layout and online shopping. 
+
+H4 
+
+There is significant relationship between perceived risk and online 
+
+Accepted 
+
+shopping 
+
+H5 
+
+There  is  significant  relationship  between  perceived  benefit  and 
+
+Accepted 
+
+online shopping 
+
+4.5 Discussion 
+
+Before  making  a  purchase,  online  shoppers  carefully  consider  their  options,  paying 
+
+particular attention to the accuracy and dependability of product information. One of the 
+
+most important factors impacting online buying behavior is the ease of payment choices, 
+
+especially  mobile  banking.  Consumers  may  be  hesitant,  though,  due  to  things  like 
+
+transaction delays, security issues, and the general dependability of the payment method. 
+
+Customers find it challenging to completely embrace internet buying because of these issues. 
+
+The  purpose  of  this  study  is  to  determine  the  variables  that  affect  Nepali  consumers' 
+
+decisions to utilize mobile banking for online purchases. In particular, the study investigates 
+
+how online buying behavior is influenced by transaction ease, user experience, application 
+
+design and layout, perceived risk, and perceived gain. A survey was carried out using Google 
+
+Forms to distribute a questionnaire, and 227 valid replies were obtained. The goal of the 
+
+study is to determine how these independent factors relate to the dependent variable, which 
+
+is online purchasing. 
+
+Convenience of transactions has been a crucial factor in encouraging internet purchasing. 
+
+The findings show that consumers are more willing to purchase online when they believe 
+
+transactions to be simple, quick, and safe. This confirms the results of previous research that 
+
+highlighted the crucial impact that transaction ease plays in encouraging online shoppers 
+
+ 
+ 
+54 
+
+(Leung et al., 2020; Sharma et al., 2020). Customers are more inclined to select platforms 
+
+that  streamline  the  purchase  process  in  a  fast-paced  digital  environment,  which  lowers 
+
+entrance barriers and increases total shopping frequency. 
+
+Another  important  consideration  was  user  experience.  Customers  are  more  likely  to 
+
+purchase  online  as  mobile  banking  systems  become  more  user-friendly  and  satisfying. 
+
+Similar findings from other studies have indicated that user-friendly interfaces and increased 
+
+customer involvement with online purchasing platforms are positively correlated (Bhatnagar 
+
+et al., 2022; Zhang et al., 2021). User confidence is increased and the likelihood of regular 
+
+online purchase behavior is increased when mobile banking applications are user-friendly 
+
+and offer smooth experiences. 
+
+Consumer behavior is significantly influenced by the way mobile applications are designed. 
+
+A well-designed, user-friendly mobile banking experience may dramatically affect purchase 
+
+decisions. This result is in line with other research showing that mobile applications' visual 
+
+attractiveness and simplicity of use are essential for increasing user happiness and promoting 
+
+online transactions (Stern et al., 2021; Patel & Choudhary, 2022). Online shopping platforms 
+
+may  significantly  differentiate  themselves  in  competitive  marketplaces  by  having  an 
+
+attractive application design. 
+
+The results of this study indicate that, despite the fact that perceived risk has historically 
+
+been a disincentive to online purchasing, its effect lessens as customers feel more safe and 
+
+confident about their transactions. This outcome is consistent with earlier studies that shown 
+
+that customers' trust in the safety of online transactions might allay worries about the dangers 
+
+of doing their shopping online (Yang & Kim, 2021; Chen et al., 2020). This implies that 
+
+improving security measures on mobile banking systems may allay worries even more and 
+
+boost online buying activity. 
+
+Online buying behavior was also found to be significantly influenced by perceived benefits, 
+
+such as variety, convenience, or the availability of discounts. Previous research have found 
+
+similar results, indicating that when customers see definite and observable benefits, they are 
+
+more willing to purchase online. Online shopping platforms are becoming more and more 
+
+popular because of the convenience, time savings, and increased product availability that 
+
+consumers are frequently driven by (Liu et al., 2020; Zhang et al., 2022). 
+
+ 
+55 
+
+In  conclusion,  this  study's  results  are  consistent  with  the  wider  body  of  research, 
+
+demonstrating that elements including transaction ease, user experience, application design, 
+
+perceived  risk,  and  perceived  reward  play  crucial  roles  in  determining  online  buying 
+
+behaviors. These results imply that by improving these elements, mobile banking systems 
+
+may further boost customer engagement, which will encourage more users to adopt mobile 
+
+banking for online purchases. Businesses and developers looking to enhance mobile banking 
+
+experiences and boost engagement in digital transactions might benefit from the research's 
+
+useful implications. 
+
+ 
+CHAPTER V 
+
+SUMMARY AND CONCLUSION 
+
+56 
+
+In  this  chapter,  the  noteworthy  finding  of  the  research  are  described.  Data  analysis, 
+
+hypothesis  testing,  and  a  summary  of  the  descriptive  and  inferential  analyses  were 
+
+completed  in  the  preceding  chapter  in  accordance  with  the  study's  goal.  This  chapter 
+
+provides a concise synopsis of the study's results and conclusions. Additionally, it makes 
+
+generalizations by drawing conclusions from the data. 
+
+5.1 Summary 
+
+Finding  and  investigating  the  fundamental  factors  that  influence  customers'  online 
+
+purchasing decisions has been the primary goal of the study. The study primarily focuses on 
+
+what drives an online consumer to use mobile banking as a method of payment when they 
+
+purchase  online.  Online  shopping  is  preferred  for  a  number  of  reasons,  including  time 
+
+savings, ease, safe payment methods, etc. Online buying is essentially more convenient for 
+
+people. When a consumer shops online, they use a web browser or a mobile application to 
+
+buy a service or product. In other words, a customer may acquire goods and services from 
+
+an  online  business  whenever  they  want,  from  the  comfort  of  their  own  home.  Online 
+
+purchases  of  groceries,  consumables,  movie  tickets,  airline  tickets,  ready-to-eat  meals, 
+
+utilities, and other items are examples of online shopping. Compared to in-person buying, 
+
+online  shopping  offers  the  advantages  of  time  and  cost  savings,  delivery  capabilities, 
+
+comprehensive product and pricing information, and the ability to avoid needless crowds. 
+
+These days, people purchase without physically visiting the market by using devices like 
+
+computers, smartphones, tablets, etc. Daraz, Hamrobazar, Sastodeal, Muncha, Foodmandu, 
+
+KhetiFood, Nepbay, Gazabko.com, and others are some of the online retailers in Nepal. The 
+
+internet buying trend in Nepal has grown rapidly due to recent technological advancements. 
+
+Additionally,  the  present  global  pandemic  setting,  mobile  banking,  and  the  increasing 
+
+awareness of the internet Online purchasing has become more popular in Nepal as a result 
+
+of COVID-19. 
+
+In essence, the study looks for the key elements that promote internet buying. Based on a 
+
+survey of the literature and a variety of articles and journals, there were a number of criteria 
+
+for choosing mobile banking when buying online. The highlighted dimensions of online 
+
+shopping—transaction convenience, user experience, user-friendly application design and 
+
+ 
+57 
+
+layout,  perceived  risk,  and  perceived  benefit—were  taken  into  consideration  while 
+
+developing a conceptual framework and five hypotheses based on the literature study. Using 
+
+a questionnaire, these characteristics were examined in the Nepalese context to determine 
+
+their significance in choosing mobile banking as a payment method for online purchases. 
+
+A Google form was used to gather 227 replies. To arrive at the result, a variety of analyses 
+
+were conducted on the acquired data. The answer demonstrated that every element has a 
+
+favorable impact  on internet  buying.  Additionally, the data revealed that employees and 
+
+students are prime targets for internet purchasing. Therefore, these elements may be viewed 
+
+as a chance for both new and established businesses to improve and update their website or 
+
+application  in  order  to  draw  in  a  sizable  customer  base.  Two  assumptions  pertaining  to 
+
+internet purchasing were supported by the study's findings. 
+
+The study's hypotheses were tested using Pearson's correlation test. According to the 5% 
+
+threshold  of  significance,  transaction  convenience  and  perceived  advantage  were 
+
+significant. Each dimension of the independent and dependent variables had a P-value of 
+
+correlation that was smaller than alpha, or p < 0.05. Thus, it can be said that online buying 
+
+is significantly correlated with the independent variables of transaction ease and perceived 
+
+advantage. However, at the 5% level of significance, the independent variables of perceived 
+
+risk, user experience, and user-friendly application design and layout were not significant, 
+
+meaning they had no meaningful connection to online buying. 
+
+The strength of the association between each independent variable and dependent variable 
+
+is  shown  by  the  Pearson  correlation  coefficient  value.  All  of  the  independent  variable's 
+
+characteristics show a moderate to strong positive link with online purchasing, according to 
+
+the inferential analysis. Therefore, it can be said that when consumers purchase online, they 
+
+place a higher value on transaction ease and the perceived advantages of mobile banking. 
+
+5.2 Conclusion 
+
+Online  shopping  is  the  process  by  which  a  consumer  uses  a  web  browser  or  a  mobile 
+
+application to buy a service or product via the internet.  In other words, a customer may 
+
+acquire goods and services from an online business whenever they want, from the comfort 
+
+of their own home. Online shopping is quite popular these days, and having items delivered 
+
+right to your home is the newest trend in business. Numerous websites and programs are 
+
+ 
+58 
+
+available specifically for online buying. Additionally, conventional stores have begun to 
+
+advertise on Facebook, Instagram, and other social media platforms, posting images of new 
+
+products and enabling their target audience to view them on computers and smartphones. 
+
+This motivates the client to purchase more frequently in addition to reminding them of the 
+
+store they frequent. However, internet shopping is still in its early stages of development 
+
+because  to  inadequate  payment  and  delivery  systems.  Online  businesses  have  grown 
+
+significantly in other nations as a result of people's increased living standards and lack of 
+
+time for in-person shopping. This includes grocery buying, car reservations, electronic repair 
+
+and maintenance, and many more services that can be accessed through mobile banking. 
+
+Basically, the following variables influence a person's decision to use mobile banking for 
+
+online shopping: offers, numerous choice availability, and payment method. When someone 
+
+chooses to purchase online using mobile banking, a lot of factors are at play at once. Online 
+
+commerce in Nepal is expected to develop in the upcoming days due to changes in people's 
+
+living and working patterns. When making purchases, the elder age prefers to visit stores in 
+
+person  rather  than  relying  on  internet  purchasing.  However,  the  younger  generation— 
+
+students, employees, etc.—is switching from conventional to online buying, which is made 
+
+possible by mobile banking. 
+
+This study's primary goal is to identify the elements that impact consumers' decisions to use 
+
+mobile banking for online purchases. To determine which component has the most influence 
+
+on  the  choice  to  purchase  online,  five  criteria  were  identified  and  evaluated.  A  person's 
+
+decision to purchase online is influenced by a number of factors, including transaction ease, 
+
+user experience, user-friendly application design and layout, perceived risk, and perceived 
+
+reward.  Through  a  questionnaire,  227  respondents  were  questioned  about  their  online 
+
+shopping experiences and the variables that influenced their decision to use mobile banking 
+
+for  their  online  purchases.  Finding  a  correlation  between  online  buying  and  factors 
+
+influencing the choice of mobile banking payment method was the aim of the study. The 
+
+ultimate goal of this study was to have a better knowledge of the selection criteria for mobile 
+
+banking in Nepal when it comes to online buying. The study's findings and data analysis 
+
+supported the existence of a strong positive correlation between mobile banking selection 
+
+factors such as perceived advantage and transaction convenience. However, it was shown 
+
+that  other  factors  such  as  perceived  risk,  user  experience,  and  user-friendly  application 
+
+design  and  layout  were  not  relevant  when  it  came  to  using  mobile  banking  for  online 
+
+ 
+purchasing in Nepal. All things considered, this study has offered more helpful assistance in 
+
+identifying the selection criteria for mobile banking when purchasing online. 
+
+59 
+
+5.3 Implications 
+
+Practical Implications 
+
+This study makes a substantial contribution to our knowledge of the variables influencing 
+
+the  use  of  mobile  banking  for  online  purchasing,  especially  in  Nepal.  According  to  the 
+
+findings, online buying  behavior is significantly influenced by mobile banking selection 
+
+factors,  including  transaction  ease,  user  experience,  user-friendly  application  design, 
+
+perceived risk, and perceived advantages. Current and prospective online consumers may 
+
+be encouraged to utilize mobile payment methods by the study's emphasis on the substantial 
+
+convenience and user experience benefits of mobile banking. 
+
+This study emphasizes how crucial it is for the banking sector to improve mobile banking 
+
+services in order to improve user experience and foster consumer trust. Banks and other 
+
+financial institutions may encourage more consumers to utilize mobile banking for online 
+
+shopping by solving issues with transaction ease, perceived risks, and user interface design. 
+
+Furthermore,  the  results  can  help  online  merchants  improve  their  payment  processes  to 
+
+increase client accessibility and attractiveness. This study sheds light on the variables that 
+
+affect online buyers' choices of mobile banking as a mode of payment. By being aware of 
+
+these variables, customers may choose payment methods that balance the ease of mobile 
+
+payments with potential security risks associated with online transactions. 
+
+Theoretical Implications 
+
+By identifying important characteristics that affect the adoption of mobile payments, the 
+
+study  adds  to  the  expanding  body  of  information  about  online  purchasing  behavior  and 
+
+mobile banking usage. The framework created for this study offers a theoretical foundation 
+
+for comprehending how customer behavior in the context of online buying is influenced by 
+
+the interaction of transaction convenience, user experience, application design, perceived 
+
+risk, and perceived reward. This study adds to the body of research on the use of technology 
+
+in online buying, especially with regard to mobile banking, which is still poorly understood 
+
+in relation to Nepalese customers. 
+
+ 
+ 
+60 
+
+Future Scope 
+
+The report identifies a number of topics for more research. First, although 227 respondents 
+
+is a suitable sample size for an academic study, it might not be enough to capture a more 
+
+comprehensive view of Nepalese customers. For more broadly applicable findings, future 
+
+research might expand the sample size to more accurately reflect Nepali offline and online 
+
+shoppers.  Second,  only  mobile  banking  users  who  had  previously  shopped  online  were 
+
+included  in  the  study.  Future  studies  should  examine  how  non-users  of  mobile  banking 
+
+behave  in  order  to  determine  what  elements  would  encourage  people  to  utilize  mobile 
+
+banking  for  online  transactions.  This  would  assist  determine  ways  to  boost  the  use  of 
+
+mobile payments and offer insightful information about the obstacles impeding adoption. 
+
+Third,  this  study  only  used  online  tools  (like  Google  Forms)  to  gather  data.  To  further 
+
+understand the variables driving the adoption of mobile banking for online shopping, future 
+
+research should include a wider range of data gathering methods, such as focus groups or 
+
+in-depth interviews. Finally, although five criteria were the focus of this study, they only 
+
+accounted  for  56.3%  of  the  variation  in  online  buying  behavior.  To  provide  a  more 
+
+complete  model  of  mobile  banking  choices  for  online  purchasing,  future  studies  should 
+
+include  other  factors  including  social  impact,  marketing  tactics,  and  confidence  in  e- 
+
+commerce platforms. 
+
+ 
+ 
+REFERENCES 
+
+61 
+
+Aboelmaged, M. G., & Gebba, T. R. (2020). Mobile banking adoption: An examination of 
+
+technology acceptance model and theory of planned behavior. Journal of Internet 
+
+Banking and Commerce, 25(2), 1-19. 
+
+Barnes, S. J., & Corbitt, B. (2018). Mobile banking: Concept and potential. International 
+
+Journal of Mobile Communications, 1(1), 45-54. 
+
+Benoit,  A.,  Mauboussin,  B.,  &  Li,  X.  (2023).  The  role  of  perceived  benefits  in  mobile 
+
+banking adoption. Journal of Business and Management, 15(2), 53-68. 
+
+Bland, E., Changchit, C., Changchit, C., & Pham, L. (2024). Investigating the components 
+
+of perceived risk factors affecting mobile payment adoption.  Journal of Risk and 
+
+Financial Management, 17(6), 216. https://doi.org/10.3390/jrfm17060216 
+
+Chitungo, S. K., & Munongo, S. (2018). Extending the Technology Acceptance Model to 
+
+mobile banking adoption in rural Zimbabwe.  Journal of Business Administration 
+
+and Education, 9(1), 56-72. 
+
+Dangol, S., & Kautish, S. (2019). IT security-related issues  and challenges in electronic 
+
+payment  system  in  Nepal:  A  study  from  customer’s  perspective.  International 
+
+Journal of Information and Education Technology, 9(8), 642-648. 
+
+Delone, W., & McLean, E. (2003). The DeLone and McLean model of information systems 
+
+success: A ten-year update. Journal of Management Information Systems, 19(4), 9- 
+
+30. 
+
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention, and behavior: An introduction 
+
+to theory and research. Addison-Wesley. 
+
+Forsythe,  S.  M.,  &  Bo,  S.  (2020).  Consumer  patronage  and  risk  perceptions  in  internet 
+
+shopping. Journal of Business Research, 56(11), 956-963. 
+
+Gautham,  A.  (2018,  January  3).  Riding  the  e-commerce  wave.  The  Kathmandu  Post. 
+
+https://kathmandupost.com/miscellaneous/2015/01/02/riding-the-e-commerce- 
+
+wave 
+
+ 
+ 
+62 
+
+Jiangnan, L., & Jiangshixiong, L. (2018). Consumer perceptions of e-service convenience: 
+
+An exploratory study. Procedia Environmental Sciences, 20, 342-348. 
+
+Jusoh,  Z. M.,  &  Ling,  G. H. (2019).  Factors influencing  consumers’ attitude towards  e- 
+
+commerce.  Proceedings  of  the  International  Conference  on  Business  and  Social 
+
+Sciences, 205-214. 
+
+Khatri, J.  R., & Dhungel,  K.  U.  (2019).  Internet  banking in Nepal:  Use and challenges. 
+
+Kathmandu University Journal of Economics and Business, 1(1), 1-16. 
+
+Kim, G., Shin, B., & Lee, H. G. (2019). Understanding dynamics between initial trust and 
+
+usage intentions of mobile banking. Journal of Financial Services Marketing, 24(2), 
+
+89-103. 
+
+Kotler, P., Wong, V., Saunders, J., & Armstrong, G. (2005). Principles of marketing (5th 
+
+ed.). Pearson Education. 
+
+Koyuncu, C., & Bhattacharya, G. (2020). The impacts of quickness, price, payment risk, 
+
+and  delivery  issues  on  online  shopping.  Journal  of  Retailing  and  Consumer 
+
+Services, 55, 123-130. 
+
+Malla, S. (2018). Online shopping behavior among young consumers in Kathmandu, Nepal. 
+
+Journal of Business and Social Sciences, 5(2), 142-150. 
+
+Mallat, N., Rossi, M., & Tuunainen, V. K. (2020). Mobile banking services: Adopting new 
+
+and  innovative  mobile  financial  applications  and  service  provisioning  methods. 
+
+Journal of Financial Services Marketing, 25(1), 10-25. 
+
+Neupane,  N.  (2018,  January  20).  Nepal  added  over  250  internet  users  per  hour.  The 
+
+Kathmandu  Post.  https://kathmandupost.com/money/2018/01/20/nepal-added- 
+
+over-250-internet-users-per-hour 
+
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory (3rd ed.). McGraw-Hill. 
+
+Pasanen, M., & Laukkanen, T. (2018). Mobile banking innovators and early adopters: How 
+
+they differ from other online users? Journal of Financial Services Marketing, 23(4), 
+
+312-328. 
+
+ 
+ 
+ 
+ 
+63 
+
+Pokharel, S., Adhikari, D., & Mishra, P. (2024). Adoption of mobile banking among users 
+
+in Kathmandu Valley: A study based on Technology Acceptance Model. Journal of 
+
+Business and Social Science Review, 6(1), 45-58. 
+
+Pokhrel,  L.,  Adhikari,  D.,  &  Mishra,  A.  K.  (2020).  Adoption  of  mobile banking  among 
+
+users  in  Kathmandu  Valley.  Nepalese  Journal  of  Management  and  Information 
+
+Systems, 7(1), 45-56. 
+
+Shankar, M., Rishi, S., & Roy, D. (2021). Convenience factors influencing mobile banking 
+
+adoption  in  developing  countries.  International  Journal  of  Business  Science  and 
+
+Applied Management, 16(1), 32-47. 
+
+Shrestha, S., Wenan, W., Rajkarnikar, P., & Jeong, M. (2023). Consumers’ attitudes towards 
+
+internet  banking  services  in  Pokhara,  Nepal:  An  empirical  study  based  on 
+
+Technology Acceptance Model. Journal of Financial Studies, 12(3), 132-147. 
+
+Sinthia, P. A., & Darma, A. G. (2019). Technology acceptance model and e-satisfaction in 
+
+mobile  banking.  International  Journal  of  Computer  Science  and  Information 
+
+Technology, 11(5), 65-71. 
+
+Subba,  P.  (2024).  The  potential  of  mobile  banking  in  Nepal:  Current  trends  and  future 
+
+challenges. Nepal Journal of Technology and Innovation, 3(1), 25-36. 
+
+Tavakol,  M.,  &  Dennick,  R.  (2011).  Making  sense  of  Cronbach's  alpha.  International 
+
+Journal of Medical Education, 2, 53-55. 
+
+Timilsina, M. (2022). User perception on electronic payment services in Kathmandu Valley. 
+
+International Journal of Digital Banking, 4(2), 82-94. 
+
+Timilsina, S. (2020). User perception on electronic payment services in Kathmandu Valley. 
+
+International Journal of Business and Management, 15(1), 23-30. 
+
+ 
+ 
+APPENDIX 
+
+SURVEY QUESTIONNAIRE 
+
+Dear Respondents, 
+
+I am an MBS student of Shankar Dev Campus, Tribhuvan University. I am conducting a 
+
+survey  entitled  “Factor  Affecting  Selection  of  Mobile  Banking  for  Online  Shopping 
+
+Payment  in  Nepal”,  as  part  of  a  graduate  research  project  for  partial  fulfillment  of  the 
+
+course requirement. I request you to go through these questions and answer them. It will just 
+
+take  few  minutes.  I  assure  you  that  the  data  and  information  collected  will  be  kept 
+
+confidential and used exclusively for my academic purpose. 
+
+Thank you very much for your cooperation. 
+
+Sushil K.C. 
+
+MBS-Shankar Dev Campus 
+
+Section A: Demographics Variables 
+
+1. Gender:  Male 
+
+Female 
+
+2. Age: 
+
+15-25 
+
+26-35 
+
+36-45
+
+46-55 
+
+  Over55 
+
+3.Profession:  Student 
+
+Employee 
+
+Self Employed (Business) 
+
+Unemployed 
+
+4. Income Level of Family (Monthly Income in Rs.) 
+
+25,000 and below   26,000-50,000
+
+51, 000-75,000 
+
+76,000-1,00,000 
+
+  Above 1,00,000 
+
+5. How often you use mobile banking? 
+
+● 
+
+● 
+
+Always 
+
+Very Often 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+
+● 
+
+● 
+
+6. 
+
+● 
+
+● 
+
+● 
+
+● 
+
+● 
+
+7. 
+
+Sometimes 
+
+Rarely 
+
+Never 
+
+Have you used mobile banking for online shopping? (If No, please do not proceed) 
+
+Always 
+
+Very Often 
+
+Sometimes 
+
+Rarely 
+
+Never 
+
+For what purpose you use mobile banking? (Multiple choices) 
+
+For Online Statement 
+
+Utilities Payment 
+
+Account Transfer 
+
+Online Purchase 
+
+Purchase Groceries 
+
+ Book Flight Tickets 
+
+Book Movie Ticket 
+
+Demat 
+
+Meroshare 
+
+  Pay Government Revenue 
+
+Pay School Fees 
+
+  Pay EMI 
+
+Fast Foods 
+
+Others (Please specify if any recent activities are there)………………………… 
+
+8.  Which website/application have you used from the following? (Multiple choices)Daraz 
+
+ Sastodeal 
+
+ Muncha 
+
+ Nepbay 
+
+ Shopmandu 
+
+ Bhatbhateni Online 
+
+ Urbangirl 
+
+Gogazzab 
+
+ Hamrobazar 
+
+  Kheti 
+
+  Others 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section B: Liker Scale Questionnaire 
+
+Key: 1 = Strongly Disagree, 2 = Disagree, 3 = Undecided, 4 = Agree, 5 = Strongly Agree 
+
+1  2  3  4  5 
+
+Section 
+
+Online Shopping 
+
+Transaction 
+Convenience 
+
+User Experience 
+
+User Friendly 
+Application Design 
+and Layout 
+
+Perceived Risk 
+
+Statement 
+I generally tend to purchase online which offers 
+wide variety of products and services. 
+I generally prefer the online shopping which 
+saves my time and effort. 
+I like to buy online with convenient transaction 
+process. 
+I prefer the website and applications with higher 
+customer ratings. 
+Due to the prompt payment procedure, my 
+intention for mobile banking selection gets 
+highly influenced. 
+It is easy to use mobile banking for online 
+shopping. 
+The payment transaction process of mobile 
+banking for online shopping is quick. 
+It is easy to monitor transaction history of 
+online shopping in mobile applications. 
+It is easy to access the mobile banking payment 
+option in online shopping sites. 
+It takes less effort to perform payment 
+transaction using mobile banking applications 
+for online shopping. 
+The mobile banking application I use is 
+interactive with high engagement rate. 
+I feel the mobile banking application provides 
+effective grievances and feedback processing 
+for issues related to online shopping. 
+Transaction using mobile banking application 
+gives information on merchants and 
+product/service price. 
+The information and advertisement in mobile 
+banking sites are adequate to facilitate online 
+shopping. 
+The mobile banking application is attractive and 
+looks appealing. 
+
+The language used in the mobile banking 
+applications is simple. 
+The application is easy to learn for using. 
+The mobile application is multifunctional. 
+I can rely on using mobile banking for payment 
+option for online shopping. 
+I feel it is secured to use mobile banking for 
+online shopping. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I trust mobile banking as payment option for 
+online shopping. 
+Privacy is maintained for all of my online 
+purchase transactions. 
+I feel there is no financial transaction risk 
+present while using mobile banking for online 
+shopping. 
+
+Perceived Benefit  Online shopping is cost effective while using 
+
+mobile banking. 
+Online shopping using mobile banking provides 
+various offers. 
+I can shop anytime anywhere at my own 
+convenience. 
+
+Thank You for Your Response !! 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACTOR AFFECTING SELECTION OF MOBILE BANKING FO...
+By: Sushil K.C.
+
+As of: Dec 3, 2024 12:28:46 PM
+18,791 words - 3 matches - 1 source
+
+Similarity Index
+
+1%
+
+Mode:  Summary Report
+
+sources:
+
+160 words / 1% - Internet from 13-Oct-2022 12:00AM
+www.nrb.org.np
+
+paper text:
+
+ABSTRACT This study explores the factors in uencing mobile banking selection criteria for online shopping in Nepal,
+
+focusing on how transaction convenience, user experience, application design, perceived risk, and perceived bene t impact
+
+consumer behavior. The research is grounded in well-established models such as the Technology Acceptance Model (TAM)
+
+and the Theory of Planned Behavior (TPB), with the aim of providing insights into online shopping behaviors, speci cally
+
+within the context of mobile banking. Through a structured questionnaire, data were collected from 227 respondents who are
+
+mobile banking users involved in online shopping. The results show that transaction convenience, user-friendly design, and
+
+perceived bene ts signi cantly in uence users' decisions to adopt mobile banking as a payment method. However, perceived
+
+risk did not emerge as a strong determinant. The study also highlights the potential of mobile banking to drive e-commerce
+
+growth, especially in developing regions like Nepal, where online shopping is still emerging. Based on these  ndings, the
+
+study offers practical implications for banks and online retailers aiming to enhance customer satisfaction by improving
+
+mobile banking features and addressing potential user concerns. Moreover, it provides directions for future research,
+
+including exploring factors affecting non-users of mobile banking and the expansion of the study to include o ine behaviors.
+
+The research contributes to the understanding of mobile banking adoption and offers recommendations for enhancing user
+
+experience and trust in mobile payment systems. Keywords: mobile banking, online shopping, transaction convenience,
+
+perceived risk, Technology Acceptance Model i CHAPTER I INTRODUCTION 1.1 Background of the Study Shopping is the act
+
+of a consumer buying a desired item or service from the market. The customer chooses the best product or service from the
+
+market after looking through the others. During the purchasing process, consumers prioritize their essentials or, if something
+
+strikes their attention, buy it with the intention of utilizing it soon. Additionally, individuals buy to take advantage of steep
+
+discounts, to elevate and preserve their status, to feel good, and to relieve stress. Online shopping is the process by which a
+
+consumer uses a web browser or a mobile application to buy a service or product via the internet. In other words, a customer
+
+may acquire goods and services from an online business whenever they want, from the comfort of their own home. Online
+
+purchases of groceries, consumables, movie tickets, airline tickets, ready-to-eat meals, utilities, and other items are examples
+
+of online shopping (Jusoh & Ling, 2019). Online shopping is one result of the signi cant paradigm change in business
+
+practices brought about by the internet. Online shopping was not as common a few years ago as it is now, mostly due to the
+
+di culty in obtaining internet service and online payment gateways. Business-to-business (B2B) online purchasing is the
+
+process of setting up an online store that allows companies to purchase from other companies. Similar to this, business-to-
+
+

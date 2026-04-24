@@ -1,0 +1,2297 @@
+This may be the author’s version of a work that was submitted/accepted
+for publication in the following source:
+
+Bianchi, Constanza & Andrews, Lynda
+(2012)
+Risk, trust, and consumer online purchasing behaviour: a Chilean per-
+spective.
+International Marketing Review, 29(3), pp. 253-275.
+
+This ﬁle was downloaded from: https://eprints.qut.edu.au/48525/
+
+© Consult author(s) regarding copyright matters
+
+This work is covered by copyright. Unless the document is being made available under a
+
+Creative Commons Licence, you must assume that re-use is limited to personal use and
+
+that permission from the copyright owner must be obtained for all other uses. If the docu-
+
+ment is available under a Creative Commons License (or other speciﬁed license) then refer
+
+to the Licence for details of permitted re-use. It is a condition of access that users recog-
+
+nise and abide by the legal requirements associated with these rights. If you believe that
+
+this work infringes copyright please provide details by email to qut.copyright@qut.edu.au
+
+Notice: Please note that this document may not be the Version of Record
+(i.e. published version) of the work. Author manuscript versions (as Sub-
+mitted for peer review or as Accepted for publication after peer review) can
+be identiﬁed by an absence of publisher branding and/or typeset appear-
+ance. If there is any doubt, please refer to the published source.
+
+https://doi.org/10.1108/02651331211229750
+
+Risk, Trust, and Consumer Online Purchasing Behaviour: A Latin American 
+Perspective 
+
+Abstract 
+
+Purpose:  The purpose of this study is to investigate Latin American online purchase 
+behaviour with a specific focus on the influence of perceived risk and trust. While studies of 
+this nature have been conducted quite extensively in developed countries, their application in 
+developing countries, such as Latin America is limited. Our study addresses this gap in the 
+literature with an empirical study conducted in Chile.  
+
+Design/methodology/approach: The authors develop and test a proposed model of the 
+influence of consumer’s perceptions of risk and trust on their attitudes and intentions to 
+purchase on the Internet. An online survey method is used. The sample consists of 176 
+Chilean consumers who have made at least one purchase online. The data is analysed using 
+structural equation modelling technique (SEM). 
+
+Findings: The analysis revealed that of the perceived risk and trust factors examined, trust in 
+third party assurances and a cultural environment of trust had the strongest positive influence 
+on intentions to continuing purchasing online. Perceived risk had an inverse relationship with 
+attitude and consumers’ attitude has a positive influence on intentions to purchase online. 
+Trust in online vendors and a propensity to trust were both insignificant.  
+
+Practical implications: Practically, these results identity which risk and trust beliefs towards 
+purchasing online have the most effect thereby providing insights into how companies should 
+seek to mitigate perceptions of risk to encourage new and return purchasers. Additionally, this 
+research shows that consumers in a Latin American country, recognised as a collectivist, high 
+risk avoidance culture, are willing to make purchases online despite the risks involved.  
+
+Originality/value: The study and its results is one of few available that consider a Latin 
+American context. The value of the findings provides insights into the specific risk and trust 
+factors that influence Chilean consumers when considering purchasing online. The tested 
+model adds value not only to the literature on Latin American consumer behaviour but also 
+provides guidance for companies offering online retailing facilities in these less developed 
+countries .  
+
+Keywords: Online purchasing, perceived risk, trust, Chile, Latin America 
+
+Paper type Research paper - special edition on Latin America 
+
+0 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Introduction 
+
+Consumers in developed countries, such as the United States, and those in Europe, have 
+
+embraced the Internet for commercial purposes and the figures from online retail activity 
+
+continue to rise annually in both the United States (2010) and in Western Europe (von 
+
+Abrams, 2010). However in less developed countries, including those in Latin America, the 
+
+take up of e-commerce has been much slower (Nasco et al., 2008). Using Chile as an 
+
+example, while business to business transactions have increased, there is only limited growth 
+
+in business-to-consumer (B2C) transactions (Rohm et al., 2004). The limited growth in this 
+
+region is surprising as between 2000 and 2009 Latin American Internet users increased by 
+
+853%, compared to regions such as the United States and Europe, with growth rates of 
+
+145.8% and 297.8% respectively (New Media TrendWatch 2009). Such observations suggest 
+
+that this area of online commerce is still very much in an emergent state and additional 
+
+research into consumer’s online purchase behaviour in Latin America is warranted (Nasco et 
+
+al., 2008). 
+
+We acknowledge the extensive body of research emanating from studies in developed 
+
+countries related to factors that influence or inhibit consumers’ online purchase behaviour 
+
+(e.g., Van den Poel and Leunis, 1999; Bhatnagar et al., 2000; Jarvenpaa et al., 2000; Biswas 
+
+and Biswas, 2004; Forsythe et al., 2006; Andrews et al., 2007; McCole et al., 2010; Qureshi et 
+
+al., 2009; Urban et al., 2009). Often identified in those studies, and of particular interest to our 
+
+study, is the influence of consumers’ perceptions of risk and trust when considering 
+
+purchasing online. Research continues to identify that risk and trust factors are important and 
+
+need to be addressed (e.g., Cheung and Lee, 2001; McCole et al., 2010; Wu et al., 2010). 
+
+Moreover, these issues need to be addressed as a core component of effective marketing 
+
+strategy, rather than at a tactical level (Urban et al., 2009) in order to improve levels of online 
+
+1 
+
+ 
+transactions. This is important if the customers are going to become advocates for firms 
+
+through satisfaction and continued use (Urban et al., 2009).  
+
+Additionally, a consumer-centric focus is important when considering that differing 
+
+cultural dimensions may in turn influence consumers’ perceptions risk and trust that impact 
+
+on purchasing on the Internet (Greenberg et al., 2008). Evidence suggests that cultural 
+
+differences exist about consumer acceptance of new communication technologies (Maldifassi 
+
+and Canessa, 2010) and that they should not be overlooked when conducting research in such 
+
+countries (Hofstede, 2001).  
+
+We report on a study that examines consumers' perceptions of risk and trust with online 
+
+purchasing and how these factors influence the likelihood of continued online purchase 
+
+behaviour in a Latin American country, in this case Chile. Latin American countries, have 
+
+received limited academic attention  in terms technology readiness (Donoso and Crittenden, 
+
+2008) and e-commerce development (Nasco et al., 2008; Grandón et al., 2010). Taking Chile 
+
+as an example, this is somewhat surprising as it is ranked 27th on the Global Competitive 
+
+Index (cited in (Donoso and Crittenden, 2008) and has the fourth largest Internet population 
+
+in Latin America (TrendWatch, 2009). 
+
+Our study is grounded in attitude theory adapted from Fishbein and Azjen(1975). 
+
+Applications of attitude theory to consumers’ intentions to adopt Internet purchasing forms a 
+
+significant body of consumer behaviour research (Taylor and Strutton, 2010), particularly in 
+
+the United States. However its application to consumers’ online purchasing behaviour in 
+
+Latin American countries has received far less attention (Nasco et al., 2008; Grandón et al., 
+
+2010). By inference it could be argued that e-commerce adoption research applied in 
+
+developed countries may not necessarily be as relevant for Latin American countries due to 
+
+differing cultural dimensions (Gong, 2009; Grandón et al., 2010; Nasco et al., 2008).  
+
+2 
+
+ 
+There are two main objectives in the study reported here: 1) to examine Chilean 
+
+consumers’ perceptions of risk and trust towards purchasing online; 2) to examine whether 
+
+constructs used in developed countries can inform online purchase behaviour in developing 
+
+countries, such as those in Latin America. In the following sections we examine the literature 
+
+regarding perceived risk and trust in the context of online purchasing as well as discussing 
+
+possible cultural dimensions that could be at play in the study. We are not, however 
+
+undertaking a cross cultural study. The sample consists of Chilean consumers who have made 
+
+at least one purchase online. The methodology used in the study is reported together with the 
+
+results. Theoretical and practical implications are discussed and future research identified.    
+
+2.  Theoretical framework and country of interest  
+
+The study is positioned within broad framework of the Theory of Reasoned Action (TRA: 
+
+Fishbein and Ajzen, 1975). TRA is a well recognized attitude theory in consumer behaviour 
+
+research (Taylor and Strutton, 2010) that has been applied in many countries. However, in a 
+
+Chilean context, while this model has been applied e-commerce adoption by small to medium 
+
+size enterprises (Grandón et al., 2010; Nasco et al., 2008), we have not found any consumer-
+
+centric applications of TRA relating to online purchase behaviour at this present time. 
+
+Additionally, online purchasing research applied to consumers in developed countries may 
+
+vary for consumers in Latin American countries due to differing cultural dimensions (Gong, 
+
+2009; Grandón et al., 2010; Nasco et al., 2008). We seek to address such limitations using 
+
+Chile as a representative Latin American country.  
+
+Overall, Latin American countries are considered to be high context /high collectivist 
+
+cultures with high uncertainty avoidance (Hofstede, 2001). Chile was rated by Hofstede 
+
+(2001) as having a low rating of 23 on individualism and a high rating of 86 on uncertainly 
+
+avoidance.  Put in context, this means that Chile can be viewed as a high collectivist / high 
+
+uncertainty avoidance culture (Cyr, 2008). Therefore, cultural influences in terms of 
+
+3 
+
+ 
+perceived risk and trust in the online environment should not be overlooked when 
+
+technological readiness is of interest to academic scholarship in Latin America (Donoso and 
+
+Crittenden (2008).  The next section discusses the extant literature in terms of the risk and 
+
+trust constructs of interest to our research. 
+
+3.  Conceptualisation of constructs and hypothesis development 
+
+From the extant research available it is apparent that consumers continue to perceive that 
+
+using the Internet for purchasing is risky (e.g., Bourlakis et al., 2008; Drennan et al., 2006; 
+
+Kuhlmeier and Knight, 2005; McCole et al., 2010; Ha and Coghill, 2008). Moreover these 
+
+perceptions can have a significant and inverse relationship with attitudes and intentions 
+
+regardless of whether a person purchases online or not (Andrews and Boyle, 2008; Forsythe 
+
+et al., 2006).  
+
+In addition to perceived risk, research also identifies that trust is an important factor in 
+
+reducing perceptions of risk (Cheung and Lee, 2001; Jarvenpaa and Tractinsky, 1999; 
+
+Jarvenpaa et al., 2000; McCole et al., 2010; McKnight et al., 2002; Tan and Sutherland, 
+
+2004). Trust makes consumers comfortable sharing personal information, making purchases, 
+
+and acting on Web vendor advice, all of which are behaviours essential to widespread 
+
+adoption of e-commerce. Therefore, an understanding of the impact of trust is critical to both 
+
+researchers and practitioners (McKnight et al., 2002). Moreover, trust is regarded as a multi-
+
+dimensional construct that takes into account previously identified notions of perceived risk 
+
+(e.g., Cheung and Lee, 2001; McCole et al., 2010; McKnight et al., 2002; Tan and Sutherland, 
+
+2004). Drawing on Tan and Sutherland’s (2004) conceptual approach and empirical studies 
+
+(e.g., Cheung and Lee, 2001; McCole et al., 2010), we measure trust in the online 
+
+environment (perceived online risk), and trust in the online vendor.  Also included is trust in 
+
+third party assurances, consumer propensity to trust, and the cultural environment of trust as 
+
+antecedents of attitude and intentions to purchase online. These concepts are discussed in 
+
+4 
+
+ 
+more detail and the resulting hypotheses are drawn together in the conceptual model of the 
+
+influence of perceived risk and trust on attitude and intentions depicted in Figure 1. 
+
+3.1 Consumer attitudes and intentions towards purchasing online 
+
+Insert Figure 1 here 
+
+Drawing on TRA, consumer attitude relates to the extent to which an individual makes a 
+
+positive or negative evaluation about performing behaviour (Fishbein and Ajzen, 1975).  For 
+
+this study, consumer attitude towards online purchasing is defined as the extent to which a 
+
+consumer makes a positive or negative evaluation about purchasing online (Andrews et al., 
+
+2007).  Intentions are regarded as a suitable proxy of actual behaviour when it is not possible 
+
+to measure such outcomes. However, participants in our study have all purchased online at 
+
+least once and so their measured intention relates to continuing to purchase online. Focusing 
+
+on consumers’ continuation of a behaviour is important in the post adoption phase (Taylor 
+
+and Strutton, 2010; Urban et al., 2009; Wu et al., 2010). Previous studies suggest that attitude 
+
+is a predictor of intentions to purchase online (e.g. Doolin et al., 2005; Hernández et al., 2010; 
+
+Ha and Stoel, 2009) or for e-commerce adoption in SMEs (Grandón et al., 2010; Nasco et al., 
+
+2008).  Moreover, for individuals with direct experience of a phenomenon, such as having 
+
+purchased online (e.g. Hernández et al., 2010),  this attitude will be more easily accessible in 
+
+their memory (Fazio and Zanna, 1981). Thus, we expect a positive relationship between 
+
+consumer attitude and intentions to purchase online. Furthermore, we assume that this 
+
+relationship holds in a Latin American context, thus we hypothesize the following: 
+
+Hypothesis 1: Consumer attitude towards purchasing online has a positive influence on 
+
+consumer intention to purchase online.  
+
+5 
+
+ 
+3.2 Perceived Online Risk 
+
+Perceived online risk is identified by Cheung and Lee (2001) and McCole et al. (2010), 
+
+and is similar to Tan and Sutherland’s (2004) conceptualisation of institutional risk. It relates 
+
+to the online environment where a consumer needs to trust the technology involved to 
+
+undertake the various tasks involved in searching and purchasing (McCole et al., 2010; Tan 
+
+and Sutherland, 2004).  Perceived risk has consistently been identified as having a negative 
+
+influence towards online behaviour, including purchasing (Kim et al., 2008). Forsythe et al. 
+
+(2006) examined three factors: financial risk, product risk and time/convenience risk. Their 
+
+findings suggest that all three factors negatively impacted on perceptions of the Internet for 
+
+purchasing for those respondents who were visitors rather than purchasers. Additionally, 
+
+those respondents who purchased on the Internet less frequently were more influenced by 
+
+perceived risk in the Internet than those who purchased more frequently (Forsythe et al. 
+
+(2006).  
+
+Research also has focused on a generalised perception of risk involved with the online 
+
+environment, for example that it is uncertain, risky, and dangerous and has negative outcomes 
+
+(Cheung and Lee, 2001; Chen and Barnes, 2007). Such perceptions are often associated with 
+
+using the medium, that is, with the security and reliability of transactions over the Web, 
+
+termed transaction risk (Biswas and Biswas, 2004). However, it is not necessarily the amount 
+
+of money involved with the purchase, or the actual product itself, but being put at risk of 
+
+losing money via credit card fraud (Andrews and Boyle, 2008; Bhatnagar et al., 2000; Biswas 
+
+and Biswas, 2004).  Substantive findings suggest that perceptions of risk about using the Web 
+
+for purchasing can outweigh a consumer’s perceptions about the benefits  as well as acting as 
+
+a primary barrier to doing so (Kuhlmeier and Knight, 2005; Yang and Jun, 2002; Bhatnagar 
+
+and Ghose, 2004; Andrews and Boyle, 2008). Moreover, even when individuals do purchase 
+
+online, they are still wary of the risks involved with the Internet environment (Andrews and 
+
+6 
+
+ 
+ 
+Boyle, 2008; Forsythe et al., 2006). We also assume that for a high risk avoidance culture 
+
+such as Chile that this relationship would hold in a Latin American context, thus we propose 
+
+the following hypothesis: 
+
+Hypothesis 2: Perceived online risk has a negative influence on consumer attitude 
+
+towards online purchasing.  
+
+3.3 Trustworthiness of the Online Vendor  
+
+In order to overcome some of the risks noted above, the notion of trust has been 
+
+incorporated into studies of online purchasing (See Bourlakis et al., 2008 ; Urban et al., 2009). 
+
+Trustworthiness of the online vendor has been identified in a number of studies (Jarvenpaa 
+
+and Tractinsky, 1999; Jarvenpaa et al., 2000; McCole et al., 2010; Tan and Sutherland, 2004). 
+
+This dimension examines the extent to which consumers place trust in the vendors from 
+
+whom they purchase (Jarvenpaa and Tractinsky, 1999; Jarvenpaa et al., 2000). McCole et al. 
+
+(2010) examined vendor trustworthiness, and found that this factor positively influences 
+
+attitude towards online purchasing. Jarvenpaa, et al. (2000) found that trust in online vendors 
+
+positively influenced consumers’ attitudes towards the online vendor, which in turn 
+
+influenced their willingness to buy.   
+
+Other evidence suggests that familiarity with an online store also has positive influence 
+
+(e.g., Stranahan and Kosiel, 2007; Garbarino and Strahilevitz, 2004). Moreover, certain 
+
+demographics, for example those under 60 and more highly educated people (Stranahan and 
+
+Kosiel, 2007) and men (Garbarino and Strahilevitz, 2004) are more likely to purchase in 
+
+unfamiliar online stores. By inference it can be assumed that, for these demographics, there 
+
+was a level of initial perceived trust in the online vendors that enabled them to make 
+
+purchases, as suggested by Wu et al. (2010). On average, evidence appears to suggest that 
+
+consumer trust in the online vendor has a positive relationship with attitudes towards 
+
+purchasing online, thus following hypothesis is stated:  
+
+7 
+
+ 
+Hypothesis 3: Consumer perceived trustworthiness of the online vendor has a positive 
+
+influence on consumer attitudes towards online purchasing.  
+
+3.4 Trust in third party assurances 
+
+Studies further suggest that in order to reduce perceptions of risk in transacting in the 
+
+Internet environment, and to increase perceptions of trust in the vendor, Internet firms should 
+
+display third party assurances on their websites. Cheung and Lee (2001) term this concept as 
+
+third party recognition suggesting that such assurance seals are recognised as being external 
+
+to the online vendor. Vendors can provide certification indicators, such as Web assurance 
+
+seals, Trustmarks or credit card symbols on their websites that increase an individual’s 
+
+propensity to trust act (Wu et al., 2010) and act as risk relievers (McCole et al., 2010). These 
+
+can be statements about the encryption technology used or visual indications of secure 
+
+payment systems through the use of specific logos or icons, e.g. Verisign (Andrews and 
+
+Boyle, 2008). They represent third party seals of approval that are recognised and trusted by 
+
+the public (Park et al., 2010). These third party assurances are used to help to relieve negative 
+
+perceptions about the risks of conducting transactions online, thereby creating consumer trust 
+
+in Internet stores (Biswas and Biswas, 2004; Drennan et al., 2006; Wang et al., 2004). 
+
+ However, findings regarding consumer trust in third party assurances are mixed.  For 
+
+example, general awareness of such seals is low (Head and Hassanein, 2002) and that 
+
+consumer do not look for such assurances but simply assume they are in place (Andrews and 
+
+Boyle, 2008). McKnight et al. (2004) also found that seals do not influence consumer trust. In 
+
+contrast, Park et al. (2010) found that  third party assurance seals affect overall satisfaction 
+
+suggesting that consumers have higher expectations of sites with seals. McCole et al. (2010) 
+
+found that trust in third party assurance positively influenced attitude towards purchasing. As 
+
+this discussion shows, there are mixed results regarding the influence of trust in third parties 
+
+and requires ongoing examination. We take the view that since Chile is a high risk avoidance 
+
+8 
+
+ 
+culture, trust in third party assurances should influence attitude thus, the following hypothesis 
+
+is stated:  
+
+Hypothesis 4: Trust in third party assurances has a positive influence on consumer 
+
+attitude towards purchasing online. 
+
+3.5 Consumer Propensity to Trust 
+
+A propensity to trust is a disposition to trust others in general (McKnight et al., 2002; Wu 
+
+et al., 2010). It is theorised that a disposition to trust influences both online vendor trust and 
+
+an individual’s intentions to engage in trust-related behaviours on the Internet (McKnight et 
+
+al., 2002); by inference, intentions to engage in online purchase behaviour. The concept 
+
+includes the notion of faith in humanity and a general trust in others rather than focusing on 
+
+specific Internet vendor issues (McKnight et al., 2002; Wu et al., 2010). Cheung and Lee 
+
+(2001) discuss the propensity to trust, suggesting that it is an individual characteristic that is 
+
+based on both experience and cultural environment. They argue that individuals who find it 
+
+easy to trust are more likely to trust purchasing in the online environment compared to those 
+
+who do not find it easy to trust.  
+
+Wu et al., (2010) suggest that such trust does not have to be based on experience or 
+
+knowledge of a specific trusted party. Instead, a propensity to trust is based more on faith in 
+
+humanity and general trust partly based on personality but also arising from an individual’s 
+
+socialisation towards trusting others. This notion is also supported by Gong (2009) who 
+
+suggests that high trust cultures have a greater propensity to trust those in their own culture. 
+
+Tan and Sutherland (2004) discuss dispositional trust in much the same way as Cheung and 
+
+Lee (2001) and McKnight et al. (2002), regarding it as a personality trait. 
+
+McKnight et al. (2002) found that propensity to trust was positively related to personal 
+
+innovativeness in their examination of the structure of trust. Findings in Wu et al. (2010) 
+
+show that a disposition to trust was not significant for any of the hypothesised relationships in 
+
+9 
+
+ 
+their extensive study. Cheung and Lee (2001) offer propositions regarding this construct’s 
+
+relationships with other trust variables rather than attitude or intentions towards online 
+
+shopping behaviour. However, it can be argued that because a propensity to trust arises from 
+
+an individual’s socialization, it is possible that it may act as a cultural normative influence 
+
+that can be predicted to influence intentions in a TRA framework. Thus the following 
+
+hypothesis is proposed:  
+
+Hypothesis 5: Consumer propensity to trust has a positive influence on consumer 
+
+intention to purchase online.  
+
+3.6 Cultural Environment of trust with online purchasing   
+
+Tan and Sutherland (2004) state that cultural values have a role in people’s disposition to 
+
+trust. In extending this notion, Cheung and Lee (2001) included the cultural environment of 
+
+trust in their scale development study, arguing that it is a dimension of an individual’s 
+
+propensity to trust in something or someone. Certainly the cross cultural literature supports 
+
+the notion that a cultural environment of trust is a factor that needs to be considered (Cyr, 
+
+2008; Greenberg et al., 2008; Hofstede, 2001; Wu et al., 2010).  
+
+As a result many studies include country as the surrogate measure of cultural 
+
+environment. The scale development work by Cheung and Lee (2001) identified that there is a 
+
+dimension of a propensity or disposition to trust that can capture the cultural environment of 
+
+trust.  However no studies have been found that specifically examine this aspect of trust as a 
+
+separate and measurable factor.  We therefore include this dimension of propensity to trust as 
+
+a separate construct and, as it is based on cultural dimensions and can be considered as a 
+
+normative influence, we propose the following hypothesis:  
+
+Hypothesis 6: Cultural environment of trust has a positive influence on consumer 
+
+intention to purchase online.  
+
+4. Research Design and Methodology 
+
+10 
+
+ 
+One thousand potential participants were extracted from a University’s alumni database 
+
+located in Santiago. The survey instrument was initially developed in English, which was then 
+
+translated into Spanish by the native speaking research team member. This survey was then 
+
+back translated by a colleague in Chile as suggested by (Brislin, 1970). A convenience sample 
+
+of five Chilean consumers in Australia pre-tested the survey, resulting in refining wording for 
+
+some of the items. To reduce the common method bias, semantic differential scales and 7-
+
+point Likert-type scales were used (Podsakoff et al., 2003). The survey was placed online and 
+
+accessed through a URL hosted by the faculty of an Australian university. Potential 
+
+participants were sent an email introducing the research team, the objectives of the study and 
+
+an embedded link to the survey. A total of 182 participants completed the survey, representing 
+
+a 17.6% response. Following the elimination of six cases with extensive missing data, 176 
+
+cases were used to test the proposed structural model. The sample comprised 55.7% females 
+
+and 44.3% males with 100% having purchased at least one product or service on the Internet. 
+
+The demographic characteristics of the participants are shown in Table 1.  
+
+Insert Table 1 here 
+
+The data shows that for the most part, these respondents have made online purchases from 
+
+well known domestic retailer websites, such as falabella.cl (largest domestic department 
+
+store), lan.com (largest domestic airline), jumbo.cl (largest domestic supermarket chain), 
+
+ripley.cl (domestic department store), telemercadoseuropa.cl (online grocery retailer), and 
+
+ticketmaster.cl (shows and concerts). Respondents have also purchased from foreign retail 
+
+websites predominantly at amazon.com and e-bay.com.  Furthermore, the most frequently 
+
+purchased online products or services by respondents are computing and electronics, books 
+
+and magazine subscriptions, air flight tickets, household bills, groceries, concert tickets and 
+
+gifts.  
+
+4.1 Measurement 
+
+11 
+
+ 
+The survey questionnaire uses extant measures from the literature. Consumer attitude 
+
+towards online purchase was measured with five items using a semantic differential scale 
+
+adapted from Oliver and Bearden (1985). Perceived online risk was measured by 4 items 
+
+from Andrews et al. (2007). The constructs trustworthiness of the online vendor and trust in 
+
+third party assurances were measured by a three-item scale adapted from Cheung and Lee 
+
+(2001). Consumer propensity to trust and cultural environment of trust were each measured 
+
+with three items with the wording adapted from Cheung and Lee (2001). All of the foregoing 
+
+items used 7 point Likert type scales with anchor points ranging from 1=totally disagree to 
+
+7=totally agree. The dependent variable, consumer intentions to purchase online was 
+
+measured with 3 items adopted from Andrews et al. (2007). The sources of the construct 
+
+measures and their standardized estimates are illustrated in Table 2. The correlations, means 
+
+and standard deviations for the construct measures are shown in Table 3. 
+
+Insert Table 2 here 
+
+Insert Table 3 here 
+
+ In the measurement purification process, item-to-total correlations, standardized 
+
+Cronbach Alpha, Exploratory Factor Analysis (EFA) (all in SPSS), single measurement 
+
+models, and Confirmatory Factor Analysis (CFA) (with AMOS 16) were conducted for all 
+
+constructs. Considering common procedures in structural equations modelling (SEM), all 
+
+measures in the CFA were used to test the proposed SEM model (Anderson and Gerbing, 
+
+1991).  
+
+5. Analysis and Results 
+
+For this study, structural equation modelling (SEM) in AMOS 17 was used to test the 
+
+proposed model and the hypothesized paths. The SEM analysis shows a relatively good fit for 
+
+the model (χ2/df=1.702, IFI=.915, TLI=.900, CFI=.913, and RMSEA=.063). Testing the 
+
+reliability and validity of the construct measures was conducted using alpha reliability, 
+
+12 
+
+ 
+correlations, and CFA analyses and tests. As evidence of convergent validity, CFA results in 
+
+Table 3 signify that most of the items are significantly associated with their hypothesized 
+
+factors. To check and reduce the common method bias variance, the questionnaire initially 
+
+mixed positive and negatively worded items. Further, to satisfy the statistical contention of 
+
+common method bias variance, questionnaire items were re-coded to make all the constructs 
+
+symmetric. Using Podsakoff and Organ’s (1986) procedure, factor analysis was conducted for 
+
+all constructs and illustrated that there was no single factor or any general factor that 
+
+accounted for most of the variance in the independent and dependent variables. Thus, no 
+
+common method bias variance issues were identified.  
+
+The results of the hypotheses testing are shown in Table 4. Four hypotheses are found to be 
+
+significant.  
+
+Insert Table 4 here 
+
+The results of Hypothesis 1 indicates that consumer attitude towards purchasing online is 
+
+significant and positively related to consumer intentions to purchase online (β=.541, p=.014), 
+
+therefore Hypothesis 1 is supported. Results of Hypothesis 2 indicate that perceived online 
+
+risk is significant (β= -.209, p=.021) and negatively related to consumer attitude towards 
+
+purchasing online, therefore, Hypothesis 2 is supported. Hypothesis 3 proposes that 
+
+trustworthiness of the online vendor is positively related to consumer attitude towards 
+
+purchasing online. However the result of this hypothesis is not significant (β=-.198 p=.158), 
+
+therefore, Hypothesis 3 is not supported. The results of Hypothesis 4 show that trust in third 
+
+party assurances is positively but marginally related to consumer attitude towards purchasing 
+
+online (β= .259, p=.054), therefore, Hypothesis 4 is marginally supported. Hypothesis 5 
+
+proposes that consumer propensity to trust is positively related to consumer intentions to 
+
+purchase online. However the data indicates a significant relationship but in the opposite 
+
+direction than hypothesized (β=-.485, p=.018), therefore, Hypothesis 5 is not supported. 
+
+13 
+
+ 
+The results of Hypothesis 6 indicate that the cultural environment of trust is positively and 
+
+significantly related to intentions to purchase online (β=1.824, p=.000). Therefore, 
+
+Hypothesis 6 is supported.  
+
+Although the estimated model had a relatively good fit, there was a high correlation 
+
+between two variables that were not tested in the model. The correlation matrix shows that 
+
+trust in third party assurances and consumer intentions to purchase online have the highest 
+
+correlation in the matrix. In order to further examine this link, a competing model was 
+
+estimated to determine whether trust in third party assurances had a direct influence on 
+
+consumer intentions to purchase online,. This competing model is depicted in Figure 2.  
+
+Insert Figure 2 here 
+
+The competing model shows a slightly better fit of the model (χ2/df=1.689, IFI=.917, 
+
+TLI=.900, CFI=.915, and RMSEA=.063). In this model, four relationship paths are 
+
+significant. First, similarly to the previous model, consumer attitude towards purchasing 
+
+online (Hypothesis 1) is significant and positively related to intentions to purchase on the 
+
+Internet (β=.381, p=.046). Perceived online risk (hypothesis 2) also remains significant and 
+
+negatively related to consumer attitude towards purchasing online (β=-.212, p=.022). As with 
+
+the first model, trustworthiness of the online vendor (hypothesis 3) is not significantly related 
+
+to consumer intentions to purchase on the Internet (β=-.156, p=.244). Regarding hypothesis 4, 
+
+when a hypothesized path is established between trust in third party assurances and consumer 
+
+intention to purchase online, this relationship is positive and significant (β=.552, p=.000). 
+
+However, in the original hypothesised path in model 1, which was marginally significant, the 
+
+relationship between trust in third party assurances and consumer attitudes towards 
+
+purchasing online becomes non significant (β=.231, p=.092). Thus trust in third party 
+
+assurances is a factor that influences intentions, rather than attitudes. In the competing model, 
+
+the relationship between propensity to trust and intention to purchase online (hypothesis 5) is 
+
+14 
+
+ 
+not significant (β=-.017, p=.858). Finally, cultural environment of trust (hypothesis 6) 
+
+continues to be positive and significantly related to consumer intention to purchase online as 
+
+in the previous model (β=.600, p=.004). 
+
+5. Discussion and Conclusions 
+
+5.1 Discussion of the findings 
+
+Most prior research on online purchasing behaviour has focused predominantly on 
+
+developed markets such as the U.S., Europe, parts of Asia and Australia. However, less 
+
+consideration has been given to Internet purchase behaviour in regions such as Latin America. 
+
+Such countries have lower technology readiness at both the firm and consumer level (Donoso 
+
+and Crittenden, 2008) and e-commerce adoption by companies is slower (Grandón et al., 
+
+2010; Nasco et al., 2008). The objective of our study was to investigate the role of trust and 
+
+risk on Chilean consumers’ attitudes and intentions of purchasing online and to determine if 
+
+the constructs used in western research are relevant for Latin American studies of this nature. 
+
+Drawing upon extant literature and developed within a theoretical framework of TRA, a 
+
+model was tested. The findings provide interesting insights into Internet purchase behaviour 
+
+for Chilean consumers.  
+
+Consistent with previous studies, Chilean consumers’ attitude towards purchasing online 
+
+was positively related to their intentions to continue to purchase online. This finding is 
+
+supported in other studies where attitude has an effect on intentions to continue purchasing on 
+
+the Internet when participants had already previous experience of doing so (Hernández et al., 
+
+2010). Thus, it can be argued that attitude towards a behaviour becomes less important with 
+
+experience since it is more easily accessed from memory (Fazio and Zanna, 1981; Lee et al., 
+
+2002).  
+
+ Although all respondents in our study had purchased online at least once, they still 
+
+perceive that the Internet environment is risky, which is consistent with prior research (e.g., 
+
+15 
+
+ 
+Bourlakis et al., 2008; Drennan et al., 2006; Kuhlmeier and Knight, 2005; McCole et al., 
+
+2010; Ha and Coghill, 2008). It is noted, however, that this belief is only influential on their 
+
+attitudes and is not a barrier to their intention to continue purchasing online, as is supported in 
+
+other studies of online purchasers (e.g. (Andrews and Boyle, 2008; Forsythe et al., 2006). 
+
+Previous studies suggest that the more experience with online purchasing people have, the 
+
+less risk they perceive in the Internet in general (Forsythe et al., 2006; Wang et al., 2010). 
+
+This could be the case in our study, especially since the beta weight for this variable is 
+
+particularly large. All participants in our study are university educated, thus they would have 
+
+more Internet experience through studying (Maldifassi and Canessa, 2010).  
+
+Additionally, they are online purchasers, which suggests they have developed a level of 
+
+initial trust with any website where they have purchased, as suggested in Wu et al (2010). 
+
+Finally, it can be inferred that in our study the perceived benefits captured in the measure of 
+
+attitude outweighs individuals’ perceptions of risk, which is also consistent with Gong (2009). 
+
+She suggests that for Latin American people who have greater experience with the Internet 
+
+and Internet purchasing, perceived risk would have a diminishing effect on their attitude 
+
+towards online purchasing, and therefore on their intentions to continue this behaviour.   
+
+It is also noted that trust in the online vendor was not significant in either of the models, 
+
+although one would have expected it to be as suggested in both western research findings (e.g. 
+
+Van den Poel and Leunis, 1999; Wu et al., 2010) and cross cultural findings (e.g. Jarvenpaa et 
+
+al., 1999 and 2000). A partial explanation for this result could be that there are not very many 
+
+online companies based in Chile, or that not many Chilean companies offer their customers 
+
+online purchasing facilities at this present time (Grandón et al., 2010; Nasco et al., 2008). Wu 
+
+et al., 2010 suggest that individuals use other factors to develop initial trust in a website to 
+
+make their transaction, such as trust in third party assurance seals and website interactivity 
+
+16 
+
+ 
+features. While we did not test for website design features, many sites have features to 
+
+enhance interactivity with visitors and return customers.  
+
+Additionally, it is possible that our participants are familiar with the brand names of the 
+
+websites as they may have visited them on previous occasions before deciding to make a 
+
+purchase. For example, our sample tended to purchase online with well known domestic retail 
+
+stores such as Falabella, Ripley, Jumbo, as well as the regional airline Lan, all which have 
+
+been operating in the marketplace for over 50 years. This means that potentially they were 
+
+well known brand names. If they are well known companies, a positive relationship might 
+
+exist between store familiarity and other aspects of trust, such as reputation (Stranahan and 
+
+Kosiel, 2007) as well as trust in third party assurances (Park et al., 2010). Wu et al, 2010 
+
+found that such assurances were associated with initial trust when purchasing on unfamiliar 
+
+websites in their experimental design. Moreover, the cross-cultural research (e.g. Cyr et al., 
+
+2005; Gong, 2009) suggests that in collectivist cultures there is a high propensity to trust 
+
+insiders and higher levels of trust among their own culture. 
+
+Such assumptions are also supported by our findings for trust in third party assurances 
+
+which in the first model had a marginal positive influence on attitudes. In the second model 
+
+testing this variable it had a strong positive influence on intentions to purchase online. This 
+
+finding provides insight into why trust in the online vendor might not be significant, in that 
+
+Chilean consumers appear to actively trust these assurances, which are often external 
+
+reassurances. Such inferences are supported as other studies suggest that third party 
+
+assurances help to create consumer trust in Internet stores (e.g. Biswas and Biswas, 2004; 
+
+Drennan et al., 2006; Wang et al., 2004), and are important for initial trust in a website (Wu et 
+
+al., 2010). While findings in cross cultural research is somewhat mixed as to the value of third 
+
+party assurance seals to increase perceptions of trust, our study adds support to those that 
+
+17 
+
+ 
+suggest having these seals on a website does have this benefit (e.g. Cheskin, 2000, cited in 
+
+Cyr 2008; McCole et al. 2010; Park et al., 2010; Wu et al., 2010).    
+
+Consumer propensity to trust does not have a significant effect on attitude or intention to 
+
+continue purchasing online, however, cultural environment of trust is significant and 
+
+positively influences intentions to continue to purchase online. It is acknowledged, however, 
+
+that the findings in cross-cultural research regarding propensity to trust is equivocal at best. 
+
+Wu et al. (2010) found no significance for this variable and initial trust in a website and they 
+
+suggest that other factors such as third party assurance seals and website features may have 
+
+displaced a propensity to trust. A possible explanation for these findings in our study could be 
+
+that since our sample is more highly educated and experienced with the Internet they are also 
+
+more sophisticated in terms of their propensity to trust as a personal characteristic. Moreover, 
+
+it is noted that people in high trust cultures, such as Chile, tend to trust others in their culture, 
+
+reflecting a cultural normative influence (e.g. Cheung and Lee, 2001; Gong, 2009). TRA 
+
+specifies that normative influences impact on intentions to perform behaviour, more so than 
+
+impacting attitudes. This finding bodes well for Chilean small to medium sized enterprises 
+
+when considering adding online retailing channels to the existing business operations.  
+
+6.2 Theoretical Contribution 
+
+The main theoretical contribution of this study is the application of TRA in a developing 
+
+country located in Latin America, helping to support the generalizability of theoretical models 
+
+outside developed markets. Moreover, the findings of this study contribute to the ongoing 
+
+generalizability of consumer-centric models of online purchasing behaviour. Specifically our 
+
+study helps to extend research on perceived risk and trust online by extending the context to a 
+
+Latin American country with high levels of collectivism and uncertainty avoidance.  Our 
+
+findings test variables with good psychometrical properties developed in western studies in a 
+
+Latin American context to examine their relevance to explain how these important factors 
+
+18 
+
+ 
+influence intentions to continue to purchase online. It will be noted in the findings that the 
+
+variables that have the strongest explanatory power of Chilean consumers intentions, in 
+
+addition to attitude (β=.381) are cultural environment of trust (β =.600) and third party 
+
+assurances (β=.552). Perceived risk has a negative influence on attitudes only, thus it appears 
+
+to be cancelled out by the stronger trust variables. Somewhat surprisingly, our study showed 
+
+that trust in online vendors and a propensity to trust were not significant in our model. 
+
+Whether these findings are indeed cultural differences for Latin American consumers needs to 
+
+be treated with caution as our study is not a cross-cultural one. Therefore, further research that 
+
+compares Chilean or other Latin American consumers’ perceptions of risk and trust is 
+
+required. However, our study does create opportunities for interested researchers to further 
+
+test these combinations of variables to gain further insights into their generalisability to a 
+
+Latin American context.   
+
+6.3 Managerial Contributions 
+
+This study complements previous research on e-commerce adoption by SME managers in 
+
+Latin America (Grandón et al., 2010; Nasco et al., 2008) by looking at the consumer 
+
+perspective of online purchasing behaviour with a particular focus on perceptions of risk and 
+
+trust. For marketing practitioners or SME managers, the findings provide tentative insights 
+
+into which aspects of perceived risk and trust have the most influence on consumers’ 
+
+intentions to continue purchasing. While it is widely accepted that perceived risk in the 
+
+Internet environment is the major barrier, our results suggest that this is not insurmountable. 
+
+The findings show that it has the least influence of all of the variables that significantly 
+
+impact on attitudes or intentions to purchase online. Moreover perceived risk only influences 
+
+attitudes and our results suggest that consumers have a sufficiently positive attitude towards 
+
+purchasing online to overcome such perceptions. Trust in the online vendor and a propensity 
+
+to trust proved to be insignificant in our model.  However, the findings for these two aspects 
+
+19 
+
+ 
+of risk should not be interpreted to mean that online companies should become complacent. 
+
+Practitioners will note that the third party assurances are important and they should ensure 
+
+that these seals are easily recognisable and clearly displayed on the Website. They must 
+
+continue to allay their visitors’ and return customers’ concerns about the risks through 
+
+actively creating and maintaining perceptions of trustworthiness in their role as the vendor 
+
+and provider of secure transaction facilities.  
+
+Since perceptions of risk and trust are often cited as the barriers to online purchasing, our 
+
+findings do give hope to Latin American firms planning to move into the online retailing 
+
+space.  Moreover, our findings may support Gong’s (2009) statement that a rapid diffusion of 
+
+business to consumer e-commerce may be anticipated as consumers move passed the initial 
+
+adoption stage and become more appreciative of the benefits that purchasing online provides.  
+
+7. Limitations and Future research  
+
+Regarding the limitations of this study, the sample derives from a database of university 
+
+alumni, thus they are more educated than the general population in Chile. However, previous 
+
+studies have identified that the higher the social class the more likely that consumers adopt 
+
+technology and the more useful they perceived it to be (Maldifassi and Canessa, 2010). In 
+
+contexts like Latin America, social class is also indicative of higher education, thus using an 
+
+alumni database is considered appropriate for obtaining a sample to conduct a survey on 
+
+online purchasing behaviour. A second limitation is that the study focuses on consumers’ 
+
+perceptions of risk and trust towards purchasing online in a single country. As this is not a 
+
+cross cultural study, while we may have found some evidence of possible cultural influences 
+
+they should be treated with caution.   
+
+Future research should focus on testing the external validity of these findings by 
+
+replicating this study in other Latin American countries that have a large consumer take up of 
+
+the Internet, for example Brazil and Mexico. Moreover, future research for online purchasing 
+
+20 
+
+ 
+behaviour in Latin America should include a sample of non-purchasers for comparison 
+
+purposes. We also suggest that future studies should explore additional antecedents of online 
+
+purchasing behaviour such as the role of perceived benefits and social norms. Finally, this 
+
+research could be replicated in other developing country contexts from different continents 
+
+such as South-East Asia and Africa as suggested in Wresch (2003). 
+
+21 
+
+ 
+References 
+
+Anderson, J. C. & Gerbing, D. W. (1991), "Predicting the Performance of Measures in a 
+
+Confirmatory Factor Analysis with a Pretest Assessment of Their Substantive 
+
+Validities". Journal of Applied Psychology, 76, 732-740. 
+
+Andrews, L. & Boyle, M. V. (2008), "Consumers’ accounts of perceived risk online and the 
+
+influence of communication sources". Qualitative Market Research: an International 
+
+Journal, 11, 59-75. 
+
+Andrews, L., Kiel, G., Drennan, J., Boyle, M. & Werawardeena, J. (2007), "Gendered 
+
+perceptions of experiential value in using Web-based retail channels". European 
+
+Journal of Marketing, 41, 640-658. 
+
+Bhatnagar, A. & Ghose, S. (2004), "Online information search termination patterns across 
+
+product categories and consumer demographics". Journal of Retailing, 80, 221-228. 
+
+Bhatnagar, A., M., S. & Rao, H. (2000), "On risk, convenience and Internet shopping 
+
+behaviour". Association for Computing Machinery, Communications of the ACM, 43, 
+
+98-121. 
+
+Biswas, B. & Biswas, A. (2004), "The diagnostic role of signals in the context of perceived 
+
+risk in online shopping: Do signals matter more on the Web?". Journal of Interactive 
+
+Marketing, 18, 30-45. 
+
+Bourlakis, M., Papagiannidis, S. & Fox, H. (2008), "E-Consumer Behaviour: Past, Present 
+
+and Future Trajectories of an Evolving Retail Revolution". nternational Journal of E-
+
+Business Research, 4, 64-76. 
+
+Brislin, R. (1970), "Back Translation for Cross-Cultural Research". Journal of Applied 
+
+Psychology, 1, 185-216. 
+
+Chen, Y.-H. & Barnes, S. (2007), "Initial Trust and Online Buyer Behaviour". Industrial 
+
+Management & Data Systems, 107, 21-36. 
+
+22 
+
+ 
+ 
+Cheung, C. M. K. & Lee, M. K. O. (2001), "Trust in Internet shopping: Instrument 
+
+development and validation through classical and modern approaches". Journal of 
+
+Global Information Management, 9, 23-35. 
+
+Cyr, D. (2008) Website Design, Trust and Culture: An Eight Country Investigation. 
+
+Proceedings of the Seventh Annual Workshop on HCI Research in MIS. Paris, France. 
+
+Donoso, P. & Crittenden, V. L. (2008), "Strategic Management in Latin America". Journal of 
+
+Business Research, 61, 587-589. 
+
+Doolin, B., Dillon, S., Thompson, F. & Corner, J. L. (2005), "Perceived risk, the Internet 
+
+shopping experience and online purchase behaviour: A New Zealand perspective". 
+
+Journal of Global Information Management, 13, 66-88. 
+
+Drennan, J., Previte, J. & Sullivan Mort, G. (2006), "Privacy, Risk Perception and Expert 
+
+Online Behavior: An Exploratory Study of Household End Users". Journal of 
+
+Organizational and End User Computing, 18, 1-22. 
+
+Fazio, R. H. & Zanna, M. P. (1981) Direct experience and attitude-behavior consistency, 
+
+Academic Press. 
+
+Fishbein, M. & Ajzen, I. (1975) Belief, Attitude, Intention, and Behavior: An Introduction to 
+
+Theory and Research, Reading, MA, Addison-Wesley. 
+
+Forsythe, S., Liu, C., Shannon, D. & Gardner, L. C. (2006), "Development of a scale to 
+
+measured perceived benefits and risks of online shopping". Journal of Interactive 
+
+Marketing, 20, 55-75. 
+
+Garbarino, E. & Strahilevitz, M. (2004), "Gender differences in the perceived risk of buying 
+
+online and the effects of receiving a site recommendation". Journal of Business 
+
+Research, 57, 768-775. 
+
+Gong, W. (2009), "National culture and global diffusion of business to consumer e-
+
+commerce". National culture and global diffusion, 16, 83-101. 
+
+23 
+
+ 
+Grandón, E., Nasco, S. & Mykytn, P. (2010), "Comparing theories to explain e-commerce 
+
+adoption". Journal of Business Research, in press. 
+
+Grau, J. (2010) US Retail E-Commerce Forecast: Room to Grow, EMarketer Reports, 
+
+accessed at http://www.emarketer.com/Reports/All/Emarketer_2000672.aspx. 
+
+Greenberg, R., Wong-on-Wing, B. & Lui, G. (2008), "Culture and Consumer Trust in Online 
+
+Businesses". Journal of Global Information Management 16, 26-44. 
+
+Ha, H. & Coghill, K. (2008), " Online shoppers in Australia: dealing with problesm". 
+
+International Journal of Consumer Studies, 32, 5-17. 
+
+Ha, S. & Stoel, L. (2009), "Consumer e-shopping acceptance: Antecedents in a technology 
+
+acceptance acceptance model". Journal of Business Research, 62, 565-571. 
+
+Head, M. & Hassanein, K. (2002), "Trust in e-Commerce: Evaluating the Impact of Third-
+
+Party Seals". Quarterly Journal of Electronic Commerce, 3, 307-325. 
+
+Hernández, B., Jimenez, J. & Martin, M. J. (2010), "Customer behaviour in electronic 
+
+commerce: The moderating effect of e-purchasing experience". Journal of Business 
+
+Research, 63, 964-971. 
+
+Hofstede, G. (2001) Cultures consequences: Comparing values, behaviours, institutions and 
+
+organisations, CA, Sage Publications. 
+
+Jarvenpaa, S. L. & Tractinsky, N. (1999), "Consumer trust in an Internet store: a cross-
+
+cultural validation". Journal of Computer Mediated Communication, 5. 
+
+Jarvenpaa, S. L., Tractinsky, N. & Vitale, M. (2000), "Consumer trust in an Internet store". 
+
+Information Technology and Management, 1, 45-71. 
+
+Kim, D. J., Ferrin, D. L. & Rao, H. R. (2008), "A trust-based consumer decision-making 
+
+model in electronic commerce: The role of trust, perceived risk, and their 
+
+antecedents". Decision Support Systems, 44, 544-564. 
+
+24 
+
+ 
+Kuhlmeier, D. & Knight, G. (2005), "Antecedents to Internet-Based Purchasing: A 
+
+Multinational Study". International Marketing Review, 22, 460-473. 
+
+Lee, E.-J., Lee, J. & Schumann, D. W. (2002), "The influence of communication source and 
+
+mode on consumer adoption of technological innovations". Journal of Consumer 
+
+Affairs, 36, 1-28. 
+
+Maldifassi, J. O. & Canessa, E. C. (2010), "Information technology in Chile: How perceptions 
+
+and use are related to age, gender and social class". Journal of Business Research, 31, 
+
+273-286. 
+
+Mccole, P., Ramsey, E. & Williams, J. (2010), "Trust considerations on attitudes towards 
+
+online purchasing: The moderating effect of privacy and security concerns". Journal 
+
+of Business Research, 63, 1018-1024. 
+
+Mcknight, D. H., Choudhury, V. & Kacmar, C. (2002), "Developing and Validating Trust 
+
+Measures for e-Commerce: An Integrative Typology". Information Systems Research, 
+
+13, 334-359. 
+
+Mcknight, D. H., Kacmar, C. J. & Choudhury, V. (2004), "Dispositional Trust And Distrust 
+
+Distinctions in Predicting High- and Low-Risk Internet Expert Advice Site 
+
+Perceptions 
+
+". e-Service Journal, 3, 35-55. 
+
+Nasco, S., Grandon, E. E. & Mykytn, P. P. (2008), "Predicting electronic commerce adoption 
+
+in Chilean SMEs". Journal of Business Research, 61, 697-705. 
+
+Park, I., Bhatnagar, A. & Rao, H. R. (2010), "Assurance Seals, On‑Line Customer 
+
+Satisfaction, and Repurchase Intention". International Journal of Electronic 
+
+Commerce, 14, 11-34. 
+
+25 
+
+ 
+Podsakoff, P. M., Mackenzie, S. B., Lee, J.-Y. & Podsakoff, N. P. (2003), "Common Method 
+
+Biases in Behavioral Research: A Critical Review of the Literature and Recommended 
+
+Remedies". Journal of Applied Psychology, 88, 879-903. 
+
+Podsakoff, P. M. & Organ, D. (1986), "Self-Reports in Organizational Research: Problems 
+
+and Prospects". Journal of Management, 12, 531-543. 
+
+Qureshi, I., Fang, Y., Ramsey, E., Mccole, P., Ibbotson, P. & Compeau, D. (2009), 
+
+"Understanding online customer repurchasing intention and the mediating role of trust 
+
+- an empirical investigation in two developed countries". European Journal of 
+
+Information Systems, 18, 205. 
+
+Rohm, A. J., Kashyap, V., Brashear, T. G. & Milne, G. R. (2004), "The use of online 
+
+marketplaces for competitive advantage: a Latin American perspective". The Journal 
+
+of Business and Industrial Marketing, 19, 372-385. 
+
+Stranahan, H. & Kosiel, D. (2007), "E-tail spending patterns and the importance of online 
+
+store familiarity". Internet Research, 17, 421-434. 
+
+Tan, F., B. & Sutherland, P. (2004), "Online Consumer Trust: A Multi-Dimensional Model". 
+
+Journal of Electronic Commerce in Organizations, 2:3, 40-58. 
+
+Taylor, D. G. & Strutton, D. (2010), "Has e-marketing come of age? Modeling historical 
+
+influences on post-adoption era Internet consumer behaviors". Journal of Business 
+
+Research, 63, 950-956. 
+
+Trendwatch, N. M. (2009), "Latin America accessed at 
+
+http://www.newmediatrendwatch.com/regional-overview/104-latin-america on 9th 
+
+March.". 
+
+Urban, G. L., Amyx, C. & Lorenzon, A. (2009), "Online trust:  state of the art, new frontiers 
+
+and research potential". Journal of Interactive Marketing, 23, 179-190. 
+
+26 
+
+ 
+Van Den Poel, D. & Leunis, J. (1999), "Consumer acceptance of the Internet as a channel of 
+
+distribution". Journal of Business Research, 45, 249-256. 
+
+Von Abrams, K. (2010) Retail E-Commerce in Western Europe, EMarketer Reports, accessed 
+
+at http://www.emarketer.com/Reports/All/Emarketer_2000679.aspx on 29 June. . 
+
+Wang, J., Gu, L. & Aiken, M. (2010), "A study of impact of individual differences on online 
+
+shopping". International Journal of e-Business Research, 6, 52-67. 
+
+Wang, S., Beatty, S. E. & Fox, W. (2004), "Signalling the trustworthiness of small online 
+
+retailers". Journal of Interactive Marketing, 18, 53-69. 
+
+Wresch, W. (2003), "Initial e-commerce efforts in nine least developed countries: A review of 
+
+national infrasturcture, business appraoches andn product selection". Journal of Global 
+
+Information Management, 11, 67-78. 
+
+Wu, G., Hu, X. & Wu, Y. (2010), "Effects of perceived interactivity, perceived web assurance 
+
+and disposition to trust on initial online trust". Journal of Computer Mediated 
+
+Communication, 16, 1025 - 1032. 
+
+Yang, Z. & Jun, M. (2002), "Consumer perception of e-service quality: from Internet 
+
+purchaser and non-purchaser perspectives". Journal of Business Strategies, 19. 
+
+27 
+
+ 
+ 
+  
+Consumer 
+attitude towards 
+online 
+purchasing  
+
+Consumer 
+intention to 
+purchase online 
+
+H1 
+
+Figure 1: Proposed Conceptual Model 1 
+
+Perceived online 
+risk 
+
+Trustworthiness 
+of the online 
+vendor 
+
+Trust on 3rd. 
+party assurances 
+
+Consumer 
+propensity to 
+trust 
+
+Cultural 
+environment of 
+trust 
+
+H2 
+
+H3 
+
+H4 
+
+H5 
+
+H6
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1: Demographic Information of Respondents 
+
+Gender 
+
+Age 
+
+Marital status 
+
+Highest Level of Education 
+
+Main Occupation 
+
+Female 
+Male 
+Total 
+16 – 20 
+21 – 25 
+26 – 30 
+31 – 35 
+36 – 40 
+41 – 45 
+46 – 50 
+51 – 55 
+55 + 
+Total 
+Single no children 
+Single with children 
+Couple no children 
+Couples with children 
+Total 
+Less than 10 years of schooling 
+12 years of schooling 
+Technical/vocational qualifications 
+Undergraduate degree (bachelors) 
+Diploma 
+Masters 
+Ph.D. or ABD 
+Total 
+Domestic/home duties 
+Craft/tradesperson/factory work 
+Office/clerical/administration 
+Police/army 
+Executive/manager 
+Teacher/lecturer 
+Retired 
+Medical/nursing Information 
+Technology 
+Other 
+Total 
+
+n 
+98 
+78 
+176 
+  1 
+12 
+31 
+56 
+32 
+21 
+  9 
+  9 
+  5 
+       176 
+ 48 
+ 12 
+ 32 
+ 84 
+176 
+  1 
+  4 
+  9 
+58 
+42 
+59 
+  3 
+       176 
+3 
+0 
+38 
+4 
+105 
+11 
+2 
+6 
+6 
+11 
+176 
+
+Valid % 
+55.7 
+44.3 
+
+  0.6 
+  6.8 
+17.6 
+31.8 
+18.2 
+11.9 
+  5.1 
+  5.1 
+  2.8 
+
+27.9 
+  7.0 
+18.6 
+46.5 
+
+    0.1 
+ 2 
+   5.1 
+32.9 
+23.9 
+33.5 
+  1.5 
+
+  1.5 
+0 
+21.6 
+2 
+59.6 
+  6.3 
+  0.1 
+  3.4 
+  3.4 
+  5.8 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2: Construct Measures and CFA Results  
+
+Constructs 
+
+Sources              Indicators 
+
+Consumer 
+intention to  
+purchase  
+online 
+(α = .957) 
+
+Consumer 
+Attitude 
+towards online 
+purchasing 
+(α = .763) 
+
+Measure from 
+Andrews et al. 
+(2007), 
+adapted 
+from 
+Karahanna  
+et al. (1999). 
+Measure 
+adapted  
+From Oliver 
+and  
+Bearden 
+(1985) 
+
+I plan to continue using the Internet to make purchases in the next six 
+months. 
+It is likely that I will continue to sue the Internet to make purchases in  
+the next six months 
+I intend to continue using the Internet to make purchases in the next six 
+months. 
+
+Overall, I believe that using the Internet for purchasing is:  
+bad/good 
+is not useful/useful 
+Is ineffective/effective 
+Is very risky/not very risky 
+Not easy/easy 
+
+Consumer 
+propensity to 
+trust 
+(α = .819) 
+
+Measure 
+adapted from 
+Cheung and 
+Lee (2001) 
+
+It is easy for me to trust people and most things in my life                   
+My tendency to trust people or things in my life is high 
+I tend to trust people and things in my life even when I have little 
+ knowledge about them 
+
+Trustworthine
+ss of the 
+online vendor 
+(α = .488) 
+
+Measure 
+adapted from  
+
+Trust on 3rd. 
+Party 
+Assurances 
+(α = .770) 
+
+Measure 
+adapted from  
+Cheung and 
+Lee (2001)  
+
+Cultural 
+environment 
+of trust 
+ (α = .523) 
+
+Measure 
+from Cheung 
+and Lee 
+(2001) 
+
+Internet stores want to be known as vendors who keep their promises 
+and commitments 
+Online retailers have more to lose than to gain by not delivering on their 
+promises or commitments 
+Internet stores could not care less about servicing a person form Chile 
+[R] 
+There are many reliable third party certification bodies (entities) 
+available for assuring the trustworthiness of the Internet stores  
+I think third party certification bodies (entities) such as e-trust are doing 
+a good job. 
+Existing third party certification bodies (entities) are adequate for the 
+protection of Internet shoppers’ interests. 
+A high degree of trust exists in my family 
+People in my community trust each other 
+I live in a high trust society 
+
+Perceived  
+online risk 
+(α = .822) 
+
+Measure  
+from 
+Andrews et 
+al.,  
+(2007), 
+adapted 
+from 
+Jarvenpaa 
+et al. ( 2000).  
+
+I feel safe making purchases on the Internet using my credit card [R] 
+I feel safe giving my personal details to an online organization if  
+requested [R] 
+Compared with other ways of making purchases, I think that using the  
+Internet is more risky. 
+There is too much uncertainty associated with using the Internet to make 
+purchases.  
+
+*Std 
+Estima
+te 
+.956 
+
+.920 
+
+.944 
+
+.609 
+.440 
+.772 
+.600 
+.743 
+
+.690 
+.895 
+
+.751 
+
+.613 
+
+.560 
+
+.354 
+
+.801 
+
+.639 
+
+.739 
+.350 
+.357 
+.537 
+
+.831 
+
+.832 
+
+.603 
+
+.832 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table 3: Means, Standard Deviations and Correlations  
+
+INT 
+
+ATT 
+
+POR 
+
+TOV 
+
+TTA 
+
+CPT 
+
+CET 
+
+Mean 
+5.49 
+
+5.65 
+
+3.66 
+
+5.33 
+
+4.92 
+
+4.17 
+
+4.49 
+
+Std. 
+Dev. 
+1.21 
+
+0.90 
+
+1.38 
+
+1.14 
+
+1.22 
+
+1.39 
+
+1.06 
+
+INT 
+
+ATT 
+
+POR 
+
+TOV 
+
+TTA 
+
+CPT 
+
+CET 
+
+1 
+
+.377** 
+
+-.569** 
+
+.491** 
+
+.747** 
+
+.234** 
+
+.390** 
+
+.377** 
+
+1 
+
+-.398** 
+
+.096 
+
+.371** 
+
+.132 
+
+.251** 
+
+-.569** 
+
+-.398** 
+
+1 
+
+-.339** 
+
+-.566** 
+
+-.211**
+
+-.271** 
+
+.491** 
+
+.096 
+
+-.339** 
+
+1 
+
+.455** 
+
+.747** 
+
+.371** 
+
+-.566** 
+
+.455** 
+
+1 
+
+.087 
+
+.093 
+
+.234** 
+
+.132 
+
+.390** 
+
+.251** 
+
+-.211** 
+
+-.271** 
+
+.087 
+
+.226 
+
+.093 
+
+1 
+
+.265** 
+
+.410** 
+
+1 
+
+.226 
+
+.265** 
+
+.410** 
+
+**. Correlation is significant at the 0.01 level (2-tailed) 
+*. Correlation is significant at the 0.05 level. 
+
+Legend: INT=Intentions to purchase online, ATT=Attitude towards purchasing online, 
+POR=Perceived online risk, TOV= Trustworthiness of the online vendor, TTA= Trust on 
+third party assurances; CPT= Propensity to trust, CET= Cultural environment of trust 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4: Results of Hypotheses Testing in Model 1 
+
+Hypotheses  Path directions 
+
+H1 
+H2 
+H3 
+H4 
+
+H5 
+H6 
+
+ 
+AT 
+POR   
+TOV   
+ 
+
+TTA 
+
+CPT   
+CET   
+
+INT 
+AT 
+AT 
+
+AT   
+
+INT 
+INT 
+
+Est. 
+
+  .541 
+-.209 
+-.198 
+
+St. 
+Err. 
+ .220 
+.090 
+.140   
+
+  z 
+
+p 
+
+Result  
+
+  2.459 
+-2.315 
+-1.413 
+
+.014  Supported 
+.021  Supported 
+.158  Not Supported 
+
+  .259 
+
+.134 
+
+  1.935 
+
+.054 
+
+Marginally 
+Supported 
+
+-.485 
+1.824 
+
+.204 
+.419 
+
+   -.373 
+  4.333 
+
+.018  Not Supported 
+.000  Supported 
+
+Legend: INT=Intentions to purchase online, ATT=Attitude towards purchasing online, 
+POR=Perceived online risk, TOV= Trustworthiness of the online vendor, TTA= Trust on 
+third party assurances; CPT= Propensity to trust, CET= Cultural environment of trust 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: Competing Model 2 
+
+Perceived online 
+risk 
+
+Trustworthiness 
+of the online 
+vendor 
+
+Trust on 3rd. 
+party assurances 
+
+Consumer 
+propensity to 
+trust 
+
+Cultural 
+environment of 
+trust 
+
+H2 
+
+H3 
+
+Consumer 
+attitude towards 
+online 
+purchasing  
+
+Consumer 
+intention to 
+purchase online 
+
+H1 
+
+H4a 
+
+H4b 
+
+H5 
+
+H6
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5: Results of Competing Model 2 
+
+Path directions 
+
+Est. 
+
+St. Err. 
+
+  z 
+
+ATT 
+
+POR 
+
+TOV 
+
+TTA 
+
+TPA 
+
+CPT 
+
+CET 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INT 
+
+ATT 
+
+ATT 
+
+ATT 
+
+INT 
+
+INT 
+
+INT 
+
+  .381 
+
+-.212 
+
+-.156 
+
+  .231 
+
+  .552 
+
+-.017 
+
+  .600 
+
+ .191 
+
+.093 
+
+.134   
+
+.138 
+
+.136 
+
+.097 
+
+.209 
+
+  1.993 
+
+-2.283 
+
+-1.166 
+
+  1.883 
+
+  4.068 
+
+  -.179 
+
+  2.872 
+
+p 
+
+.046 
+
+.022 
+
+.244 
+
+.092 
+
+.000 
+
+.858 
+
+.004 
+
+Legend: INT=Intentions to purchase online, ATT=Attitude towards purchasing online, 
+POR=Perceived online risk, TOV= Trustworthiness of the online vendor, TTA= Trust on 
+third party assurances; CPT= Propensity to trust, CET= Cultural environment of trust 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+

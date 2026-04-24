@@ -1,0 +1,1163 @@
+Advances in Consumer Research  
+https://acr-journal.com/  
+
+Original Researcher Article 
+
+Volume-2 | Issue-4 | October 2025 
+
+E-Business Reputation and Purchase Intention: The Mediating Role of Trust 
+and the Lens of Economic Development 
+
+Bijay Sigdel1*, Kazi Ziaul Zafri2, Pratikshya Bhandari3 and Asmita Bhattarai4 
+
+1Shinawatra University, Thailand, 
+Email: sigdelbijayy@gmail.com  
+2Shinawatra University, Thailand  
+3Shinawatra University, Thailand, INTI International University, Malaysia  
+4Aalekh Research Pvt. Ltd., Nepal 
+
+Received: 
+04/09/2025 
+Revised: 
+19/09/2025  
+Accepted: 
+09/10/2025 
+Published: 
+17/10/2025  
+
+ABSTRACT 
+T Trust and reputation are dynamic rudiments in e-business that affect customer behaviour and 
+business success. Therefore, the study aims to investigate the impact of e-business reputation 
+on  purchasing  intention  and  the  mediation  role  of  trust.      The  data  are  gathered  from  376 
+university students. The variables were measured using the 5-Likert scales. The hypothesis is 
+tested using partial least squares structural equation modeling (PLS-SEM). The findings reveal 
+a  positive  and  significant  relationship  between  e-business  reputation,  trust,  and  purchasing 
+intention. Similarly, trust has a positive and significant relationship with purchasing intentions. 
+Lastly, mediation of trust exists between the reputation of e-business and purchasing intention.  
+The result can help Nepali e-businesses develop trust-building and trust-maintaining strategies 
+that  will  ultimately  enhance  their  reputation  and  increase  customers'  intentions  to  make 
+purchases. The results can help firms understand the importance of maintaining a favourable 
+reputation and fostering consumer trust. By enabling e-businesses to create targeted marketing 
+efforts,  enhance  customer  support,  and  establish reliable  online platforms,  these insights  can 
+promote economic development and growth in the Nepalese e-business sector. 
+
+Keywords: Reputation, Trust, E-business, Purchasing Intention, Economic Development 
+© 2025 by the authors; licensee Advances in Consumer Research. This article is an open access 
+article distributed under the terms and conditions of the Creative Commons Attribution (CC-
+BYNC.ND) license(http://creativecommons.org/licenses/by/4.0/). 
+
+to  advance  and 
+
+INTRODUCTION 
+With  its  revolutionary  potential,  digital  technology 
+transform  society  and 
+continues 
+businesses  (Zhang  et  al.,  2023).    The  phase  of  the 
+technology revolution happens in the blink of eye. The 
+rapid  expansion  and  global  reach  of  E-business  have 
+been  made  possible  by  digital  technology,  which  has 
+also  transformed how  businesses  operate,  interact  with 
+their  clients,  and  conduct  transactions  online  (Castillo 
+and Taherdoost, 2023; Hye et al., 2023).  The term "e-
+business," which is short for "electronic business," refers 
+to the online conduct of business (Shariati and Aghajani, 
+2023).  The  expansion  and 
+innovation  of  digital 
+technology  are  currently  accelerating,  as  are  online 
+commercial operations. Developments in fields such as 
+intelligence,  cloud  computing,  big  data 
+artificial 
+analytics,  and  the  Internet  of  Things  are  sparking 
+industry  revolutions  and  new  opportunities  for  online 
+businesses  (Bisht  et  al.,  2022;  Jiang  et  al.,  2024). 
+Customer  involvement  and  brand  exposure  are  being 
+increased  through  digital  marketing  tactics  such  as 
+influencer  marketing,  social  media  advertising,  and 
+Incorporating  digital 
+targeted  online  campaigns. 
+increases 
+technologies 
+
+into  company  procedures 
+
+consumer  experiences,  streamlines  operations,  and 
+propels  the  globalization  of  online  business  models 
+(Kiradoo,  2023).    The  acceptance  of  digital  payments, 
+rising  internet  usage,  and  increasing  mobile  usage  all 
+contribute  to  Nepal's  strong  growth  in  e-commerce, 
+reshaping conventional business models and opening up 
+new  markets  for  online  companies.  The  use  of  e-
+commerce  platforms,  online  marketplaces,  and  online 
+payment methods is expanding, providing customers in 
+Nepal  with  ease  and  accessibility  while  promoting  the 
+development of the nation's digital economy (Maharjan 
+et al., 2022; Pansuwong et al., 2023).  
+
+In simpler terms, reputation refers to the general opinion, 
+perception,  and  impression  that  the  public  holds  of  a 
+person, group, or entity (Elmada et al., 2022). Therefore, 
+perception and trustworthiness that a business has in the 
+online  marketplace  constitutes  its  reputation  in  e-
+business.  It 
+ideas,  experiences,  and 
+the 
+feedback  that  consumers,  business  partners,  and  other 
+stakeholders  have  collectively  expressed  about  the 
+organization's 
+and 
+trustworthiness.  Delivering  high-quality  goods  or 
+services, offering first-rate customer service, upholding 
+
+dependability, 
+
+credibility, 
+
+includes 
+
+Advances in Consumer Research  
+
+                          5320 
+
+  
+   
+                                                                                                                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+smartphones  and  internet  access  is  one  of  the  main 
+drivers  boosting  e-business  in  Nepal  (Khadka,  2018). 
+Shopping online, electronic payment methods, and other 
+electronic commerce services are becoming increasingly 
+popular  as  more  people  gain  access  to  the  internet 
+(Maharjan  et  al.,  2022).  Daraz  Nepal,  SastoDeal, 
+Hamrobazar,  Muncha.com  are  some  examples  of  e-
+business in Nepal.   
+
+How to cite:  Bijay Sigdel, et, al. E-Business Reputation and Purchase Intention: The Mediating Role of Trust and the Lens of Economic 
+Development. Adv Consum Res. 2025;2(4):5320–5327 
+rigorous standards of ethics, and being receptive to client 
+comments  and  issues  are  all  key  components  of 
+developing  a  favorable  reputation  in  e-business.  A 
+positive  reputation  increases  the  level  of  trust  of 
+consumers,  helping  an  e-business  succeed  and  endure 
+(Soleimani,  2022;  Devi  et  al.,  2024).  Trust  and 
+confidence in the e-business are boosted by a favorable 
+reputation that has been built through constant delivery 
+of  high-quality  goods  and  services,  open  dealings,  and 
+satisfied  customer  (Fatimah  et al.,  2023).  On the  other 
+hand,  trust  is  a  crucial  component  that  enables  the 
+growth  of  a  favorable  reputation.  Trust  and  reputation 
+work together to strengthen one another, which is crucial 
+for a e-business's success and thus, it has an impact on 
+customer  purchasing  intentions.  Customers  are  more 
+certain of the caliber and dependability of a company's 
+goods and services when they trust it and believe it has 
+a  solid  reputation  (Fatihah,  2023).    This  in  turn  has  a 
+favorable  impact  on  their  intention  to  buy.  This 
+assurance increases the likelihood that you will make a 
+purchase;  as  a  result,  customers'  purchasing  choices 
+increase. An individual's propensity or readiness to buy 
+a  good  or  service  refers  to  their  purchasing  intention 
+(Song et al., 2022).  
+
+The  e-commerce  sector 
+in  Nepal  has  advanced 
+significantly, thanks to several online marketplaces and 
+platforms  that  offer  a  wide  range  of  products  and 
+services. Products ranging from groceries and household 
+essentials  to  clothing  and  technology  are  now  readily 
+available for customers to view and purchase. To reach 
+a  wider  audience  of  customers  and  boost  sales, 
+businesses are also utilising social networking sites and 
+targeted  digital  marketing  strategies  (Shrestha,  2019). 
+Another important development in the Nepalese online 
+business landscape is the emergence of online payment 
+options  and  electronic  wallets  (Maharjan  et  al.,  2022). 
+Cash  transactions  once  dominated  the  market,  but 
+today's  consumers  prefer  electronic  payment  choices 
+including  mobile  banking,  e-wallets,  and  payment 
+gateways. This modification has improved the efficiency 
+of transactions while also providing clients with a secure 
+and  useful  means  of  making  purchases  (Dangol  et  al., 
+2019).   
+
+Due to the expanding significance of the digital market 
+in  the  current  global  economy,  is  essential  to  know  in 
+too  (Maharjan  et  al.,  2022). 
+context  of  Nepal 
+Understanding  the  elements  that  influence  consumers' 
+purchase decisions is crucial for e-businesses to succeed 
+in the competitive e-commerce environment, given the 
+growing popularity of online shopping. An e-business's 
+reputation significantly influences consumer views and 
+behavior.  A  good  reputation  can  foster  client  trust, 
+increasing the likelihood that they will make a purchase 
+in a connected, digital world where information is shared 
+quickly (Yeo et al., 2021).  Studying these factors helps 
+e-businesses  establish  a  good  reputation,  increase 
+consumer  trust,  and  ultimately  enhance  consumers' 
+propensity to make purchases. The result can help Nepali 
+trust-
+e-businesses 
+maintaining strategies that will ultimately enhance their 
+reputation  and  increase  customers'  intentions  to  make 
+purchases.  The  results  can  help  firms  understand  how 
+crucial it is to uphold a favorable reputation and increase 
+consumer  trust.  By  enabling  e-businesses  to  create 
+targeted  marketing  efforts,  enhance  customer  support, 
+and establish reliable online platforms, these insights can 
+promote growth and success in the Nepalese e-business 
+sector. 
+
+trust-building 
+
+develop 
+
+and 
+
+LITERATURE REVIEW 
+This  section  discusses  the  scenario  of  Nepalese  e-
+business and the relationship between the variables. 
+
+Scenario of Nepalese E-business  
+Over  time,  the  e-business  environment  in  Nepal  has 
+undergone substantial expansion and change, driven by 
+changes  in  consumer  behaviour  and  technological 
+advancements.  E-business  is  becoming  increasingly 
+vital 
+to  Nepal's  economy,  offering  convenience, 
+accessibility, and new opportunities for business owners 
+increasing  use  of 
+(Maharjan  et  al.,  2022).  The 
+
+Advances in Consumer Research  
+
+New entrepreneurship prospects in Nepal have also been 
+made  possible  by  the  e-business  sector.  Startups  and 
+small businesses utilise e-commerce sites to market their 
+products and establish connections with clients beyond 
+their local markets. A creative and imaginative mindset 
+has been cultivated as business owners’ experiment with 
+cutting-edge  business  tactics  and  make  money  from 
+niche  markets.  This  adjustment  has  enhanced  the 
+efficiency  of  transactions  while  also  offering  clients  a 
+secure  and  convenient  payment  method  (Joshi  et  al., 
+2016). There are now more prospects for entrepreneurs 
+in Nepal thanks to the e-business sector. To market their 
+products  and  reach  customers  beyond  their  local 
+markets,  startups  and  small  businesses  utilise  e-
+commerce platforms. An inventive and creative attitude 
+has  been  promoted  by  business  owners'  experiments 
+with  unique  business  tactics  and  financial  success  in 
+niche industries (Maharjan et al., 2022). 
+
+Reputation of E-business and Purchasing Intentions  
+In the current digital world, where information is readily 
+accessible and available, consumers rely heavily on the 
+legitimacy  and  reputation  of  e-businesses  to  make 
+informed  choices  about 
+their  purchases.  A  good 
+reputation  can  greatly  impact  a  consumer's  purchasing 
+decisions  (Chauhan  et  al.,  2019).  An  e-business's 
+reputation  acts  as  a  symbol  of  dependability  and 
+trustworthiness. Customers view an online business with 
+a good reputation as being more legitimate and reliable 
+(Jean  and  Tan,  2019).  Building  a  positive  reputation 
+involves  obtaining  pleasant  reviews  on  the  internet, 
+ratings, and  client  feedback.  This  favorable  perception 
+in turn boosts consumers' trust in the online business and 
+their propensity to make purchases (Wang et al., 2020). 
+
+                          5321 
+
+ 
+ 
+ 
+ 
+ 
+ 
+influenced  by 
+
+will  look  out  for  their  best  interests  and  deliver  a 
+satisfying  experience  (McLean  et al.,  2020).  Trust is  a 
+factor in the development of customer loyalty and repeat 
+business.  Customers  are  more  inclined  to  stick  with  a 
+brand  and  form  enduring relationships  when  they  trust 
+it. Trust fosters a sense of familiarity and dependability, 
+leading to a preference for the reputable brand over its 
+rivals.  Because  of  this,  customers  with  high  trust  are 
+destined to have firmer purchasing intents and stick with 
+the  dependable  company  in  the  future  (Meilatinova, 
+2021). 
+
+How to cite:  Bijay Sigdel, et, al. E-Business Reputation and Purchase Intention: The Mediating Role of Trust and the Lens of Economic 
+Development. Adv Consum Res. 2025;2(4):5320–5327 
+Customers  are  more  inclined  to  transact  with  and  buy 
+products  from  online  merchants  they  believe  to  be 
+trustworthy.  Consumers'  opinions  of  a  product  or 
+service's  quality  are  positively 
+its 
+reputation. High-qulity goods or services are frequently 
+connected  to  a  reputable  and  well-established  online 
+business. Consumers frequently assume that reputable e-
+businesses  are  dedicated  to  providing  higher  value 
+(Kumar and  Pradhan,  2016)  As  a result,  customers are 
+more likely to have optimistic purchasing intentions and 
+be eager to spend money on the goods or services such 
+e-businesses provide. A good reputation can increase the 
+satisfaction  and  perceived  value  of 
+the  buying 
+experience  (Chauhan  et  al.,  2019).  Excellent  customer 
+service,  quick  delivery  times,  and  dependable  return 
+policies are frequently associated with e-businesses with 
+a high reputation. When customers are confident in an e-
+business's  ability  to  meet  their  expectations,  they  are 
+more  likely  to  perceive  value  in  their  transactions. 
+Consumers' inclinations to buy are increased and repeat 
+purchases  are  encouraged  by  this  perception  of  value 
+combined with a favorable reputation. Thus,  
+
+H2: Trust has a significant and positive relationship 
+with purchasing intention  
+
+trust,  which 
+
+Reputation  of  E-business,  Trust,  and  Purchasing 
+Intentions  
+Building 
+turn  affects  consumers' 
+in 
+purchasing inclinations, is influenced by an e-business's 
+reputation. A good reputation increases an e-business's 
+perceived trustworthiness. Consumers are more likely to 
+trust  and  engage  with  an  online  business  that  has  a 
+positive  reputation  (Olaleye  et  al.,  2021).  Online 
+reviews,  evaluations,  and  favorable  testimonies  help 
+build  a  good  reputation.  Customers  are  more  likely  to 
+trust  the  e-business  as  a  result  of  this  favorable 
+perception  because  they  believe  that  a  respectable  e-
+business is more inclined to fulfill its commitments and 
+offer great experiences. In this situation, trust serves as 
+a  link  between  consumer  purchase  intents  and  the 
+reputation (Keh and Xie, 2009).  
+
+Their  level  of  trust  has  a  significant  influence  on 
+consumers' intention to buy. Customers are more likely 
+to  transact  with  and  make  purchases  from  an  online 
+business  when  they  trust  it.  The  perceived  dangers  of 
+online  transactions,  such  as  concerns  about  product 
+quality,  data  security,  or  fraudulent  activity,  are 
+mitigated through trust (Soleimani, 2022). Higher levels 
+of consumer trust increase the likelihood that consumers 
+will make informed purchases because they feel more in 
+control of the decision-making process and believe that 
+their needs will be met (Lazaroiu et al., 2020). The link 
+between  an  e-business's  reputation  and  customers' 
+propensity to buy is strengthened by trust, which serves 
+as  a  trigger  (Qalati  et  al.,  2021).  Brand  devotion  and 
+repeat  business  are  influenced  by  trust  and  reputation. 
+Customers  are  likely  to  develop  a  sense  of  loyalty  and 
+choose  a  brand  over  its  rivals  when  they  trust  the  e-
+business.  A  solid  reputation  strengthens  this  devotion 
+since  customers  view  a  respected  e-business  as  more 
+dependable  and  consistent 
+in  providing  value. 
+Consumers' purchasing intentions are reinforced by trust 
+and reputation,  which motivates  them  to  keep  using  e-
+business  for  their  subsequent  transactions  (Zhao  et  al., 
+2019).  
+
+H1: Reputation of E-business have a significant and 
+positive relationship with purchasing intention  
+
+Trust and Purchasing Intentions 
+The desire of consumers to transact and make purchases 
+is  significantly  influenced  by  their  level  of  trust. 
+Customers  are  more  likely  to  have  favorable  purchase 
+intentions  and  feel  secure  in  their  decision-making 
+process  when  they  have  faith  in  a  brand  or  company 
+(Harrigan  et  al.,  2021).  Building  solid  relationships 
+between  customers  and  companies  starts  with  trust. 
+Customers  view  a  brand  or  company  as  dependable, 
+credible, and competent when they have faith in it. This 
+trust  is  built  through  several  variables,  including 
+constant product/service quality, openness and integrity 
+in business dealings, dependable customer service, and 
+a history of keeping commitments. Customers are more 
+likely  to  establish  favorable  purchasing  intentions  and 
+are more prepared to commit their time and money to a 
+brand's  goods  or  services  when  they  have  faith  in  its 
+reliability (Dam, 2020).  
+
+Trust is essential for reducing perceived risks associated 
+with  purchasing  decisions  (Rachbini,  2018).  Trust  is 
+even more crucial in the internet market, where buyers 
+cannot see things in person or speak with sellers face-to-
+face.  Customers  need  to  know  that  their  personal 
+information  will  be  treated  securely,  that  the  goods  or 
+services will meet their expectations, and that they will 
+receive  the  help  they  need  in  case  of  any  problems. 
+Consumers' intentions to make purchases are positively 
+impacted  and 
+the 
+transaction when they have faith that a brand or company 
+
+feel  more  secure  completing 
+
+H3: Reputation of E-business has a significant and positive relationship with trust. 
+H4: Trust mediates between the reputation of e-business and purchasing intention.  
+
+Advances in Consumer Research  
+
+                          5322 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to cite:  Bijay Sigdel, et, al. E-Business Reputation and Purchase Intention: The Mediating Role of Trust and the Lens of Economic 
+Development. Adv Consum Res. 2025;2(4):5320–5327 
+
+Trust 
+
+H1 
+
+H2 
+
+Purchasing Intentions 
+
+Reputation of          
+ E-business  
+
+Figure 1: Conceptual Framework 
+
+METHODOLOGY  
+The study examines the impact of reputation of E-business on the purchasing intentions and the mediating role of trust. 
+The questionnaire is divided into parts first one about demographic information (gender, age, education and purchasing 
+frequency of respondents) and second part is about the variables. The variables used in reputation of e-business are vision 
+and leadership (R1), work place environment (R2), product and service (R3) and social and environmental responsibility 
+(R4) (Alniacik et al., 2012).  Similarly, the variables of trust are authenticity (T1), professionalism (T2), digital literacy 
+(T3)  and  payment  gateways  (T4)  (Zhao  et  al.,  2018).  Likewise,  the  variables  of  purchasing  intentions are information 
+availability  (PI1),  usability  (PI2)  and  customer  service  (PI3)  (Jimenez  et  al.,  2022).    A  5-point  Likert  scale  uses  for 
+response  option,  ranging  from  1  “Strongly  Disagree”  and  5  “Strongly  Agree”.  Using  a  closed-end  survey  and  a 
+questionnaire, the study adopted a quantitative methodology. A test with five experts was used to evaluate the validity of 
+the item objective congruence (IOC) of the questionnaire prior to the data collection process. Purposive sampling is used 
+to gather the sample data. A sample of 50 individuals from the pilot research is used to assess the questions' validity. 376 
+university students were given the survey to complete. The Statistical Package for Social Science (SPSS) and Smart Partial 
+Least Squares (Smart PLS) programs were used to analyze the data. Both the structural model and the measurement model 
+were employed in the data analysis. 
+
+The gender of the respondent is represented as male 206 (54.79%) followed by female 170 (45.21%) respectively. The 
+age of the respondent is represented as 21 to 25 year was 138 (36.70%) followed by 26 to 30 year was 125 (33.24%), less 
+than 20 year was 75 (19.95%), 31 to 35 year was 20 (5.32%) and 36 year and above was 18 (4.79%) respectively. The 
+education  of  respondents  is  represented  as  bachelors  189  (50.27%)  followed  by  master  177  (47.07%).  The  online 
+purchasing frequency of the respondents is represented as several times in a year was 108 (28.72%) followed by once in 
+a month was 95 (25.27%), several times in a month was 80 (21.28%), once in a week was 57 (15.16%) and once in a year 
+was 36 (9.57%) respectively.  
+
+DATA ANALYSIS AND DISCUSSION 
+The data in this study are analyzed using Smart PLS 4. A statistical method for structural equation modeling that identifies 
+relationships  between  observable  &  latent  variables  (Hair  et  al.,  2021)  Structural  equation  modeling  combines  the 
+measurement  and  structural  model  components.  For  analyzing  path  models  containing  the  relationship  among  latent 
+variables, the method known as PLS-SEM is most frequently used (Sarstedt et al., 2021). Latent variables are evaluated 
+by the measuring model using observable variables (Kang and Ahn, 2021). The composite reliability as well as Cronbach's 
+alpha make up the measurement model employed in this investigation. A composite reliability of above 0.70 is regarded 
+as acceptable (Hair et al., 2021) and Cronbach's alpha is greater than 0.60 (Griethuijsen et al., 2015). According to (Hair 
+et al., 2021), AVE values greater than 0.5 are considered acceptable. 
+
+Table 1: Reliability and Validity 
+
+Cronbach's alpha 
+
+Composite reliability 
+
+Reputation of E-business 
+Trust 
+Purchasing Intentions 
+
+0.803 
+0.741 
+0.686 
+
+0.870 
+0.834 
+0.827 
+
+Average variance 
+extracted (AVE) 
+0.627 
+0.559 
+0.614 
+
+The Fornell Larcker criterion looks at the relationships between latent variables & the square root of the construct's AVE. 
+According to (Hair et al., 2021) the greatest correlations among any two constructs must have lower square roots compared 
+to their respective AVEs. According to (Hair et al., 2021) an indicator should have more outer loading (correlation) on its 
+associated constructs than any other cross-loading. According to (Hair et al., 2021) an indicator should have more outer 
+loading (correlation) on the associated constructs compared to any other cross-loading. 
+
+Advances in Consumer Research  
+
+                          5323 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to cite:  Bijay Sigdel, et, al. E-Business Reputation and Purchase Intention: The Mediating Role of Trust and the Lens of Economic 
+Development. Adv Consum Res. 2025;2(4):5320–5327 
+
+Table 2: Fornell Lacker Criterion 
+Trust 
+
+Reputation of E-business 
+
+Purchasing Intentions 
+
+Reputation of E-business 
+Trust 
+Purchasing Intentions 
+
+0.792 
+0.314 
+0.410 
+
+0.748 
+0.475 
+
+0.784 
+
+Reputation of E-business 
+0.759 
+0.758 
+0.829 
+0.819 
+0.165 
+0.147 
+0.358 
+0.198 
+0.303 
+0.380 
+0.276 
+
+Table 3: Cross Loadings 
+Trust 
+0.197 
+0.294 
+0.237 
+0.246 
+0.803 
+0.654 
+0.726 
+0.797 
+0.425 
+0.355 
+0.332 
+
+R1 
+R2 
+R3 
+R4 
+T1 
+T2 
+T3 
+T4 
+PI1 
+PI2 
+PI3 
+
+Purchasing Intentions 
+0.317 
+0.388 
+0.286 
+0.282 
+0.274 
+0.385 
+0.404 
+0.304 
+0.822 
+0.791 
+0.736 
+
+The structural model shows the association & relationship between each latent variable (Kang and Ahn, 2021). This study's 
+structural model shows the route analysis, R2 coefficient of determination, and f2 effect size. Through path analysis, the 
+relationship between the latent variables that exist is determined. In this study's path analysis, the path coefficients value, 
+standard deviation, p-value, confidence interval of 95%, and t-value are all shown. The path coefficient has a range of -1 
+to +1. The study's hypothesis is accepted if the p-value is below 0.05 & the t-value is greater than 1.96 (Hair et al., 2021). 
+The path analysis with the beta, standard deviation, t-value, and p-value is shown in table 4. 
+
+Reputation of E-business -> Purchasing 
+Intentions 
+Trust -> Purchasing Intentions 
+Reputation of E-business -> Trust 
+Reputation of E-business -> Trust -> 
+Purchasing Intentions 
+
+Table 4: Path analysis 
+SD 
+0.046 
+
+Beta 
+0.289 
+
+T-value 
+6.226 
+
+P-values 
+0.000 
+
+Verdict 
+Accepted 
+
+0.385 
+0.314 
+0.121 
+
+0.044 
+0.047 
+0.021 
+
+8.806 
+6.643 
+5.789 
+
+0.000 
+0.000 
+0.000 
+
+Accepted 
+Accepted 
+Accepted 
+
+In  table  4  hypothesis  (H1)  is,  “Reputation  of  E-business  have  a  significant  and  positive  relationship  with  purchasing 
+intention”. The path coefficient for hypothesis (H1) is 0.289, t-value is 6.226, and p-value is 0.000 so, the hypothesis (H1) 
+is accepted. In line with (Qalati et al., 2021) stated that reputation has a significant relationship with purchasing intention. 
+Similarly,  hypothesis  (H2)  is,  “Trust  has  a  significant  and  positive  relationship  with  purchasing  intention”.  The  path 
+coefficient for hypothesis (H2) is 0.385, t-value is 8.806, and p-value is 0.000 so, the hypothesis (H2) is accepted. The 
+result is contrary to (Watanabe et al., 2020) which responded that trust has no influence on purchasing intention.  
+
+Similarly, hypothesis (H3) is, “Reputation of E-business has a significant and positive relationship with trust”. The path 
+coefficient for hypothesis (H3) is 0.314, t-value is 6.643, and p-value is 0.000 so, the hypothesis (H3) is accepted. The 
+result is consistent with (Olaleye et al., 2021) which explain that reputation has a positive relationship with trust. Similarly, 
+hypothesis (H4) is, “Trust mediates between the reputation of e-business and purchasing intention”. The path coefficient 
+for hypothesis (H4) is 0.121, t-value is 5.789, and p-value is 0.000 so, the hypothesis (H4) is accepted. In line with (Qalati 
+et al., 2021) stated that trust significantly mediates the relationship between reputation and purchase intention.  
+
+The amount of variance in an endogenous construct that can be explained by its predictor construct is measured by the 
+coefficient of determination, or R2 (Hair et al., 2021). According to (Chin, 1998), R2 values of 0.67, 0.33, and 0.19 are 
+categorized as substantial, moderate, weak, and very weak, respectively. In the study it shows that the value of r square of 
+trust is 0.098, and purchasing intention is 0.301 which is very weak and weak respectively.  
+
+A predictive construct's influence upon an endogenous construct is measured by the effect size (f2) (Hair et al., 2021). A 
+small, medium, and large effect, according to (Cohen, 2013), is one with an impact size of 0.02-0.14, 0.15-0.34, and 0.35 
+and above. Table 5 displays the effect size. 
+
+Table 5:  Effect Size 
+
+Advances in Consumer Research  
+
+                          5324 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to cite:  Bijay Sigdel, et, al. E-Business Reputation and Purchase Intention: The Mediating Role of Trust and the Lens of Economic 
+Development. Adv Consum Res. 2025;2(4):5320–5327 
+
+Reputation of E-business 
+Trust 
+
+Trust 
+0.109 (Small Effect) 
+
+Purchasing Intentions 
+0.108 (Small Effect) 
+0.191 (Medium Effect) 
+
+Figure 2: Path Analysis 
+
+CONCLUSION AND RECOMMENDATION  
+As  a 
+intents  are 
+result,  consumers'  purchasing 
+significantly  influenced  by  the  reputation  of  online 
+businesses,  and  trust  serves  as  a  bridge  between  these 
+two  factors.  The  results  of  this  study  emphasise  the 
+relevance  of  establishing  a  good  reputation  in  the  e-
+business  space  to  win  customers'  trust  and  therefore 
+influence  buying  behaviour.  A  positive  reputation 
+positively influences consumers' trust in the e-business, 
+which increases their likelihood of making a purchase. 
+The idea behind trust's mediating function is that it links 
+consumer  purchase  intents  and  how  well-known  an 
+online business is. Customers are more inclined to trust 
+an online business they believe to be reputable because 
+they  believe  it  to  be  trustworthy,  credible,  and  able  to 
+meet  their  demands.  The  psychological  mechanism  of 
+trust helps consumers feel more confident when making 
+purchases  from  reliable  online  merchants  by  lowering 
+the ambiguity and risk involved in online transactions. 
+
+With  the  above  conclusion,  the  recommendation  is 
+firstly;  e-businesses  should  devote  their  attention  to 
+continually  providing  excellent  items  and  customer 
+service.  Second,  they  should  actively  promote  this 
+reputation  by  using  client  endorsements  and  reviews. 
+Thirdly,  to  promote  trust,  security  and  transparency 
+should  be  given  top  priority.  To  improve  individual 
+attention,  personalized  channels  of  communication 
+should  be  built.  Finally,  it  is  crucial  to  continuously 
+monitor  and  maintain  your  internet  reputation  so  that 
+you can quickly handle any complaints or problems. By 
+putting these suggestions into practice, you may improve 
+your  reputation,  promote  trust,  and  have  a  beneficial 
+impact on future purchases. 
+
+LIMITATION AND FURTHER RESEARCH  
+The  limitation  are  the  doors  for  further  research.  The 
+results' generalizability is a limitation because the study 
+
+influence 
+
+longitudinal  approaches 
+
+was  conducted  with  university  students,  which  limits 
+how widely the findings may be applied. Subsequently, 
+this study used cross-sectional data, which may limit the 
+ability  to  detect  changes  in  the  students.  So,  further 
+research  can  conduct 
+to 
+understand  the  effect  of  reputation  of  e-business  on 
+purchasing 
+intention.  For  several  reasons,  further 
+research in this field may investigate how other factors, 
+such  as  perceived  risk,  product  quality,  and  customer 
+satisfaction, 
+relationship  between 
+the 
+reputation,  trust,  and  purchasing  intentions.  First  off, 
+consumers'  perceptions  of  risk are  a  big  factor  in  their 
+choices, especially  when it comes to e-business, where 
+worries about fraud, security, and privacy are common. 
+Understanding the relationships between perceived risk, 
+trust,  and  reputation  can  help  to  understand  the 
+circumstances  in  which  reputation  has  a  bigger  or 
+weaker  influence  on  purchasing  intentions.  Second,  a 
+key  factor 
+loyalty  and 
+in  determining  customer 
+happiness  is  product  quality.  It  can  assist  determine 
+whether trust and reputation have varying effects based 
+on the caliber of the goods provided by online firms. Last 
+but  not  least,  trust  and  intention  to  buy  are  strongly 
+connected  with  consumer  satisfaction.  It  can  reveal 
+whether  a  good  reputation  and  high  levels  of  trust  are 
+more  effective  in  influencing  consumers'  purchasing 
+intentions  when  combined  with  high  degrees  of 
+customer satisfaction. 
+
+REFERENCES  
+1.  Alniacik, E., Alniacik, U., & Erdogmus, N. (2012). 
+How  do  the  dimensions  of  corporate  reputation 
+affect 
+intentions?. Corporate 
+Reputation Review, 15(1), 3-19. 
+
+employment 
+
+2.  Bisht,  D.,  Singh,  R.,  Gehlot,  A.,  Akram,  S.  V., 
+Singh, A., Montero, E. C., ... & Twala, B. (2022). 
+Imperative  role  of  integrating  digitalization  in  the 
+technological 
+firms 
+
+finance: 
+
+A 
+
+Advances in Consumer Research  
+
+                          5325 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How to cite:  Bijay Sigdel, et, al. E-Business Reputation and Purchase Intention: The Mediating Role of Trust and the Lens of Economic 
+Development. Adv Consum Res. 2025;2(4):5320–5327 
+perspective. Electronics, 11(19), 3252. 
+
+3.  Castiblanco Jimenez, I. A., Gomez Acevedo, J. S., 
+Olivetti, E. C., Marcolin, F., Ulrich, L., Moos, S., & 
+Vezzetti,  E.  (2022).  User  engagement  comparison 
+between  advergames  and  traditional  advertising 
+using  EEG:  does  the  user’s  engagement  influence 
+purchase intention?. Electronics, 12(1), 122. 
+
+4.  Castillo, M. J., & Taherdoost, H. (2023). The impact 
+e-
+
+of 
+business. Encyclopedia, 3(1), 107-121. 
+
+technologies 
+
+AI 
+
+on 
+
+5.  Chauhan,  S.,  Banerjee,  R.,  &  Banerjee,  S.  (2019). 
+The  impact  of  website  quality  and  reputation  on 
+purchasing 
+online 
+shopping. Journal  of  Content,  Community  and 
+Communication, 10(5), 151-158. 
+
+intention 
+
+towards 
+
+6.  Chin,  W.  W.  (1998).  The  partial  least  squares 
+approach 
+equation  modeling. 
+In Modern methods for business research (pp. 295-
+336). Psychology Press. 
+
+structural 
+
+to 
+
+7.  Cohen, J. (2013). Statistical power analysis for the 
+
+behavioral sciences. routledge. 
+
+8.  Dam,  T.  C.  (2020).  Influence  of  brand  trust, 
+perceived  value  on  brand  preference  and purchase 
+intention. The Journal of Asian Finance, Economics 
+and Business, 7(10), 939-947. 
+
+9.  Dangol, S., & Kautish, S. (2019). IT security related 
+issues and challenges in electronic payment system 
+customer's 
+study 
+in  Nepal:  A 
+perspective. LBEF  Research  Journal  of  Science, 
+Technology and Management, 1(2), 85-103. 
+
+from 
+
+10.  Devi,  S.,  Thinakaran,  R.,  Hanefar,  S.  B.  M.,  & 
+Nadzri,  N.  R.  M.  (2024).  Tracking  academic 
+contributions 
+in 
+Malaysia: 
+bibliometric 
+investigation. Heliyon, 10(17). 
+
+to  Women's  empowerment 
+
+A 
+
+11.  Elmada, M. A. G., Elmaresa, M. V., Wardhani, S., 
+&  Putri,  W.  A.  N.  (2022).  Online  reputation 
+management  with  an  electronic  word  of  mouth 
+approach. Jurnal  Komunikasi  Profesional, 6(2), 
+119-128. 
+
+12.  Fatihah,  M.  (2023).  The  Influence  Of  Service 
+Quality,  Customer  Trust,  And  Customer 
+Satisfaction 
+Customer 
+Loyalty. Innovative:  Journal  Of  Social  Science 
+Research, 3(2), 14180-14191. 
+
+Uniqlo's 
+
+On 
+
+13.  Fatimah,  Y.  A.,  Kannan,  D.,  Govindan,  K.,  & 
+Hasibuan,  Z.  A.  (2023).  Circular  economy  e-
+business  model  portfolio  development  for  e-
+business  applications: 
+Impacts  on  ESG  and 
+sustainability  performance. Journal  of  Cleaner 
+Production, 415, 137528. 
+
+14.  Hair Jr, J. F., Hult, G. T. M., Ringle, C. M., Sarstedt, 
+M.,  Danks,  N.  P.,  &  Ray,  S.  (2021). Partial  least 
+squares  structural  equation  modeling  (PLS-SEM) 
+using R: A workbook (p. 197). Springer Nature. 
+15.  Harrigan, M., Feddema, K., Wang, S., Harrigan, P., 
+&  Diot,  E.  (2021).  How  trust  leads  to  online 
+purchase intention founded in perceived usefulness 
+and  peer  communication. Journal  of  Consumer 
+Behaviour, 20(5), 1297-1312. 
+
+16.  Hye,  A.  M.,  Mustaffa,  N.  A.,  &  Habib,  M.  M. 
+(2023). A holistic view of academic library supply 
+chain model. Library Management, 44(1-2), 56-79. 
+
+Advances in Consumer Research  
+
+17.  Jean,  R.  J.  B.,  &  Tan,  D.  (2019).  The  effect  of 
+institutional  capabilities  on  E-business  firms’ 
+international 
+performance. Management 
+International Review, 59(4), 593-616. 
+
+18.  Jiang, L., Wider, W., Ye, G., Tee, M., Hye, A. M., 
+Lee, A., & Tanucan, J. C. M. (2024). Exploring the 
+factors  of  employee  turnover  intentions  in  private 
+education 
+in  China:  a  Delphi 
+study. Cogent  Business  &  Management, 11(1), 
+2413915. 
+
+institutions 
+
+19.  Joshi, G. P., Kim, C., & Kim, S. W. (2016). Starting 
+E-Business  for  Farmers  in  Nepal:  Challenges  and 
+Opportunities. International  Information  Institute 
+(Tokyo). Information, 19(9B), 4081. 
+
+20.  Kang, H., & Ahn, J. W. (2021). Model setting and 
+interpretation of results in research using structural 
+equation  modeling:  A  checklist  with  guiding 
+questions 
+nursing 
+research, 15(3), 157-162. 
+
+reporting. Asian 
+
+for 
+
+21.  Keh, H. T., & Xie, Y. (2009). Corporate reputation 
+and  customer  behavioral  intentions:  The  roles  of 
+trust, 
+identification  and  commitment. Industrial 
+marketing management, 38(7), 732-742. 
+
+22.  Khadka,  A. 
+
+(2018).  Usage  of 
+
+electronic 
+communications  by  young  entrepreneurs  business 
+in  Nepal. Asian  Journal  of 
+Information  and 
+Communications, 10(1), 32-38. 
+
+23.  Kiradoo, G. (2023). Exploring the opportunities and 
+challenges 
+industry 
+4.0. Current  Topics  on  Business,  Economics  and 
+Finance, 2, 180-196. 
+
+entrepreneurs 
+
+for 
+
+in 
+
+24.  Kumar,  V.,  &  Pradhan,  P.  (2018).  Reputation 
+management through online feedbacks in e-business 
+environment.  In Digital  Marketing  and  Consumer 
+Engagement: Concepts, Methodologies, Tools, and 
+Applications (pp. 568-587). IGI Global. 
+
+25.  Lăzăroiu, G., Neguriţă, O., Grecu, I., Grecu, G., & 
+Mitran, P. C. (2020). Consumers’ decision-making 
+process on social commerce platforms: Online trust, 
+perceived risk, and purchase intentions. Frontiers in 
+psychology, 11, 890. 
+
+26.  Maharjan,  P.,  Devkota,  N.,  Mahapatra,  S.,  Haq 
+Padda, I. U., Dhakal, K., Mahato, S., ... & Bhattarai, 
+U.  (2022).  FinTech  Adoption  among  Online 
+Grocery  Buyers  during  COVID-19  Lockdowns  in 
+Nepal. Journal of Private Enterprise, 37(2). 
+
+27.  McLean,  G.,  Osei-Frimpong,  K.,  Wilson,  A.,  & 
+Pitardi,  V.  (2020).  How  live  chat  assistants  drive 
+travel  consumers’  attitudes,  trust  and  purchase 
+intentions:  the  role  of  human  touch. International 
+Journal 
+Hospitality 
+Management, 32(5), 1795-1812. 
+
+Contemporary 
+
+of 
+
+28.  Meilatinova,  N.  (2021).  Social  commerce:  Factors 
+affecting  customer  repurchase  and  word-of-mouth 
+intentions. International  Journal  of  Information 
+Management, 57, 102300. 
+
+29.  Olaleye, S. A., Salo, J., & Ukpabi, D. C. (2021). The 
+role  of  reputation  on  trust  and  loyalty:  A  cross-
+cultural  analysis  of  tablet  e-tailing.  In Research 
+Anthology on E-Commerce Adoption, Models, and 
+Applications  for  Modern  Business (pp.  925-940). 
+IGI Global. 
+
+30.  Pansuwong,  W., 
+
+Photchanachan, 
+
+S.,  & 
+
+                          5326 
+
+How to cite:  Bijay Sigdel, et, al. E-Business Reputation and Purchase Intention: The Mediating Role of Trust and the Lens of Economic 
+Development. Adv Consum Res. 2025;2(4):5320–5327 
+
+intentions in C2C social commerce: A trust transfer 
+perspective. Journal  of  Retailing  and  Consumer 
+Services, 50, 42-49. 
+
+44.  Zhao, Y., Zhao, Y., Yuan, X., & Zhou, R. (2018). 
+How  knowledge  contributor  characteristics  and 
+reputation  affect  user  payment  decision  in  paid 
+Q&A?  An  empirical  analysis  from  the  perspective 
+of trust theory. Electronic Commerce Research and 
+Applications, 31, 1-11. 
+
+(2023).  Social 
+
+Thechatakerng,  P. 
+innovation: 
+Relationships  with  social  and  human  capitals, 
+entrepreneurial  competencies and  growth  of  social 
+enterprises in a developing country context. Social 
+Enterprise Journal, 19(1), 51-79. 
+
+31.  Qalati,  S.  A.,  Vela,  E.  G.,  Li,  W.,  Dakhan,  S.  A., 
+Hong Thuy, T. T., & Merani, S. H. (2021). Effects 
+of  perceived  service  quality,  website  quality,  and 
+reputation on purchase intention: The mediating and 
+moderating  roles  of  trust  and  perceived  risk  in 
+& 
+shopping. Cogent 
+online 
+Management, 8(1), 1869363. 
+
+Business 
+
+32.  Rachbini, W. (2018). The impact of consumer trust, 
+perceived  risk,  perceived  benefit  on  purchase 
+intention  and  purchase  decision. International 
+Journal of Advanced Research, 6(1), 1036-1044. 
+33.  Sarstedt,  M.,  Ringle,  C.  M.,  &  Hair,  J.  F.  (2021). 
+Partial  least  squares  structural  equation  modeling. 
+In Handbook  of  market  research (pp.  587-632). 
+Cham: Springer International Publishing. 
+
+34.  Shariati,  Z.,  &  Aghajani,  H.  (2023).  Identifying 
+components affecting electronic business model in 
+Iranian  startups. International  Journal  of  Business 
+Innovation and Research, 31(2), 149-167. 
+
+35.  Shrestha,  G.  (2019).  Factors  affecting  digital 
+marketing in tourism: An empirical analysis of the 
+Nepal tourism sector. International Journal of Trend 
+in Scientific Research and Development, 3(6), 169-
+178. 
+
+36.  Soleimani, M. (2022). Buyers' trust and mistrust in 
+e-commerce  platforms:  a  synthesizing  literature 
+e-Business 
+review. Information  Systems 
+Management, 20(1), 57-78. 
+
+and 
+
+37.  Song, Z., Liu, C., & Shi, R. (2022). How do fresh 
+impact  consumers’  purchase 
+SOR 
+
+live  broadcast 
+intention? 
+Based 
+theory. Sustainability, 14(21), 14382. 
+
+the 
+
+on 
+
+38.  Van Griethuijsen, R. A., Van Eijck, M. W., Haste, 
+H., Den Brok, P. J., Skinner, N. C., Mansour, N., ... 
+in 
+&  BouJaoude,  S.  (2015).  Global  patterns 
+in 
+interest 
+students’  views  of  science  and 
+science. Research in science education, 45(4), 581-
+603. 
+
+39.  Wang,  L.,  Tan,  K.,  &  Huang,  Y.  Original  Paper 
+Reputation  Analysis  of  E-commerce  Products 
+Based  on  Online  Reviews—Take  Amazon  as  an 
+Example. 
+
+40.  Watanabe, E. A. D. M., Alfinito, S., Curvelo, I. C. 
+G., & Hamza, K. M. (2020). Perceived value, trust 
+and purchase intention of organic food: a study with 
+Brazilian  consumers. British  Food  Journal, 122(4), 
+1070-1184. 
+
+41.  Yeo,  S.  F.,  Tan,  C.  L.,  Teo,  S.  L.,  &  Tan,  K.  H. 
+(2021).  The  role  of  food  apps  servitization  on 
+repurchase 
+of 
+FoodPanda. International  Journal  of  Production 
+Economics, 234, 108063. 
+
+intention: 
+
+study 
+
+A 
+
+42.  Zhang,  J.,  &  Chen,  Z.  (2024).  Exploring  human 
+resource management  digital  transformation  in the 
+digital 
+knowledge 
+of 
+economy, 15(1), 1482-1498. 
+
+age. Journal 
+
+the 
+
+43.  Zhao,  J.  D.,  Huang,  J.  S.,  &  Su,  S.  (2019).  The 
+effects of trust on consumers’ continuous purchase 
+
+Advances in Consumer Research  
+
+                          5327 
+
+

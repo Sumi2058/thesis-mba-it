@@ -1,0 +1,1086 @@
+Peer Reviewed Article 
+
+© Journal of Entrepreneurship &  
+Management Studies (JEMS) 
+
+ISSN: 2795-1995 
+Volume 1, Issue 2 2024 
+DOI: https://doi.org/10.3126/jems2.v1i2.67795 
+
+Perceived Risk and Online Shopping Behavior: Evidence from  
+Karnali Province 
+
+Dipak Singh Rawat (MPhil) 
+Assistant Prof., Graduate School of Management (MU) 
+E-mail: dipurawat2042@gmail.com 
+
+Harendra KC 
+Assistant Prof., Graduate School of Management (MU) 
+E-mail: kcharendra39@gmail.com  
+
+Abstract 
+
+The burgeoning popularity of online shopping has not entirely mitigated consumer concerns. A significant 
+segment  of  the  customer  base  remains  apprehensive  about  apparent  risks  associated  with  online 
+transactions.  This  apprehension  can  lead  to  purchase  aversion,  hindering  full  participation  in  the  e-
+commerce landscape. This study investigates the impact of perceived risk on online shopping behavior. In 
+particular,  the  study  investigates  the  effects  of  security  and  privacy  risk,  product  quality  and  authenticity 
+risk, financial risk, delivery and fulfilment risk and social risk on online shopping behavior. Therefore, the 
+researchers  employed  an  explanatory  research  design  followed  by  positivist  research  philosophy.  The 
+population  of  the  study  was  recognized  as  the  entire  number  of  online  shoppers  in  Surkhet.  This  study 
+adopted  survey  approach  to  collect  data  from  a  sample  of  408  participants  selected  through  convenience 
+sampling.  Five  hypotheses  were  formulated  and  examined  using  multiple  regression  analysis  with  SPSS 
+software. The result showed that security and privacy risk, product quality and authenticity risk, financial 
+risk, delivery and fulfilment risk affects online shopping while social risk were non-significant at 0.05 level 
+of significant. This research offers valuable information  for businesses, policymakers, and those involved 
+in  the  field  (practitioners)  to  create  plans  (strategies  and  policies)  that  tackle  concerns  (perceived  risk 
+factors)  people  have  about  online  shopping.  This  could  lead  to  a  more  positive  environment  for  online 
+shopping use in Karnali Province. 
+
+Keywords:  online  shopping,  security  and  privacy  risk,  product  quality  and  authenticity  risk, 
+
+financial risk, delivery and fulfilment risk, social risk. 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+ 
+92  |  Journal of Entrepreneurship & Management Studies (JEMS) 
+
+1.  Introduction 
+
+The advent of the internet and technological advancements have transformed the way consumers engage in 
+shopping activities (Adnan, 2014). Online shopping has gained immense popularity, becoming an integral 
+part  of  consumers'  purchasing  behavior  (Pal  &  Kumari,  2023).  The  growth  of  e-commerce  has 
+revolutionized the retail industry, providing consumers  with convenient and accessible platforms to  make 
+online  purchases  (Bhandari,  2023).  Online  shopping's  widespread  use  is  undeniable,  but  consumers  often 
+worry  about  potential  downsides  that  can  affect  their  purchases  (Vos  et  al.,  2014;  Kok Wai  et  al., 2019). 
+Understanding  these  concerns  is  essential  for  businesses  to  mitigate  these  concerns  and  build  trust  with 
+their online customers (Pappas, 2016).  
+
+The internet has transformed shopping, allowing consumers to directly purchase goods from sellers through 
+web browsers (Gnanadhas & Sunitha, 2014). It's like a store in the neighborhood because it sells all kinds 
+of things (Singh & Basu, 2023). Through the internet, consumers can browse, select, and acquire goods and 
+services  to  fulfill  their  needs,  completing  the  entire  shopping  process  online  (Kok  Wai  et  al.,  2019).  E-
+commerce in developing nations like Nepal is experiencing rapid growth, fueled in part by the influence of 
+established online retail giants in neighboring India and China (Devkota et al., 2021). However, despite this 
+surge, mobile app usage for e-commerce transactions remains in its early stages within Nepal.  
+
+While the convenience and variety of online shopping are undeniable, consumers often face apprehension 
+due to perceived risks (Lee & Tan, 2003). Perceived risk includes uncertainty about the future outcome of 
+the transaction (Zhang & Yu, 2020). Many researchers have identified various factors that contribute to this 
+perceived risk, acting as potential barriers to online transactions (Laroche et al., 2005; Hassan et al., 2006; 
+Tsai  &  Yeh,  2010;  Masoud,  2013;  Aboobucker,  2019;  Kok  Wai  et  al.,  2019;  Ugochukwu  &  Christian, 
+2021).  These  factors  include  concerns  about  security  and  privacy  of  personal  information,  doubts  about 
+product  quality  and  authenticity,  potential  financial  losses  due  to  fraud  or  errors,  anxieties  surrounding 
+delivery  and  fulfillment  issues,  and  even  the  social  risk  of  disapproval  from  peers  or  family  for  online 
+shopping  choices.  While,  managing  this  perceived  risk  is  crucial  for  attracting  more  online  shoppers.  By 
+understanding consumers' risk perceptions, businesses can improve online shopping experiences and foster 
+trust. 
+
+Despite  the  global  research  on  online  shopping  behavior,  a  critical  knowledge  gap  exists  regarding 
+consumer behavior in developing countries, particularly in remote areas like Nepal's Karnali Province. To 
+address this gap, this study investigates the influence of various perceived risk factors on online shopping 
+behavior  in  Karnali  Province.  Building  upon  existing  research,  the  study  examines  how  security  and 
+privacy  concerns,  product  quality  and  authenticity  doubts,  financial  anxieties,  delivery  and  fulfillment 
+worries, and even social risk of disapproval affect consumers' purchase intentions. 
+
+2.  Review of literature and Working Hypothesis 
+
+This  study  utilizes  multiple  theoretical  frameworks  to  examine  consumers'  online  shopping  behavior  and 
+their  perception  of  risks.  The  Technology  Acceptance  Model  (TAM)  is  employed  as  a  research  model  to 
+understand consumers' acceptance and use of information technology based on their perceived ease of use 
+and  usefulness.  TAM  is  used  to  explore  how  consumers  perceive  risks  related  to  product  quality  and 
+authenticity  in  online  shopping  (Silva,  2015).  In  addition,  the  Protection  Motivation  Theory  is  integrated 
+into  the  research  to  examine  consumers'  perception  of  risks,  particularly  security  and  privacy  concerns 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+Perceived Risk and Online Sopping Behaviour: Evidence from Karnali Province  | 93 
+
+associated with online shopping (Shillair, 2020). The Theory of Planned Behavior is also utilized to analyze 
+how  attitudes,  social  norms,  and  perceived  behavioral  control  interact  with  risk  factors  like  financial 
+concerns  and  delivery  issues,  ultimately  affecting  purchase  intentions  (Ajzen,  1991).  Furthermore,  trust 
+theory is incorporated to investigate the influence of security and privacy risks on consumers' trust in online 
+retailers and platforms. The study recognizes that these risks can erode trust and affect  consumers' online 
+shopping behavior (Lee & Turban, 2001). Lastly, the social influence theory is emphasized to understand 
+the  role  of  social  interactions  and  reference  groups  in  shaping  consumers'  attitudes  and  behaviors, 
+specifically  addressing  social  risks  related  to  a  lack  of  social  interaction  and  personalized  assistance 
+(Kelman,  2006).  By  integrating  these  theories,  the  study  underscores  the  critical  association  between 
+perceived risk and online shopping. 
+
+Perceived Security and Privacy Risk (PSPR): The efficacy of online resources is inherently  tied to the 
+secure  and  private  handling  of  customer  data  (Janda  et  al.,  2002).  Consumers  demonstrate  a  heightened 
+sense  of  apprehension  regarding  the  security  of  their  personal  and  financial  information  during  online 
+transactions.  The  risk  of  data  breaches,  identity  theft,  and  unauthorized  use  of  personal  information  are 
+significant factors impacting consumer trust and willingness to shop online.  
+
+Based  on  this  evidence,  the  present  researcher  hypothesizes  that  perceived  security  and  privacy  risk  and 
+online  shopping  behavior  are  interconnected  and  mutually  reinforcing.  The  working  hypothesis  can  be 
+expressed as follows: 
+
+H1: Perceived security and privacy risk has a significant impact on online shopping  
+
+Perceived  Product  Quality  and  Authenticity  Risk  (PPQAR):  One  key  concern  for  online  shoppers  is 
+product risk, which refers to the potential for receiving goods or services that fall short of expectations in 
+terms of quality or performance (Kok Wai et al., 2019). This risk encompasses various categories and can 
+differ among consumers (Alreck & Settle, 2002). The inability to physically inspect products before buying 
+online  creates  uncertainty  about  quality  and  authenticity.  This  uncertainty  can  lead  to  concerns  about 
+receiving counterfeit or substandard items, ultimately heightening perceived risk. 
+
+From this the following hypothesis was proposed: 
+H2: Perceived product quality and authenticity risk has a significant impact on online shopping  
+
+Perceived Financial Risk (PFR): The possibility of fraudulent activity, unauthorized charges, or payment 
+processing problems creates a sense of financial vulnerability for consumers (Barnes et al., 2007). This risk 
+often arises during the initial stages of online shopping, right after placing an order (Kok Wai et al., 2019). 
+Concerns  about  the  security  and  reliability  of  online  payment  methods  can  lead  consumers  to  perceive  a 
+higher level of financial risk, potentially discouraging them from completing online purchases. 
+
+Thus,  present  researcher  strives  to  establish  interconnected  and  mutually  reinforcing  association  between 
+perceived financial risk and online shopping. 
+H3: Perceived financial risk has a significant impact on online shopping 
+
+Perceived Delivery and Fulfillment Risk (PDFR): Delivery and fulfillment concerns can be a significant 
+deterrent for online shoppers (Kok Wai et al., 2019). Consumers fear a variety of potential issues, including 
+lost or damaged packages, incorrect delivery addresses, and delays. These concerns can stem from anxieties 
+about  the  delivery  company  meeting  promised  timeframes,  the  proper  handling  of  goods  during 
+transportation,  or  a  lack  of  effective  customer  service  in  case  of  problems  (Zhang  &  Yu,  2020;  Claudia, 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+94  |  Journal of Entrepreneurship & Management Studies (JEMS) 
+
+2012). For a positive online shopping experience, timely deliveries, order tracking capabilities, and reliable 
+fulfillment processes are essential. Perceived risks associated with these factors, such as delayed deliveries 
+or lost packages, can negatively impact consumers' willingness to shop online. 
+
+Based  on  this  evidence,  the  present  researcher  hypothesizes  that  perceived  delivery  and  fulfilment  risk 
+significantly affect online shopping behavior. 
+H4: Perceived delivery and fulfillment risk has a significant impact on online shopping  
+
+Perceived  Social  Risk  (PSR):  Social  risk  in  online  shopping  stems  from  the  fear  of  disapproval  from 
+family or friends, either due to the product itself or the choice of using online shopping channels. This risk 
+can  also  involve  concerns  about  maintaining  social  status  associated  with  specific  brands  or  products 
+(Masoud,  2013;  Stone  &  Grønhaug,  1993).  Unlike  traditional  stores,  online  shopping  environments  often 
+lack the social interaction and personalized assistance offered by sales associates (Ghuman & Mann, 2018). 
+The absence of personalized recommendations, product guidance, or the ability to consult with salespeople 
+can lead to uncertainty and perceived risk during the online shopping decision-making process. 
+
+Thus present researcher established the following alternative hypothesis: 
+H5: Perceived social risk has a significant impact on online shopping  
+
+3.  Research Methodology 
+
+This  study  adopted  a  quantitative  approach  grounded  in  the  positivist  paradigm.  This  methodology 
+emphasizes  objective  measurement  and  analysis  of  data,  making  it  suitable  for  investigating  the  research 
+questions.  In  this  particular  piece  of  work,  drawing  on  theories  such  as  Protection  Motivation  Theory, 
+Technology  Acceptance Model, Theory of Planned Behavior, Trust Theory, and Social Influence Theory, 
+researchers understand the multifaceted nature of perceived risks and online shopping. Several studies have 
+used these theories into empirical studies for comprehensive understanding of the perceived risk factors and 
+contribute  to  the  development  of  effective  strategies  for  businesses  to  address  and  mitigate  these  risks, 
+thereby enhancing consumers' online shopping experiences from a positivist perspective. 
+
+Similarly,  the  quantitative  approach  was  chosen  for  this  study  because  it  excels  at  examining  cause-and-
+effect  relationships  between  variables,  such  as  the  independent  and  dependent  variables  explored  here 
+(Creswell, 2009). This method relies on mathematical, computational, and statistical techniques to establish 
+these relationships. In the context of this research, the goal is to gain deeper insights on how perceived risk 
+factors influence online shopping behavior by employing a quantitative approach. 
+
+Data  collection  for  this  study  was  conducted  in  Birendranagar,  the  most  urbanized  and  economically 
+significant city in Karnali Province. Convenience sampling  was employed to recruit participants  who had 
+prior  online  shopping  experience.  Following  established  sample  size  estimation  procedures  for  infinite 
+populations  (Almeda  et  al.,  2010),  a  target  sample  size  of  384  was  determined.  However,  to  ensure 
+sufficient  data  for  robust  statistical  analysis,  data  collection  continued  until  408  responses  were  obtained. 
+Convenience  sampling  is  a  non-probability  technique,  but  the  final  sample  size  aligns  with  sample 
+adequacy requirements based on similar studies in this field. Data collection took place in October 2022. 
+
+Data  were collected through a self-administered survey questionnaire. The questionnaire consisted of two 
+sections:  the  first  gathered  demographic  information,  and  the  second  used  a  five-point  Likert  scale  to 
+measure the study variables adapted from established research relevant to this topic (Kok Wai et al., 2019; 
+Ghuman & Mann, 2018). Two main types of statistical analysis were employed: descriptive and inferential. 
+Descriptive statistics  was  used to summarize the demographic characteristics of the respondents and their 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+Perceived Risk and Online Sopping Behaviour: Evidence from Karnali Province  | 95 
+
+responses. Inferential statistical analysis includes multiple linear regression to test the research hypotheses. 
+This  method  helped  quantify  the  impact  of  each  independent  variable  (the  five  perceived  risk  factors)  on 
+the dependent variable (online shopping behavior). Data analysis was conducted using IBM SPSS software. 
+Prior to the regression analysis, several steps were taken to ensure data quality and model suitability. First, 
+descriptive  statistics  like  measures  of  central  tendency  (mean),  dispersion  (standard  deviation),  and 
+normality (skewness and kurtosis) were examined. Second, Cronbach's alpha coefficient was measured to 
+assess the internal consistency (reliability) of the measurement scales (Rawat, 2023). A Cronbach's alpha of 
+0.865 indicated a high level of reliability (Nunnally, 1975). Finally, Pearson's correlation coefficients were 
+used to assess the relationships between the variables before proceeding with the regression analysis. 
+
+The regression model is stated as follows:  
+OSB = β0+ β1 PSPR+ β2 PPQAR+ β3 PFR+ β4 PDFR+ β5 PSR  
+
+4.  Data Analysis and Findings 
+The  research  underwent  a  comprehensive  three-stage  analysis.  Initially,  the  focus  was  on  gathering 
+respondents'  background  information,  utilizing  frequency  tables  and  percentages  to  present  a  detailed 
+overview  of  the  sample's  demographic  composition.  Following  this,  a  descriptive  examination  of  both 
+dependent and independent variables was conducted, employing measures like mean and standard deviation 
+to grasp the central tendencies and variability within the dataset. Subsequently, the analysis delved deeper 
+into  exploring  the  relationships  among  these  variables  through  multivariate  regression  analyses.  This 
+approach  facilitated  the  identification  of  nuanced  connections  between  independent  variables  and  the 
+dependent variable, offering valuable insights into the factors influencing the study's outcome.  
+
+Characteristics of the Respondents 
+Structured  questionnaires  were  used  to  collect  demographic  characteristics  such  as  age,  gender,  marital 
+status,  education,  and  occupation  from  the  respondents,  providing  a  comprehensive  overview  of  their 
+demographic profiles in terms of frequency and percentage. 
+
+Table 1 
+
+Profile of Respondents Based on Personal Characteristics  
+
+Age 
+
+Gender 
+
+Marital Status 
+
+Education 
+
+Occupation 
+
+Distribution  
+Less than 25 year 
+26-40 year 
+41-55 year 
+Above 56 year 
+Male 
+Female 
+Unmarried 
+Married 
+Up to Secondary 
+Graduate 
+Master and above 
+Student 
+House wife 
+Employee 
+Businessman 
+
+Frequency (Percentage) 
+159 (38.97) 
+219 (53.68) 
+29 (7.11) 
+1 (0.24) 
+235 (57.59) 
+173 (42.41) 
+186 (45.58) 
+222 (54.42) 
+102 (25) 
+173 (42.4) 
+133 (32.6) 
+160 (39.21) 
+6 (1.47) 
+230 (56.37) 
+12 (2.94) 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+96  |  Journal of Entrepreneurship & Management Studies (JEMS) 
+
+Table  1  presents  the  demographic  characteristics  of  the  survey  participants.  The  largest  age  group  falls 
+between 26 and 40 years old (53.68%), followed by those under 25 (38.97%). Only a small percentage of 
+respondents  are  between  41  and  55  years  old  (7.11%)  and  above  56  years  old  (1%).  In  terms  of  gender, 
+males  make  up  the  majority  of  respondents  (57.59%).  Regarding  education  level,  the  data  shows  a 
+relatively  even  distribution  with  25%  having  up  to  a  secondary  education,  42.4%  holding  a  graduate 
+degree, and 32.6% with a master's degree or higher. Occupation breakdown reveals that most respondents 
+are employed (56.37%), followed by students (39.21%), with a small number of business owners (2.94%) 
+and housewives (1.47%). 
+
+Descriptive Analysis  
+
+This section analyzes the combined survey data to assess perceived risk on online shopping behavior. The 
+analysis focuses on evaluating the relative importance of 15 statements related to how perceived risks affect 
+online shopping decisions. Participants rated their level of agreement or disagreement with each statement 
+on a 5-point Likert scale. 
+
+Table 2 
+Perceived risk and Online shopping behavior 
+
+ Variables  
+
+Min.  Max.  Mean 
+
+SD 
+
+Skewness  Kurtosis 
+
+Perceived Security and Privacy Risk (PSPR) 
+Data breaches 
+Identity theft 
+Unauthorized use of personal information 
+
+Perceived Product Quality and Authenticity Risk 
+(PPQAR) 
+Damaged product 
+Product quality 
+Accuracy of product description 
+
+Perceived Financial Risk (PFR) 
+Fraudulent transactions 
+Unauthorized charges 
+Issues with payment processing 
+
+Perceived Delivery and Fulfillment Risk (PDFR) 
+Timely delivery 
+Order tracking 
+Reliable fulfillment processes 
+
+Perceived Social Risk (PSR) 
+Lack of personalized recommendations 
+Product guidance 
+Assistance from sales associates 
+
+Online Shopping Behavior (OSB) 
+Online shopping is essential for everyone in the 
+
+1.00 
+1.00 
+1.00 
+
+5.00 
+5.00 
+5.00 
+
+3.81 
+3.20 
+3.92 
+
+.97 
+1.10 
+.83 
+
+-.69 
+-.14 
+-1.00 
+
+1.00 
+1.00 
+1.00 
+
+1.00 
+1.00 
+1.00 
+
+1.00 
+1.00 
+1.00 
+
+1.00 
+1.00 
+1.00 
+
+5.00 
+5.00 
+5.00 
+
+5.00 
+5.00 
+5.00 
+
+5.00 
+5.00 
+5.00 
+
+5.00 
+5.00 
+5.00 
+
+4.11 
+3.94 
+4.09 
+
+3.32 
+3.62 
+3.95 
+
+3.59 
+3.36 
+3.60 
+
+3.91 
+3.75 
+3.67 
+
+.78 
+.81 
+.73 
+
+1.08 
+1.00 
+.75 
+
+1.09 
+1.04 
+1.00 
+
+.85 
+.94 
+.87 
+
+-1.21 
+-1.00 
+-1.11 
+
+-.34 
+-.68 
+-.70 
+
+-.58 
+-.41 
+-.67 
+
+-1.01 
+-.71 
+-.64 
+
+-.15 
+-.93 
+1.19 
+
+2.51 
+1.52 
+2.75 
+
+-.69 
+-.07 
+1.11 
+
+-.64 
+-.74 
+-.11 
+
+1.20 
+.38 
+.25 
+
+1.00 
+
+5.00 
+
+3.61 
+
+.94 
+
+-.66 
+
+.05 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Perceived Risk and Online Sopping Behaviour: Evidence from Karnali Province  | 97 
+
+technology driven world 
+Online shopping makes buyers more active 
+Online shopping will become popular in the future 
+
+1.00 
+1.00 
+
+5.00 
+5.00 
+
+3.80 
+3.19 
+
+.88 
+1.14 
+
+-.84 
+-.17 
+
+.51 
+-.87 
+
+Table  2  summarizes  the  key  characteristics  of  the  data  used  in  the  analysis.  This  includes  minimum, 
+maximum, mean, standard deviation, skewness, and kurtosis. The average scores (means) for all variables 
+exceed 3, suggesting a general positive trend in the responses. The skewness values  fall  within the range 
+(+2, -2), indicating that the data is relatively symmetrical. Similarly, the kurtosis values lie between (+7, -
+7), suggesting a normal distribution of the data around the mean. These results support the homogeneity of 
+the research sample across all questionnaire dimensions (Curran et al., 1996). 
+
+Inferential Analysis 
+
+To gain a deeper understanding of the connections between the variables in the survey data, the researcher 
+examined the correlation matrix. Pearson's correlation coefficient (r) was used to measure the direction and 
+strength of linear relationships between PSPR, PPQAR, PFR, PDFR, PSR and OSB. Strength is typically 
+interpreted using a guide by Evans (1996). 
+
+Table 3 
+
+Correlation Matrix 
+
+OSB 
+1 
+
+Constructs 
+OSB 
+PSPR 
+PPQAR 
+PFR 
+PDFR 
+PSR 
+**. Correlation is significant at the 0.01 level (2-tailed). 
+
+PSPR 
+.560** 
+1 
+
+PPQAR 
+.451** 
+.517** 
+1 
+
+PFR 
+.533** 
+.578** 
+.426** 
+1 
+
+PDFR 
+.505** 
+.507** 
+.367** 
+.458** 
+1 
+
+PSR 
+.384** 
+.410** 
+.352** 
+.438** 
+.437** 
+1 
+
+Table  3  reveals  moderate  positive  and  statistically  significant  correlations  (at  the  0.01  level)  between  the 
+various  perceived  risk  dimensions  (PSPR,  PPQAR,  PFR,  PDFR).  However,  the  correlation  between 
+perceived  social  risk  (PSR)  and  online  shopping  behavior  (OSB)  appears  weaker  compared  to  the  other 
+relationships. 
+
+Finally,  to  further  investigate  the  influence  of  these  perceived  risk  factors  on  online  shopping,  regression 
+analysis  was  employed.  This  statistical  technique  helps  to  determine  the  impact  of  PSPR,  PPQAR,  PFR, 
+PDFR, and PSR on OSB. 
+
+Table 4 
+
+Model Summary of Multivariate regression analysis 
+
+Model 
+1 
+
+R 
+.661a 
+
+R Square  Adjusted R Square 
+
+Std. Error of the Estimate  Durbin-Watson 
+
+.438 
+
+.431 
+
+.5592638 
+
+1.893 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+98  |  Journal of Entrepreneurship & Management Studies (JEMS) 
+
+a. Predictors: (Constant), PSR, PPQAR, PDFR, PFR, PSPR 
+b. Dependent Variable: OSB 
+
+Table 4 shows the results of  model  summary of  multivariate regression analysis. Here, the adjusted R2 is 
+0.431.  That  means  43.1  percent  of  the  change  in  online  shopping  behavior  is  explained  by  chosen 
+independent variable PSR, PPQAR, PDFR, PFR, PSPR. Likewise, The Durbin-Watson test statistic (DW) 
+is  a  value  between  0  and  4  that  measures  the  degree  of  autocorrelation  in  the  residuals.  A  value  of  2  or 
+nearly  2  indicates  that  there  is  no  first-order  autocorrelation.  The  Durbin  Watson  Coefficient  of  1.893 
+assure no autocorrelation concern here (King, 1981). 
+
+Table 5 
+
+Analysis of Variance of the Regression Model  
+
+Model 
+
+1 
+
+Regression 
+Residual 
+Total 
+
+Sum of Squares 
+97.806 
+125.736 
+223.542 
+
+DF 
+5 
+402 
+407 
+
+a. Dependent Variable: OSB 
+b. Predictors: (Constant), PSR, PPQAR, PDFR, PFR, PSPR 
+
+Mean Square 
+19.561 
+.313 
+
+F 
+62.541 
+
+Sig. 
+.000b 
+
+The F-statistic from the analysis of variance (ANOVA) conducted on the regression model is 62.541, which 
+is  statistically  significant  (p  <  0.05).  This  indicates  that  the  overall  regression  model  is  statistically 
+significant, meaning it explains a significant portion of the variance in online shopping behavior. 
+
+Table 6 
+
+Coefficient of Multiple Regression Analysis 
+
+Model 
+
+Unstandardized 
+Coefficients 
+
+1 
+
+(Constant) 
+PSPR 
+PPQAR 
+PFR 
+PDFR 
+PSR 
+
+B 
+.156 
+.249 
+.184 
+.230 
+.193 
+.057 
+
+Std. Error 
+.223 
+.056 
+.058 
+.051 
+.042 
+.050 
+
+a. Dependent Variable: OSB 
+
+Standardized 
+Coefficients 
+Beta 
+
+.231 
+.142 
+.219 
+.213 
+.050 
+
+t 
+
+Sig.  Collinearity   Statistics 
+
+.699 
+4.487 
+3.164 
+4.503 
+4.621 
+1.126 
+
+.485 
+.000 
+.002 
+.000 
+.000 
+.261 
+
+Tolerance 
+
+VIF 
+
+.527 
+.691 
+.590 
+.657 
+.715 
+
+1.899 
+1.447 
+1.696 
+1.522 
+1.398 
+
+Table 6 examines the contribution of PSPR, PPQAR, PFR, PDFR, and PSR to the prediction of OSB. The 
+result revealed that out of five constructs, only four dimensions of perceived risk factors that are PSPR (β = 
+0.249; P <0.01), PPQAR (β = 0.184; P <0.01), PFR (β = 0.230; P <0.01), and PDFR (β = 0.193; P <0.01) 
+have found to be significant impact on OSB. However, one construct namely PSR (β = 0.057; P >0.10) has 
+been found not to be significant. 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Perceived Risk and Online Sopping Behaviour: Evidence from Karnali Province  | 99 
+
+Table  6  also  presents  the  tolerance  and  variance  inflation  factor  (VIF)  values  for  each  independent 
+variables, i.e., PSPR, PPQAR, PFR, PDFR, and PSR. All values fall within the acceptable range, exceeding 
+0.2 and remaining below 5. This indicates that multicollinearity, a potential issue in regression analysis, is 
+not a concern for this model. 
+
+5.  Conclusion and Implication 
+
+The  perceived  risk  allied  with  online  shopping  significantly  influence  consumers'  behavior  and  decision-
+making  processes.  Security  and  privacy  risk,  product  quality  and  authenticity  risk,  financial  risk,  and 
+delivery  and  fulfillment  risk  have  consistently  found  to  impact  consumers'  online  shopping  behavior. 
+Businesses should prioritize security measures, establish strong supplier relationships, communicate pricing 
+and policies clearly, and optimize delivery processes. 
+However, perceived social risk,  which encompasses concerns about  social judgment or disapproval, have 
+no  significant  impact  on  consumers'  online  shopping  behavior.  This  shows  that  consumers  are  generally 
+more  concerned  about  their  own  personal  experiences,  security,  and  satisfaction  with  the  products  and 
+services rather than external opinions. While, businesses can still leverage social proof to figure trust and 
+credibility,  highlight  positive  customer  reviews  and  testimonials  on  websites  and  social  media  platforms. 
+Collaborate  with  influencers  or  reputable  individuals  to  endorse  products  and  services,  further  assuring 
+consumers of their quality and authenticity. 
+
+By  implementing  these  recommendations,  businesses  and  policymakers  can  effectively  address  the 
+perceived risk accompanying with online shopping and foster a favorable environment for online shopping 
+adoption in Karnali Province.  
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+100  |  Journal of Entrepreneurship & Management Studies (JEMS) 
+
+References: 
+Aboobucker,  I.  (2019).  Consumers’  Perceived  Security  Risks  in  Online  Shopping:  A  Survey  Study  in  Sri 
+
+Lanka (SSRN Scholarly Paper 3344634). https://doi.org/10.2139/ssrn.3344634 
+
+Adnan,  H.  (2014).  An  Analysis  of  the  Factors  Affecting  Online  Purchasing  Behavior  of  Pakistani 
+5. 
+
+of  Marketing 
+
+6(5),  Article 
+
+Studies, 
+
+Journal 
+
+Consumers. 
+https://doi.org/10.5539/ijms.v6n5p133 
+
+International 
+
+Ajzen,  I.  (1991).  The  theory  of  planned  behavior.  Organizational  Behavior  and  Human  Decision 
+
+Processes, 50(2), 179–211. 
+
+Almeda,  J.  V.,  Capistrano,  T.  G.,  &  Sarte,  G.  M.  F.  (2010).  Elementary  statistics.  University  of  the 
+
+Philippines Press. 
+
+Alreck,  P.,  &  Settle,  R.  B.  (2002).  Gender  effects  on  Internet,  catalogue  and  store  shopping.  Journal  of 
+150–162. 
+
+Strategy  Management, 
+
+9(2), 
+
+Database  Marketing  & 
+Customer 
+https://doi.org/10.1057/palgrave.jdm.3240071 
+
+Barnes,  S.  J.,  Bauer,  H.  H.,  Neumann,  M.  M.,  &  Huber,  F.  (2007).  Segmenting  cyberspace:  A  customer 
+
+typology for the internet. European Journal of Marketing, 41(1/2), 71–93. 
+
+Bhandari,  A.  (2023,  February  21).  E-Commerce  in  the  Digital  Age:  How  Technology  is  Revolutionizing 
+Retail.  Nepal  Database.  https://www.nepaldatabase.com/e-commerce-in-the-digital-age-how-
+technology-is-revolutionizing-retail 
+
+Claudia, I. (2012). The mediating role of perceived risk when buying online. Acta Universitatis Danubius. 
+
+ØEconomica, 8(5). 
+
+Creswell, J. W. (2009). Mapping the field of mixed methods research. Journal of Mixed Methods Research, 
+
+3, 95–108. https://doi.org/10.1177/1558689808330883 
+
+Curran,  P.  J.,  West,  S.  G.,  &  Finch,  J.  F.  (1996).  The  robustness  of  test  statistics  to  nonnormality  and 
+
+specification error in confirmatory factor analysis. Psychological Methods, 1(1), 16-29. 
+
+Devkota,  N.,  Dhungana,  S.,  Parajuli,  S.,  Bhandari,  U.,  &  Paudel,  U.  (2021).  Nepalese  consumers’ 
+perception  on  online  shopping  challenges  and  its  managerial  solution.  International  Research 
+Journal 
+65–77. 
+https://doi.org/10.5281/zenodo.5726289 
+
+and  Management, 
+
+Technology, 
+
+Education, 
+
+Science, 
+
+of 
+
+1, 
+
+Ghuman, M. K., & Mann, B. J. S. (2018). Profiling Customers Based on Their Social Risk Perception: A 
+Cluster  Analysis  Approach.  Metamorphosis:  A  Journal  of  Management  Research,  17(1),  41–52. 
+https://doi.org/10.1177/0972622518768679 
+
+Gnanadhas, E., & Sunitha, C. K. (2014). Online Shopping—An Overview. B-DIGEST, 6, 16–22. 
+Hassan, A. M., Kunz, M., Pearson, A. W., & Mohamed, F. A. (2006). Conceptualization and measurement 
+
+of perceived risk in online shopping. Marketing Management Journal, 16, 138–147. 
+
+Janda, S., Trocchia, P. J., & Gwinner, K. P. (2002). Consumer perceptions of Internet retail service quality. 
+
+International Journal of Service Industry Management, 13(5), 412–431. 
+
+Kelman, H. C. (2006). Interests, relationships, identities: Three central issues for individuals and groups in 
+
+negotiating their social environment. Annu. Rev. Psychol., 57, 1–26. 
+
+King,  M.  L.  (1981).  The  alternative  Durbin-Watson  test.  Journal  of  Econometrics,  17(1),  51–66. 
+
+https://doi.org/10.1016/0304-4076(81)90058-0 
+
+Kok Wai, Dastane, D. O., Johari, Z., & Ismail, N. B. (2019). Perceived Risk Factors Affecting Consumers’ 
+3498766). 
+
+Scholarly 
+
+Behavior 
+
+(SSRN 
+
+Paper 
+
+Online 
+Shopping 
+https://doi.org/10.2139/ssrn.3498766 
+
+Laroche,  M.,  Yang,  Z.,  McDougall,  G.  H.  G.,  &  Bergeron,  J.  (2005).  Internet  versus  bricks-and-mortar 
+retailers:  An  investigation  into  intangibility  and  its  consequences.  Journal  of  Retailing,  81(4), 
+251–267. https://doi.org/10.1016/j.jretai.2004.11.002 
+
+Lee, K. S., & Tan, S. J. (2003). E-retailing versus physical retailing: A theoretical model and empirical test 
+877–885. 
+of 
+
+Research, 
+
+Business 
+
+56(11), 
+
+consumer 
+
+of 
+choice. 
+https://doi.org/10.1016/S0148-2963(01)00274-0 
+
+Journal 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+Perceived Risk and Online Sopping Behaviour: Evidence from Karnali Province  | 101 
+
+Lee,  M.,  & Turban,  E.  (2001).  A Trust  Model  for  Consumer  Internet  Shopping.  International  Journal  of 
+
+Electronic Commerce /Fall, 6, 75–91. 
+
+Masoud, E. (2013). The Effect of Perceived Risk on Online Shopping in Jordan. 
+Nunnally, J. C. (1975). Psychometric theory—25 years ago and now. Educational Researcher, 4(10), 7–21. 
+Pal,  V.  B.,  &  Kumari,  P.  (2023).  Consumer  Buying  Behavior  towards  Online  Shopping.  Journal  of 
+4–9. 
+
+Information 
+
+Systems, 
+
+10(1), 
+
+Management 
+Business 
+https://doi.org/10.48001/jbmis.2023.1001002 
+
+and 
+
+Pappas,  N.  (2016).  Marketing  strategies,  perceived  risks,  and  consumer  trust  in  online  buying  behavior. 
+92–103. 
+
+Consumer 
+
+Retailing 
+
+Services, 
+
+and 
+
+29, 
+
+of 
+
+Journal 
+https://doi.org/10.1016/j.jretconser.2015.11.007 
+
+Rawat,  D.  S.  (2023).  Exploring  the  Allure:  What  Drives  Customers  to  Embrace  Mobile  Banking  Apps? 
+27–42. 
+
+Management 
+
+Research, 
+
+Nepalese 
+
+5(1), 
+
+and 
+
+Journal 
+https://doi.org/10.3126/jnmr.v5i1.61379 
+
+of 
+
+Shillair, R. (2020). Protection Motivation Theory. In The International Encyclopedia of Media Psychology 
+
+(pp. 1–3). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781119011071.iemp0188 
+
+Silva,  P.  (2015).  Davis’  Technology  Acceptance  Model  (TAM)  (1989).  In  Information Seeking  Behavior 
+IGI  Global. 
+
+and  Trends 
+
+205–219). 
+
+(pp. 
+
+and  Technology  Adoption:  Theories 
+https://doi.org/10.4018/978-1-4666-8156-9.ch013 
+
+Singh,  K.,  &  Basu,  R.  (2023).  Online  consumer  shopping  behavior:  A  review  and  research  agenda. 
+
+International Journal of Consumer Studies, 47(3), 815–851. https://doi.org/10.1111/ijcs.12899 
+
+Stone, R. N., & Grønhaug, K. (1993). Perceived risk: Further considerations for the marketing discipline. 
+
+European Journal of Marketing, 27(3), 39–50. 
+
+Tsai, Y., & Yeh, J. (2010). Perceived risk of information security and privacy in online shopping: A study 
+
+of environmentally sustainable products. African Journal of Business Management, 4. 
+
+Ugochukwu, K., & Christian, O. (2021). Perceived risk and online purchase intention for shopping goods: 
+
+Evidence from an emerging country context. 2021, 9(9), 1–10. 
+
+Vos,  A.,  Marinagi,  C.,  Trivellas,  P.,  Eberhagen,  N.,  Skourlas,  C.,  &  Giannakopoulos,  G.  (2014).  Risk 
+Reduction  Strategies  in  Online  Shopping:  E-trust  Perspective.  Procedia  - Social and  Behavioral 
+Sciences, 147, 418–423. https://doi.org/10.1016/j.sbspro.2014.07.122 
+
+Zhang,  X.,  &  Yu,  X.  (2020).  The  Impact  of  Perceived  Risk  on  Consumers’  Cross-Platform  Buying 
+
+Behavior. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.592246 
+
+Published by: Department of Research, Innovation & Entrepreneurship (MUSOM)  
+ 
+ 
+

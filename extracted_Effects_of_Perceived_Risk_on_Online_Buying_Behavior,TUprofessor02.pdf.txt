@@ -1,0 +1,1037 @@
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Effects of Perceived Risk on Online Buying Behavior 
+
+Diwakar Pandey, Assistant Professor   
+Faculty of Management, Tribhuvan University 
+
+            diwakar.pandey@bmc.tu.edu.np 
+                    DOI: https://doi.org/10.3126/dj.v7i1.87642 
+
+Abstract: This study aims to investigate the impact of perceived risk factors on online purchasing 
+
+behavior. The two main factors taken from the extensive review are financial risk and product risk. 
+
+The web-based Google Form survey was administered, and a total of 194 online shoppers. The 
+
+statistical analysis showed that financial risk only has a direct significant impact online shopping 
+
+behavior of the respondents. The study will assist online shopping in the context of urban areas 
+
+when markers accommodate its result in marketing policy.  
+
+Key Words: Online shopping, financial risk, product risk and buying behavior  
+
+Introduction in Context  
+
+The  rapid  growth  of  the  Internet  has  increased  in  scope  of  online  shopping. Consumer  buying 
+
+behavior  has  dramatically  shifted  from  traditional  physical  buying  behavior  to  modern  online 
+
+buying behavior.  With growing access online, buyers and sellers meet online and transaction takes 
+
+place  electronically  with  each  other.  Web  browsing,  usage  messengers,  and  WhatsApp  are  the 
+
+most  popular  online  shopping  tools  without  using  intermediaries  (Ariff  et  al:2014).    Online 
+
+transaction value is expected to grow by 9.62 percent annually and is projected to reach $ 3.35 
+
+billion  US  dollars  by  2028 (Statista.com)  in  Nepal.      Online  shopping  provides  easy  access  to 
+
+purchase products for customers electronically on one side making life easy and comfortable.  has 
+
+brought perceived risk and challenges to another side  ( Crepso: 2013, Yaman: 2023).  Nowadays, 
+
+customers have busy schedules due to family and job responsibilities. Physically present shopping 
+
+is difficult to adjust time.   Online shopping was only an option for shopping through the use of 
+
+the internet. Advancements in technology and literacy rates are the drivers of online shopping and 
+
+emerging  online  shopping.    Customer  shopping  behavior  has  dramatically  changed  during  the 
+
+period of coronavirus pandemic period.  
+
+49 
+
+ 
+ 
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Consumer  behavior  has  shifted  dramatically  over  online  shopping  because  of  the  outbreak  of 
+
+coronavirus  along  with  an  imposed  long  quarantine  during  the  pandemic  period  when 
+
+transportation and business were fully locked down. Purchase and repurchasing online consumer 
+
+buying  increased  positive  attitudes  toward  online  shopping,  perceived  usefulness,  and  online 
+
+shopping  experience  of  online  shopping  (Malwali    et  al  2023).  Product  varieties,  payment 
+
+methods, and psychological factors are drivers of online shopping (Al Hamli & Sobaih: 2023).  
+
+Online  shopping  consumer  is  a  state  of  studying  buyers'  attitudes  and  preferences  whereby 
+
+consumers  directly  purchase  goods  and  services  through  digital  platforms  and  web-based 
+
+technologies. Online shopping makes easy, quick, and cheap access to products and services but 
+
+it has a negative perception toward customers in terms of payment safety and trust in products 
+
+(Yaman and Koksal, 2023). Risks associated with delay in delivery, non-delivery, and damage to 
+
+products are very common (Nampoothori, 2021) and trust building (Martin, 2008). Therefore this 
+
+research  is  carried  out  to  get  answers  to  two  research  questions:  answering  on  current  state  of 
+
+online  shopping  behavior  and  investigating  the  degree  of  perceived  risk  resulting  in  customer 
+
+online  shopping  behavior  present  status  of  risk  associated  with  online  shopping?    and  ii)  does 
+
+perceived  risk  such  as  product  and  financial  risk  have  an  association  with  online  shopping 
+
+behavior?   
+
+Literature review  
+
+Online shopping behavior is the state of buying goods and services from the Internet where the 
+
+customer as  a user accesses the internet, selects, negotiates, buys, and uses goods and services 
+
+(Ariff,  2014). The  trend  of  online  buying  behavior  has  grown  along  with  the  advancement  of 
+
+technology  and  the  growth  of  internet  society  (Bhatti:2018,  Bhatti,  Saad,  & Gbadebo,  2018a).  
+
+Hoffman and Novak (1996) indicated that interactivity is the key distinguishing feature between 
+
+marketing communication on the Internet and traditional mass media. Today  online consumers 
+
+have  more  control  and  raised  bargaining  power  as  compared  to  consumers  of  physical  stores 
+
+because the internet offers more interactivity between consumers and product/service providers as 
+
+well as greater availability of information about products and services (Bhatti, Saad & Gbadebo: 
+
+2020). The Internet plays very a significant role in searching, evaluating, comparing, and buying 
+
+products.  Online  shopping  behavior  is  customers’  perception  that  positively  and  negatively 
+
+50 
+
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+evaluates  online  shopping  based  on  customer  experience  including  financial  and  product  risks 
+
+(Fatin Alia: 2016, Salim et al: 2019). 
+
+ Risk  is  multidimensional  in  nature.  Risk  occur  under  online  buying is  different  from  physical 
+
+buying. Buyer is unable to visualize the product and its quality directly and lack of personal contact 
+
+with  salesperson  so  that  it  creates  a  psychological  fair  among  the  buyers  that  what  buyers  are 
+
+intended to purchase, does he or she get exactly the same as desired (Martin & Camarero: 2008).  
+
+The concept of perceived risk in the marketing literature was first introduced by (Bauer, 1960) and 
+
+later on elaborated  as behavioral and environmental risk (Kyung & John: 2010). Arsad (2015) 
+
+further defines types of perceived risk into financial risk, security risk, time and convenience, and 
+
+psychological risk.  Product risks cover time & and convenience and psychological risks ( Kyung 
+
+& John: 2010).  Financial risk is associated with online fraud, identity theft, manipulation of credit 
+
+card information, fear of perceived online blackmailing, and leaking of online. 
+
+Financial risk refers to the loss in the monetary terms associated with buying. It is a loss of money 
+
+that  imprints  a  bad  purchasing  experience.  Financial  risk is  the  first  major  and  big  risk  during 
+
+buying  online  (Sinha  &  Singh,  2017).  In  addition,  it  is  also  the  strongest  predictor  of  online 
+
+shopping  behavior.  Financial  risk  plays  a  major  role  in  consumer  decision-making  for  buying 
+
+online (Bhatti,Saad, & Gbadebo, 2018b; Haider & Nasir, 2016). Researchers reveal that financial 
+
+risk is a  loss of money that covers the fraud of credit cards and discloses card information which 
+
+is why people avoid buying online (Masoud, 2013; Singh &Singh, 2014). It is also considered that 
+
+the  product  price  is  not  the  lowest  in  comparison  (Egeln  &  Joseph,  2012).    Consumer  faces 
+
+financial risk in the early stage of shopping when they place an order. But, its level depends on the 
+
+nature  of  the  product,  all  products'  risk  level  is  different  and  there  is  no  specific  standard 
+
+Cunningham et al (2005). This risk cogitates most important while buying online (Almousa, 2011, 
+
+2014;  Bhatnagar,  Misra,  &  Rao,  2000;  Cunningham,  1967;  Ingene  &  Hughes,  1985;  Jacoby 
+
+&Kaplan, 1972; Peter & Ryan, 1976; Sharma & Kurien, 2017; Stone & Gronhaug, 1993; Zhang, 
+
+Tan, Xu, & Tan, 2012). Studies show a negative relationship between financial risk and online 
+
+shopping  behavior  (Bhatnagar  et  al.,  2000;  Changet  al(2005)  Forsythe  (2006),  Haider  &Nasir, 
+
+(2016).  
+
+H1A: Financial risk has significantly negatively associated with online customer buying behavior  
+
+51 
+
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Product risk is limited potential to examine the product. Online shopping is a risky way of shopping 
+
+because in this way people cannot touch product they just rely on some graphics and ads. This risk 
+
+becomes hurdle in buying (Peter & Tarpey Sr, 1975). It has a significant influence on consumers 
+
+buying behavior that's why it is associated with consumer decisions (Forsythe & Shi, 2003; Liu & 
+
+Forsythe, 2010). Product risk involves the loss of product standards means a gap between  desired 
+
+product and the actual state of the product that is unable to meet the expected customer desire state. 
+
+. Furthermore, this risk is related to customer satisfaction if the product cannot satisfy customer 
+
+expectations then the loss of money and product  as well. Some retailers do not offer after-sale 
+
+services which affects the frequency of purchasing online (Bhatti, Saad, & Gbadedo, 2019). This 
+
+risk is considered a very serious risk and its negative experience and loss of confidence and repute. 
+
+Some issues linked with product risk  such limited  stock of product, limited information of the 
+
+product,  deliver  a  wrong  product,  delay  product,  product  not  same  with  picture  (Saprikis  et  al 
+
+2010). Moreover, prior studies reveal the significant negative relationship between product risk 
+
+and online shopping behavior (Ariff et al 2014; Chakraborty, 2016;  Forsythe et al2006; Haider & 
+
+Nasir, 2016; Ko et al2004; Masoud, 2013; Shahzad, 2015). No doubt there are various studies on 
+
+this topic but limited in developing countries so, still need more research in future (Masoud, 2013; 
+
+Rizwan et al 2014; Shahzad, 2015). 
+
+H2A: Product risk has significantly negatively associated with online customer buying behavior.  
+
+Research Methodology 
+
+The purpose of a research methodology is to convey the plan for the collection and analysis of 
+
+data. The relationship of financial risk, product risk, and online buying behavior is measured by 
+
+descriptive and analytical research design which is conducted on primary data and primary data is 
+
+collected through online questionnaires in Rupandehi district. This study used the convenience 
+
+sampling technique where 312 consumers were selected as the sample for the study. A sample size 
+
+greater than 30 and less than 500 is suitable for many studies (Memon et al., 2020). In this study 
+
+5 point  Likert scale is used. This study is quantitative in nature. There are 14 items where  construct 
+
+of financial risk is constituted of 5 items, product risk is constituted of 4 items, and online buying 
+
+behaviors is 5 items. 
+
+52 
+
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Respondents have identified who had at least two prior exposure on online shopping. They usually 
+
+purchased  food  grains  and  household  consumption  items  from  the  nearest  supermarket  at  
+
+Bhatbhateni Super Market and Sanu Departmental Store at Bhairahawa.  two steps model were 
+
+used in this  study. The first step was they were personally asked  and ensured online shopping 
+
+experience who were intended to shop at the supermarket, Bhairahawa, Rupandehi, in the month 
+
+of June and July 2023. In the second step, a close-end questionnaire was sent to 312 respondents 
+
+among them only 194 responses got back from the respondents which was forwarded for analysis. 
+
+Respondents age was between 18 to 30 years.  
+
+Table  I  shows  the  sample  characteristics  of  respondents  that  comprised  as  gender,  age, 
+
+qualification and occupation. The composition of male consumers are 51.03. % The composition 
+
+of male respondents is 51.03%(99) and  30 years above respondents are the highest among the four 
+
+categories of age distribution such as 32.47% (63) and intermediate level passed out respondents 
+
+are the highest i.e. 28.86%(56) and the majority of respondents are job holders that cover 46.01(91) 
+
+among the three categories.  
+
+Table 1: 
+Demographic characteristics of online consumers 
+
+Description 
+
+Variables 
+
+Frequency 
+
+Percentage 
+
+Gender 
+
+Male 
+
+Female 
+
+less than 18 years 
+
+Age(Years) 
+
+18-24 years 
+
+Qualification 
+
+Occupation 
+
+24 -30 years  
+
++ 30 years 
+
+SEE/SLC 
+
++2 
+
+Bachelor Degree 
+
+Master Degree 
+
+Business  
+
+Jobholder 
+
+99 
+
+95 
+
+35 
+
+52 
+
+44 
+
+63 
+
+48 
+
+56 
+
+53 
+
+39 
+
+68 
+
+91 
+
+51.03 
+
+48.97 
+
+18.05 
+
+26.80 
+
+22.68 
+
+32.47 
+
+24.74 
+
+28,86 
+
+27.31 
+
+20.00 
+
+35.05 
+
+46.01 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Independent 
+
+Total(N) 
+
+Source: Online Survey, June 2023 
+
+35 
+
+194 
+
+18.04 
+
+100 
+
+Findings of the demographic analysis are shown in Table 2.1 and is indicated that most of the 
+
+respondents are female, age 18 to 24 years old, bachelor degree program and students consumers 
+
+are the highest respondents. 
+
+Table II: 
+Coefficient of reliability 
+Variables 
+
+Product Risk(PR) 
+
+Financial Risk(FR) 
+
+Online Buying Behavior 
+
+(OBB) 
+
+Combined 
+
+Note: SPSS Data Output 
+
+Cronbach Alpha 
+
+No. of Items 
+
+0.75 
+
+0.70 
+
+0.81 
+
+0.75 
+
+5 
+
+4 
+
+5 
+
+14 
+
+Table II exhibits reliability of each construct.  Cronbach alpha values of product risk, financial 
+
+risk and online buying behavior are 0.75, 0.70 and 0.81 respectively. All values are above 065 
+
+which means study is reliability that is forwarded for further analysis.  
+
+Table III: 
+Descriptive statistics of product risk 
+Statement 
+
+Product risk  
+
+P1:I eceive the product I ordered through online shopping. 
+
+P2:It is hard to judge the quality of products over online. 
+
+P3:I might get a damaged product. 
+
+P4:The product may have less quality 
+
+P5:If I shop online I can't touch the product. 
+
+Financial risk  
+
+F1:My e-commerce details may not be secure and may be 
+
+misused if I shop online. 
+
+Mean 
+
+3.61 
+
+3.00 
+
+4.02 
+
+3.56 
+
+3.39 
+
+4.10 
+
+3.33 
+
+3.14 
+
+SD 
+
+0.64 
+
+1.05 
+
+0.656 
+
+0.96 
+
+0.89 
+
+0.94 
+
+0.77 
+
+0.99 
+
+54 
+
+ 
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+F2:I might get overcharged if I shop online. 
+
+F3:I hesitate to pay online. 
+
+F4:I can get back my money while cancelling the order. 
+
+Online buying behavior   
+
+3.69 
+
+3.03 
+
+3.44 
+
+3.76 
+
+I have never faced any difficulties while shopping on online.  
+
+3.80 
+
+I feel financially secure when I do shopping online.  
+
+I receive the same product as I order.  
+
+I always purchase through online as much as possible.  
+
+Finally I recommend others to shop online.  
+
+3.12 
+
+3.25 
+
+3.62 
+
+3,85 
+
+0.97 
+
+1.174 
+
+1.103 
+
+0.76 
+
+0.82 
+
+0.96 
+
+0.85 
+
+0.91 
+
+0.86 
+
+Note: SPSS Data Output 
+
+   Table III:  
+   Correlational matrix  
+
+Product Risk (PR) 
+Financial Risk (FR) 
+Online Buying Behaior (OBB) 
+**. Correlation is significant at the 0.01 level (1-tailed). 
+
+1 
+1 
+542** 
+-.127 
+
+ Note: SPSS Data Output 
+
+2 
+
+1 
+-.319** 
+
+3 
+
+1 
+
+Correlation Table III presents the degree of relationship between product risk and financial risk 
+with online buying behavior. Increases in financial risk decreases in online buying behavior i.e.  
+r=-0.319 and also product risk has a weak negative relationship with online buying behavior as 
+compared with financial risk i.e r=0.127. 
+
+Multiple Regression Analysis 
+
+Table IV: 
+ Model Summary 
+
+Model 
+
+1 
+
+R 
+
+.323a 
+
+R Square 
+
+.104 
+
+Adjusted R 
+Square 
+.072 
+
+Std. Error of 
+the Estimate 
+.68719 
+
+a. Predictors: (Constant), FR. PR 
+
+Note: SPSS Data Output 
+
+55 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Table V:  
+ANOVA Table 
+
+Model 
+
+Sum of 
+
+Square 
+
+1 
+
+Regression 
+
+3.081 
+
+Residual 
+
+26.445 
+
+Total 
+
+29.525 
+
+a. Dependent Variable: OBB 
+
+b. Predictors: (Constant), FR, PR 
+Note: SPSS Data Output 
+
+Table VI: 
+ Coefficient Table 
+
+F 
+
+Sig. 
+
+3.262 
+
+.046b 
+
+Mean 
+
+Square 
+
+1.540 
+
+.472 
+
+df 
+
+2 
+
+192 
+
+194 
+
+Model 
+1 
+
+Unstandardized 
+Coefficients 
+
+B 
+
+Std. Error 
+
+Standardized 
+Coefficients 
+Beta 
+
+(Constant) 
+PR 
+FR 
+
+4.589 
+.071 
+-.327 
+
+.531  
+.166 
+.139 
+
+.064 
+-.353 
+
+t 
+8.646 
+.425 
+-2.347 
+
+Sig.  
+
+.000 
+.672 
+.022 
+
+a. Dependent Variable: OBB 
+
+Note: SPSS Data Output 
+
+Table.VII Hypothesis Testing Result 
+
+H1: Product risk has a significantly negative relationship with online 
+
+0.672>0.05  Rejected 
+
+Hypothesis 
+
+P-value 
+
+Result 
+
+buying behavior. 
+
+H2:  Financial  risk  has  a  significantly  negative  relationship  with 
+
+0.022<0.05  Accepted 
+
+online buying behavior. 
+
+Discussion 
+
+56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Financial risk is negatively associated with on online buying behavior. Online buying behavior 
+
+trends  and  purchase  intention  of  consumers  decrease  when  financial  risks  has  been  increased. 
+
+Financial risk includes not being secure online shopping, overly charges the price of commodities, 
+
+not receiving money under the condition of cancellation of order.   Regression analysis is shown 
+
+in Table VII that one unit addition in financial risk of online buying behavior leads to decreases 
+
+by -0.353 units in online buying behavior where p value . Evidence supported B=-0.353, p=0.022, 
+
+it means financial risk has an association with online shopping behavior so that HA2 is accepted.  
+
+At the same time product risk has  seen insignificant with online shopping behavior of customers 
+
+where B=0.71, p=0.672>0.05 that rejection of HA1.  
+
+The  findings  of  this  study  such  as  financial  risk  is  negatively  associated  with  online  shopping 
+
+behavior. This finding is consistent with the findings from the previous study Javadi et al., (2012 
+
+and Kim and Lennon (2010). Financial risk occurs during the time of business transactions, both 
+
+buyers and sellers are not physically met and both of them are skeptical in each other because trust 
+
+has not developed and both of them have not prior purchase experience between them.  Similarly, 
+
+the findings of this study such as product risk has not negatively association with online shopping 
+
+behavior. The result of this study is contrary with the findings of Forsythe and Shi (2003) and 
+
+Biswas and Biswas (2004) and Kim and  Lennon (2010). Product risk occurs  due to increasing 
+
+uncertainty on online shopping products and expected benefits received as desired by the buyers.    
+
+The possible reason is insignificance is mainly context factors such as type of product and purchase 
+
+value  of  products,  buyers'  prior  experience  on  online  shopping  and  buyer-self  factors.  In  the 
+
+context of Nepal both product risk and financial risk occur simultaneously if any uncertainty on 
+
+quality and features comes among the product that leads toward cancellation of order. In the case 
+
+of partial payment or full payment situation sellers hesitate to return money. Sellers could offer 
+
+exchange facilities that buyers may or may not accept due to incongruent of buyer interest and 
+
+quality of the product (Viadya: 2019). Growing financial risk is more likely  to decrease online 
+
+buyers' participation in online shopping behavior in the future. However, it creates the greatest 
+
+threats as a whole in online shopping. Only two variables are considered under the perceived risk 
+
+on online shopping which could not explain the perceived risk in depth. Therefore it is required to 
+
+study  among  various  professional  groups  by  adding  additional  variables.    Transaction  risk  is 
+
+associated with security and personal privacy while using online shopping (Biswas and Biswas: 
+
+2004) which is absent. Prior studies supported decreasing in transaction risk had increased buyers' 
+
+57 
+
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+willingness toward online shopping. Along with product and financial risk, transaction risk should 
+
+be considered as a separate construct in future research. In addition, website quality, contents of 
+
+websites;  and  product  information  negatively  decrease  the  perceived  risk  of  buyers  on  online 
+
+shopping.  
+
+References  
+
+Al Hamli, S. S., & Sobaih, A. E. E. (2023). Factors influencing consumer behavior towards online 
+
+shopping in Saudi Arabia amid covid-19: Implications for E-businesses post pandemic. Journal of 
+
+Risk and Financial Management, 16(1), 36. 
+
+Almousa, M. (2011). Perceived Risk in Apparel Online Shopping: A Multi Dimensional 
+Perspective/Le Risque Perçu Dans Des Achats En Ligne D'habillement: Une Perspective De 
+Dimensionnelle Multiple. Canadian Social Science, 7(2), 23 
+
+Ariff,  M.  S.  M.,  Sylvester,  M.,  Zakuan,  N.,  Ismail,  K.,  &  Ali,  K.  M.  (2014,  June).  Consumer 
+
+perceived risk, attitude and online shopping behaviour; empirical evidence from Malaysia. In IOP 
+
+Conference  Series:  Materials  Science  and  Engineering (Vol.  58,  No.  1,  p.  012007).  IOP 
+
+Publishing. Chicago. 
+
+Arshad, A., Zafar, M., Fatima, I., & Khan, S. K. (2015). The impact of perceived risk on online 
+
+buying behavior. International Journal of new technology and research, 1(8), 13-18. 
+
+Bhatnagar,  A.,  Misra,  S.  and  Rao,  H.R.  (2000)  On  Risk,  Convenience,  and  Internet  Shopping 
+
+Behavior. 
+
+Communications 
+
+of 
+
+the 
+
+ACM, 
+
+43, 
+
+98-105. 
+
+https://doi.org/10.1145/353360.353371https://www.statista.com/outlook/dmo/fintech/digital-
+
+payments/digital-commerce/nepal retrived on 25 September 2024. Chicago.  
+
+Crespo, A.H., Bonque, I.D. & Salmones, M,C. (2009), The influence of perceived risk on 
+
+internet shopping behavior: A multidimensional perspective. Journal of Research, 12(2), 259-
+
+277 
+
+Cunningham, S.M. (1967) The Major Dimensions of Perceived Risk. In: Cox, D.F., Ed., Risk 
+
+Taking and Information Handling in Consumer Behavior, Harvard University Press, Boston, 
+
+MA. 
+
+58 
+
+ 
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Egeln, L. S., & Joseph, J. A. (2012). Shopping cart abandonment in online shopping. Atlantic 
+
+Marketing Journal, 1(1), 1. 
+
+Haider,  A.,  &  Nasir,  N.  (2016).  Factors  affecting  online  shopping  behavior  of  consumers  in 
+
+Lahore, Pakistan. Journal of Management Engineering and Information Technology, 3(6), 9-14. 
+
+Hoffman,  D.L.  &  Novak,  T.P.  (1996).  Marketing 
+
+in  hypermedia  computer-mediated 
+
+environments: conceptual functions. Journal of Marketing. 60 (3), 50-68 
+
+Ingene,  Charles  A.  "Labor  productivity  in  retailing:  what  do  we  know  and  how  do  we  know 
+it?." Journal of Marketing 49.4 (1985): 99-106. 
+
+Ko, H., Jung, J., Kim, J., & Shim, S. W. (2004). Cross-cultural differences in perceived risk of 
+online shopping. Journal of Interactive Advertising, 4(2), 20-29 
+
+Mawlawi, A., El Fawal, A., Ibrahim, G., Ramadan, M., Baydoun, H., Massoud, M., ... & Yassine, 
+
+D.  (2023).  Factors  Influencing  Online  Shopping  Intentions  In  The  Post-Pandemic  Era:  A 
+
+Retrospective Study Among Lebanese. Journal of Namibian Studies: History Politics Culture, 35, 
+
+171-204. 
+
+Masoud, E. Y. (2013). The effect of perceived risk on online shopping in Jordan. European journal 
+
+of Business and Management, 5(6), 76-87 
+
+Martin, S.N. & Camarero, C. (2009). How perceived risk affects in online buying. Online 
+Information Review, 33 (4) 629-654.  
+
+Nampoothiri, A. (2021). Online Shopping Behaviour: A Study on Exploring the Dependence of 
+
+Demographics of the People in Kerala on their Behaviour in Online Shopping. Turkish Journal of 
+
+Computer and Mathematics Education (TURCOMAT), 12(10), 4153-4161. 
+
+Park, J, K & John, D.R. (2010). Got to get you into my life: Do brand personalities rub off on 
+
+consumer. 
+
+Journal 
+
+of 
+
+Consumer 
+
+Research 
+
+655-669. 
+
+https://www.researchgate.net/publication/270648779_Got_to_Get_You_into_My_Life_Do_Bran
+
+d_Personalities_Rub_Off_on_Consumers 
+
+Peter,  J.  P.,  &  Tarpey  Sr,  L.  X.  (1975).  A  comparative  analysis  of  three  consumer  decision 
+
+strategies. Journal of consumer research, 2(1), 29-37 
+
+59 
+
+ 
+ 
+ 
+ 
+Dibyajyoti Journal, Vol. 7 No.1, 2025 
+
+Salim, M. , Alfansi, L., Derta, E. Anggrawati, S. & Amin. A. (2019). Indonesian millenials online 
+
+shoping behavior. International Review of Management and Marketing, 9(3) 41.  
+
+Saprikis, V., Chouliara, A., & Vlachopoulou, M. (2010). Perceptions towards online shopping: 
+
+Analyzing the Greek university students' attitude. Communications of the IBIMA 
+
+Shahzad, H. (2015). Online shopping 
+
+behavior.https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Shahzad+%282015%29
+
++online+shopping&btnG= 
+
+Sharma, J. K., & Kurien, D. (2017). Perceived risk in e-commerce: A demographic 
+
+perspective. NMIMS Management Review, 34(1), 31-57 
+
+Singh, N., Srivastava, S. and Sinha, N. (2017) Consumer Preference and Satisfaction of M-
+Wallets: A Study on North Indian Consumers. International Journal of Bank Marketing, 35, 944-
+965. https://doi.org/10.1108/IJBM-06-2016-0086 
+
+Stone, R. N., & Grønhaug, K. (1993). Perceived risk: Further considerations for the marketing 
+discipline. European Journal of marketing, 27(3), 39-50 
+
+Vaidya, R. (2019). Online shopping in Nepal: preferences and problems. The Journal of 
+
+Nepalese Business Studies. XII (1), 71-86.  
+
+Yaman,  Z.,  &  Köksal,  O.  (2023).  Validity  and  reliability  of  consumer  attitude  toward  online 
+
+shopping scale. Zbornik radova Ekonomskog fakulteta u Rijeci: časopis za  ekonomsku teoriju i 
+
+praksu,  https://www.proquest.com/docview/2837123996/fulltextPDF/3CC2D14CA9FF4796PQ/
+
+7?accountid=188747&sourcetype=Scholarly%20Journals41(1), 91-112. 
+
+60 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

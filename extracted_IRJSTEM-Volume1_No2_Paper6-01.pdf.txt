@@ -1,0 +1,1042 @@
+                                                                  Volume 1, No. 2 | November 2021                                 
+
+Nepalese consumers’ perception on online shopping challenges  
+and its managerial solution 
+
+Niranjan Devkota, Shashwat Dhungana, Seeprata Parajuli,  
+Udbodh Bhandari, Udaya Raj Paudel 
+Quest International College, Pokhara University, Gwarko. Lalitpur, Nepal 
+Corresponding email: niranjandevkota@gmail.com 
+
+  A R T I C L E  I N F O 
+  Received  : August 12, 2021 
+Revised    : August 25, 2021 
+Accepted  : October 17, 2021
+K E Y W O R D S 
+Challenges, Consumers’ 
+perception, E-commerce, 
+Nepalese, Online shopping  
+
+A B S T R A C T 
+
+Though  the  trend  for  online  shopping  is  increasing  still  the  practice  of 
+online shopping in Nepal is at a primitive stage. The study aims to identify 
+Nepalese  consumers’  perception  of  online  shopping,  challenges,  and 
+managerial  solution  towards  online  shopping  in  Kathmandu,  Nepal. 
+Descriptive research design was used to describe the customers’ perception 
+of  buying  online  goods.  The  study  was  targeted  towards  those  people 
+living in Kathmandu valley who are mainly active on their mobile phones 
+and  have  bought  any  goods  or  services  from  online  platforms.  Using 
+purposive sampling, a total of 403 respondents were interviewed with the 
+help of a structured questionnaire using the KOBO Collect Toolbox. This 
+study finds that 66.0% of people believe that there are different challenges 
+while  shopping  online.  A  maximum  number  of  respondents  (i.e.  41.6%) 
+feel  products  not  matching  as  shown  on  the  website  is  the  most  common 
+faced  challenge  while  doing  online  shopping.  Similarly,  choose  poor 
+quality  products  as  they  could  not  figure  out  the  difference  in  online 
+application  sites  (32.12%),  timely  delivery  of  the  products  (10.95%), 
+hidden  costs  (8.75%),  and  long  procedures  (6.57%)  are  other  challenges 
+that  the  respondents’  responded.  86.05%  of  the  respondents  feel  the 
+problems  related  to  online  shopping  through  mobile  applications  can  be 
+managed. Respondents (43.56%) believe that most of the problems  related 
+to  online  shopping  through  mobile  applications  can  be  solved  by  selling 
+high-quality  products  that  satisfy  the  customers'  needs  by  looking  online 
+market,  selling  high-quality  goods  and  services,  the  safe  payment  system 
+through  a  mobile  application,  strict  rules  and  regulations  on  online 
+shopping,  online  shopping  environment,  managing  delivery  time,  and 
+receiving  damaged  products  at  the  end  of  the  day  can  promote  online 
+shopping among the customers. Sellers’ positive attitude and behavior  can 
+help online shopping market promotion in the market in Nepal. 
+
+Suggested Citation (APA Style 7th Edition: 
+
+Devkota, N, Dhungana, S., Parajuli, S., Bhandari, U. & Paudel, U.R. (2021).  Nepalese consumers’ perception 
+on  online  shopping  challenges  and  its  managerial  solution.  International  Research  Journal  of  Science, 
+Technology, Education, and Management, 1(2), 65-77. https://doi.org/10.5281/zenodo.5726289 
+
+65 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+INTRODUCTION 
+
+Since the introduction of the web in the early 1980s, it has unexpectedly grown due to its unique traits of flexibility, 
+interactivity, and personalization. Internet is a very beneficial device for communication, entertainment, education, 
+and  electronic  trade  (Ko  et  al.,  2004;  Devkota  et  al.,  2021).  There  is  no  doubt  that  internet  is  changing  the  way 
+consumers keep and purchase items and services. According to Lim et al. (2010); Singh & Rana (2018) the web has 
+changed  the  way  enterprise  is  carried  out  for  it  now  allows  shops  to  offer  limitless  vary  of  merchandise  and 
+offerings  to  all  shoppers  from  around  the  world  at  any  point  in  time.  They  also  went  on  to  add  that  it  can  be 
+considered  as  the  most  full-size  direct  advertising  and  marketing  channel  for  the  world  marketplace  (Haur  et  al., 
+2017).  There  is  no  doubt  that  digital  commerce  is  shaking  the  root  of  commercial  enterprise  conventions  in  the 
+cutting-edge century (Joyce, 2002; Levitt, 1993). 
+
+The  development  of  the  World  Wide  Web  created  a  new  income  channel  for  retailers,  and  heaps  of 
+companies have tried to take advantage of this new method for accomplishing clients (Browneet al., 2004; Yadav et 
+al., 2020). As an end result of this trend, almost each firm that  has launched online business or plans to do so is 
+keen  to  recognize  how  to  get  in  contact  with  extra  online  consumers  as  plenty  as  feasible  (Wang,  et  al.,  2006). 
+However,  it  must  be  noted  that  seeing  that  online  transactions  have  to  be  performed  via  computer  networks,  an 
+online purchaser must be in the first place inclined and capable to operate a pc  (Wang et  al., 2006).The apparent 
+gain  of  online  buying  has  resulted  in  increasing  wide  variety  of  web  customers  for  this  purpose  (Joshi,  2021). 
+According to  Jha (2014), this developing variety  shows the developing  experience of remedy with the  use of the 
+internet for shopping. 
+
+Roughly 10 percentage of the world’s population (more than 627 million people) have shopped online at 
+least  once  (Jha,  2014;    (;  Joshi,  2021).  The  present  day  state  of  affairs  indicates  a  trade  in  the  trend  of  online 
+shopping where in the past, consumers normally used to have online services to purchase/reserve air- line tickets, 
+resort  rooms,  movie  tickets,  and  online  books,  but  currently,  extra  and  more  people  are  going  online  to  buy 
+apparels,  cosmetics,  accessories,  footwear,  and  other  products  (Joseph  &  Joseph,  2017).  From  consumers’ 
+perspective, the net has provided privilege to the people in gaining access to data and they credit the pull for online 
+content  as  an  end  result  from  the  probability  given  to  determine  when,  where,  what,  and  how  a  lot  of    business 
+content material they desire to view. The net also allows customers to access an unlimited vary of merchandise and 
+offerings from agencies around the world, and it has decreased the time and effort buyers spend on purchasing  (Ko 
+et al., 2004; Lim et al., 2010; Patel, 2018). 
+
+Although, developed international locations have embraced e-commerce at a brisk pace, growing countries 
+like Nepal are slowly on their way to shape up the e-commerce trend and in case of Nepal, there is a big impact on 
+and  arrival  of  new  applied  sciences  from  two  neighboring  countries,  India  and  China.  Online  purchasing  is 
+protecting the Nepalese market at a brisk pace and is  nicely facilitated with the  start of new technologies, digital 
+stores and interactive apps (Malla, 2018).The records of the Nepalese ecommerce dates back to 1999, at first, used, 
+especially, by means of Nepalese people  residing in the U.S to ship items to their pals and households residing in 
+Nepal. However, the process was quite expensive. This technology used to be one of the darkish age for Nepalese 
+e-commerce, where global e-commerce groups had been reconstructing after the essential net bubble burst that took 
+place in 1999/2000  (Malla, 2018). We can  say that e-commerce industry is still in its infancy stage in  Nepal.  At 
+present,  main  e-commerce  ventures  have  been  imparting  their  services  to  few  cities  solely  such  as  Pokhara  and 
+Kathmandu. The need of touching the actual product whilst buying is changing dramatically, and human beings are 
+becoming  tech  savvy,    so  nowadays,  data  handy  about  the  brand  is  turning  into  a  vital  element  in  buying  choice 
+procedure  amongst  the  Nepalese  people  (Gautam,  2015).  Less  than  30%  of  Nepalese  people  used  the  internet  in 
+2010 but till October 2017 nearly 63% of the whole population is now linked to the internet. So, we can definitely 
+see  that  the  range  of  net  users  is  in  an  outstanding  growth  (Neupane,  2018).  Also,  it  was  found  by  Niroula  & 
+Gyanwali (2020) that online shopping has positive relation with customer satisfaction in Kathmandu valley, Nepal. 
+Vaidya (2019) states that because of the growing number of online stores in Nepal, competition is increasing on a 
+daily  basis,  which  will  ultimately  benefit  the  future  of  e-commerce  in  Nepal.  He  further  states  that  in  Nepal,  the 
+
+66 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+main  reasons  for  shoppers  to  prefer  online  shopping  were  time  savings,  offers,  an  easy  ordering  system,  and 
+information available on the online shopping portal.  
+
+As  the  trend  for  online  shopping  is  increasing  the  use  of  mobile  application  is  Nepal  is  still  at  primitive 
+stage.    In  this  respect,  however,  there  are  nominal  researches  contributing  to  the  understanding  of  Nepalese 
+Consumers’ Perception on Online Shopping Challenges. The major gap found in this study is finding out what type 
+of shopping do consumers prefer, is its online shopping or traditional shopping and why? What type of products do 
+they  prefer  buying  online  or  through  traditional  means  and  why?  What  type  of  problems  they  are  facing  while 
+shopping  online  and  how  can  it  be  solved?  So,  it  is  the  research  gap.    .  The  purpose  of  this  study  is  to  find  the 
+online shopping experience and factors driving the buyers towards online shopping in Kathmandu, Nepal, through 
+which, situation of the online purchasing reputation amongst the younger patron will be derived, which  will  help 
+the present on-line businesses to recognize their strengths and weaknesses. This study is the first study in this sector 
+in Nepalese context. The study is further organized as: Second section includes methodology followed by results in 
+third section and fourth section finally concludes the study.  
+
+METHODS 
+
+Study Area and Study Population 
+
+Nepal  has  77  districts  among  which  3  districts  includes  Kathmandu  valley  (Kathmandu,  Bhaktapur  and 
+Lalitpur)  situated  in  Bagmati  Province  (Bhandari  et  al.,  2021).  These  3  districts  are  taken  as  study  area  for  this 
+study.  Kathmandu  Valley  lies  at  1,300  meters  above  sea  level  and  is  located  between  latitudes  27°32’13”  and 
+27°49’10”  north  and  longitudes  85°11’31”  and  85°31’38”  east.  Three  districts:  Kathmandu,  Lalitpur,  and 
+Bhaktapur cover up 899 square kilometers in area, likewise the valley as a whole is 665 square kilometers in area. 
+The valley encircles the entire area of Bhaktapur, 85% of Kathmandu and 50% of Lalitpur district (Mohanty, 2011; 
+Devkota et al., 2021). 
+
+Figure 1. Study Area 
+
+67 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+As  of  May  2019,  there  had  been  31  personal  ISPs  in  Nepal,  with  about  200,000  subscribers,  and  almost 
+16.67  million  web  customers  nationwide.  Online  endeavor  is  concentrated  in  Kathmandu  and  half-dozen  other 
+cities, with highly little web penetration in rural areas, even though this is slowly changing with most users having 
+access to the internet by cellular phones. Almost 60 percent of Nepal have access to internet, with over 95 percent 
+getting access to it through cellular telephones (Export.gov, 2019). 
+
+Sample Size Determination 
+
+The study was targeted towards people living in Kathmandu valley who are mainly active on their mobile 
+phones and have bought any goods or services from online platforms. A non-probability sampling was used for the 
+survey. Under the non-probability sampling purposive sampling was applied to select the customers as it involves 
+handpicking  subjects  based  on  specific  characteristics  following  Bhandari  et  al.  (2021).  The  sampling  unit  in  the 
+study was the online goods purchasing customers. The sample size was calculated by using Cochran’s formula. 
+
+     (Cochran & Wiley, 2004; Adhikari et al., 2021) 
+
+Where,   =  sample  size  required  for  study,  Standard  tabulated  value  for  5%  level  of  significance  (z)  = 
+1.96,  p=  Prevalence  of  customers  perception  towards  online  shopping  50  %  =  0.5.  So,  p=  0.5,  q=  1-p,  =  0.5. 
+
+Allowable  error  that  can  be  tolerated  (l)  =  5%.  Total  population  for  the  study  = 
+
+   =  384.16.  Non-
+
+response  error 5%, i.e. 384.16*5/100 = 19.20. Thus, sample size taken for study  was (384.16+19.20) = 403.36 ~ 
+(403). 
+
+Research Instruments 
+
+In this study, structured questionnaire was used. After the sample size was determined through Cochran’s 
+formula (Cochran & Wiley, 2004; Adhikari et al., 2021), 403 respondents were selected for data collection. It took 
+four months to collect the data. Due to the global pandemic that also affected a large part of Kathmandu valley, it 
+was  difficult  to  reach  every  location  so  the  data  were  collected  through  face-to-face  interaction  with  some 
+respondents  and  with  the  help  of  telephone  calls  and  interaction  through  social  media  with  others.  Respondents 
+were sent kobo tool box questionnaire through the internet to obtain the information. 
+
+Data Analysis Techniques 
+
+The  data  and  information  collected  from  the  respondents  are  presented,  interpreted  and  analyzed.  The 
+questionnaires  are  prepared  in  the  purposive  manner  where  the  respondents  fill  up  all  those  questionnaires  by 
+themselves. The data analysis generally contains two parts Descriptive Statistics and Awareness Level. Descriptive 
+statistics is used to describe the main features of the collected data quantitatively and to investigate the consumers’ 
+perception towards the use of mobile applications for online shopping. The awareness level is used to measure  the 
+awareness  level  of  consumers’  use  of  mobile  applications  for  online  shopping.  The  awareness  level,  in  turn,  is 
+measured  through  awareness  index.  That  is,  awareness  is  measured  through  online  shopping  dimensions  where 
+three dimensions (affective, cognitive, behavioral) are  measured followed by awareness level of male and female 
+regarding online shopping and lastly awareness level of consumers among different age group are also measured. 
+
+RESULTS AND DISCUSSION 
+
+This section presents the result derived from various techniques including socio-economic status of the respondents, 
+respondents’  knowledge  related  to  online  shopping,  their  awareness  level,  constrains  they  faced  during  shopping 
+and managerial solutions for promoting effective online shopping.  
+
+Socio-demographic characters entails sex, age, education level of the respondents.  For this study, majority 
+of the respondents were from Kathmandu which covers 37.74% of the respondents because it covers larger scale of 
+the  valley  followed  by  Lalitpur  (33.25%)  and  Bhaktapur  (29.03%).  Similarly,  participation  of  male  on  giving 
+information on online shopping was found to be more than female and for every four respondents one is female , 
+
+68 
+https://irjstem.com 
+
+ 
+    
+    
+              
+       
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+which depicts 33.50% of the respondents are female and 66.50% respondents are male. A study done by Rodgers & 
+Harris (2003); Yadav et al. (2020) also found that although the number of internet users is equally divided among 
+the genders, more men than women engage in online shopping and make online purchases Likewise, large numbers 
+of online shopping users were found to be in between the age of 25-45 . In a similar survey conducted by  Huang 
+(2012) in Taiwan, the largest age group in relation to number of internet and online shopping users was 26-35 age 
+group (64.8 percent), followed by the users in the age of 36-45 (18.8 percent). Hence online shopping users are in 
+the  age  group  between  25-35  years  of  age.  Also,  the  study  of  Shah  and  Iwari  (2021)  found  majority  of  online 
+shoppers are below age of 35 years. 
+
+The  research  also  indicated  that  the  education  level  of  male  in  this  study  is  more  than  female.  Majority 
+(56.57%)  of  the  respondents  have  bachelor  degree,  which  included  both  male  and  female.  Similarly,  the  study 
+found that income played a large part in using online shopping as 79.65% of the respondents are job holders out of 
+which 64.80% are online shopping users. A research done by  Hernández et al. (2011) considers that user income 
+has an effect on the first contact with the internet and e-commerce as people with high incomes perceive less risk in 
+the adoption of online shopping and new technologies that it comes with. Hence income plays a large part of using 
+online shopping. 
+
+Title 
+
+Table 1. Socio-demographic characteristics 
+Number 
+
+Percentage 
+
+Study Area 
+
+Kathmandu 
+
+Lalitpur 
+
+Bhaktapur 
+
+Gender 
+
+Male 
+
+Female 
+
+Age 
+
+16 – 25 
+
+26 – 35 
+
+36 – 45 
+
+46 – 55 
+
+Above 55 
+
+Education Level 
+
+Illiterate 
+
+Up to Higher Secondary 
+
+152 
+
+134 
+
+117 
+
+268 
+
+135 
+
+74 
+
+137 
+
+123 
+
+61 
+
+8 
+
+2 
+
+40 
+
+69 
+https://irjstem.com 
+
+37.72 
+
+33.25 
+
+29.03 
+
+66.50 
+
+33.50 
+
+18.36 
+
+34.00 
+
+30.52 
+
+15.14 
+
+1.99 
+
+0.51 
+
+10.10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+Bachelor’s Degree 
+
+Master’s Degree 
+
+Above Master’s Degree 
+
+Income Level (at NRs.-
+Nepalese currency) 
+
+Less than 20000 
+
+20001 – 30000 
+
+30001 – 40000 
+
+40001 – 50000 
+
+Above  50000 
+
+224 
+
+123 
+
+7 
+
+106 
+
+151 
+
+102 
+
+42 
+
+2 
+
+56.57 
+
+31.06 
+
+1.77 
+
+26.30 
+
+37.47 
+
+25.31 
+
+10.42 
+
+0.50 
+
+Knowledge Regarding Online Shopping 
+
+Knowledge level regarding online shopping explains about online shopping users, what products they buy 
+from the online applications, which application they buy from, how much they spend on online shopping and how 
+they pay for the products.  
+
+Use of Online Shopping 
+
+Use  of  online  shopping  reveals  the  users  and  non-users  of  mobile  applications  for  online  shopping  in 
+Kathmandu  valley.  The  result  reveals  that  99.50%  of  respondents  are  aware  about  online  shopping  out  of  which 
+34.74% of the respondents prefer traditional shopping method than online shopping, whereas 65.26% prefer to buy 
+the  goods  online  and  get  them  delivered.  It  explains  that  a  greater  number  of  respondents  are  in  favor  of  using 
+mobile applications for online shopping as it saves time and effort which is in line with Muthukumaran (2017). 
+
+Regularity of Online Shopping 
+
+Regularity  of  online  shopping  explains  about  how  popular  mobile  applications  are  for  online  shopping 
+among  people  living  in  Kathmandu  valley.  Figure  2  explains  that  67.18%  of  the  people  only  use  mobile 
+applications for shopping online when they need something followed by 15.27% who shop once in between two to 
+four  months.  This  figure  shows  that  online  shopping  is  slowly  blooming  in  Kathmandu  valley  and  people  are 
+slowly accepting the online shopping methods. 
+
+Online Shopping Products 
+
+Online  shopping  products  explain  about  the  type  of  products  and  services  customers  buy  from  mobile 
+applications. Figure 2 shows that majority of female respondents use mobile applications for online shopping to buy 
+clothes and accessories. Similarly, next most bought products from online mobile applications are home appliances 
+and the number of male buyers is more than female buyers.  
+
+70 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+Pharmaceutical Products
+
+Food and Beverages
+
+4.84 
+
+3.79 
+
+34.78 
+
+38.89 
+
+Kitchen Utensils
+
+8.84 
+
+30.95 
+
+65.22 
+
+61.11 
+
+69.05 
+
+Home Applicances
+
+19.37 
+
+Books and Reading Materials
+
+Computer Items and Accessories
+
+Mobile Items and Accessories
+
+Clothes and Accessories
+
+4.84 
+
+7.79 
+
+5.41 
+
+10.11 
+
+40.22 
+
+39.13 
+
+59.78 
+
+60.87 
+
+94.59 
+
+47.92 
+
+52.08 
+
+40.42 
+
+30.21 
+
+69.79 
+
+0.00
+
+20.00
+
+40.00
+
+60.00
+
+80.00
+
+100.00
+
+Total
+
+Female Male
+
+Figure 2. Online products 
+
+The least amount of product customers buy from online mobile applications is food and beverages where 
+male preference is slightly higher. This explains that buying things online with the help of mobile applications has 
+become a common practice among people in Kathmandu valley and there are a large variety of products that you 
+can buy through mobile applications. 
+
+Online Shopping Applications 
+
+Online shopping applications examine the most used online shopping mobile application because choosing 
+
+the right online shop can either make or break your online shopping experience and future shopping possibilities. 
+Figure 3 explains that Facebook (28.92%) and Daraz Nepal (25.04%) are two most preferred online shopping 
+mediums followed by Hamrobazaar (21.58%) to buy products in Kathmandu valley. This explains that although 
+there are numerous online shopping mobile applications but Facebook which is a social media platform leads the 
+way in buying products from online. 
+
+3.74%  2.30% 
+
+2.01% 
+
+16.40% 
+
+25.04% 
+
+28.92% 
+
+21.58% 
+
+Facebook
+
+Hamrobazaar
+
+Daraz
+
+Sasto Deal
+
+Rojeko
+
+Nepbay Muncha
+
+Figure 3. Online shopping applications 
+
+71 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+Preferred Payment Method 
+
+Preferred payment method explains about the most used online payment method in Kathmandu valley as 
+payment is one of the key aspects of shopping online for goods and services. 54.75% of people’s preferred online 
+payment is cash payment on delivery followed by 30.02% preferring payment through online payment application 
+gateways such as eSewa, Khalti and rest of the 15.23% prefer paying through debit or credit cards. The majority of 
+respondents  choosing  cash  on  delivery  shows  that  there  is  still  fear  of  using  online  payment  methods  while 
+purchasing online goods and services. 
+
+Spending on Online Shopping 
+
+This section explains about how much money customers are willing to spend in online shopping as price is 
+one of the key factors that determines whether to obtain or sacrifice a product you see online. It was revealed that 
+66.03% of people spend up to Rs. 5,000. Similarly, 16.41% spend between Rs.5,000-Rs.10,000. Likewise, around 
+10.69% of people spend less than Rs.1000 and only 6.87% spend more than Rs.10,000 while shopping online. This 
+explains that customers prefer to spend a particular amount of money when it comes to online shopping. 
+
+Reason for Not Shopping Online 
+
+This section explains about why people don’t prefer online shopping through mobile applications because 
+although online shopping provides customers with the ability to purchase any goods or services from a particular 
+place, not  all  customers like shopping from their home.  It  was found that 34.74% of respondents  said they don’t 
+shop online; 25.21% of people don’t shop online because they have the need to physically see and feel the products 
+before buying them. Similarly, 21.82% of people feel they would be unaware about the quality of the product while 
+shopping online. Likewise, the least mentioned reason for not shopping online was difficulty in using application 
+user  interface/websites  user  interface.  This  explains  that  there  is  still  a  large  group  of  people  who  don’t  prefer 
+online shopping. 
+
+Awareness Index 
+
+Awareness  Index  measures  efficiency  of  a  given  commercial  unit  or  company  in  generating  advertising 
+awareness (Brown, 1986). Awareness index measures the awareness level of respondents within three dimensions 
+(affective, cognitive, and behavioral). The three dimensions are further compared with different age groups to find 
+out the difference in awareness regarding online shopping.  
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Affective
+
+Cognitive
+
+Behavioral
+
+Less Aware
+
+Moderately
+Aware
+
+High Aware
+
+Figure 4. Overall awareness 
+
+72 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+The awareness level of the respondents was measured within three dimensions. The study shows most of 
+the  respondents  are  highly  aware  about  online  shopping  through  mobile  application.  90.46%  of  the  average 
+respondents  fall  on  highly  aware  section,  7.89%  of  average  respondents  fall  on  moderately  aware  section  and 
+1.65% of average respondents fall on less aware section.  A similar study done by  KC & Timalsina (2016) shows  
+that  majority  of    respondents  were  found  to  be  aware  (86%)  about  online  shopping  and  Very  few  (7%)  were 
+unknown about it and same number of respondents were unknown about it  but found interested towards it. In this 
+regard, Joseph & Joseph (2017) found some users were aware about online shopping. 
+
+Online Shopping Challenges 
+
+Online  shopping  let  human  beings  to  buy  things  from  the  ease  of  their  homes  because  there  is    no  extra 
+traveling, not having to deal with impolite individuals and no more standing in lengthy lines  (McCloskey, 2006). 
+Despite all the efforts of online companies to enhance themselves, there are still few issues that customers have to 
+face while buying online through mobile applications (Koirala et al., 2021). Challenges related to online shopping 
+explored  people’s  perception  of  challenges  that  exists  in  online  shopping  through  mobile  application.  This  study 
+finds that 66.0% of people believe that there are different challenges while shopping online. Likewise, 16.13% of 
+people do not believe there are any challenges during shopping online through mobile application and surprisingly, 
+17.87% of  then  have  no  idea  if  there  are  any  challenges  related  to  online  shopping.  Also,  Devkota  et  al.  (2021) 
+urged that 95.02% of people still believe that adaption of new technology is still a matter of challenge in Nepalese 
+context. 
+
+Common Constrains in Online Shopping 
+
+Challenges  associated  with  online  shopping  through  mobile  application  had  several  constrains.  However, 
+maximum  number  of  respondents  feel  products  not  matching  as  shown  on  website  is  the  most  common  faced 
+challenge  while  online  shopping.  Muthukumaran  (2017)  on  his  study  also  had  similar  findings.  Likewise, 
+respondents feel misuse of credit card as the least worrying problem while shopping online. The results show that 
+there  are  many  constraints  in  online  shopping  and  in  order  to  change  the  people’s  perceptions  towards  use  of 
+mobile applications for online shopping these constraints have to be removed indefinitely.  
+
+In  order  to  understand  the  consumer’s  perception,  it  was  important  to  understand  people’s  view  towards 
+complications related to online shopping through mobile application. The study hence revealed that 39.21% of the 
+respondents do not feel any challenges linked with online shopping while 60.79% of the respondents feel that there 
+are  different  factors  that  complicate  the  progression  of  online  shopping  through  mobile  application.  Hence,  this 
+shows  that  large  number  of  respondents  feel  there  are  still  huge  problems  related  to  online  shopping  in  Nepal. 
+People with access to the internet in Nepal may have at least once tried to buy goods online with the help of mobile 
+apps but sadly, because of many issues  with the online shopping, many were left disappointed. According to the 
+survey, 41.61% of respondents reported that one of the main challenges they faced was the product not matching as 
+shown  on  website  when  it  was  delivered  to  them.  Similarly,  32.12%  of  them  expressed  their  disappointment  by 
+saying  they  choose  poor  quality  products  as  they  could  not  figure  out  the  difference  in  online  application  sites. 
+Likewise, 10.95% of respondents said timely delivery of the products were a problem, 8.76% of respondents said 
+hidden costs were a problem and 6.57% of the respondents expressed their disappointment towards hassle and long 
+procedures to refund or return the products. 
+
+73 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+8.76 
+
+6.57 
+
+10.95 
+
+32.12 
+
+41.61 
+
+Product not matching shown as on website
+
+Choosing poor quality products
+
+Timely delivery
+
+Return/Refund Hassle
+
+Hidden costs
+
+Figure 5. Complications faced by customers in Nepal 
+
+Managerial Solution to Online Shopping Problems 
+
+Purchasing  goods  from  the  comfort  of  your  own  living  room  certainly  is  more  convenient  than  actually 
+driving to a store, while offering a virtually unlimited array of choices and the ability to compare prices (Shah & 
+Tiwari,  2021).  Many  of  the  problems  seem  to  arise  because  of    the  retail  and  online  divisions  of  major  stores 
+(Kuriachan,  2014).  Study  shows  that  86.05%  of  the  respondents  feel  the  problems  related  to  online  shopping 
+through  mobile  application  can  be  managed  which  shows  that  people  are  hopeful  about  online  shopping. 
+Respondents (43.56%) believe that most of the problems related to online shopping through mobile application can 
+be solved by selling high quality products that satisfy the customers need. But 13.95% of the respondents who said 
+online shopping problems cannot be managed feel that poor quality products being sold at high price and scamming 
+consumers though fake applications and websites which goes unpunished as there is no one to look after what the 
+consumers are going through makes it very difficult for anything to be managed. 
+
+100.00
+
+90.00
+
+80.00
+
+70.00
+
+60.00
+
+50.00
+
+40.00
+
+30.00
+
+20.00
+
+10.00
+
+0.00
+
+43.56 
+
+18.81 
+
+15.84 
+
+12.87 
+
+8.91 
+
+selling quality
+products
+
+investigating the
+products properly
+before buying
+
+stricter rules and
+regulations
+
+producing high
+quality products
+with in the country
+
+By providing
+accurate
+information to
+customers
+
+Figure 6. Solution to the challenges 
+
+74 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+            Finding out the problem gives one the opportunity to make things right. Hence, it is important to understand 
+why some of the problems are not being solved. The finding depicts that 36.36% of respondents believe one of the 
+reasons  for  not  being  able  to  manage  online  shopping  problem  was  online  application  sites  selling  poor  quality 
+products at high price. As there is no particular governing body looking at this, the online market is deemed as a 
+scam market. Similarly, 29.55% of respondents said no strict rules and regulations regarding online shopping is one 
+of  the  reasons  for  the  challenges  faced  by  customers.  Likewise,  25%  of  respondents  believe  the  online  shopping 
+environment is not up to the level of other countries and lastly 9.09% of respondents said long delivery time and 
+receiving  damaged  products  at  the  end  of  the  day  makes  online  shopping  unbearable  in  Kathmandu  valley.  The 
+35.94%  of  the  respondents  believe  overall  shopping  experience  through  mobile  application  can  be  improved  by 
+providing  good  online  shopping  experiences  to  customers  by  selling  high  quality  goods  and  services.  Similarly, 
+23.44%  of  respondents  said  introducing  good  and  safe  payment  system  for  online  shopping  through  mobile 
+application can increase the overall experience of online shopping. Likewise, 18.75% of them said strict rules and 
+regulations  to  protect  online  shoppers  can  be  helpful.  Similarly,  12.50%  of  respondents  believe  the  government 
+should  help  in  introducing  and  investing  in  international  companies  which  brings  high  quality  products  into  the 
+Nepalese market. 9.38% of respondents said the change in the market structure and new innovative ideas may help 
+online  shopping  applications  bloom  in  the  Nepalese  market.  The  11.03%  of  the  respondent  feel  government  is 
+responsible for the problems that customers face while shopping online. Similarly, 15.21% of the respondents feel 
+the customers themselves are responsible for what they buy while online shopping. Whereas 73.76% of the   users 
+feel  sellers  are  responsible  for  the  problems  that  arise  while  shopping  online.  Hence,  this  shows  that  people  feel 
+sellers are more responsible for the problems related to online shopping in Nepal.  
+
+CONCLUSION AND RECOMMENDATION 
+
+Large  number  of  respondents  said  products  not  matching  as  shown  on  website  is  the  most  commonly  faced 
+challenge while online shopping through mobile applications followed by choosing poor quality products, hidden 
+costs  and  timely  delivery  of  the  products  and  services  which  show  that  there  are  many  constraints  in  online 
+shopping. From the descriptive analysis it can be concluded that consumer’s perception differs according to various 
+reasons for adoption and non-adoption of online  shopping. The majority of the respondents are from Kathmandu 
+where male respondents are more in number than female between the age of 25-45 years of age. The study found 
+that there are a greater number of online shopping through mobile applications users than non-users which shows 
+online  shopping  is  in  the  rise  in  Kathmandu  valley.  Previous  online  shopping  experience,  consumer’s  lifestyle, 
+positive attitude of consumers determines a huge part of consumer’s perception towards purchasing online.  
+
+The research also found out that a large number of respondents agree there are a lot of challenges in online 
+shopping. Maximum number of respondents feel products not matching as shown on website is the most commonly 
+faced  challenge  while  online  shopping  followed  by  choosing  poor  quality  products,  hidden  costs  and  timely 
+delivery  of  the  products  and  services.  Likewise,  managerial  solution  intends  to  find  out  people’s  perceptions 
+towards who is responsible and how online shopping problems can be eliminated from the market in Kathmandu 
+valley. 86.05% of the respondents feel the problems related to online shopping through mobile application can be 
+managed.  
+
+Respondents believe that most of the problems related to online shopping through mobile applications can 
+be solved by selling high quality products that satisfy the customers need and problems related to online shopping 
+can be managed which shows that people are hopeful about online shopping. But those respondents who said online 
+shopping  problems  cannot  be  managed  feel  that  poor  quality  products  being  sold  at  high  price  and  scamming 
+consumers which goes unpunished has resulted in them not preferring online shopping. For the betterment of online 
+shopping,  it  is  recommended  to  sell  quality  products  at  reasonable  price,  improve  online  payment  methods  and 
+make  it  as  gateway  to  offer  latest  fashion  and  technology.  In  this  context,  government  should  review  online 
+shopping policies, and user-friendly website/application interface. 
+
+75 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+REFERENCES   
+
+Adhikari, D.B., Shakya, B., Devkota, N., Karki, D., Bhandari, U., Parajuli, S. & Paudel, U.R. (2021). Financial 
+hurdles in small business enterprises in Kathmandu Valley. Modern Economy, 12(6), 1105-1118. 
+Bhandari, U., Yadav, S., Devkota, N., Paudel, U.R., Rajbhandari, S. & Karki, D (2021). Private and public bank 
+
+consumers’ preference in Kathmandu Valley: Evidence from customers’ satisfaction index. International 
+Research Journal of Science, Technology, Education and Management, 1(1), 67-78.  
+
+Brown, G. (1986). Modelling advertising awareness. Journal of the Royal Statistical Society. Series D (The 
+
+Statistician), 35(2), 289-299. 
+
+Browne, G.J., Durrett, J.R. & Wetherbe, J.C. (2004). Consumer reactions toward clicks and bricks: investigating 
+buying behaviour on-line and at stores. Behaviour & Information Technology, 23(4), 237-245. 
+
+Cochran, W.G. & Wiley, J. (2004). Sampling Techniques third edition. 
+Devkota, N., Adhikari, B., Paudel, U.R., Adhikari, D., Parajuli, S. & Adhikari, K. (2021). Status of Nepalese 
+
+education institution on technical adaption in COVID-19 pandemic: An index based analysis. South Asian 
+Journal of Social Studies and Economics, 7-19. 
+
+Devkota, N., Budhathoki, A., Paudel, U.R., Adhikari, D.B., Bhandari, U. & Parajuli, S. (2021). Online trading 
+
+effectiveness in Nepal share market: Investors awareness, challenges and managerial solution. Asian 
+Journal of Economics, Business and Accounting, 90-98. 
+
+Devkota, N., Shakya, B., Parajuli, S. & Poudel, U. (2021). Using Plastic Money (Cards) in Kathmandu Valley: 
+
+Users’ Knowledge, Current Use, Challenges and Way-forward. International Journal of Business, 
+Management and Economics, 2(2), 102-117. 
+
+Export.gov. (2019). Nepal - eCommerce. 1–5. Retrieved from https://www.export.gov/article?id=Nepal-ecommerce 
+Gautam, A. (2015, January). Riding the e-commerce wave. The Kathmandu Post, pp. 1–11. Retrieved from 
+http://kathmandupost.ekantipur.com.np/news/2015-01-02/riding-the-e-commerce-wave.html 
+
+Haur, F.C., Khatibi, A. & Azam, S.F. (2017). Antecedents of consumers’perception towards online advertising in 
+
+malaysia: The structure equation modeling approach. European Journal of Management and Marketing 
+Studies, 2(3), 15. 
+
+Hernández-Muñoz, J.M., Vercher, J.B., Muñoz, L., Galache, J.A., Presser, M. Gómez, L.A.H. & Pettersson, J. 
+
+(2011, May). Smart cities at the forefront of the future internet. In Future internet assembly (pp. 447-462). 
+
+Huang, E. (2012). Online experiences and virtual goods purchase intention. Internet Research. 
+Jha, R. (2014). Consumer’s perception on online shopping. Retrieved from 
+
+https://www.slideshare.net/radhejha/marketing-online-shopping-consumers-perception-on-online-
+shopping?from_action=save 
+
+Joseph, V. & Joseph, J. (2017). A study on consumer's perception towards online shopping among college 
+
+students. Splint International Journal of Professionals, 4(7), 47-51. 
+
+Joshi, P. (2021). Study of consumer perception towards online shopping of FMCG. International Journal of 
+
+Management IT and Engineering, 11(2), 72-77. 
+
+Joyce, R. (2002). Digitization, the internet, and electronic commerce. Futuries, 26(3,4), 92. 
+KC, S.K. & Timalsina, A.K. (2016). Consumer Attitudes Towards Online Grocery Shopping in Kathmandu Valley. 
+
+In Proceedings of IOE Graduate Conference (pp. 133-138). 
+
+Ko, H., Jung, J., Kim, J. & Shim, S.W. (2004). Cross-cultural differences in perceived risk of online shopping. 
+
+Journal of Interactive Advertising, 4(2), 20–29.  
+
+Koirala, J., Acharya, S. & Rijal, N. (2021). Is COVID-19 Reshaping Consumer Buying Behavior? Understanding 
+the Problems and Issues of Online Purchase in Nepal. Understanding the Problems and Issues of Online 
+Purchase in Nepal (June 1, 2021). 
+
+Kuriachan, J.K. (2014). Online shopping problems and solutions. New Media and Mass Communication, 23(1). 
+Levitt, T. (1993). The globalization of markets. The McKinsey Quaterly, 1(249), 1–21.  
+Lim, Y.M., Yap, C.S. & Lau, T.C. (2010). Online search and buying behaviour : Malaysia experience. Canadian 
+
+Social Science, 6(4), 154–166. 
+
+Malla, S. (2018). Online shopping behaviour among young consumers in Kathmandu , Nepal, 1.  
+McCloskey, D.W. (2006). The importance of ease of use, usefulness, and trust to online consumers: An 
+
+76 
+https://irjstem.com 
+
+ 
+ 
+International Research Journal of Science, Technology, Education, and Management 
+Volume 1, No. 2 | November 2021 
+
+examination of the technology acceptance model with older customers. Journal of Organizational and End 
+User Computing (JOEUC), 18(3), 47-65. 
+
+Mohanty, A. (2011). State of environment in Kathmandu valley, Nepal: A special review. Journal of the Institute of 
+
+Engineering, 8(1–2), 126–137. 
+
+Muthukumaran, A. (2017). Internet users’ perception towards online shopping. International Journal of Research 
+
+in Finance and Marketing, 7(11), 11-21. 
+
+Neupane, N. (2018, January). Nepal added over 250 internet users per hour. The Kathmandu Post, pp. 1–7. 
+
+Retrieved from https://kathmandupost.com/money/2018/01/20/nepal-added-over-250-internet-users-per-
+hour 
+
+Niroula, B. & Gyanwali, A. (2020). Customer satisfaction towards online shopping in Kathmandu Valley. Patan 
+
+Pragya, 7(1), 135-145. 
+
+Patel, J. (2018). Study of consumer perception on online shopping. Online Journal of Multidisciplinary Subjects, 
+
+12(3), 434-438. 
+
+Rodgers, S. & Harris, M.A. (2003). Gender and e-commerce: An exploratory study. Journal of advertising 
+
+research, 43(3), 322-329. 
+
+Shah, B. & Tiwari, U.K. (2021). Consumers' Attitude towards Online Shopping in Janakpurdham. Journal of 
+
+Management, 4(1), 31-50. 
+
+Singh, S. & Rana, R. (2018). Effect of Demographic Factors on Consumers’ Perception of Online 
+Shopping. Global Journal of Management and Business Research, 18(6), 26-30. 
+
+Vaidya, R. (2019). Online Shopping in Nepal: Preferences and Problems. Journal of Nepalese Business 
+
+Studies, 12(1), 71-86 
+
+Wang, S., Wang, S. & Wang, M. (2006). Shopping online or not? cognition and personality matters. Journal of 
+
+Theoretical and Applied Electronic Commerce Research, 1(3), 68–80. 
+
+Yadav, M., Goel, M. & Sharma, B. (2020). Consumer perception towards online shopping during 
+
+lockdown. International Journal of Management, 11(07), 1578-1584. 
+
+77 
+https://irjstem.com 
+
+ 
+ 
+ 
+ 
+ 
+
