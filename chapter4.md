@@ -57,6 +57,7 @@ Two practical observations emerged during preprocessing:
 2. **Single-observation categories** appear in demographic data (e.g., one respondent in “Other” gender), requiring cautious interpretation in subgroup comparisons.
 
 Handling decision: low-frequency custom platform responses were retained and grouped under “Other/Custom platforms” for descriptive reporting, while single-observation demographic categories were retained for transparency but not used as predictors in inferential regression/mediation models.
+This retention-without-inference rule is applied consistently across all subgroup interpretations in this chapter.
 
 These points do not invalidate the core model but are relevant for interpretation boundaries.
 
