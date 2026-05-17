@@ -56,7 +56,7 @@ Two practical observations emerged during preprocessing:
 1. **Platform variable includes long-tail free-text entries** (e.g., platform names outside predefined options), which indicates respondents occasionally entered alternative channels manually.
 2. **Single-observation categories** appear in demographic data (e.g., one respondent in “Other” gender), requiring cautious interpretation in subgroup comparisons.
 
-Handling decision: low-frequency custom platform responses were retained and grouped under “Other/Custom platforms” for descriptive reporting, while single-observation demographic categories were retained for transparency but not used for inferential claims.
+Handling decision: low-frequency custom platform responses were retained and grouped under “Other/Custom platforms” for descriptive reporting, while single-observation demographic categories were retained for transparency but not used as predictors in inferential regression/mediation models.
 
 These points do not invalidate the core model but are relevant for interpretation boundaries.
 
@@ -499,7 +499,7 @@ Young adult groups (20–30) show high RP and high PP simultaneously, consistent
 | Female | 85 | 3.661 | 3.965 | 3.184 |
 | Other | 1 | 1.000 | 1.000 | 1.800 |
 
-Male and female averages are close in RP and CS, with somewhat higher PP among males in this sample. The “Other” category is not inferentially interpretable due to n=1, and its minimum-scale values are treated as potentially anomalous single-case data rather than a stable subgroup pattern.
+Male and female averages are close in RP and CS, with somewhat higher PP among males in this sample. The “Other” category is not inferentially interpretable due to n=1; this single case was retained only in descriptive reporting and was not used as a subgroup basis in inferential regression/mediation testing.
 
 ### 4.11.4 Shopping Frequency Pattern in RP, PP, and CS
 
