@@ -490,15 +490,15 @@ This framework adds applied value by linking statistical evidence to governance 
 
 ## 5.9 Contribution of the Study
 
-### 5.8.1 Empirical Contribution
+### 5.9.1 Empirical Contribution
 
 This study provides one of the few integrated empirical examinations of post-purchase risk dynamics in Nepal's online shopping context. By combining three antecedent risk dimensions, a mediating risk mechanism, and two key outcomes, it offers a structured evidence base for both researchers and practitioners.
 
-### 5.8.2 Methodological Contribution
+### 5.9.2 Methodological Contribution
 
 The use of construct-level analysis, direct path testing, and bootstrapped mediation offers a transparent framework that can be replicated and extended in future Nepal-focused e-commerce research.
 
-### 5.8.3 Practical Contribution
+### 5.9.3 Practical Contribution
 
 The study converts statistical findings into operational recommendations that can guide platform governance, payment assurance design, seller development, and policy coordination.
 
