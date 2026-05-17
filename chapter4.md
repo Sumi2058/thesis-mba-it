@@ -140,12 +140,12 @@ Most respondents are occasional-to-regular online buyers. The **“sometimes”*
 | Platform | Mentions | % of Respondents |
 |---|---:|---:|
 | Daraz | 155 | 84.24% |
-| Social Media sellers/pages | 108 | 58.70% |
+| Social Media sellers/pages | 109 | 59.24% |
 | Jeevee | 32 | 17.39% |
 | Hamrobazar | 28 | 15.22% |
 | SastoDeal | 11 | 5.98% |
 | Muncha | 3 | 1.63% |
-| Other long-tail entries (combined) | 6 | 3.26% |
+| Other long-tail entries (combined) | 5 | 2.72% |
 
 Platform behavior reflects a **hybrid ecosystem**: dominant marketplace purchasing plus substantial social-commerce participation. The presence of long-tail entries also signals fragmented seller discovery channels.
 
