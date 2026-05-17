@@ -20,7 +20,7 @@ Based on data from 184 valid respondents, the study produced the following major
 3. **Risk perception significantly reduces customer satisfaction** (β = -0.210, p = 0.0041).
 
 4. **Risk perception partially mediates** the effects of payment issues, scams, and product quality mismatch on post-purchase behavior.
-   - H5, H6, H7 were all supported via bootstrapped indirect effects.
+   - H5, H6, H7 (mediation of PI, SC, and PQ through RP to PP) were all supported via bootstrapped indirect effects.
 
 5. In the full model of post-purchase behavior, **product quality mismatch and scams remained strong direct predictors**, indicating that not all behavioral effects pass only through risk perception.
 

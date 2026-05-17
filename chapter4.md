@@ -71,7 +71,7 @@ The data represent both student and working populations, with employed responden
 
 **Table 4.5 Shopping Frequency**
 
-| Frequency | Frequency | Percentage |
+| Shopping Frequency | Frequency | Percentage |
 |---|---:|---:|
 | Rarely | 24 | 13.04% |
 | Sometimes | 92 | 50.00% |
@@ -150,7 +150,7 @@ Interpretation:
 | PP | 0.589 to 0.834 | Adequate |
 | CS | -0.313 to 0.853 | CS5 behaves inversely to core satisfaction items |
 
-The negative loading behavior of CS5 indicates conceptual tension between overall satisfaction indicators and risk-impact wording. CS5 was retained in the main model to preserve content coverage of risk-conditioned satisfaction in the original instrument, but interpretation is cautious. A sensitivity check using only CS1–CS4 preserved the negative sign of RP → CS, although statistical strength decreased; therefore, the reported model is retained with an explicit measurement caveat.
+The negative loading behavior of CS5 indicates conceptual tension between overall satisfaction indicators and risk-impact wording (see detailed caveat in this subsection). CS5 was retained in the main model to preserve content coverage of risk-conditioned satisfaction in the original instrument, but interpretation is cautious. A sensitivity check using only CS1–CS4 preserved the negative sign of RP → CS, although statistical strength decreased; therefore, the reported model is retained with an explicit measurement caveat.
 
 ### 4.4.3 Discriminant Validity (Fornell-Larcker Check)
 
