@@ -54,7 +54,7 @@ To reduce homogeneity risk, data were collected through mixed channels (online s
 
 ### 3.4.3 Sample Size and Final Usable Cases
 
-The raw dataset (`/home/runner/work/thesis-mba-it/thesis-mba-it/data/survey-data.csv`) contained **185 responses**. After screening for completeness across all Likert-scale variables, **184 responses** were retained for analysis.
+The raw dataset (`data/survey-data.csv`) contained **185 responses**. After screening for completeness across all Likert-scale variables, **184 responses** were retained for analysis.
 
 Thus, all inferential analyses in Chapter IV are based on **N = 184** valid cases.
 
@@ -70,8 +70,8 @@ For multiple regression with three to four predictors and mediation paths, N=184
 
 Primary data came from a structured questionnaire and the corresponding response file:
 
-- **Questionnaire design source:** `/home/runner/work/thesis-mba-it/thesis-mba-it/survey_questionnaire.md`
-- **Survey response dataset:** `/home/runner/work/thesis-mba-it/thesis-mba-it/data/survey-data.csv`
+- **Questionnaire design source:** `survey_questionnaire.md`
+- **Survey response dataset:** `data/survey-data.csv`
 
 The dataset includes demographic variables (age, gender, education, occupation, shopping frequency, preferred platform) and psychometric items for six constructs.
 
@@ -80,8 +80,8 @@ The dataset includes demographic variables (age, gender, education, occupation, 
 Secondary data informed conceptualization and instrument adaptation from:
 
 - Chapter I and Chapter II literature synthesis,
-- cited journal articles and reports in `/home/runner/work/thesis-mba-it/thesis-mba-it/literature/` and `/home/runner/work/thesis-mba-it/thesis-mba-it/literature/text/`,
-- SOMTU GRP formatting guidance in `/home/runner/work/thesis-mba-it/thesis-mba-it/guidelines.md`.
+- cited journal articles and reports in `literature/` and `literature/text/`,
+- SOMTU GRP formatting guidance in `guidelines.md`.
 
 Secondary sources were used to define constructs, adapt indicators, and justify analytical methods.
 

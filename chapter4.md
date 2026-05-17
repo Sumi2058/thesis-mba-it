@@ -6,9 +6,7 @@
 
 This chapter presents the empirical results of the study, based on the cleaned dataset of 184 valid respondents. The analysis follows the sequence specified in Chapter III: demographic profile, descriptive statistics, reliability and validity diagnostics, correlation analysis, hypothesis testing, regression/path analysis, and interpretation of findings against the research objectives.
 
-All analyses were conducted using the survey file located at:
-
-`/home/runner/work/thesis-mba-it/thesis-mba-it/data/survey-data.csv`
+All analyses were conducted using the survey file located at `data/survey-data.csv`.
 
 ---
 
