@@ -56,8 +56,7 @@ Two practical observations emerged during preprocessing:
 1. **Platform variable includes long-tail free-text entries** (e.g., platform names outside predefined options), which indicates respondents occasionally entered alternative channels manually.
 2. **Single-observation categories** appear in demographic data (e.g., one respondent in “Other” gender), requiring cautious interpretation in subgroup comparisons.
 
-Handling decision: low-frequency custom platform responses were retained and grouped under “Other/Custom platforms” for descriptive reporting, while single-observation demographic categories were retained for transparency but not used as predictors in inferential regression/mediation models.
-This retention-without-inference rule is applied consistently across all subgroup interpretations in this chapter.
+**Methodological handling rule (applied chapter-wide):** low-frequency custom platform responses were retained and grouped under “Other/Custom platforms” for descriptive reporting, while single-observation demographic categories were retained only for transparency and were not used as predictors or subgroup bases in inferential regression/mediation interpretation.
 
 These points do not invalidate the core model but are relevant for interpretation boundaries.
 
@@ -499,6 +498,8 @@ Young adult groups (20–30) show high RP and high PP simultaneously, consistent
 | Male | 98 | 3.710 | 4.124 | 3.178 |
 | Female | 85 | 3.661 | 3.965 | 3.184 |
 | Other | 1 | 1.000 | 1.000 | 1.800 |
+
+*Note: The “Other” row (n=1) is shown for transparency only and is not interpreted as a stable subgroup statistic.*
 
 Male and female averages are close in RP and CS, with somewhat higher PP among males in this sample. The “Other” category is not inferentially interpretable due to n=1; this single case was retained only in descriptive reporting and was not used as a subgroup basis in inferential regression/mediation testing.
 
