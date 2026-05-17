@@ -150,7 +150,7 @@ Interpretation:
 | PP | 0.589 to 0.834 | Adequate |
 | CS | -0.313 to 0.853 | CS5 behaves inversely to core satisfaction items |
 
-The negative loading behavior of CS5 indicates conceptual tension between overall satisfaction indicators and risk-impact wording. It was retained for model continuity but interpreted cautiously.
+The negative loading behavior of CS5 indicates conceptual tension between overall satisfaction indicators and risk-impact wording. CS5 was retained in the main model to preserve content coverage of risk-conditioned satisfaction in the original instrument, but interpretation is cautious. A sensitivity check using only CS1–CS4 preserved the negative sign of RP → CS, although statistical strength decreased; therefore, the reported model is retained with an explicit measurement caveat.
 
 ### 4.4.3 Discriminant Validity (Fornell-Larcker Check)
 
@@ -226,7 +226,7 @@ A regression-based path framework was used (instead of full covariance SEM) due 
 - PI, SC, and PQ significantly increase RP.
 - RP significantly increases adverse PP responses.
 - RP significantly reduces CS.
-- Even after adding RP, SC and PQ remain positive predictors of PP, and PI shows a negative direct coefficient in the full model, indicating suppression/complex overlap effects after mediator entry.
+- Even after adding RP, SC and PQ remain positive predictors of PP, and PI shows a negative direct coefficient in the full model, indicating suppression/complex overlap effects after mediator entry. This sign reversal is interpreted as a mediated-competitive pattern: PI raises RP (which increases PP), but once shared variance with RP/SC/PQ is controlled, the residual PI component may reflect respondents who mitigate payment problems through coping strategies (e.g., safer payment choice), reducing direct adverse post-purchase reactions.
 
 ### 4.7.2 Full PP Model
 

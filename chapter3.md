@@ -54,7 +54,7 @@ To reduce homogeneity risk, data were collected through mixed channels (online s
 
 ### 3.4.3 Sample Size and Final Usable Cases
 
-The raw dataset (`data/survey-data.csv`) contained **185 responses**. After screening for completeness across all Likert-scale variables, **184 responses** were retained for analysis.
+The source file (`data/survey-data.csv`) contains **184 raw response records** (excluding header). After screening for completeness across all Likert-scale variables, the same **184 responses** were retained for analysis.
 
 Thus, all inferential analyses in Chapter IV are based on **N = 184** valid cases.
 
@@ -147,7 +147,7 @@ The instrument was adapted from validated prior studies and contextualized for N
 
 ### 3.8.2 Measurement Scale
 
-Although the original questionnaire document presents a 7-point template, the finalized response data in the CSV are coded on a **5-point agreement scale** (1 to 5), which was used as the empirical basis for all analyses in Chapter IV.
+The questionnaire draft document includes a 7-point template for item presentation; however, the finalized administered response file is coded on a **5-point agreement scale** (1 to 5). Based on field implementation and available response records, this 5-point coding is treated as the final measurement format for all Chapter IV analyses.
 
 ### 3.8.3 Source Adaptation Principle
 
