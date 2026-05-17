@@ -664,7 +664,9 @@ Future studies can build on this framework by:
 
 These directions can strengthen both external validity and theoretical specificity in Nepal-focused e-commerce risk research.
 
-### 3.21.4 Operational Timeline of Method Execution
+## 3.22 Operational and Analytical Execution Extensions
+
+### 3.22.1 Operational Timeline of Method Execution
 
 To preserve procedural discipline, the research process followed a phased operational timeline. This sequencing helped reduce analytical drift and ensured that each methodological decision was made at the appropriate stage rather than being adjusted retroactively after observing key results.
 
@@ -698,7 +700,7 @@ Final interpretation incorporated both statistical evidence and contextual plaus
 
 This phased execution model reduces the risk of selective reporting and supports replicability at the chapter level.
 
-### 3.21.5 Variable Transformation and Analytical Coding Matrix
+### 3.22.2 Variable Transformation and Analytical Coding Matrix
 
 To improve methodological traceability, each variable class was assigned a coding role in the analysis workflow. The matrix below summarizes analytical treatment:
 
@@ -712,7 +714,7 @@ To improve methodological traceability, each variable class was assigned a codin
 
 This matrix-driven coding process ensured that transformations remained consistent across descriptive and inferential stages. It also reduced risks of accidental variable redefinition during iterative analysis.
 
-### 3.21.6 Statistical Interpretation Protocol
+### 3.22.3 Statistical Interpretation Protocol
 
 The study adopted a multi-criteria interpretation protocol to avoid overreliance on any single statistic. For each hypothesis-relevant relationship, interpretation considered:
 
@@ -724,7 +726,7 @@ The study adopted a multi-criteria interpretation protocol to avoid overreliance
 
 This protocol is important because e-commerce behavior research often shows statistically significant but practically small effects, especially when multiple risk constructs overlap conceptually. The chapter therefore prioritizes balanced interpretation: significance is necessary for support claims, but substantive relevance determines managerial usefulness.
 
-### 3.21.7 Construct-Level Interpretation Anchors
+### 3.22.4 Construct-Level Interpretation Anchors
 
 To strengthen consistency in Chapter IV interpretation, construct-specific anchors were predefined.
 
@@ -754,7 +756,7 @@ To strengthen consistency in Chapter IV interpretation, construct-specific ancho
 
 By defining these anchors in advance, the chapter minimizes interpretive ambiguity when discussing coefficient signs and association patterns.
 
-### 3.21.8 Procedural Controls for Result Credibility
+### 3.22.5 Procedural Controls for Result Credibility
 
 The credibility of quantitative findings depends not only on statistical formulas but also on procedural discipline. The following controls were embedded in this study:
 
@@ -767,7 +769,7 @@ The credibility of quantitative findings depends not only on statistical formula
 
 These controls align with graduate-level research quality expectations and improve confidence that reported findings reflect observed data patterns rather than analysis-stage artifacts.
 
-### 3.21.9 Analytical Decision Audit Trail
+### 3.22.6 Analytical Decision Audit Trail
 
 An internal audit trail was maintained to document why major analytical decisions were made. The audit trail included:
 
@@ -779,7 +781,7 @@ An internal audit trail was maintained to document why major analytical decision
 
 The purpose of this audit trail is twofold. First, it supports methodological defensibility during academic review and viva discussions. Second, it allows future researchers to replicate or extend the model with clear understanding of decision points.
 
-### 3.21.10 Sensitivity Awareness in Cross-Sectional Designs
+### 3.22.7 Sensitivity Awareness in Cross-Sectional Designs
 
 Although this study does not claim strict causal proof, a sensitivity-aware interpretation framework was used to reduce common misreadings of cross-sectional findings. The framework recognizes that:
 
@@ -789,7 +791,7 @@ Although this study does not claim strict causal proof, a sensitivity-aware inte
 
 Accordingly, results are interpreted as evidence of structured association consistent with theory, while recommending longitudinal validation for stronger temporal claims.
 
-### 3.21.11 External Utility of the Methodological Model
+### 3.22.8 External Utility of the Methodological Model
 
 The methodology developed in this chapter has practical transfer value beyond this single thesis context. With minor adaptation, the same model can be applied to:
 
@@ -809,7 +811,7 @@ Thus, the methodological framework is not only statistically testable but also m
 
 ---
 
-## 3.22 Chapter Summary
+## 3.23 Chapter Summary
 
 Chapter III established the full methodological architecture used to examine how payment issues, online scams, and product quality mismatch influence post-purchase behavior and customer satisfaction through risk perception among online shoppers in Nepal. The chapter detailed the quantitative, deductive, cross-sectional research design; justified population and sampling choices; documented instrument development and construct operationalization; and defined data collection and ethical protocols.
 
