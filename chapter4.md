@@ -132,7 +132,7 @@ The highest mean appears for online scam concerns (SC = 4.228), indicating stron
 | PP | 0.736 | 0.834 | 0.505 | Acceptable |
 | CS | 0.702 | 0.822 | 0.592 | Acceptable |
 
-Interpretation:
+**Interpretation:**
 
 - Most constructs satisfy conventional reliability thresholds (alpha ≥ 0.70) except PI, which is marginal but retained due to theoretical relevance and acceptable CR.
 - AVE is satisfactory for SC, RP, PP, and CS; PI and PQ are slightly below/near the 0.50 criterion, indicating moderate convergent validity.
@@ -173,7 +173,7 @@ These were generally higher than corresponding inter-construct correlations, sup
 | PP | 0.040 | 0.337 | 0.357 | 0.319 | 1.000 | 0.082 |
 | CS | -0.267 | 0.004 | -0.223 | -0.210 | 0.082 | 1.000 |
 
-Interpretation:
+**Interpretation:**
 
 - RP is positively related to PI, SC, and PQ, consistent with model logic.
 - PP has moderate positive correlation with SC, PQ, and RP.
