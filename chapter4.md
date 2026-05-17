@@ -137,6 +137,8 @@ Most respondents are occasional-to-regular online buyers. The **“sometimes”*
 
 ### 4.3.6 Preferred Platforms (Multiple Response)
 
+In this chapter, low-frequency custom platform responses (e.g., direct Instagram pages, generic marketplace mentions, and one-off website names) are grouped as **Other/Custom platforms** for concise reporting.
+
 **Table 4.6 Preferred Online Platforms (Multiple Response)**
 
 | Platform | Mentions | % of Respondents |
@@ -147,11 +149,9 @@ Most respondents are occasional-to-regular online buyers. The **“sometimes”*
 | Hamrobazar | 28 | 15.22% |
 | SastoDeal | 11 | 5.98% |
 | Muncha | 3 | 1.63% |
-| Other long-tail entries (combined) | 5 | 2.72% |
+| Other/Custom platforms | 5 | 2.72% |
 
-Platform behavior reflects a **hybrid ecosystem**: dominant marketplace purchasing plus substantial social-commerce participation. The presence of long-tail entries also signals fragmented seller discovery channels.
-
-In this chapter, long-tail entries refer to low-frequency custom responses (e.g., direct Instagram pages, generic marketplace mentions, and other one-off website names) that do not form large standalone categories but indicate dispersed channel usage.
+Platform behavior reflects a **hybrid ecosystem**: dominant marketplace purchasing plus substantial social-commerce participation. The presence of other/custom entries also signals fragmented seller discovery channels.
 
 ### 4.3.7 Demographic Synthesis
 
