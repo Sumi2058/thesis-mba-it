@@ -56,6 +56,8 @@ Two practical observations emerged during preprocessing:
 1. **Platform variable includes long-tail free-text entries** (e.g., platform names outside predefined options), which indicates respondents occasionally entered alternative channels manually.
 2. **Single-observation categories** appear in demographic data (e.g., one respondent in “Other” gender), requiring cautious interpretation in subgroup comparisons.
 
+Handling decision: long-tail platform responses were retained and grouped under “Other long-tail entries” for descriptive reporting, while single-observation demographic categories were retained for transparency but not used for inferential claims.
+
 These points do not invalidate the core model but are relevant for interpretation boundaries.
 
 ---
@@ -148,6 +150,8 @@ Most respondents are occasional-to-regular online buyers. The **“sometimes”*
 | Other long-tail entries (combined) | 5 | 2.72% |
 
 Platform behavior reflects a **hybrid ecosystem**: dominant marketplace purchasing plus substantial social-commerce participation. The presence of long-tail entries also signals fragmented seller discovery channels.
+
+In this chapter, long-tail entries refer to low-frequency custom responses (e.g., direct Instagram pages, generic marketplace mentions, and other one-off website names) that do not form large standalone categories but indicate dispersed channel usage.
 
 ### 4.3.7 Demographic Synthesis
 
