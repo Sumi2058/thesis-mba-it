@@ -56,7 +56,7 @@ Two practical observations emerged during preprocessing:
 1. **Platform variable includes long-tail free-text entries** (e.g., platform names outside predefined options), which indicates respondents occasionally entered alternative channels manually.
 2. **Single-observation categories** appear in demographic data (e.g., one respondent in “Other” gender), requiring cautious interpretation in subgroup comparisons.
 
-Handling decision: long-tail platform responses were retained and grouped under “Other long-tail entries” for descriptive reporting, while single-observation demographic categories were retained for transparency but not used for inferential claims.
+Handling decision: low-frequency custom platform responses were retained and grouped under “Other/Custom platforms” for descriptive reporting, while single-observation demographic categories were retained for transparency but not used for inferential claims.
 
 These points do not invalidate the core model but are relevant for interpretation boundaries.
 
@@ -136,8 +136,6 @@ The respondent base combines student and working consumers, with employed respon
 Most respondents are occasional-to-regular online buyers. The **“sometimes”** segment dominates, suggesting a broad middle of moderate platform engagement rather than an extreme heavy-user sample.
 
 ### 4.3.6 Preferred Platforms (Multiple Response)
-
-In this chapter, low-frequency custom platform responses (e.g., direct Instagram pages, generic marketplace mentions, and one-off website names) are grouped as **Other/Custom platforms** for concise reporting.
 
 **Table 4.6 Preferred Online Platforms (Multiple Response)**
 
@@ -450,7 +448,7 @@ Variance inflation values are low (~1.15–1.59), indicating that the coefficien
 
 ### 4.10.3 Sign-Reversal Interpretation (PI in Full Model)
 
-PI’s negative direct coefficient alongside positive PI → RP and positive RP → PP reflects a **mediated-competitive structure**. One substantive interpretation is that once common risk variance is controlled, residual PI may capture coping adaptation behaviors (e.g., migration to safer payment modes, selective seller trust, COD preference), reducing adverse PP expression in that residual component.
+PI’s negative direct coefficient alongside positive PI → RP and positive RP → PP reflects a **mediated-competitive structure** and a **suppression-like effect** in statistical terms. One substantive interpretation is that once common risk variance is controlled, residual PI may capture coping adaptation behaviors (e.g., migration to safer payment modes, selective seller trust, COD preference), reducing adverse PP expression in that residual component.
 
 This is a nuanced but plausible path pattern in maturing e-commerce markets where users adapt defensively to payment uncertainty.
 
@@ -501,7 +499,7 @@ Young adult groups (20–30) show high RP and high PP simultaneously, consistent
 | Female | 85 | 3.661 | 3.965 | 3.184 |
 | Other | 1 | 1.000 | 1.000 | 1.800 |
 
-Male and female averages are close in RP and CS, with somewhat higher PP among males in this sample. The “Other” category is not inferentially interpretable due to n=1.
+Male and female averages are close in RP and CS, with somewhat higher PP among males in this sample. The “Other” category is not inferentially interpretable due to n=1, and its minimum-scale values are treated as potentially anomalous single-case data rather than a stable subgroup pattern.
 
 ### 4.11.4 Shopping Frequency Pattern in RP, PP, and CS
 
