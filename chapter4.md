@@ -100,7 +100,7 @@ Daraz is the dominant platform, followed by social media commerce channels. The 
 
 ## 4.3 Descriptive Statistics
 
-Construct scores were computed as item means after directional coding adjustments (PI1 and PI2 reversed; CS5 reversed).
+Construct scores were computed as item means after directional coding adjustments (PI1 and PI2 reversed; CS5 reversed). The analytical dataset includes 5 indicators per construct (30 total scale items).
 
 **Table 4.7 Descriptive Statistics of Core Constructs**
 
@@ -134,7 +134,7 @@ The highest mean appears for online scam concerns (SC = 4.228), indicating stron
 
 Interpretation:
 
-- Most constructs satisfy conventional reliability thresholds (alpha ≥ 0.70) except PI, which is marginal but retained due theoretical relevance and acceptable CR.
+- Most constructs satisfy conventional reliability thresholds (alpha ≥ 0.70) except PI, which is marginal but retained due to theoretical relevance and acceptable CR.
 - AVE is satisfactory for SC, RP, PP, and CS; PI and PQ are slightly below/near the 0.50 criterion, indicating moderate convergent validity.
 
 ### 4.4.2 Factor Loading Diagnostics
@@ -219,7 +219,7 @@ Since all confidence intervals exclude zero, all three indirect effects are sign
 
 ## 4.7 Regression / Path Analysis
 
-A regression-based path framework was used (instead of full covariance SEM) due sample size and model simplicity.
+A regression-based path framework was used (instead of full covariance SEM) due to sample size and model simplicity.
 
 ### 4.7.1 Structural Interpretation
 

@@ -122,6 +122,8 @@ The model includes:
 | Post-Purchase Behavior (PP) | Dependent | Complaint/return/avoidance response | PP1–PP5 | complain, return, negative sharing, seller avoidance, future impact | Tanjung et al. (2025); Izumi et al. (2025); Ghimire (2023) | 5-point Likert |
 | Customer Satisfaction (CS) | Dependent | Overall online shopping satisfaction | CS1–CS5 | overall satisfaction, expectation match, continuance intention, recommendation, risk-effect perception | Hipólito et al. (2025); Pavlou (2003); Vaidya (2019) | 5-point Likert |
 
+The cleaned dataset used for estimation contains **five measured indicators per construct** (PI1–PI5, SC1–SC5, PQ1–PQ5, RP1–RP5, PP1–PP5, CS1–CS5). Therefore, all reliability, validity, correlation, regression, and mediation results in Chapter IV are based on this 30-item analytical structure.
+
 ### 3.7.2 Item Direction and Coding Logic
 
 Some items were directionally opposite to the risk/problem orientation and were reverse-coded during analysis to maintain conceptual consistency:
